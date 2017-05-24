@@ -8,6 +8,4 @@ https://github.com/TheObsidian/malekaiDiscord
 as well as the powering https://crowfall.wiki
 
 Many thanks goes out to community contributors to this project, at the time of this update:
-Scree
-Michael Fedora
-[LOD] Will
+Scree, Michael Fedora, [LOD] Will, Remm, That_Eriksson, Typ3cast

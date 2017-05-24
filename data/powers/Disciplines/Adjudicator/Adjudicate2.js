@@ -3,16 +3,16 @@ exports.power = {
   source: "Adjudicator",
   type: "Melee Attack",
   cast_type: "Instant",
-  duration: false,
+  duration: 0,
   cooldown: 9,
   targeting: "Cone",
   max_targets: 1,
   range: 5,
-  next_chain: false,
+  next_chain: "",
   cost: {
-    pips: false,
+    pips: 0,
     resource: 10
   },
   tooltip: "Judge an enemy inflicting 76-103 + 90% Holy Weapon Damage and cannot be imitgated normally.",
-  icon: false
+  icon: ""
 };

@@ -1,11 +1,11 @@
 /*
 exports.discipline = {
   name: "",
-  description: false,
-  icon: false,
-  can_equip:,
-  stats_granted: ,
-  equips_granted: ,
+  description: "",
+  icon: "",
+  can_equip: [""],
+  stats_granted: [""],
+  equips_granted: "",
   slots_granted: ,
   slots_removed: ,
   trays_granted: ,

@@ -11,5 +11,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Caltrops","Lay Low","Stink Bomb","Preparation"]
+  powers_granted: ["Banshee Wail","Haunt","Ghost Army","Angel of Death"]
 }

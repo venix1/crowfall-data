@@ -8,11 +8,11 @@ exports.power = {
   targeting: "Area",
   max_targets: 5,
   range: 35,
-  next_chain: false,
+  next_chain: [""],
   cost: {
-    pips: false,
+    pips: 0,
     resource: 13
   },
   tooltip: "Harass enemies for 15 seconds covering the targeted area with dangerous caltrops, reducing Piercing Armor and Slowing them while maintaining Stealth.",
-  icon: false
+  icon: ""
 };
