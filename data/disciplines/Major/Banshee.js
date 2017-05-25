@@ -1,6 +1,7 @@
 
 exports.discipline = {
   name: "Banshee",
+  type: "Major",
   description: "An ambassador of death, The Banshee is most known for a distinguished wail that can cause fear and sometimes paralysis in some. A haunting presence along with the ability to conjure a ghost army are all aspects that accompany an angel of death.",
   icon: "",
   can_equip: ["Assassin","Champion","Cleric","Confessor","Druid","Duelist","Frostweaver","Knight","Myrmidon","Ranger","Templar"],

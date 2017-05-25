@@ -1,6 +1,7 @@
 
 exports.discipline = {
   name: "Adjudicator",
+  type: "Major",
   description: "An Adjudicator is often synonymous with a mediator or judge and most associated with the Church of Arkon. The importance of banishing sin with fire the truest form of retribution against the guilty and can only be performed by the most devote of disciples.",
   icon: "",
   can_equip: ["Assassin","Champion","Cleric","Confessor","Druid","Frostweaver","Knight","Myrmidon","Ranger","Templar"],
@@ -11,5 +12,5 @@ exports.discipline = {
   slots_removed: [],
   trays_granted: "",
   trays_removed: "",
-  powers_granted: ["Adjudicate", "Prosecute"]
+  powers_granted: ["Adjudicate","Prosecute"]
 }

@@ -1,6 +1,7 @@
 
 exports.discipline = {
   name: "Agent Provocateur",
+  type: "Major",
   description: "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
   icon: "",
   can_equip: ["Assassin","Duelist","Ranger"],
