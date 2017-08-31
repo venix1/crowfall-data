@@ -8,7 +8,7 @@
         }
     ],
     "duration": 0,
-    "max_targets": 1,
+    "max_targets": 3,
     "name": "Pepperbox Shot",
     "next_chain": [],
     "previous_chain": [],
