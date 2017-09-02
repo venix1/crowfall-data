@@ -14,7 +14,9 @@
     "id": "champion",
     "data_type": "class"
   }],
-  "tags": ["Champion"],
+  "tags": [
+    "Champion"
+  ],
   "targeting": "cone",
   "type": "melee attack",
   "description": "Strike in front of you for 68 - 92 + 80% Weapon Damage, generating 4 Rage if you hit."

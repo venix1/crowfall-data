@@ -14,7 +14,9 @@
     "id": "champion",
     "data_type": "class"
   }],
-  "tags": ["Champion"],
+  "tags": [
+    "Champion"
+  ],
   "targeting": "self",
   "type": "non-aggressive",
   "description": "Cancels the current combo power being executed."

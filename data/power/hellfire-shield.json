@@ -18,7 +18,9 @@
     "id": "confessor",
     "data_type": "class"
   }],
-  "tags": ["Confessor"],
+  "tags": [
+    "Confessor"
+  ],
   "targeting": "self",
   "type": "buff",
   "description": "Surrounds your skin an a Hellfire Shield to 15 seconds damaging all who cause damage to your for 15 - 18 damage."

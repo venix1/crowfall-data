@@ -12,7 +12,9 @@
     "id": "confessor",
     "data_type": "class"
   }],
-  "tags": ["Confessor"],
+  "tags": [
+    "Confessor"
+  ],
   "targeting": "self",
   "type": "passive",
   "description": "Adds a chance to restore Mana when you deal damage to others. Also buffs Damage Bonus by 5% for 15 seconds whenever you hit reach maximum Zealotry."

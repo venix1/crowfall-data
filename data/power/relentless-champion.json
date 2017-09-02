@@ -12,7 +12,9 @@
     "id": "champion",
     "data_type": "class"
   }],
-  "tags": ["Champion"],
+  "tags": [
+    "Champion"
+  ],
   "targeting": "self",
   "type": "passive",
   "description": "You no longer degenerate Rage. Instead, you generate 1.5 Rage every 1 second while in Combat."

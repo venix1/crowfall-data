@@ -12,7 +12,9 @@
     "id": "confessor",
     "data_type": "class"
   }],
-  "tags": ["Confessor"],
+  "tags": [
+    "Confessor"
+  ],
   "targeting": "self",
   "type": "non-aggressive",
   "description": "Restores 350 Mana over five seconds as you channel. While channeling your physical mitigations are reduced by 15%."
