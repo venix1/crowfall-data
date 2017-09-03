@@ -20,9 +20,11 @@
         }
     ],
     "tags": [
-        "Snare"
+        "Snare",
+        "Guinecean",
+        "Pistol"
     ],
     "targeting": "",
     "type": "",
-    "description": "Pistol Shots Can Snare Targets."
+    "description": "Pistol shots can snare targets."
 }
