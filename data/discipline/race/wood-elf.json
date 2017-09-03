@@ -6,7 +6,9 @@
     ],
     "description": "Mysterious and savage, they differ from their more civilized brethren: they have given up the elegant life of Elven society and prefer the isolate solitude of nature.",
     "name": "Wood-Elf",
-    "tags": ["elf"],
+    "tags": [
+        "Elf"
+    ],
     "powers": [],
     "slots_granted": [],
     "slots_removed": [],
