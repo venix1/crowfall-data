@@ -1,0 +1,20 @@
+{
+  "name": "Floor Tiles",
+  "tradeskill": "Stonemasonry",
+  "category": "Geomancy Architecture",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 10,
+  "components": [
+    {
+      "name": "Premium Stone/Wood",
+      "amount": 10,
+      "required": true
+    },
+    {
+      "name": "Premium Stone/Wood",
+      "amount": 10,
+      "required": true
+    }
+  ]
+}

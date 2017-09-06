@@ -1,0 +1,25 @@
+{
+  "name": "Staff Limb",
+  "tradeskill": "Woodworking",
+  "category": "",
+  "success_chance": 0.67,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Plank",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

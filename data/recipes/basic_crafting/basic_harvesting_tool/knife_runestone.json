@@ -1,0 +1,22 @@
+{
+  "name": "Knife Runestone",
+  "variation_of": "Basic Harvesting Tool",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 1
+    },
+    {
+      "name": "Wood",
+      "amount": 1
+    },
+    {
+      "name": "Ore",
+      "amount": 1
+    }
+  ]
+}

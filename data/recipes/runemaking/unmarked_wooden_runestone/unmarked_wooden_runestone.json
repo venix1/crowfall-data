@@ -1,0 +1,25 @@
+{
+  "name": "Unmarked Wooden Runestone",
+  "tradeskill": "Runemaking",
+  "category": "Runemaking Component",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Wood",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Wood",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

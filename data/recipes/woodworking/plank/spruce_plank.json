@@ -1,0 +1,14 @@
+{
+  "name": "Spruce plank",
+  "variation_of": "Plank",
+  "attribute": "Attack power",
+  "impact": 0.4,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Spruce wood",
+      "amount": 3
+    }
+  ]
+}

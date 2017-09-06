@@ -1,0 +1,15 @@
+{
+  "name": "Survivalist Cooking",
+  "tradeskill": "Basic Crafting",
+  "category": "Survivalist",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 2,
+  "components": [
+    {
+      "name": "Scavenged Ingredient",
+      "amount": 2,
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ground Sulfur",
+  "variation_of": "Grind Resource",
+  "attribute": null,
+  "impact": null,
+  "success_chance": null,
+  "difficulty": null,
+  "components": [
+    {
+      "name": "Sulfur",
+      "amount": 2
+    }
+  ]
+}

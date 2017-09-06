@@ -1,0 +1,35 @@
+{
+  "name": "Book Bound Chapters",
+  "tradeskill": "Woodworking",
+  "category": "",
+  "success_chance": 0.68,
+  "difficulty": 35.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Chapter",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Lacing Sinew",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}
