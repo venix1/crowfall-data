@@ -1,0 +1,30 @@
+{
+  "name": "Restored Head",
+  "tradeskill": "Necromancy",
+  "category": "Body Parts",
+  "success_chance": 0.93,
+  "difficulty": 10.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Dessicated Head",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Ambrosia Solution",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Enchanced Eye",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Enchanced Eye",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

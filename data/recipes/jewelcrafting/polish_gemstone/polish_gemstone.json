@@ -1,0 +1,25 @@
+{
+  "name": "Polish Gemstone",
+  "tradeskill": "Jewelcrafting",
+  "category": "Accessory",
+  "success_chance": 0.28,
+  "difficulty": 75.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Grind Gem",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Polishing Paste",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Water Flask",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Brisket",
+  "tradeskill": "Cooking",
+  "category": "Meat",
+  "success_chance": 0.9,
+  "difficulty": 25.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Animal meat",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

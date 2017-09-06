@@ -1,0 +1,20 @@
+{
+  "name": "Runestone: Harvesting Tool",
+  "tradeskill": "Runemaking",
+  "category": "Harvesting Tool",
+  "success_chance": 0.95,
+  "difficulty": 8.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Sigil",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Unmarked Runestone",
+      "amount": 1,
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Basic Two Handed Sword",
+  "tradeskill": "Basic Crafting",
+  "category": "Basic Weapon",
+  "success_chance": 0.95,
+  "difficulty": 5.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Wood",
+      "amount": 6,
+      "required": true
+    },
+    {
+      "name": "Stone",
+      "amount": 6,
+      "required": true
+    }
+  ]
+}

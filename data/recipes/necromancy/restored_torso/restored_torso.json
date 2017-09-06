@@ -1,0 +1,30 @@
+{
+  "name": "Restored Torso",
+  "tradeskill": "Necromancy",
+  "category": "Body Parts",
+  "success_chance": 0.93,
+  "difficulty": 10.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Dessicated Torso",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Ambrosia Solution",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Enchanced Heart",
+      "amount": 1,
+      "required": false
+    },
+    {
+      "name": "Enchanced Lungs",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

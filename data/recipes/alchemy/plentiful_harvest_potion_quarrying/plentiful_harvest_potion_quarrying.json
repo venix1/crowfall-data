@@ -1,0 +1,25 @@
+{
+  "name": "Plentiful Harvest Potion: Quarrying",
+  "tradeskill": "Alchemy",
+  "category": "Alchemy Potions",
+  "success_chance": 0.78,
+  "difficulty": 25.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Empty Flask",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Premium Stone",
+      "amount": 2,
+      "required": true
+    },
+    {
+      "name": "Water Flask",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}

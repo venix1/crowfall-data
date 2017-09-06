@@ -1,0 +1,30 @@
+{
+  "name": "Staff",
+  "tradeskill": "Woodworking",
+  "category": "",
+  "success_chance": 0.53,
+  "difficulty": 50.0,
+  "number_created": 1,
+  "components": [
+    {
+      "name": "Staff Limb",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Staff Head",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Staff Heel",
+      "amount": 1,
+      "required": true
+    },
+    {
+      "name": "Hunger Shard",
+      "amount": 1,
+      "required": false
+    }
+  ]
+}
