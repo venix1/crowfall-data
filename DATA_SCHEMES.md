@@ -167,7 +167,7 @@ class Power {
     /**
      * The type of the power.
      * Examples are:
-     * buff, crowd control, crowd control self, melee attack, 
+     * buff, crowd control, crowd control self, melee attack,
      * non-aggressive, passive, ranged attack, retaliate,
      * transformation, and ultimate.
      */
@@ -176,7 +176,7 @@ class Power {
     /**
      * The casting type of the power.
      * Examples are:
-     * instant, passive, hold channeled, ground aimed, 
+     * instant, passive, hold channeled, ground aimed,
      * channeled, charged, and toggle.
      */
     cast_type: string;
@@ -219,5 +219,59 @@ class Power {
      * in the chain.
      */
     previous_chain: string[];
+}
+```
+## Recipes
+
+```typescript
+/**
+ * A Crowfall Recipe
+ */
+class Recipe {
+{
+  /**
+  * The Name of the Recipe
+  */
+  name: string;
+
+  /**
+  * If this is an variable recipe, this will be set to the parent recipe
+  * that yielded it.
+  */
+  variation_of: string;
+
+  /**
+  * The attributes name granted to the crafted item.
+  */
+  attribute: string;
+
+  /**
+  * The attributes value granted to the crafted item.
+  */
+  impact: number;
+
+  /**
+  * Chance of success, parent attribute should have this set
+  * if this is a variation item.
+  */
+  success_chance: number;
+
+  /**
+  * A rating compared against the skill of the tradesmen to determine
+  * success chance. Higher is more difficult.
+  */
+  difficulty: number;
+
+  /**
+  * an array of objects containing the necessary components or raw materials
+  * to fashion this recipe. Each object contains a name (string) and an
+  * amount (number) of required materials/components.
+  */
+  components: [
+    {
+      name: string;
+      amount: number;
+    }
+  ]
 }
 ```

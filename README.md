@@ -5,10 +5,10 @@ This data will be used to power the unofficial Crowfall API project Malekai.
 
 https://github.com/TheObsidian/malekaiAPI
 https://github.com/TheObsidian/malekaiDiscord
-as well as the powering https://crowfall.wiki
+as well as the powering https://malekai.org
 
 Many thanks goes out to community contributors to this project, at the time of this update:
-Scree, Michael Fedora, [LOD] Will, Remm, That_Eriksson, Typ3cast
+Scree, Michael Fedora, [LOD] Will, Izalea, Remm, That_Eriksson, Typ3cast, Orleans, and CytheS.
 
 ## Folder Structure
 - `data`: Root folder
@@ -16,6 +16,7 @@ Scree, Michael Fedora, [LOD] Will, Remm, That_Eriksson, Typ3cast
   - `discipline`: All of the disciplines *and* races, which all adhere to the discipline data model
     - `{subtype}`: Extra organization, for `major`, `minor`, `weapon`, and `race` types
   - `power`: All of the powers
+  - `recipes`: All of the tradeskill recipes.
 
 ## Data Schemes
 
@@ -36,7 +37,7 @@ Output possible matches for tagging lexicon.
 **USAGE**: `node scripts/tagging.js`
 
 ### validate.js
-Checks the json data for valid data types.  Validates correct cast, targetting, and type values are used, prevents from mispellings. Checks that all items in `powers` node actually exist.
+Checks the JSON data for valid data types.  Validates correct cast, targetting, and type values are used, prevents from mispellings. Checks that all items in `powers` node actually exist.
 
 **USAGE**: `node scripts/validate.js`
 
