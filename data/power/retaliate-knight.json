@@ -1,23 +1,23 @@
 {
-    "cast_type": "instant",
-    "cooldown": 30,
-    "cost": [],
-    "duration": 0,
-    "max_targets": 1,
-    "name": "Retaliate (Knight)",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 5,
-    "sources": [
-        {
-            "id": "knight",
-            "data_type": "class"
-        }
-    ],
-    "tags": [
-        "Knockdown"
-    ],
-    "targeting": "sphere",
-    "type": "retaliate",
-    "description": "Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down."
+  "cast_type": "instant",
+  "cooldown": 30,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Retaliate (Knight)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "knight",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Knight",
+    "Knockdown"
+  ],
+  "targeting": "sphere",
+  "type": "retaliate",
+  "description": "Jump to your feet, damaging all nearby enemies twice for 57 - 77 + 67% Weapon Damage. This attack may only be used while Knocked Down."
 }

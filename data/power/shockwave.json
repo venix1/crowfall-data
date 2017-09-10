@@ -1,32 +1,30 @@
 {
-    "cast_type": "instant",
-    "cooldown": 30,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 22
-        }
-    ],
-    "duration": 0,
-    "max_targets": 3,
-    "name": "Shockwave",
-    "next_chain": [],
-    "previous_chain": [
-        "brutal-strike",
-        "twin-assault"
-    ],
-    "range": 5,
-    "sources": [
-        {
-            "id": "knight",
-            "data_type": "class"
-        }
-    ],
-    "tags": [
-        "Crushing",
-        "Knockdown"
-    ],
-    "targeting": "cone",
-    "type": "crowd control",
-    "description": "Attack and Knockdown enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
+  "cast_type": "instant",
+  "cooldown": 30,
+  "cost": [{
+    "name": "resource",
+    "cost": 22
+  }],
+  "duration": 0,
+  "max_targets": 3,
+  "name": "Shockwave",
+  "next_chain": [],
+  "previous_chain": [
+    "brutal-strike",
+    "twin-assault"
+  ],
+  "range": 5,
+  "sources": [{
+    "id": "knight",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Crushing",
+    "Knight",
+    "Knockdown"
+  ],
+  "targeting": "cone",
+  "type": "crowd control",
+  "description": "Attack and Knockdown enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
 }
