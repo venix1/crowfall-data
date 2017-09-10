@@ -1,25 +1,24 @@
 {
-    "cast_type": "instant",
-    "cooldown": 0,
-    "cost": [],
-    "duration": 0,
-    "max_targets": 1,
-    "name": "Great Swing 3",
-    "next_chain": [],
-    "previous_chain": [
-        "great-swing-2"
-    ],
-    "range": 5,
-    "sources": [
-        {
-            "id": "templar",
-            "data_type": "class"
-        }
-    ],
-    "tags": [
-        "Righteousness"
-    ],
-    "targeting": "cone",
-    "type": "melee attack",
-    "description": "Attack for 74 - 111 + 93% Weapon Damage and generates a point of Righteousness."
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Great Swing 3",
+  "next_chain": [],
+  "previous_chain": [
+    "great-swing-2"
+  ],
+  "range": 5,
+  "sources": [{
+    "id": "templar",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Righteousness",
+    "Templar"
+  ],
+  "targeting": "cone",
+  "type": "melee attack",
+  "description": "Attack for 74 - 111 + 93% Weapon Damage and generates a point of Righteousness."
 }
