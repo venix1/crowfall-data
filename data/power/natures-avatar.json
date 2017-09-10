@@ -1,26 +1,24 @@
 {
-    "cast_type": "charged",
-    "cooldown": 0,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 35
-        }
-    ],
-    "duration": 0,
-    "max_targets": 1,
-    "name": "Nature's Avatar",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 0,
-    "sources": [
-        {
-            "id": "druid",
-            "data_type": "class"
-        }
-    ],
-    "tags": [],
-    "targeting": "reticle",
-    "type": "buff",
-    "description": "Empowers an ally with a 75% Damage Bonus buff while you channel."
+  "cast_type": "charged",
+  "cooldown": 0,
+  "cost": [{
+    "name": "resource",
+    "cost": 35
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Nature's Avatar",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "druid",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Druid"
+  ],
+  "targeting": "reticle",
+  "type": "buff",
+  "description": "Empowers a targeted ally adding 30% Critical Hit Chance, 50% Critical Hit Damage, 25% Damage Bonus and 435 Attack Power"
 }

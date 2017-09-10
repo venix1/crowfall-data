@@ -24,9 +24,9 @@
     ],
     "tags": [
         "Crushing",
-        "Knock Down"
+        "Knockdown"
     ],
     "targeting": "cone",
     "type": "crowd control",
-    "description": "Attack and knock down enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
+    "description": "Attack and Knockdown enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
 }

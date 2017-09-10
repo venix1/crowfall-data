@@ -61,8 +61,8 @@ const tagRegex = {
 
   invulnerable: /invulnerable/,
 
-  // knock knockdown, knock down, knocked down
-  'knock down': /\b(knock(ed)?(\s)?(down)?)/,
+  // knock knockdown, Knockdown, knocked down
+  'Knockdown': /\b(knock(ed)?(\s)?(down)?)/,
 
   // lifesteal
   lifesteal: 'life(\s)?steal',

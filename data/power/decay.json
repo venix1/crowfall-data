@@ -22,7 +22,7 @@
     "tags": [
         "Exposed",
         "Heal",
-        "Knock Down"
+        "Knockdown"
     ],
     "targeting": "ray",
     "type": "debuff",

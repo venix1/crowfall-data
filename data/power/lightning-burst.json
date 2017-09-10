@@ -1,28 +1,27 @@
 {
-    "cast_type": "instant",
-    "cooldown": 9,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 68
-        }
-    ],
-    "duration": 0,
-    "max_targets": 5,
-    "name": "Lightning Burst",
-    "next_chain": [
-        "lightning-strike"
-    ],
-    "previous_chain": [],
-    "range": 35,
-    "sources": [
-        {
-            "id": "druid",
-            "data_type": "class"
-        }
-    ],
-    "tags": [],
-    "targeting": "ray",
-    "type": "ranged attack",
-    "description": "Blast enemies with lightning for 110 - 165 + 138% Weapon Damage."
+  "cast_type": "instant",
+  "cooldown": 9,
+  "cost": [{
+    "name": "resource",
+    "cost": 68
+  }],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Lightning Burst",
+  "next_chain": [
+    "lightning-strike"
+  ],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [{
+    "id": "druid",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Druid"
+  ],
+  "targeting": "ray",
+  "type": "ranged attack",
+  "description": "Blast enemies with lightning for 110 - 165 + 138% Weapon Damage."
 }

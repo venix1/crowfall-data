@@ -20,10 +20,10 @@
         }
     ],
     "tags": [
-        "Knock Down",
+        "Knockdown",
         "Retaliate"
     ],
     "targeting": "self",
     "type": "passive",
-    "description": "Furiously knock down nearby enemies when you use a Retaliate ability if your Health is under 50%"
+    "description": "Furiously Knockdown nearby enemies when you use a Retaliate ability if your Health is under 50%"
 }

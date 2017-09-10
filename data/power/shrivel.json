@@ -23,7 +23,7 @@
         "Black Mantle",
         "Exposed",
         "Heal",
-        "Knock Down"
+        "Knockdown"
     ],
     "targeting": "ray",
     "type": "debuff",

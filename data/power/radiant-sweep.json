@@ -22,9 +22,9 @@
         }
     ],
     "tags": [
-        "Knock Down"
+        "Knockdown"
     ],
     "targeting": "cone",
     "type": "crowd control",
-    "description": "Knock down multiple enemies dealing 72 - 108 + 90% Weapon Damage."
+    "description": "Knockdown multiple enemies dealing 72 - 108 + 90% Weapon Damage."
 }

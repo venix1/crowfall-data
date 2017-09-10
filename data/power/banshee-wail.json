@@ -1,21 +1,25 @@
 {
-    "cast_type": "passive",
-    "cooldown": 0,
-    "cost": [],
-    "duration": 0,
-    "max_targets": 1,
-    "name": "Banshee Wail",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 0,
-    "sources": [
-        {
-            "id": "banshee",
-            "data_type": "discipline"
-        }
-    ],
-    "tags": [],
-    "targeting": "self",
-    "type": "passive",
-    "description": "Deal 30% more Damage to enemies below 30% Health."
+  "cast_type": "instant",
+  "cooldown": 24,
+  "cost": [{
+    "name": "resource",
+    "cost": 14
+  }],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Banshee Wail",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "banshee",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "AoE",
+    "Movement Speed"
+  ],
+  "targeting": "cone",
+  "type": "debuff",
+  "description": "Wail in front of you reducing the Movement Speed of up to 5 enemies."
 }

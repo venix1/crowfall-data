@@ -18,9 +18,9 @@
         "AoE",
         "Champion",
         "Crushing",
-        "Knock Down"
+        "Knockdown"
     ],
     "targeting": "sphere",
     "type": "ultimate",
-    "description": "Leap straight up. When you land, Knock Down all enemies in the area dealing 288 - 389 + 339% Weapon Damage as Crushing Damage."
+    "description": "Leap straight up. When you land, Knockdown all enemies in the area dealing 288 - 389 + 339% Weapon Damage as Crushing Damage."
 }
