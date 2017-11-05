@@ -2,7 +2,7 @@
   "description": "",
   "name": "Cleric",
   "powers": [
-    "block-cleric"
+    "block-cleric",
     "hushed-prayer",
     "vengeful-aura",
     "divine-order",
