@@ -2,20 +2,23 @@
   "cast_type": "passive",
   "cooldown": 0,
   "cost": [],
-  "duration": 3,
+  "duration": 0,
   "max_targets": 1,
-  "name": "Shadows Linger",
+  "name": "Elken Bloodline",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "black-mask",
+    "id": "elken",
     "data_type": "discipline"
   }],
   "tags": [
-    "Stealth"
+    "Elken",
+    "Trailmaster",
+    "Movement Speed",
+    "Bloodline"
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "After being removed from Stealth, your Critical Hit Chance is increased by 50% for 3 seconds. Must be equipped in Stealth Tray."
+  "description": "Gain Trailmaster and increase Out of Combat Movement Speed by 25%."
 }

@@ -1,50 +1,37 @@
 {
-    "classes": [
-        "knight",
-        "templar",
-        "ranger",
-        "cleric"
-    ],
-    "description": "The youngest children of Arkon, Prince of Light, and Gaea the Earth Mother.",
-    "name": "Human",
-    "tags": [
-        "Human"
-    ],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [
-        {
-            "name": "strength",
-            "value": 10
-        },
-        {
-            "name": "dexterity",
-            "value": 10
-        },
-        {
-            "name": "intellect",
-            "value": 10
-        },
-        {
-            "name": "spirit",
-            "value": 10
-        },
-        {
-            "name": "constitution",
-            "value": 10
-        },
-        {
-            "name": "power bar bonus slots",
-            "value": 1
-        },
-        {
-            "name": "passive bonus slots",
-            "value": 1
-        }
-    ],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "knight",
+    "templar",
+    "ranger",
+    "cleric"
+  ],
+  "description": "The youngest children of Arkon, Prince of Light, and Gaea the Earth Mother.",
+  "name": "Human",
+  "tags": [
+    "Human"
+  ],
+  "powers": [
+    "human-bloodline",
+    "sidestep",
+    "candle-that-burns"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+      "name": "strength",
+      "value": 30
+    },
+    {
+      "name": "power bar bonus slots",
+      "value": 1
+    },
+    {
+      "name": "passive bonus slots",
+      "value": 1
+    }
+  ],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

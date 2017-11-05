@@ -1,0 +1,25 @@
+{
+  "cast_type": "instant",
+  "cooldown": 9,
+  "cost": [{
+    "name": "mana",
+    "cost": 85
+  }],
+  "duration": 8,
+  "max_targets": 1,
+  "name": "Tend Wounds",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 20,
+  "sources": [{
+    "id": "cleric",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Cleric",
+    "Heal"
+  ],
+  "targeting": "reticle",
+  "type": "buff",
+  "description": "Aid the ally under your target reticle, healing them and yourself for 16-19 + 71% Weapon Damage per second over eight seconds."
+}

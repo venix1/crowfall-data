@@ -1,18 +1,27 @@
 {
-    "classes": [
-        "knight",
-        "champion",
-        "cleric"
-    ],
-    "description": "",
-    "name": "Centaur",
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "tags": [],
-    "type": "race",
-    "stats": [],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "knight",
+    "champion",
+    "cleric"
+  ],
+  "description": "Valkyn took the best of talents - language, wit, elegance, strength, agility - and he vested them in a single creature. He called this noble creature the Centaur and placed it above the lesser beasts, to use or rule as he might see fit.",
+  "name": "Centaur",
+  "powers": [
+    "centaur-bloodline",
+    "dash",
+    "wild-charge",
+    "strength-of-the-legion",
+    "hippocratic-oath"
+  ],
+  "slots_granted": ["horseshoes slot"],
+  "slots_removed": [],
+  "tags": [],
+  "type": "race",
+  "stats": [{
+    "name": "constitution",
+    "value": 30
+  }],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

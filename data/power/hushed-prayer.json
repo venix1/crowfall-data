@@ -1,0 +1,21 @@
+{
+  "cast_type": "passive",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Hushed Prayer",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "cleric",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Cleric"
+  ],
+  "targeting": "self",
+  "type": "passive",
+  "description": "Have faith in your divine mission decreasing your chance to be critically hit by 5%."
+}

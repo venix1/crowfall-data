@@ -1,0 +1,18 @@
+{
+  "classes": [
+    "champion"
+  ],
+  "description": "You don't adjust. You just dominate.",
+  "name": "Dominator",
+  "powers": [
+    "dominator"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "minor",
+  "tags": [],
+  "stats": [],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

@@ -1,0 +1,25 @@
+{
+  "cast_type": "hold channeled",
+  "cooldown": 0,
+  "cost": [{
+    "name": "stamina",
+    "cost": 0
+  }],
+  "duration": 5,
+  "max_targets": 1,
+  "name": "Block (Cleric)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "cleric",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Block",
+    "Cleric"
+  ],
+  "targeting": "self",
+  "type": "block",
+  "description": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects. Enemies striking you with Elemental attacks take 100% Weapon Damage in return. Increases damage by 15% for 5 seconds for each 150 damage taken while Blocking. Taking more than 150 damage while Blocking activates Shield Bash and increases damage by 15% for 5 seconds for each 150 damage taken while Blocking."
+}

@@ -1,0 +1,26 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [{
+    "name": "soul power",
+    "cost": 1000
+  }],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Divine Order",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 20,
+  "sources": [{
+    "id": "cleric",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Cleric",
+    "Ultimate"
+  ],
+  "targeting": "group",
+  "type": "ultimate",
+  "description": "Issue a holy decree instantly restoring some mana and increasing your Attack Power by an amount equal to your Support Power, causing your Spirit Hammers to chain up to two times for 79-97 + 88% Weapon Damage and occasionally Stunning enemies. Ultimate powers instantly remove and temporarily prevent control and expose effects and grant temporary damage invulnerability."
+}

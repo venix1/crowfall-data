@@ -1,21 +1,22 @@
 {
-  "cast_type": "instant",
+  "cast_type": "passive",
   "cooldown": 0,
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Dodge Roll",
+  "name": "Minotaur Bloodline",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "half-giant",
+    "id": "minotaur",
     "data_type": "discipline"
   }],
   "tags": [
-    "Half-Giant", "Dodge"
+    "Minotaur",
+    "Bloodline"
   ],
   "targeting": "self",
-  "type": "dodge",
-  "description": "Roll quickly in the current WASD direction."
+  "type": "passive",
+  "description": "Gain immunity to all Stun effects that hit you from the front."
 }

@@ -1,0 +1,26 @@
+{
+  "cast_type": "instant",
+  "cooldown": 20,
+  "cost": [{
+    "name": "mana",
+    "cost": 80
+  }],
+  "duration": 10,
+  "max_targets": 4,
+  "name": "Flash of Light",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [{
+    "id": "cleric",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Cleric",
+    "Heal"
+  ],
+  "targeting": "area",
+  "type": "buff",
+  "description": "Summon a celestial force at the targeted position chain healing the closest ally and up to two others for 29-35 + 128% Weapon Damage every three seconds for 15 seconds or until it has healed 30 times."
+}

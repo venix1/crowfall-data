@@ -1,0 +1,26 @@
+{
+  "cast_type": "toggle",
+  "cooldown": 1,
+  "cost": [{
+    "name": "mana",
+    "cost": 180
+  }],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Holy Aura",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 50,
+  "sources": [{
+    "id": "cleric",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Cleric",
+    "Maximum Health"
+  ],
+  "targeting": "group",
+  "type": "aura",
+  "description": "Imbue group members and yourself with sanctified power increasing their maximum Health by 1250 while you maintain the effect."
+}

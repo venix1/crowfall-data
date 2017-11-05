@@ -2,23 +2,18 @@
   "description": "",
   "name": "Cleric",
   "powers": [
-    "battle-cry",
-    "bellow-of-triumph",
-    "discipling-strikes",
-    "dodge-cleric",
-    "drive",
-    "eternal-rage",
-    "no-quarter",
-    "rallying-cry",
-    "relentless-cleric",
+    "block-cleric"
+    "hushed-prayer",
+    "vengeful-aura",
+    "divine-order",
+    "miracle",
     "retaliate-cleric",
-    "scatter-horde",
-    "side-strike",
-    "strength-of-the-legion",
-    "strike",
-    "sunder-armor",
-    "uppercut",
-    "wild-charge"
+    "tend-wounds",
+    "holy-aura",
+    "flash-of-light",
+    "illuminate",
+    "holy-symbol",
+    "hand-of-gods"
   ],
   "races": [
     "human",
@@ -28,5 +23,5 @@
     "guinecean",
     "elken"
   ],
-  "tags": []
+  "tags": ["Support"]
 }

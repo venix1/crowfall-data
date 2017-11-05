@@ -1,21 +1,22 @@
 {
-    "cast_type": "",
-    "cooldown": 0,
-    "cost": [],
-    "duration": 0,
-    "max_targets": 0,
-    "name": "Call Darkness",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 0,
-    "sources": [
-        {
-            "id": "black-mask",
-            "data_type": "discipline"
-        }
-    ],
-    "tags": [],
-    "targeting": "",
-    "type": "ranged attack",
-    "description": "Coming Soon"
+  "cast_type": "Instant",
+  "cooldown": 23,
+  "cost": [{
+    "name": "energy",
+    "cost": 16
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Call Darkness",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "black-mask",
+    "data_type": "discipline"
+  }],
+  "tags": [],
+  "targeting": "self",
+  "type": "buff",
+  "description": "While active, all attacks count as if you are attacking from behind your targets."
 }

@@ -1,23 +1,24 @@
 {
-    "cast_type": "",
-    "cooldown": 0,
-    "cost": [],
-    "duration": 0,
-    "max_targets": 0,
-    "name": "Shadow Mantle",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 0,
-    "sources": [
-        {
-            "id": "black-mask",
-            "data_type": "discipline"
-        }
-    ],
-    "tags": [
-        "Heal"
-    ],
-    "targeting": "",
-    "type": "ranged attack",
-    "description": "Attack: Reduce Healing Received"
+  "cast_type": "instant",
+  "cooldown": 45,
+  "cost": [{
+    "name": "pips",
+    "cost": 16
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Shadow Mantle",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 1,
+  "sources": [{
+    "id": "black-mask",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "Heal"
+  ],
+  "targeting": "reticle",
+  "type": "melee attack",
+  "description": "Dark forces surround your target reducing their ability to heal by 25% and causing 79-107 + 93% Weapon Damage."
 }

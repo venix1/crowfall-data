@@ -6,14 +6,35 @@
     "ranger",
     "cleric"
   ],
-  "description": "",
+  "description": "Silent and brooding, the Elken speak mostly through gestures. They apparently keep no memory of the men they once were, but retain their intellect and, of course, their love of the hunt.",
   "name": "Elken",
-  "tags": [],
-  "powers": [],
+  "tags": ["Anti-Stealth"],
+  "powers": [
+    "elken-bloodline",
+    "bound",
+    "head-butt",
+    "gestalt"
+  ],
   "slots_granted": [],
   "slots_removed": [],
   "type": "race",
-  "stats": [],
+  "stats": [{
+      "name": "strength",
+      "value": 30
+    },
+    {
+      "name": "constitution",
+      "value": 30
+    },
+    {
+      "name": "perception",
+      "value": 25
+    },
+    {
+      "name": "ranged distance bonus",
+      "value": 10
+    }
+  ],
   "equips": [],
   "tray_granted": "",
   "tray_removed": ""

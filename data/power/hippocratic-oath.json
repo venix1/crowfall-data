@@ -4,7 +4,7 @@
   "cost": [],
   "duration": 0,
   "max_targets": 5,
-  "name": "Strength of the Legion",
+  "name": "Centaur Bloodline",
   "next_chain": [],
   "previous_chain": [],
   "range": 50,
@@ -14,10 +14,10 @@
   }],
   "tags": [
     "AoE",
-    "Attack Power",
-    "Centaur"
+    "Centaur",
+    "Support Power"
   ],
   "targeting": "group",
-  "type": "passive",
-  "description": "Increases the groups Attack Power by 100 while within 50m of you."
+  "type": "buff",
+  "description": "Increases the groups Support Power by 75 while within 50m of you."
 }

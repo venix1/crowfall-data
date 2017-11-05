@@ -1,18 +1,31 @@
 {
-    "classes": [
-        "champion",
-        "myrmidon",
-        "cleric"
-    ],
-    "description": "",
-    "name": "Half-Giant",
-    "tags": [],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "champion",
+    "myrmidon",
+    "cleric"
+  ],
+  "description": "Little is known of their true origin. If they hailed from a single world, the name is long forgotten.",
+  "name": "Half-Giant",
+  "tags": [],
+  "powers": [
+    "half-giant-bloodline",
+    "dodge-roll",
+    "backhand",
+    "blood-of-the-giant"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+      "name": "strength",
+      "value": 60
+    },
+    {
+      "name": "constitution",
+      "value": 60
+    }
+  ],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

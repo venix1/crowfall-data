@@ -1,0 +1,26 @@
+{
+  "cast_type": "instant",
+  "cooldown": 23,
+  "cost": [{
+    "name": "mana",
+    "cost": 185
+  }],
+  "duration": 5,
+  "max_targets": 5,
+  "name": "Flash of Light",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 50,
+  "sources": [{
+    "id": "cleric",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Cleric",
+    "Heal"
+  ],
+  "targeting": "group",
+  "type": "buff",
+  "description": "Empower group members and yourself restoring some of their native Resource and healing their Health twice for 63-77 + 280% Weapon Damage over five seconds."
+}

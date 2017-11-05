@@ -1,21 +1,21 @@
 {
-  "cast_type": "instant",
+  "cast_type": "passive",
   "cooldown": 0,
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Dodge Roll",
+  "name": "Dominator",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "half-giant",
+    "id": "dominator",
     "data_type": "discipline"
   }],
   "tags": [
-    "Half-Giant", "Dodge"
+    "Dominance"
   ],
   "targeting": "self",
-  "type": "dodge",
-  "description": "Roll quickly in the current WASD direction."
+  "type": "passive",
+  "description": "Earn a point of Dominance whenever you score a Critical Hit with a primary attack."
 }
