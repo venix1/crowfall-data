@@ -1,25 +1,27 @@
 {
-    "classes": [
-        "confessor",
-        "templar",
-        "assassin"
-    ],
-    "description": "It is said that Arkon, Lord of the Sun, chose one particular tribe of humans to rule all the others and, as proof of this, ensorcelled the blood of his chosen people with the fiery breath stolen from Lyessa the other Dragon.",
-    "name": "Nethari",
-    "tags": [
-        "Human"
-    ],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [
-        {
-            "name": "intellect",
-            "value": 30
-        }
-    ],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "confessor",
+    "templar",
+    "assassin"
+  ],
+  "description": "It is said that Arkon, Lord of the Sun, chose one particular tribe of humans to rule all the others and, as proof of this, ensorcelled the blood of his chosen people with the fiery breath stolen from Lyessa the other Dragon.",
+  "name": "Nethari",
+  "tags": [
+    "Human"
+  ],
+  "powers": [
+    "call-flames",
+    "nethari-bloodline",
+    "zealot-rush"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+    "name": "intellect",
+    "value": 30
+  }],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

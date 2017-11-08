@@ -1,0 +1,24 @@
+{
+  "cast_type": "toggle",
+  "cooldown": 5,
+  "cost": [{
+    "name": "stamina",
+    "cost": 0.5
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Camouflage",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "wood-elf",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "Hide"
+  ],
+  "targeting": "self",
+  "type": "buff",
+  "description": "When active you are automatically hidden from sight as long as you are standing still and not in combat. Can not be activated while in combat."
+}

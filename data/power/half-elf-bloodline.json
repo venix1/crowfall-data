@@ -1,10 +1,10 @@
 {
-  "cast_type": "instant",
+  "cast_type": "passive",
   "cooldown": 0,
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Spin Step",
+  "name": "Half-Elf Bloodline",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
@@ -12,11 +12,8 @@
     "id": "half-elf",
     "data_type": "discipline"
   }],
-  "tags": [
-    "Dodge",
-    "Half-Elf"
-  ],
+  "tags": ["Trailblazer"],
   "targeting": "self",
-  "type": "dodge",
-  "description": "Roll quickly in the current WASD direction."
+  "type": "passive",
+  "description": "Grant Trailblazer and increase Out of Combat Movement Speed by 15%."
 }

@@ -13,7 +13,8 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Centaur", "Dodge"
+    "Centaur",
+    "Dodge"
   ],
   "targeting": "rectangle",
   "type": "dodge",

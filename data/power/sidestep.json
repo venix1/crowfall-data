@@ -12,7 +12,10 @@
     "id": "human",
     "data_type": "discipline"
   }],
-  "tags": ["Dodge", "Human"],
+  "tags": [
+    "Dodge",
+    "Human"
+  ],
   "targeting": "self",
   "type": "dodge",
   "description": "Roll quickly in the current WASD direction."

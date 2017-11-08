@@ -13,7 +13,8 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Half-Giant", "Dodge"
+    "Half-Giant",
+    "Dodge"
   ],
   "targeting": "self",
   "type": "dodge",

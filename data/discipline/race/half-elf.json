@@ -1,18 +1,37 @@
 {
-    "classes": [
-        "ranger",
-        "assassin",
-        "druid"
-    ],
-    "description": "",
-    "name": "Half-Elf",
-    "tags": [],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "ranger",
+    "assassin",
+    "druid"
+  ],
+  "description": "A loose-knit collection of outcasts bound together by their mixed blood and their exclusion from pure-blood society.",
+  "name": "Half-Elf",
+  "tags": [],
+  "powers": [
+    "half-elf-bloodline",
+    "spin-step"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+      "name": "dexterity",
+      "value": 60
+    },
+    {
+      "name": "intellect",
+      "value": 30
+    },
+    {
+      "name": "spirit",
+      "value": 30
+    },
+    {
+      "name": "power bar bonus slots",
+      "value": 30
+    }
+  ],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

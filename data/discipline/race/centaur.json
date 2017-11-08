@@ -13,7 +13,7 @@
     "strength-of-the-legion",
     "hippocratic-oath"
   ],
-  "slots_granted": ["horseshoes slot"],
+  "slots_granted": ["horseshoes"],
   "slots_removed": [],
   "tags": [],
   "type": "race",

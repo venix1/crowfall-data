@@ -3,17 +3,17 @@
   "name": "Cleric",
   "powers": [
     "block-cleric",
-    "hushed-prayer",
-    "vengeful-aura",
     "divine-order",
+    "flash-of-light",
+    "hand-of-gods",
+    "holy-aura",
+    "holy-symbol",
+    "hushed-prayer",
+    "illuminate",
     "miracle",
     "retaliate-cleric",
     "tend-wounds",
-    "holy-aura",
-    "flash-of-light",
-    "illuminate",
-    "holy-symbol",
-    "hand-of-gods"
+    "vengeful-aura"
   ],
   "races": [
     "human",

@@ -9,13 +9,14 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "wood-elf",
+    "data_type": "discipline"
   }],
   "tags": [
-    "Druid"
+    "Dodge",
+    "Wood-Elf"
   ],
   "targeting": "self",
-  "type": "non-aggressive",
+  "type": "dodge",
   "description": "Ride the wind and Blink 18m away."
 }

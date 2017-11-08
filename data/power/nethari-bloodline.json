@@ -1,10 +1,10 @@
 {
-  "cast_type": "instant",
+  "cast_type": "passive",
   "cooldown": 0,
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Zealot Rush",
+  "name": "Nethari Bloodline",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
@@ -13,10 +13,9 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Dodge",
     "Nethari"
   ],
   "targeting": "self",
-  "type": "dodge",
-  "description": "Dash quickly in the current WASD direction."
+  "type": "passive",
+  "description": "Increase your Out of Combat Health Regen by 20 and reduce the chance you will be Critically Hit by 3%."
 }

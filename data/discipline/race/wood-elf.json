@@ -1,41 +1,27 @@
 {
-    "classes": [
-        "ranger",
-        "druid",
-        "frostweaver"
-    ],
-    "description": "Mysterious and savage, they differ from their more civilized brethren: they have given up the elegant life of Elven society and prefer the isolate solitude of nature.",
-    "name": "Wood-Elf",
-    "tags": [
-        "Elf"
-    ],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [
-        {
-            "name": "strength",
-            "value": 5
-        },
-        {
-            "name": "dexterity",
-            "value": 25
-        },
-        {
-            "name": "intellect",
-            "value": 10
-        },
-        {
-            "name": "spirit",
-            "value": 10
-        },
-        {
-            "name": "constitution",
-            "value": 5
-        }
-    ],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "ranger",
+    "druid",
+    "frostweaver"
+  ],
+  "description": "Mysterious and savage, they differ from their more civilized brethren; they have given up the elegant life of Elven society and prefer the isolate solitude of nature.",
+  "name": "Wood-Elf",
+  "tags": [
+    "Elf"
+  ],
+  "powers": [
+    "wood-elf-bloodline",
+    "dissipate",
+    "camouflage"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+    "name": "spirit",
+    "value": 30
+  }],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }
