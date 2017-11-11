@@ -1,0 +1,22 @@
+{
+  "cast_type": "instant",
+  "cooldown": 23,
+  "cost": [{
+    "name": "energy",
+    "cost": 23
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Hunker Down",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "master-of-bows",
+    "data_type": "discipline"
+  }],
+  "tags": [],
+  "targeting": "self",
+  "type": "buff",
+  "description": "Deploy a small point-blank field increasing your Damage Bonus and All Armor."
+}

@@ -1,0 +1,39 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "knight",
+    "myrmidon",
+    "ranger"
+  ],
+  "description": "A curious form of weaponry, the bow and arrow is one of the most ancient instruments of arms. Sleek and built with the utmost attention to detail, the bow is an extension of the archer's own being; paired with the arrow, which is crafted with speed and precision, is a quick and effective way to disable a target. Only the most patient and perceptive of combatants can proficiently wield such a unique instrument of death.",
+  "name": "Master of Bows",
+  "powers": [
+    "hunker-down",
+    "multi-shot"
+  ],
+  "slots_granted": ["Ranged", "Ammo"],
+  "slots_removed": [],
+  "type": "weapon",
+  "tags": [],
+  "stats": [{
+      "name": "Slashing Damage Bonus",
+      "value": 6.25
+    },
+    {
+      "name": "Crushing Damage Bonus",
+      "value": 6.25
+    },
+    {
+      "name": "Piercing Damage Bonus",
+      "value": 6.25
+    },
+    {
+      "name": "Ranged Distance Bonus",
+      "value": 5
+    }
+  ],
+  "equips": ["Basic Bows", "Reflex Bows", "Arrows"],
+  "tray_granted": "Ranged",
+  "tray_removed": ""
+}
