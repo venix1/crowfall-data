@@ -1,0 +1,22 @@
+{
+  "cast_type": "instant",
+  "cooldown": 30,
+  "cost": [{
+    "name": "energy",
+    "cost": 50
+  }],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Alertness",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 50,
+  "sources": [{
+    "id": "ranger",
+    "data_type": "class"
+  }],
+  "tags": ["Overpowered as Fuck"],
+  "targeting": "group",
+  "type": "buff",
+  "description": "Become acutely aware of your surroundings increasing your Perception by 25, Attack Power by 50, removing the Exposed state and detecting enemies in Stealth for group members and yourself."
+}

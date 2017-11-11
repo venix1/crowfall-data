@@ -2,6 +2,7 @@
   "description": "",
   "name": "Ranger",
   "powers": [
+    "alertness",
     "archers-stake",
     "barrage",
     "cross-slash",
