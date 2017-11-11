@@ -1,9 +1,9 @@
 {
   "cast_type": "instant",
-  "cooldown": 45,
+  "cooldown": 24,
   "cost": [{
-    "name": "resource",
-    "cost": 100
+    "name": "energy",
+    "cost": 125
   }],
   "duration": 0,
   "max_targets": 1,
@@ -12,7 +12,7 @@
   "previous_chain": [
     "sweep"
   ],
-  "range": 5,
+  "range": 25,
   "sources": [{
     "id": "ranger",
     "data_type": "class"
@@ -22,6 +22,6 @@
     "Root"
   ],
   "targeting": "cone",
-  "type": "non-aggressive",
-  "description": "Leap backwards rooting your target, dealing 244 - 331 + 287% Weapon Damage and placing you into your Ranged Tray"
+  "type": "movement",
+  "description": "Leap backwards rooting your target, dealing 149-201 + 175% Weapon Damage and placing you into your Ranged tray."
 }

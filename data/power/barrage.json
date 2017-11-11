@@ -10,6 +10,7 @@
   "name": "Barrage",
   "next_chain": [],
   "previous_chain": [],
+  "radius": 8,
   "range": 35,
   "sources": [{
     "id": "ranger",
@@ -21,5 +22,5 @@
   ],
   "targeting": "area",
   "type": "ranged attack",
-  "description": "Shoot 6 volley of arrows at a ground location, dealing 30 - 40 + 35% Weapon Damage per volley, up to 5 targets within 8m."
+  "description": "Shoot 6 volleys of arrows at a ground location, dealing 30 - 40 + 35% Weapon Damage per volley, up to 5 targets within 8m. This Power's Maximum Range cannot be modified"
 }

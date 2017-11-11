@@ -13,18 +13,14 @@
     "dagger-spin-4",
     "disengage",
     "explosive-trap",
-    "forest-step",
+    "flare-arrow",
     "gleeful-strike",
     "jab",
     "laceration",
-    "launch-explosive-trap",
-    "multi-purpose-shot",
-    "power-shot",
     "rapid-fire-ranger",
     "retaliate-ranger",
-    "ricochet-shot",
+    "ricochet-shot-ranger",
     "sinister-slash",
-    "straight-shot",
     "suppression-shot",
     "sustain",
     "sweep",
@@ -40,5 +36,5 @@
     "elken",
     "minotaur"
   ],
-  "tags": []
+  "tags": ["Anti-Stealth"]
 }

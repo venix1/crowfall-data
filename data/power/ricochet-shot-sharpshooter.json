@@ -1,0 +1,25 @@
+{
+  "cast_type": "instant",
+  "cooldown": 9,
+  "cost": [{
+    "name": "energy",
+    "cost": 16
+  }],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Ricochet Shot (Sharpshooter)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 15,
+  "sources": [{
+    "id": "sharpshooter",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "AoE",
+    "Ranger"
+  ],
+  "targeting": "reticle",
+  "type": "ranged attack",
+  "description": "Fire an arrow that can ricochet to strike up to four additional nearby enemies for 60-81 + 70% Weapon Damage and is a guaranteed Critical Hit after the second ricochet."
+}

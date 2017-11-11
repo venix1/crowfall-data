@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 0,
   "cost": [{
-    "name": "resource",
+    "name": "energy",
     "cost": 34
   }],
   "duration": 0,
@@ -22,6 +22,6 @@
     "Ranger"
   ],
   "targeting": "cone",
-  "type": "debuff",
-  "description": "Slash in front of you for 86 - 117 + 101% Weapon Damage. Applies a Moderate Bleed effect."
+  "type": "melee attack",
+  "description": "Slash in front of you for 86-117 + 101% Weapon Damage. Applies a Moderate Bleed effect."
 }

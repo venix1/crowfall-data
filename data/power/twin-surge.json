@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 5,
   "cost": [{
-    "name": "resource",
+    "name": "energy",
     "cost": 25
   }],
   "duration": 0,

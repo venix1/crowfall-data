@@ -1,0 +1,32 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "knight",
+    "myrmidon",
+    "ranger"
+  ],
+  "description": "The arcane Archer is one of the most deadly of mystical manipulators. Harnessing the power of the elements allows the archer to root their enemies while also creating protective barriers and enhancing their quickness with an unrivaled adroitness.",
+  "name": "Arcane Archer",
+  "powers": [
+    "arcane-barrier",
+    "binding-arrows",
+    "way-of-the-trails"
+  ],
+  "slots_granted": ["Ranged", "Ammo"],
+  "slots_removed": [],
+  "type": "major",
+  "tags": [],
+  "stats": [{
+      "name": "Elemental Mitigations",
+      "value": 3.75
+    },
+    {
+      "name": "Ranged Distance Bonus",
+      "value": 5
+    }
+  ],
+  "equips": ["Basic Bows", "Arcane Bows", "Arrows", "Elemental Arrows"],
+  "tray_granted": "Ranged",
+  "tray_removed": ""
+}

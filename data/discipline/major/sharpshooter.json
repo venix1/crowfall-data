@@ -1,0 +1,31 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "knight",
+    "myrmidon",
+    "ranger"
+  ],
+  "description": "Many undervalue the beauty and simplicity of the arrow, but the truth is that a rapid firing archer is just as deadly as any other foe in combat. Long range shots allow for a quick and effective way to take an opponent down with minimal interaction.",
+  "name": "Sharpshooter",
+  "powers": [
+    "ricochet-shot-sharpshooter",
+    "all-clear"
+  ],
+  "slots_granted": ["Ranged", "Ammo"],
+  "slots_removed": [],
+  "type": "major",
+  "tags": [],
+  "stats": [{
+      "name": "Piercing Damage Bonus",
+      "value": 6.25
+    },
+    {
+      "name": "Ranged Distance Bonus",
+      "value": 5
+    }
+  ],
+  "equips": ["Basic Bows", "Compound Bows", "Arrows"],
+  "tray_granted": "Ranged",
+  "tray_removed": ""
+}

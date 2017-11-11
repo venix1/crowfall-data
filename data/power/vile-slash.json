@@ -20,5 +20,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slash in front of you twice for 45 - 61 + 53% Weapon Damage. Applies an Armor Break to all hit, which reduces all Physical Mitigations by 20% for 15 seconds."
+  "description": "Slash in front of you twice for 45-61 + 53% Weapon Damage. Applies an Armor Break to all hit, which reduces all Physical Mitigations by 20% for 15 seconds."
 }

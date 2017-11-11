@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 0,
+  "cooldown": 30,
   "cost": [],
   "duration": 0,
   "max_targets": 1,
@@ -18,5 +18,5 @@
   ],
   "targeting": "self",
   "type": "ultimate",
-  "description": "Grants 400% Lifesteal for 5 seconds to your attacks, which returns Health for all attacks that damage a Health pool."
+  "description": "Grants 40% Lifesteal for 30 seconds or until you have restored 30% of Maximum Health and grants temporary damage immunity."
 }

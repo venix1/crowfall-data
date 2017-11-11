@@ -7,7 +7,7 @@
   "name": "Retaliate (Ranger)",
   "next_chain": [],
   "previous_chain": [],
-  "range": 0,
+  "range": 5,
   "sources": [{
     "id": "ranger",
     "data_type": "class"

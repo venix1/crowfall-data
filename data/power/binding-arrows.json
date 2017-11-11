@@ -1,0 +1,24 @@
+{
+  "cast_type": "ground aimed",
+  "cooldown": 24,
+  "cost": [{
+    "name": "energy",
+    "cost": 12
+  }],
+  "duration": 24,
+  "max_targets": 5,
+  "name": "Binding Arrows",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [{
+    "id": "arcane-archer",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "Root"
+  ],
+  "targeting": "area",
+  "type": "ranged attack",
+  "description": "Pin down multiple enemies in an area Rooting them in place and causing 45-60 + 53% Weapon Damage. This Power's Maximum Range cannot be modified."
+}

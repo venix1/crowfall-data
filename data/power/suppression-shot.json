@@ -18,9 +18,9 @@
   "tags": [
     "AoE",
     "Ranger",
-    "Supress"
+    "Supression"
   ],
   "targeting": "area",
   "type": "crowd control",
-  "description": "Shoot at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit."
+  "description": "Shoot at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit. This Power's Maximum Range can not be modified."
 }

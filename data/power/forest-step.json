@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 24,
   "cost": [{
-    "name": "resource",
+    "name": "energy",
     "cost": 34
   }],
   "duration": 3,
@@ -12,16 +12,16 @@
     "tendon-slice"
   ],
   "previous_chain": [],
-  "range": 0,
+  "range": 30,
   "sources": [{
     "id": "ranger",
     "data_type": "class"
   }],
   "tags": [
-    "Movement Speed",
+    "Blink",
     "Ranger"
   ],
-  "targeting": "self",
-  "type": "non-aggressive",
-  "description": "Blink through the forest shadows forward and gain 50 Movement Speed for 3 seconds."
+  "targeting": "reticle",
+  "type": "movement",
+  "description": "Blink through the forest shadows directly to your target and strike for 76-103 + 89% Weapon Damage."
 }

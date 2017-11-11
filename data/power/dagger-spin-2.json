@@ -1,8 +1,8 @@
 {
   "cast_type": "instant",
-  "cooldown": 5,
+  "cooldown": 0,
   "cost": [{
-    "name": "resource",
+    "name": "energy",
     "cost": 34
   }],
   "duration": 0,
@@ -21,10 +21,9 @@
   }],
   "tags": [
     "AoE",
-    "Lifesteal",
     "Ranger"
   ],
   "targeting": "sphere",
   "type": "melee attack",
-  "description": "Spin in place and deal 46 - 62 + 54% Weapon Damage around you. Also increases your Lifesteal Bonus by 60% while executing this power."
+  "description": "Spin in place and deal 46-62 + 54% Weapon Damage around you."
 }

@@ -1,27 +1,27 @@
 {
-  "cast_type": "instant",
+  "cast_type": "ground aimed",
   "cooldown": 24,
   "cost": [{
-    "name": "resource",
-    "cost": 47
+    "name": "energy",
+    "cost": 0
   }],
-  "duration": 0,
+  "duration": 60,
   "max_targets": 5,
   "name": "Explosive Trap",
   "next_chain": [],
   "previous_chain": [],
-  "range": 0,
+  "range": 35,
   "sources": [{
     "id": "ranger",
     "data_type": "class"
   }],
   "tags": [
     "AoE",
-    "Fire",
+    "Fire Damage",
     "Knockdown",
     "Ranger"
   ],
   "targeting": "area",
-  "type": "melee attack",
-  "description": "Place an explosive trap at your feet which explodes when an enemy approaches it dealing 57 - 77 + 67% Weapon Damage as Fire Damage. Knocks Up all hit. Trap will exist for 60 seconds."
+  "type": "ranged attack",
+  "description": "Shoot an explosive trap at a ground location, which explodes when an enemy approaches it dealing 46-62 + 54% Weapon Damage as Fire Damage. Knocks Up all hit. Trap will exist for 60 seconds. This Power's Maximum Range cannot be modified."
 }

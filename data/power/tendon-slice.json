@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 24,
   "cost": [{
-    "name": "resource",
+    "name": "energy",
     "cost": 22
   }],
   "duration": 0,
@@ -23,5 +23,5 @@
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Slash in front of you for 134 - 181 - 158% Weapon Damage. Applies a 50% movement reduction to the target."
+  "description": "Slash in front of you for 134-181 + 158% Weapon Damage. Applies a 50% movement reduction to the target."
 }
