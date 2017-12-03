@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "The art of survival often has more to do with resourcefulness and strength rather than luck. Perserverance, motivation, and drive are key factors in surviving the Dying Worlds.",
+  "name": "Survivalist",
+  "powers": [
+    "burst-of-strength",
+    "bounty-of-the-land"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Gathering"],
+  "stats": [],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

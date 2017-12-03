@@ -16,7 +16,7 @@
   "slots_granted": ["Ranged", "Ammo"],
   "slots_removed": [],
   "type": "major",
-  "tags": [],
+  "tags": ["Far Sight", "Ranged Distance Bonus", "Elemental Mitigations"],
   "stats": [{
       "name": "Elemental Mitigations",
       "value": 3.75
@@ -24,6 +24,10 @@
     {
       "name": "Ranged Distance Bonus",
       "value": 5
+    },
+    {
+      "name": "Far Sight",
+      "value": 6.25
     }
   ],
   "equips": ["Basic Bows", "Arcane Bows", "Arrows", "Elemental Arrows"],

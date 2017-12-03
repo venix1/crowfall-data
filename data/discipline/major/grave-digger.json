@@ -1,0 +1,31 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Often associated with the macabre due to the nature of the work, grave digging is a trade not for those with delicate sensibilities. Surrounded by death and shrouded in darkness, the grave digger plucks from the remains the necessary components to create new life.",
+  "name": "Grave Digger",
+  "powers": [
+    "empowered-grave-digging"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Gathering"],
+  "stats": [{
+    "name": "Plentiful Resources Grave: All",
+    "value": 1.25
+  }],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

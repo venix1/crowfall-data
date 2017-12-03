@@ -1,0 +1,22 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [{
+    "name": "health",
+    "cost": 0
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Usurious Bargain",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "hoarder",
+    "data_type": "discipline"
+  }],
+  "tags": [],
+  "targeting": "self",
+  "type": "buff",
+  "description": "Sacrifice <cost> Health for 50 Stamina"
+}

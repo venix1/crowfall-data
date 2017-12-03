@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Razor-focus and a quickness to react at the first sign of change can be the turning point for a harvester. Reaction to even the slightest change in weakness can lead to greater wealth and riches while harvesting, giving a clear edge to those with a keen eye.",
+  "name": "Lookout",
+  "powers": [
+    "keen-eye",
+    "spotting"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Gathering"],
+  "stats": [],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

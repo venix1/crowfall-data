@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Hoarders have a way of finding more room to keep their newly found treasures without having to part with any of their old goods. Rearranging and restacking are some of the constant tasks a hoarder may have to deal with frequently, but it is a labor of love.",
+  "name": "Hoarder",
+  "powers": [
+    "usurious-bargain",
+    "i-need-this"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Gathering"],
+  "stats": [],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

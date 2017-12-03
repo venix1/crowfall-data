@@ -3,9 +3,9 @@
   "cooldown": 23,
   "cost": [{
     "name": "energy",
-    "cost": 23
+    "cost": 12
   }],
-  "duration": 0,
+  "duration": 15,
   "max_targets": 1,
   "name": "Hunker Down",
   "next_chain": [],

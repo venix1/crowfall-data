@@ -1,0 +1,30 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Organizing and leading a group can be a tricky duty, but when all the members fall into place a truely efficient unit is formed. The more forces engaged in the effort can expose weakness more frequently and at a faster pace.",
+  "name": "Foreman",
+  "powers": [
+    "take-it-down",
+    "back-to-work",
+    "lead-from-the-front"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Gathering"],
+  "stats": [],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

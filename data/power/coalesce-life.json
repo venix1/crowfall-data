@@ -5,7 +5,7 @@
     "name": "resource",
     "cost": 46
   }],
-  "duration": 0,
+  "duration": 60,
   "max_targets": 1,
   "name": "Coalesce Life",
   "next_chain": [
@@ -23,5 +23,5 @@
   ],
   "targeting": "area",
   "type": "non-aggressive",
-  "description": "Manifest an Orb at your targeted location that allies or you may use to heal 97 to 119 + 108% Weapon Damage."
+  "description": "Manifest an Orb at your targeted location that allies or you may use to heal 32 to 40 + 144% Weapon Damage."
 }

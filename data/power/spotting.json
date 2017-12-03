@@ -1,0 +1,19 @@
+{
+  "cast_type": "passive",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 8,
+  "max_targets": 1,
+  "name": "Spotting",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "lookout",
+    "data_type": "discipline"
+  }],
+  "tags": ["Gathering"],
+  "targeting": "self",
+  "type": "passive",
+  "description": "Each time you damage a Resource Node, you become Dizzy Immune for 8 seconds."
+}

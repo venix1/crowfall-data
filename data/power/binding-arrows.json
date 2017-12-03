@@ -5,7 +5,7 @@
     "name": "energy",
     "cost": 12
   }],
-  "duration": 24,
+  "duration": 5,
   "max_targets": 5,
   "name": "Binding Arrows",
   "next_chain": [],
@@ -16,7 +16,8 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Root"
+    "Root",
+    "AoE"
   ],
   "targeting": "area",
   "type": "ranged attack",

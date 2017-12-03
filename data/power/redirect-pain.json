@@ -17,10 +17,9 @@
   }],
   "tags": [
     "Barrier",
-    "Duelist",
-    "Retribution"
+    "Duelist"
   ],
   "targeting": "self",
   "type": "buff",
-  "description": "Focus your will ignoring pain and reflecting incoming damage back to your attackers. Effects scale with Pips spent. 1 Pip: Gain 2250 Barrier and 7% Retribution for 6 seconds. 2 Pips: Gain 3000 Barrier and 9% Retribution for 9 seconds. 3 Pips: Gain 3750 Barrier and 11% Retribution for 12 seconds. 4 Pips: Gain 4500 Barrier and 13% Retribution for 15 seconds. 5 Pips: Gain 5230 Barrier and 15% Retribution for 18 seconds."
+  "description": "Focus your will ignoring pain with a damage preventing Barrier and then begin reflecting damage back to your attackers if the Barrier is broken. Effects scale with Pips spent. 1 Pip: Gain 400 Barrier and 15% Retribution for 6 seconds. 2 Pips: Gain 650 Barrier and 25% Retribution for 9 seconds. 3 Pips: Gain 900 Barrier and 35% Retribution for 12 seconds. 4 Pips: Gain 1150 Barrier and 45% Retribution for 15 seconds. 5 Pips: Gain 1400 Barrier and 55% Retribution for 18 seconds."
 }

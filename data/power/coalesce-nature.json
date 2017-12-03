@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 0,
   "cost": [],
-  "duration": 0,
+  "duration": 60,
   "max_targets": 1,
   "name": "Coalesce Nature",
   "next_chain": [],
@@ -20,5 +20,5 @@
   ],
   "targeting": "area",
   "type": "non-aggressive",
-  "description": "Manifest an Orb at your targeted location that allies or you may use to heal 216 to 264 + 240% Weapon Damage as well as restoring resources for allies."
+  "description": "Manifest an Orb at your targeted location that allies or you may use to heal 72-88 + 320% Weapon Damage as well as restoring resources for allies."
 }

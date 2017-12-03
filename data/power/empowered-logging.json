@@ -1,0 +1,19 @@
+{
+  "cast_type": "passive",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Empowered Logging",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "logger",
+    "data_type": "discipline"
+  }],
+  "tags": ["Gathering"],
+  "targeting": "self",
+  "type": "passive",
+  "description": "Greatly enhances the Energetic Harvesting power with additional Logging effects. 1 Harvest Pip: When Energetic Harvest is activated also gain Empowered Logging, which increases Logging by 5%. 2 Harvest Pips: When Perceptive Harvest is activated also gain Perceptive Logging, which increases Spot Weakness: Wood by 5%. 3 Harvest Pips: Increases the Stamina restore amount by 4. 4 Harvest Pips: When Heightened Harvest is activated also gain Heightened Logging, which increases the effectiveness of any Energetic Harvest. Perceptive Harvest, and Stamina restore effects gained in the next 7 seconds. 5 Harvest Pips: When Furious Reaping is activated also adds Furious Logging, which increases Harvest Base Damage: Wood by 30. Lasts 6 seconds or 2 hits, whichever comes first."
+}

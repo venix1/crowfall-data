@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Some may consider the Connoisseur to be a rather persnickety personality to deal with, but anyone who prefers the finer things in life will mention that the trade in for a bit of extra work pays off greatly. A distinguished partiality can help differentiate between qualities and may also grant even greater rewards.",
+  "name": "Connoisseur",
+  "powers": [
+    "finer-things", "glycolysis"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Gathering"],
+  "stats": [],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}
