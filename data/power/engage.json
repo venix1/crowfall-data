@@ -1,0 +1,19 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Engage",
+  "next_chain": [],
+  "previous_chain": ["disengage-assassin"],
+  "range": 5,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin"],
+  "targeting": "reticle",
+  "type": "movement",
+  "description": "Swiftly re-engage with an attack doing 124-187 + 156% Weapon Damage, generating a Pip and increasing your damage by 10% for 15 seconds."
+}

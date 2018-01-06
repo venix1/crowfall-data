@@ -1,0 +1,22 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [{
+    "name": "pips",
+    "cost": 1
+  }],
+  "duration": 0,
+  "max_targets": 5,
+  "name": "Dagger Storm 3",
+  "next_chain": [],
+  "previous_chain": ["dagger-storm-3"],
+  "range": 5,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin", "AoE"],
+  "targeting": "sphere",
+  "type": "ranged attack",
+  "description": "Fling throwing daggers in all directions hitting multiple enemies for 90-134 + 112% Weapon Damage."
+}

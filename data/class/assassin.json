@@ -10,5 +10,19 @@
   "tags": [
     "Stealth"
   ],
-  "powers": []
+  "powers": [
+    "ambush-assassin",
+    "backstab",
+    "cheap-shot",
+    "curse-weapon",
+    "dagger-storm",
+    "diffusion",
+    "disengage-assassin",
+    "engage",
+    "kidney-shot",
+    "recon-assassin",
+    "retaliate-assassin",
+    "shadowstep",
+    "spirit-dart"
+  ]
 }

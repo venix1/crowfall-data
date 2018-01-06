@@ -1,0 +1,19 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Backstab",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin"],
+  "targeting": "reticle",
+  "type": "melee attack",
+  "description": "Run an enemy through with a deadly strike generating two Pips and causing 133-200 + 167% Weapon Damage when striking from behind or generating one Pip and causing 47-70 + 58% Weapon Damage otherwise."
+}

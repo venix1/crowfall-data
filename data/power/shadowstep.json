@@ -1,0 +1,22 @@
+{
+  "cast_type": "instant",
+  "cooldown": 9,
+  "cost": [{
+    "name": "resource",
+    "cost": 0
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Shadowstep",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin"],
+  "targeting": "self",
+  "type": "ultimate",
+  "description": "Retreat to the shadows instantly entering Stealth, becoming invulnerable to damage and immune to Crowd Control effects and Blinding nearby enemies."
+}

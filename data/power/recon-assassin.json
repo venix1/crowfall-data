@@ -1,0 +1,19 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Recon (Assassin)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin", "Stealth", "Exposed"],
+  "targeting": "reticle",
+  "type": "instant",
+  "description": "Carefully studying a target from stealth, applying the Exposed debuff to reveal weaknesses you may capitalize on."
+}

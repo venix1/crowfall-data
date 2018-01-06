@@ -1,0 +1,19 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Cheap Shot",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin", "Exposed", "Stun"],
+  "targeting": "reticle",
+  "type": "instant",
+  "description": "Waylay an enemy from stealth stunning them for 5 seconds if they are Exposed or 3 seconds otherwise, and generating Pips. This stun is unaffected by the target's Resolve or any Stun duration reducing skills."
+}

@@ -1,0 +1,22 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [{
+    "name": "pips",
+    "cost": 1
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Curse Weapon",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin", "Disease"],
+  "targeting": "self",
+  "type": "buff",
+  "description": "Ensorcel your weapon with a cruel enchantment causing its damage type to become Disease with the duration scaling with Pips spent. 1 Pip: 10 seconds. 2 Pips: 15 seconds. 3 Pips: 20 seconds. 4 Pips: 25 Seconds. 5 Pips: 30 seconds."
+}

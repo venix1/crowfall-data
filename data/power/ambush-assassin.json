@@ -1,0 +1,19 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Ambush (Assassin)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin", "Exposed"],
+  "targeting": "reticle",
+  "type": "melee attack",
+  "description": "Step from the shadows to deliver a lethal surprise attack while generating Pips. Exposed targets are critically hit for 181-272 + 227% Weapon Damage and generate three Pips, while those who are not take x-y + z% Weapon Damage and generate two Pips."
+}
