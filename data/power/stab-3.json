@@ -1,0 +1,19 @@
+{
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Stab 3",
+  "next_chain": [],
+  "previous_chain": ["stab-2"],
+  "range": 5,
+  "sources": [{
+    "id": "assassin",
+    "data_type": "class"
+  }],
+  "tags": ["Assassin"],
+  "targeting": "reticle",
+  "type": "instant",
+  "description": "Jab for 128-192 + 160% Weapon Damage."
+}
