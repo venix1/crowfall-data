@@ -1,7 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [],
+  "cost": [{
+    "name": "righteousness",
+    "cost": 1
+  }],
   "duration": 0,
   "max_targets": 5,
   "name": "Reproach",
@@ -20,5 +23,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slash multiple enemies for 54 - 81 + 67% Weapon Damage."
+  "description": "Swing at multiple enemies hitting for 54-81 + 67% Weapon Damage."
 }

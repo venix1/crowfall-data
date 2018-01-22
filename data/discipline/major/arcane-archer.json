@@ -19,7 +19,7 @@
   "tags": ["Far Sight", "Ranged Distance Bonus", "Elemental Mitigations"],
   "stats": [{
       "name": "Elemental Mitigations",
-      "value": 3.75
+      "value": 3
     },
     {
       "name": "Ranged Distance Bonus",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Far Sight",
-      "value": 6.25
+      "value": 5
     }
   ],
   "equips": ["Basic Bows", "Arcane Bows", "Arrows", "Elemental Arrows"],

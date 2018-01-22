@@ -3,7 +3,7 @@
   "cooldown": 45,
   "cost": [{
     "name": "pips",
-    "cost": 16
+    "cost": 1
   }],
   "duration": 0,
   "max_targets": 1,

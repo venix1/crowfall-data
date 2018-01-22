@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 30,
   "cost": [{
-    "name": "resource",
+    "name": "stamina",
     "cost": 18
   }],
   "duration": 0,
@@ -24,5 +24,5 @@
   ],
   "targeting": "cone",
   "type": "crowd control",
-  "description": "Attack and stun those in front of you for 105 - 142 + 124% Crushing Weapon Damage."
+  "description": "Attack and stun a target in front of you for 115-156 + 136% Crushing Weapon Damage."
 }

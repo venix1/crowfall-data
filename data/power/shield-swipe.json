@@ -2,8 +2,8 @@
   "cast_type": "instant",
   "cooldown": 23,
   "cost": [{
-    "name": "resource",
-    "cost": 18
+    "name": "stamina",
+    "cost": 22
   }],
   "duration": 0,
   "max_targets": 1,
@@ -23,5 +23,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack in front of you for 91 - 123 + 107% Crushing Weapon Damage."
+  "description": "Attack in front of you for 113-153 + 133% Crushing Weapon Damage."
 }

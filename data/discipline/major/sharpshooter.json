@@ -15,17 +15,21 @@
   "slots_granted": ["Ranged", "Ammo"],
   "slots_removed": [],
   "type": "major",
-  "tags": [],
+  "tags": ["Farsight"],
   "stats": [{
       "name": "Piercing Damage Bonus",
-      "value": 6.25
+      "value": 5
     },
     {
       "name": "Ranged Distance Bonus",
       "value": 5
+    },
+    {
+      "name": "Far-Sight",
+      "value": 5
     }
   ],
-  "equips": ["Basic Bows", "Compound Bows", "Arrows"],
+  "equips": ["Basic Bows", "Compound Bows", "Arrows", "Exotic Arrows"],
   "tray_granted": "Ranged",
   "tray_removed": ""
 }

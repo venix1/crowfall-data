@@ -4,12 +4,10 @@
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Fireball 2",
-  "next_chain": [
-    "fireball-3"
-  ],
+  "name": "Fireball 3",
+  "next_chain": [],
   "previous_chain": [
-    "fireball"
+    "fireball-2"
   ],
   "range": 25,
   "sources": [{
@@ -23,5 +21,5 @@
   ],
   "targeting": "reticle",
   "type": "ranged attack",
-  "description": "Shoot a fireball at your reticle target applying Sin to them and causing 48-72 + 60% Fire Weapon Damage."
+  "description": "Shoot a fireball at your reticle target applying Sin to them and causing 106-159 + 132% Fire Weapon Damage."
 }

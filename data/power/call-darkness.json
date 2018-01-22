@@ -1,8 +1,8 @@
 {
-  "cast_type": "Instant",
+  "cast_type": "instant",
   "cooldown": 23,
   "cost": [{
-    "name": "energy",
+    "name": "resource",
     "cost": 16
   }],
   "duration": 0,
@@ -18,5 +18,5 @@
   "tags": [],
   "targeting": "self",
   "type": "buff",
-  "description": "While active, all attacks count as if you are attacking from behind your targets."
+  "description": "All attacks count as if you are attacking from behind your targets while active."
 }

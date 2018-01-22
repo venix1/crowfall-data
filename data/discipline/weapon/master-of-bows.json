@@ -18,22 +18,22 @@
   "tags": [],
   "stats": [{
       "name": "Slashing Damage Bonus",
-      "value": 6.25
+      "value": 5
     },
     {
       "name": "Crushing Damage Bonus",
-      "value": 6.25
+      "value": 5
     },
     {
       "name": "Piercing Damage Bonus",
-      "value": 6.25
+      "value": 5
     },
     {
       "name": "Ranged Distance Bonus",
       "value": 5
     }
   ],
-  "equips": ["Basic Bows", "Reflex Bows", "Arrows"],
+  "equips": ["Basic Bows", "Reflex Bows", "Arrows", "Exotic Arrows"],
   "tray_granted": "Ranged",
   "tray_removed": ""
 }

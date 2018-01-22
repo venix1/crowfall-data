@@ -1,10 +1,7 @@
 {
   "cast_type": "instant",
   "cooldown": 9,
-  "cost": [{
-    "name": "resource",
-    "cost": 1
-  }],
+  "cost": [],
   "duration": 0,
   "max_targets": 5,
   "name": "Radiant Sweep",
@@ -24,5 +21,5 @@
   ],
   "targeting": "cone",
   "type": "crowd control",
-  "description": "Knockdown multiple enemies dealing 72 - 108 + 90% Weapon Damage."
+  "description": "Knock down multiple enemies dealing 72-108 + 90% Weapon Damage."
 }

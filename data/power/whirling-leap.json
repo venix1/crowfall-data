@@ -20,5 +20,5 @@
   ],
   "targeting": "sphere",
   "type": "ultimate",
-  "description": "Leap into the air creating a vacuum at your feet, which pulls in nearby enemies and damages them for 232 - 314 + 273% Crushing Weapon Damage. While in the air you are invulnerable to physics impulses and damage effects."
+  "description": "Leap into the air creating a vacuum at your feet pulling in nearby enemies and damaging them for 232-314 + 273% Crushing Weapon Damage and becoming immune to damage and control effects for a short period of time."
 }

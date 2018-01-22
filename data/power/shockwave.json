@@ -2,8 +2,8 @@
   "cast_type": "instant",
   "cooldown": 30,
   "cost": [{
-    "name": "resource",
-    "cost": 22
+    "name": "stamina",
+    "cost": 25
   }],
   "duration": 0,
   "max_targets": 3,
@@ -26,5 +26,5 @@
   ],
   "targeting": "cone",
   "type": "crowd control",
-  "description": "Attack and Knockdown enemies in front of you for 150 - 203 + 177% Crushing Weapon Damage."
+  "description": "Attack enemies in front of you for 171-232 + 202% Crushing Weapon Damage and knocking them down."
 }

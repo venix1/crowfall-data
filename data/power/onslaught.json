@@ -2,8 +2,8 @@
   "cast_type": "instant",
   "cooldown": 5,
   "cost": [{
-    "name": "resource",
-    "cost": 12
+    "name": "stamina",
+    "cost": 14
   }],
   "duration": 0,
   "max_targets": 1,
@@ -23,5 +23,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack in front of you twice for 62 - 84 + 73% Weapon Damage each strike."
+  "description": "Attack in front of you twice for 74-100 + 87% Weapon Damage each strike."
 }
