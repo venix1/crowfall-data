@@ -1,10 +1,10 @@
 {
   "cast_type": "passive",
-  "cooldown": 0,
+  "cooldown": 90,
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Second Wind (Knight)",
+  "name": "Resolve",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
@@ -18,5 +18,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Heals you for 4% of your maximum Health every second and recovers Stamina. This effect is automatically triggered when dropping below 20% health."
+  "description": "Heals 4% of your maximum Health every second while recovering Stamina when your Health drops below 20%. This can happen once every 90 seconds."
 }
