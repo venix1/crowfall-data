@@ -18,5 +18,5 @@
   "tags": [],
   "targeting": "rectangle",
   "type": "ranged attack",
-  "description": "Call forth a Ghost Army in front of you dealing 60-81 + 70% Weapon Damage to 5 per wave of the Army. 12.5% of the Damage dealt will be returned to you as Health."
+  "description": "Call forth a Ghost Army in front of you dealing 60-81 + 70% Weapon Damage and healing for your 12.5% of the Damage dealt after 15 seconds."
 }

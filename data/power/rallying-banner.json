@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 45,
+  "cooldown": 90,
   "cost": [{
     "name": "resource",
     "cost": 16
