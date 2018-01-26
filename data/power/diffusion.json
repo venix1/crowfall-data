@@ -15,7 +15,14 @@
     "id": "assassin",
     "data_type": "class"
   }],
-  "tags": ["Assassin", "Toxin", "Exposed", "Blackmantle", "Slow", "Poison"],
+  "tags": [
+    "Assassin",
+    "Toxin",
+    "Exposed",
+    "Blackmantle",
+    "Slow",
+    "Poison"
+  ],
   "targeting": "reticle",
   "type": "debuff",
   "description": "Execute a versatile attack against a victim afflicted with a Toxin with effects varying by your equipped Toxin and scaling with Pips spent. Exposed targets are also knocked down if struck while attacking. See individual Toxin descriptions for specific details. Poison Toxin: Poison additional nearby enemies when used against a Poisoned target. Earth Toxin: Cause additional damage and slow enemies afflicted with an Earth Toxin. Disease Toxin: Prevent healing with Blackmantle against enemies afflicted with Disease Toxin."

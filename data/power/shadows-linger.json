@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "After being removed from Stealth, your Critical Hit Chance is increased by 50% for 3 seconds. Must be equipped in Stealth Tray."
+  "description": "After being removed from Stealth, your Critical Hit Chance is increased by 50% for 3 seconds."
 }

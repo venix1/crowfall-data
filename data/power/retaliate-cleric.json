@@ -1,7 +1,10 @@
 {
   "cast_type": "instant",
-  "cooldown": 30,
-  "cost": [],
+  "cooldown": 3,
+  "cost": [{
+    "name": "stamina",
+    "cost": 75
+  }],
   "duration": 0,
   "max_targets": 3,
   "name": "Retaliate (Cleric)",
@@ -14,7 +17,8 @@
   }],
   "tags": [
     "AoE",
-    "Cleric"
+    "Cleric",
+    "Retaliate"
   ],
   "targeting": "sphere",
   "type": "retaliate",

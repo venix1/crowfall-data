@@ -15,7 +15,10 @@
     "id": "assassin",
     "data_type": "class"
   }],
-  "tags": ["Assassin", "AoE"],
+  "tags": [
+    "Assassin",
+    "AoE"
+  ],
   "targeting": "sphere",
   "type": "ranged attack",
   "description": "Spend one Pip and fling throwing daggers in all directions hitting multiple enemies for 56-84 + 70% Weapon Damage."

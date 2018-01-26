@@ -1,7 +1,10 @@
 {
   "cast_type": "instant",
-  "cooldown": 0,
-  "cost": [],
+  "cooldown": 3,
+  "cost": [{
+    "name": "stamina",
+    "cost": 75
+  }],
   "duration": 0,
   "max_targets": 3,
   "name": "Retaliate (Assassin)",
@@ -12,8 +15,12 @@
     "id": "assassin",
     "data_type": "class"
   }],
-  "tags": ["Assassin", "Exposed"],
+  "tags": [
+    "Assassin",
+    "Exposed",
+    "Retaliate"
+  ],
   "targeting": "area",
   "type": "retaliate",
-  "description": "Jump to your feet, damaging all nearby enemies for x-y + z% Weapon Damage and generating a Pip. Retaliating an Exposed enemy generates an additional Pip and resets Retaliates's cooldown."
+  "description": "Jump to your feet, damaging all nearby enemies for 105-158 + 132% Weapon Damage and generating a Pip. Retaliating an Exposed enemy generates an additional Pip and resets Retaliates's cooldown."
 }

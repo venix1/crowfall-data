@@ -1,7 +1,10 @@
 {
   "cast_type": "instant",
-  "cooldown": 30,
-  "cost": [],
+  "cooldown": 3,
+  "cost": [{
+    "name": "stamina",
+    "cost": 75
+  }],
   "duration": 0,
   "max_targets": 3,
   "name": "Retaliate (Ranger)",
@@ -14,9 +17,10 @@
   }],
   "tags": [
     "AoE",
-    "Ranger"
+    "Ranger",
+    "Retaliate"
   ],
   "targeting": "sphere",
   "type": "retaliate",
-  "description": "Jump to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies."
+  "description": "Jump to your feet, dealing 113-153 + 133% Weapon Damage to nearby enemies."
 }

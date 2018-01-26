@@ -1,24 +1,26 @@
 {
-    "cast_type": "instant",
-    "cooldown": 30,
-    "cost": [],
-    "duration": 0,
-    "max_targets": 3,
-    "name": "Retaliate (Myrmidon)",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 5,
-    "sources": [
-        {
-            "id": "myrmidon",
-            "data_type": "class"
-        }
-    ],
-    "tags": [
-        "AoE",
-        "Myrmidon"
-    ],
-    "targeting": "sphere",
-    "type": "retaliate",
-    "description": "Jump to your feet, dealing 39 - 48 + 33% Weapon Damage to nearby enemies."
+  "cast_type": "instant",
+  "cooldown": 30,
+  "cost": [{
+    "name": "stamina",
+    "cost": 75
+  }],
+  "duration": 0,
+  "max_targets": 3,
+  "name": "Retaliate (Myrmidon)",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "myrmidon",
+    "data_type": "class"
+  }],
+  "tags": [
+    "AoE",
+    "Myrmidon",
+    "Retaliate"
+  ],
+  "targeting": "sphere",
+  "type": "retaliate",
+  "description": "Jump to your feet, dealing 39-48 + 44% Weapon Damage to nearby enemies."
 }

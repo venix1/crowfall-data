@@ -15,5 +15,5 @@
   "tags": ["Assassin"],
   "targeting": "reticle",
   "type": "melee attack",
-  "description": "Run an enemy through with a deadly strike generating two Pips and causing 133-200 + 167% Weapon Damage when striking from behind or generating one Pip and causing 47-70 + 58% Weapon Damage otherwise."
+  "description": "Run an enemy through with a deadly strike generating two Pips and causing 133-200 + 167% Weapon Damage when striking from behind or generating one Pip and causing 17-25+ 21% Weapon Damage otherwise."
 }

@@ -6,21 +6,21 @@
     "cost": 75
   }],
   "duration": 0,
-  "max_targets": 3,
-  "name": "Retaliate (Champion)",
+  "max_targets": 1,
+  "name": "Retaliate (Druid)",
   "next_chain": [],
   "previous_chain": [],
   "range": 5,
   "sources": [{
-    "id": "champion",
+    "id": "druid",
     "data_type": "class"
   }],
   "tags": [
-    "AoE",
-    "Champion",
+    "Druid",
+    "Heal",
     "Retaliate"
   ],
-  "targeting": "sphere",
+  "targeting": "self",
   "type": "retaliate",
-  "description": "Jump to your feet, dealing 113-153 + 133% Weapon Damage to nearby enemies."
+  "description": "Jump to your feet, healing yourself for x-y + z% Weapon Damage."
 }

@@ -12,7 +12,11 @@
     "id": "assassin",
     "data_type": "class"
   }],
-  "tags": ["Stealth", "Exposed", "Toxin"],
+  "tags": [
+    "Stealth",
+    "Exposed",
+    "Toxin"
+  ],
   "targeting": "reticle",
   "type": "debuff",
   "description": "Pop out of stealth briefly launching a Spirit Dart at an enemy and applying your currently equipped Toxin before returning automatically to Stealth. If the target is Exposed, the cooldown of your next Spirit Dart is reduced."
