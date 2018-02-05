@@ -17,6 +17,6 @@
   }],
   "tags": ["Human", "Damage Bonus", "Power Efficiency"],
   "targeting": "self",
-  "type": "Buff",
+  "type": "buff",
   "description": "Increase your Damage Bonus by 10% and Power Efficiency by 5% for 12 Seconds"
 }
