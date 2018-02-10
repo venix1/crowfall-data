@@ -15,5 +15,5 @@
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Apples now also restor Stamina when consumed."
+  "description": "Restore Stamina when consuming Apples."
 }

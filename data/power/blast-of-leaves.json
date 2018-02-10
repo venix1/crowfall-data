@@ -1,5 +1,5 @@
 {
-  "cast_type": "instant",
+  "cast_type": "hold channeled",
   "cooldown": 20,
   "cost": [{
     "name": "resource",
@@ -20,5 +20,5 @@
   ],
   "targeting": "rectangle",
   "type": "buff",
-  "description": "Blasts Leaves to all allies in front of you healing for 102 - 138 + 120% Weapon Damage multiple times per second."
+  "description": "Blasts Leaves healing allies in front of you for 102-138 + 120% Weapon Damage multiple times per second."
 }
