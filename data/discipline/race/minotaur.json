@@ -17,9 +17,14 @@
   "slots_removed": [],
   "type": "race",
   "stats": [{
-    "name": "dexterity",
-    "value": 30
-  }],
+      "name": "Dexterity",
+      "value": 30
+    },
+    {
+      "name": "Food Regen: Rate",
+      "value": -30
+    }
+  ],
   "equips": [],
   "tray_granted": "",
   "tray_removed": ""

@@ -7,7 +7,7 @@
   "name": "Censure",
   "next_chain": [],
   "previous_chain": [],
-  "range": 0,
+  "range": 20,
   "sources": [{
     "id": "templar",
     "data_type": "class"
@@ -16,7 +16,7 @@
     "Stun",
     "Templar"
   ],
-  "targeting": "self",
+  "targeting": "reticle",
   "type": "non-aggressive",
-  "description": "Lunge forward with a sword strike stunning an enemy and causing 100 - 149 + 124% Weapon Damage."
+  "description": "Lunge forward with a sword strike stunning an enemy and causing 100-149 + 124% Weapon Damage."
 }

@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 23,
   "cost": [{
-    "name": "resource",
+    "name": "essence",
     "cost": 35
   }],
   "duration": 20,
@@ -21,5 +21,5 @@
   ],
   "targeting": "group",
   "type": "buff",
-  "description": "Toughen the hide of group members and yourself applying Barrier for 20 seconds preventing 175 to 325 damage."
+  "description": "Toughen the hide of group members and yourself applying Barrier for 15 seconds preventing 175-325 damage."
 }

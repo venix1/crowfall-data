@@ -17,11 +17,11 @@
   "slots_removed": [],
   "type": "race",
   "stats": [{
-      "name": "strength",
+      "name": "Strength",
       "value": 60
     },
     {
-      "name": "constitution",
+      "name": "Constitution",
       "value": 60
     }
   ],

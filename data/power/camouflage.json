@@ -16,9 +16,9 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Hide"
+    "Hide", "Stealth"
   ],
   "targeting": "self",
   "type": "buff",
-  "description": "When active you are automatically hidden from sight as long as you are standing still and not in combat. Can not be activated while in combat."
+  "description": "Hide from sight automatically when standing still and not in combat."
 }

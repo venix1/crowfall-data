@@ -16,10 +16,9 @@
   }],
   "tags": [
     "Knight",
-    "Movement Speed",
-    "Slashing"
+    "Movement Speed"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "A basic attack slashing spinning in front of you for 88 - 119 + 103% Weapon Damage and reducing movement speed by 50%. Scoring three or more consecutive basic attack hits activates SHIELD BASH."
+  "description": "Slash in front of you for 88-119 + 103% Weapon Damage. Scoring three or more consecutive basic attack hits activates Shield Bash."
 }

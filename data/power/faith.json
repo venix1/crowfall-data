@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Dropping under 35% Health automatically activates the effects of Holy Warrior. Activating Holy Warrior at the same time prevents death until the effect has ended."
+  "description": "Automatically activate the effects of Holy Warrior when dropping under 35% Health and prevent death until the effect has ended when activating Holy Warrior at the same time."
 }

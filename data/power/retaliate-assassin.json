@@ -22,5 +22,5 @@
   ],
   "targeting": "area",
   "type": "retaliate",
-  "description": "Jump to your feet, damaging all nearby enemies for 105-158 + 132% Weapon Damage and generating a Pip. Retaliating an Exposed enemy generates an additional Pip and resets Retaliates's cooldown."
+  "description": "Jump to your feet, damaging all nearby enemies for 105-158 + 132% Weapon Damage and generating a Pip. Retaliating an Exposed enemy generates an additional Pip."
 }

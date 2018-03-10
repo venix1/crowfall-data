@@ -1,10 +1,7 @@
 {
   "cast_type": "instant",
   "cooldown": 45,
-  "cost": [{
-    "name": "energy",
-    "cost": 14
-  }],
+  "cost": [],
   "duration": 15,
   "max_targets": 5,
   "name": "Call Flames",
@@ -21,5 +18,5 @@
   ],
   "targeting": "reticle",
   "type": "debuff",
-  "description": "Increases your Damage Bonus: Fire by 10% for 15 seconds and applies Major Burning damage over time to up to 5 enemies within 6m."
+  "description": "Call Flames, increase your Damage Bonus: Fire by 10% for 15 seconds and apply a Major Burning damage over time effect to up to 5 enemies within 6m."
 }

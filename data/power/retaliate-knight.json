@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 3,
+  "cooldown": 15,
   "cost": [{
     "name": "stamina",
     "cost": 75

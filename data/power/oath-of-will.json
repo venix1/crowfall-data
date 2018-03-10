@@ -17,7 +17,7 @@
   "tags": [
     "Knight"
   ],
-  "targeting": "cone",
-  "type": "non-aggressive",
-  "description": "Vowing never to surrender, you recover 36 Stamina over 3 seconds."
+  "targeting": "self",
+  "type": "buff",
+  "description": "Vowing never to surrender, you recover 350 Energy over 3 seconds."
 }

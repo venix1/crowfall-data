@@ -3,6 +3,7 @@
   "name": "Cleric",
   "powers": [
     "block-cleric",
+    "circle-of-life",
     "divine-order",
     "flash-of-light",
     "hand-of-the-gods",

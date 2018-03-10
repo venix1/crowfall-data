@@ -1,10 +1,7 @@
 {
   "cast_type": "hold channeled",
   "cooldown": 45,
-  "cost": [{
-    "name": "rage",
-    "cost": 21
-  }],
+  "cost": [],
   "duration": 15,
   "max_targets": 1,
   "name": "Wild Charge",

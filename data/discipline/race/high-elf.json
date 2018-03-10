@@ -1,19 +1,31 @@
 {
-    "classes": [
-        "knight",
-        "confessor",
-        "assassin",
-        "frostweaver"
-    ],
-    "description": "",
-    "name": "High-Elf",
-    "tags": [],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "knight",
+    "confessor",
+    "assassin",
+    "frostweaver"
+  ],
+  "description": "It is said they convinced Malekai to teach them the language of the gods, the Songs of Creation and the Words of Power. In doing so, they gained mastery over the elements of fire and frost.",
+  "name": "High-Elf",
+  "tags": [],
+  "powers": [
+    "high-elf-bloodline",
+    "high-elf-dodge",
+    "humiliate"
+  ],
+  "slots_granted": ["Amulet"],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+      "name": "Intellect",
+      "value": 30
+    },
+    {
+      "name": "Elemental Armor Bonus",
+      "value": 5
+    }
+  ],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

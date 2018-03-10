@@ -1,8 +1,8 @@
 {
   "cast_type": "charged",
-  "cooldown": 45,
+  "cooldown": 23,
   "cost": [{
-    "name": "resource",
+    "name": "essence",
     "cost": 105
   }],
   "duration": 12,
@@ -21,5 +21,5 @@
   ],
   "targeting": "reticle",
   "type": "ranged attack",
-  "description": "Unleash a bear spirit at the enemy causing 168 - 252 + 210% and an addtional 133 - 200 over 12 seconds The attack may chain to two additional enemies."
+  "description": "Unleash a bear spirit that may chain to additional enemies up to two times causing 168-252 + 210% instantly, 133-200 over 12 seconds and empowering Spark to chain up to two additional times if Gaea's Wail strikes three enemies."
 }

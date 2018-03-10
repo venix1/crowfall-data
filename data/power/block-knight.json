@@ -1,7 +1,10 @@
 {
   "cast_type": "hold channeled",
   "cooldown": 0,
-  "cost": [],
+  "cost": [{
+    "name": "energy",
+    "cost": 1
+  }],
   "duration": 5,
   "max_targets": 1,
   "name": "Block (Knight)",

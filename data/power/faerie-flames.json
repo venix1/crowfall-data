@@ -1,0 +1,25 @@
+{
+  "cast_type": "instant",
+  "cooldown": 23,
+  "cost": [{
+    "name": "essence",
+    "cost": 50
+  }],
+  "duration": 30,
+  "max_targets": 1,
+  "name": "Faerie Flames",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 35,
+  "sources": [{
+    "id": "druid",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Druid",
+    "Corruption"
+  ],
+  "targeting": "reticle",
+  "type": "debuff",
+  "description": "Engulf an enemy in Faerie Flames reducing Physical Mitigations by 20 for 30 seconds and afflicting them with Severe Corruption."
+}

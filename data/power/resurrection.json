@@ -1,0 +1,19 @@
+{
+  "cast_type": "10 seconds",
+  "cooldown": 600,
+  "cost": [],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Resurrection",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "templar",
+    "data_type": "class"
+  }],
+  "tags": ["Resurrection"],
+  "targeting": "area",
+  "type": "resurrection",
+  "description": "Target a small area and revive one unconscious vessel."
+}

@@ -3,7 +3,7 @@
   "cooldown": 5,
   "cost": [{
     "name": "health",
-    "cost": 55
+    "cost": 1000
   }],
   "duration": 0,
   "max_targets": 1,
@@ -19,6 +19,6 @@
     "Druid"
   ],
   "targeting": "self",
-  "type": "non-aggressive",
-  "description": "Sacrifice 55 Health for 15% Essence."
+  "type": "buff",
+  "description": "Sacrifice 1000 Health to add 25% Essence."
 }

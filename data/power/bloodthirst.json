@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 30,
   "cost": [{
-    "name": "energy",
+    "name": "fury",
     "cost": 25
   }],
   "duration": 8,

@@ -1,9 +1,9 @@
 {
-  "cast_type": "instant",
+  "cast_type": "charged",
   "cooldown": 24,
   "cost": [{
-    "name": "stamina",
-    "cost": 30
+    "name": "energy",
+    "cost": 344
   }],
   "duration": 0,
   "max_targets": 3,
@@ -20,7 +20,7 @@
     "Crushing",
     "Knight"
   ],
-  "targeting": "reticle",
+  "targeting": "cone",
   "type": "melee attack",
   "description": "Charge your shield slamming up to three enemies in front of you for 82-111 + 97% Crushing Weapon Damage and critically hitting and pushing them back if charged more than 66%."
 }

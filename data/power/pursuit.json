@@ -2,8 +2,8 @@
   "cast_type": "instant",
   "cooldown": 30,
   "cost": [{
-    "name": "stamina",
-    "cost": 44
+    "name": "energy",
+    "cost": 375
   }],
   "duration": 0,
   "max_targets": 3,

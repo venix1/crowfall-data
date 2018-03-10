@@ -18,5 +18,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Heals 4% of your maximum Health every second while recovering Stamina when your Health drops below 20%. This can happen once every 90 seconds."
+  "description": "Heal 4% of your maximum Health every second while recovering Stamina when your Health drops below 20%. This can happen once every 90 seconds."
 }

@@ -17,10 +17,9 @@
     "data_type": "class"
   }],
   "tags": [
-    "Knight",
-    "Slashing"
+    "Knight"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "A basic attack slashing in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attack hits activates Shield Bash."
+  "description": "Slash in front of you for 86-117 + 101% Weapon Damage. Scoring three or more consecutive basic attacks activate Shield Bash."
 }
