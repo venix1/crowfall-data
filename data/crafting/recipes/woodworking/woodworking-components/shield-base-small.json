@@ -1,0 +1,19 @@
+{
+  "name": "Shield Base: Small",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Woodworking Components",
+  "difficulty": 20,
+  "craft_time": 1,
+  "description": "Crafting Component used in the assembly of a Shield.",
+  "requires": [{
+    "id": "plank",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "plank",
+    "quantity": 1,
+    "demand": "required"
+  }],
+  "type": "component"
+}

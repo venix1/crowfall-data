@@ -1,0 +1,19 @@
+{
+  "component": "plank",
+  "resource": [{
+    "id": "wood",
+    "type": "Ash"
+  }, {
+    "id": "wood",
+    "type": "Ash"
+  }, {
+    "id": "wood",
+    "type": "Ash"
+  }],
+  "outcome": [{
+    "stat": "Critical Damage"
+  }, {
+    "stat": "Support Power"
+  }],
+  "type": "combination"
+}

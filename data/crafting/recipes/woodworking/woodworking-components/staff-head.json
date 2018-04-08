@@ -1,0 +1,31 @@
+{
+  "name": "Staff Head",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Woodworking Components",
+  "difficulty": 25,
+  "craft_time": 1,
+  "description": "Crafting Component used in the assembly of a Mystical Staff.",
+  "requires": [{
+    "id": "plank",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "plank",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "plank",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "runestone-death",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "runestone-life",
+    "quantity": 1,
+    "demand": "required"
+  }],
+  "type": "component"
+}

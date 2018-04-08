@@ -1,0 +1,5 @@
+{
+  "name": "Wood",
+  "type": "resource",
+  "variants": ["Ash", "Birch", "Oak", "Spruce", "Yew"]
+}

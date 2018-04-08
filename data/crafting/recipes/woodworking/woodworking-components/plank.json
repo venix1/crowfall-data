@@ -1,0 +1,23 @@
+{
+  "name": "Plank",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Woodworking Components",
+  "difficulty": 5,
+  "craft_time": 1,
+  "description": "Crafting Component",
+  "requires": [{
+    "id": "wood",
+    "quantity": 3,
+    "demand": "required"
+  }, {
+    "id": "wood",
+    "quantity": 3,
+    "demand": "required"
+  }, {
+    "id": "wood",
+    "quantity": 3,
+    "demand": "required"
+  }],
+  "type": "component"
+}

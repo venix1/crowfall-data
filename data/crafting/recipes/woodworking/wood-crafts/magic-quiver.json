@@ -1,0 +1,31 @@
+{
+  "name": "Advanced Arrows",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Wood Crafts",
+  "difficulty": 25,
+  "craft_time": 1,
+  "description": "Creates a Magic Quiver that supplies the Ranger with unlimited Ammo but decays over time like other weapons.",
+  "requires": [{
+      "id": "arrowhead-bundle",
+      "quantity": 1,
+      "demand": "wildcard"
+    },
+    {
+      "id": "arrow-shaft-bundle",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "arrow-shaft-bundle",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "heartwood",
+      "quantity": 2,
+      "demand": "required"
+    }
+  ],
+  "type": "recipe"
+}

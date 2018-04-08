@@ -1,0 +1,31 @@
+{
+  "name": "One Handed Book",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Woodworking Weapons",
+  "difficulty": 35,
+  "craft_time": 1,
+  "description": "Creates a One Handed Book. Equippable on Confessor.",
+  "requires": [{
+      "id": "book-binding",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "book-bound-chapters",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "book-clasp",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "hunger-shard",
+      "quantity": 1,
+      "demand": "additive"
+    }
+  ],
+  "type": "recipe"
+}

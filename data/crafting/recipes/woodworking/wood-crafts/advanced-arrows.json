@@ -1,0 +1,19 @@
+{
+  "name": "Advanced Arrows",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Wood Crafts",
+  "difficulty": 15,
+  "craft_time": 1,
+  "description": "Ammunition.",
+  "requires": [{
+    "id": "arrowhead-bundle",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "arrow-shaft-bundle",
+    "quantity": 1,
+    "demand": "required"
+  }],
+  "type": "recipe"
+}

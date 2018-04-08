@@ -1,0 +1,36 @@
+{
+  "name": "Bow: Composite Recurve",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Woodworking Weapons",
+  "difficulty": 35,
+  "craft_time": 1,
+  "description": "Creates a Two Handed Composite Recurve Bow. Equippable on Ranger.",
+  "requires": [{
+      "id": "bow-stave-limb",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "bow-stave-limb",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "bow-riser",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "bow-string",
+      "quantity": 1,
+      "demand": "required"
+    },
+    {
+      "id": "hunger-shard",
+      "quantity": 1,
+      "demand": "additive"
+    }
+  ],
+  "type": "recipe"
+}

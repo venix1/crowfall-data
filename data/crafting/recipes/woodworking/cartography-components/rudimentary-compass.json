@@ -1,0 +1,19 @@
+{
+  "name": "Pen and Ink",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Cartography Components",
+  "difficulty": 25,
+  "craft_time": 1,
+  "description": "Creates a Rudimentary Compass used for crafting a Blank Map.",
+  "requires": [{
+    "id": "wood",
+    "quantity": 2,
+    "demand": "required"
+  }, {
+    "id": "ore-concentrate",
+    "quantity": 1,
+    "demand": "required"
+  }],
+  "type": "component"
+}

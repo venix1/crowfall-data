@@ -1,0 +1,23 @@
+{
+  "name": "Book Binding",
+  "tradeskill": "Woodworking",
+  "assembly_stat": "Woodworking",
+  "tradeskill_group": "Woodworking Components",
+  "difficulty": 25,
+  "craft_time": 1,
+  "description": "Crafting Component used in the assembly of a One Handed Book.",
+  "requires": [{
+    "id": "plank",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "plank",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "stitched-leather",
+    "quantity": 1,
+    "demand": "required"
+  }],
+  "type": "component"
+}
