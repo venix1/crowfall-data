@@ -1,24 +1,23 @@
 {
   "classes": [
-    "assassin",
     "champion",
-    "duelist",
+    "cleric",
+    "druid",
     "knight",
     "myrmidon",
-    "ranger",
     "templar"
   ],
-  "description": "Crack that whip and give the past the slip.  It's not too late... To spirit whip it!",
-  "name": "Spirit Whip",
+  "description": "Plate is the new denim.",
+  "name": "Plate Proficiency",
   "powers": [
-    "spirit-whip"
+    "plate-proficiency"
   ],
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
   "tags": [],
   "stats": [],
-  "equips": [],
+  "equips": ["Plate Proficiency"],
   "tray_granted": "",
   "tray_removed": ""
 }

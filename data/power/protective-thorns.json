@@ -1,21 +1,19 @@
 {
-    "cast_type": "",
-    "cooldown": 0,
-    "cost": [],
-    "duration": 20,
-    "max_targets": 0,
-    "name": "Protective Thorns",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 0,
-    "sources": [
-        {
-            "id": "protective-thorns",
-            "data_type": "discipline"
-        }
-    ],
-    "tags": [],
-    "targeting": "self",
-    "type": "passive",
-    "description": "Fortify your Armor Class increasing it by three times your Thorns plus Bonus Thorns for 20 seconds whenever you activate Thorns."
+  "cast_type": "",
+  "cooldown": 0,
+  "cost": [],
+  "duration": 20,
+  "max_targets": 0,
+  "name": "Protective Thorns",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "protective-thorns",
+    "data_type": "discipline"
+  }],
+  "tags": [],
+  "targeting": "self",
+  "type": "passive",
+  "description": "Fortify your Armor Bonus for 20 seconds when activating Thorns and gain one percent Bonus Armor for every 25 points Thorns and Bonus Thorns."
 }

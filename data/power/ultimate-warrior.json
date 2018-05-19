@@ -1,23 +1,24 @@
 {
-    "cast_type": "instant",
-    "cooldown": 0,
-    "cost": [],
-    "duration": 0,
-    "max_targets": 1,
-    "name": "Ultimate Warrior",
-    "next_chain": [],
-    "previous_chain": [],
-    "range": 0,
-    "sources": [
-        {
-            "id": "champion",
-            "data_type": "class"
-        }
-    ],
-    "tags": [
-        "Champion"
-    ],
-    "targeting": "self",
-    "type": "non-aggressive",
-    "description": "Harness your Hatred, growing in size and increasing Bonus Damage by 10%. This effect can stack twice."
+  "cast_type": "instant",
+  "cooldown": 0,
+  "cost": [{
+    "name": "hate",
+    "cost": 100
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Ultimate Warrior",
+  "next_chain": [],
+  "previous_chain": [],
+  "range": 0,
+  "sources": [{
+    "id": "champion",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Champion"
+  ],
+  "targeting": "self",
+  "type": "non-aggressive",
+  "description": "Harness your Hatred and grow in size, increase Bonus Damage by up to 10%, heal restore Rage and grant two points of Dominance. This effect can stack twice."
 }

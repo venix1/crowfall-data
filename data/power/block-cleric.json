@@ -3,9 +3,9 @@
   "cooldown": 0,
   "cost": [{
     "name": "stamina",
-    "cost": 0
+    "cost": 6
   }],
-  "duration": 5,
+  "duration": 0,
   "max_targets": 1,
   "name": "Block (Cleric)",
   "next_chain": [],
@@ -21,5 +21,5 @@
   ],
   "targeting": "self",
   "type": "block",
-  "description": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects. Enemies striking you with Elemental attacks take 100% Weapon Damage in return. Increases damage by 15% for 5 seconds for each 150 damage taken while Blocking. Taking more than 150 damage while Blocking activates Shield Bash and increases damage by 15% for 5 seconds for each 150 damage taken while Blocking."
+  "description": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects. Group members recieve healing whenever enemies strike you with an attack inflicting more than 150 damage while Block is active."
 }

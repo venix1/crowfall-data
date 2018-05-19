@@ -1,31 +1,27 @@
 {
-    "cast_type": "instant",
-    "cooldown": 9,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 11
-        }
-    ],
-    "duration": 0,
-    "max_targets": 1,
-    "name": "Spinning Backfist",
-    "next_chain": [
-        "kick-sand"
-    ],
-    "previous_chain": [],
-    "range": 5,
-    "sources": [
-        {
-            "id": "champion",
-            "data_type": "class"
-        }
-    ],
-    "tags": [
-        "Champion",
-        "Crushing"
-    ],
-    "targeting": "cone",
-    "type": "melee attack",
-    "description": "Spin in front of you dealing 104 - 141 + 122% Weapon Damage as Crushing Damage."
+  "cast_type": "instant",
+  "cooldown": 9,
+  "cost": [{
+    "name": "rage",
+    "cost": 14
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Spinning Backfist",
+  "next_chain": [
+    "kick-sand"
+  ],
+  "previous_chain": [],
+  "range": 5,
+  "sources": [{
+    "id": "champion",
+    "data_type": "class"
+  }],
+  "tags": [
+    "Champion",
+    "Crushing"
+  ],
+  "targeting": "cone",
+  "type": "melee attack",
+  "description": "Spin in front of you dealing 125-169 + 147% Weapon Damage as Crushing Damage. Consumes a point of Dominance when used for a guaranteed critical hit."
 }

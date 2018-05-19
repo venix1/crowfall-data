@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 0,
+  "cooldown": 6,
   "cost": [],
   "duration": 0,
   "max_targets": 1,

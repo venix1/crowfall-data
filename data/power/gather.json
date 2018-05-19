@@ -4,14 +4,12 @@
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Gaea's Wail",
+  "name": "Gather",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [],
-  "tags": [
-    "Gathering"
-  ],
+  "tags": [],
   "targeting": "reticle",
   "type": "melee attack",
   "description": "Gather Wood for 25-25 Damage."

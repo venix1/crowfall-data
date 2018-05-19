@@ -3,19 +3,23 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "max_targets": 0,
-  "name": "Uniform Plate",
+  "max_targets": 1,
+  "name": "Fae Bloodline",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "uniform-plate",
+    "id": "fae",
     "data_type": "discipline"
   }],
   "tags": [
-    "Attack Power"
+    "Fae",
+    "Bloodline",
+    "Double Jump",
+    "Glide",
+    "Stealth"
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase your Attack Power by 100 when wearing a full set of non-basic Plate armor."
+  "description": "Increase your Stealth Movement Speed by 70%, gain Glide and Double Jump."
 }

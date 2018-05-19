@@ -15,5 +15,5 @@
   "tags": ["Gathering"],
   "targeting": "self",
   "type": "passive",
-  "description": "Increases your Decay Rate: All Tools by 50%."
+  "description": "Decrease your Decay Rate: All Tools by 50%."
 }

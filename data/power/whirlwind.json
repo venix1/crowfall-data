@@ -23,6 +23,6 @@
     "Myrmidon"
   ],
   "targeting": "sphere",
-  "type": "crowd control",
+  "type": "melee attack",
   "description": "Spin around rapidly hitting nearby enemies multiple times for 24-30 + 27% Weapon Damage and causing them to Bleed for 18-24 damage."
 }

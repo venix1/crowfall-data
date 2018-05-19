@@ -1,18 +1,30 @@
 {
-    "classes": [
-        "assassin",
-        "druid",
-        "frostweaver"
-    ],
-    "description": "",
-    "name": "Fae",
-    "tags": [],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "assassin",
+    "druid",
+    "frostweaver"
+  ],
+  "description": "Once a playful and joyous folk, the Fae have developed an interesting method of population control many do not understand.",
+  "name": "Fae",
+  "tags": [],
+  "powers": [
+    "fae-bloodline",
+    "dodge-fae",
+    "faerie-fire"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+      "name": "dexterity",
+      "value": 30
+    },
+    {
+      "name": "intellect",
+      "value": 30
+    }
+  ],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

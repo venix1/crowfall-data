@@ -2,23 +2,27 @@
   "classes": [
     "assassin",
     "champion",
+    "cleric",
+    "confessor",
+    "druid",
     "duelist",
+    "frostweaver",
     "knight",
     "myrmidon",
     "ranger",
     "templar"
   ],
-  "description": "Crack that whip and give the past the slip.  It's not too late... To spirit whip it!",
-  "name": "Spirit Whip",
+  "description": "Mail is the new denim.",
+  "name": "Mail Proficiency",
   "powers": [
-    "spirit-whip"
+    "mail-proficiency"
   ],
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
   "tags": [],
   "stats": [],
-  "equips": [],
+  "equips": ["Mail Proficiency"],
   "tray_granted": "",
   "tray_removed": ""
 }
