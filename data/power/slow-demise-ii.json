@@ -1,0 +1,26 @@
+{
+  "cast_type": "instant",
+  "cooldown": 45,
+  "cost": [{
+    "name": "resource",
+    "cost": 18
+  }],
+  "duration": 15,
+  "max_targets": 1,
+  "name": "Slow Demise II",
+  "next_chain": [],
+  "previous_chain": [
+    "slow-demise"
+  ],
+  "range": 5,
+  "sources": [{
+    "id": "master-of-daggers",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "Heal"
+  ],
+  "targeting": "cone",
+  "type": "debuff",
+  "description": "Torment an enemy reducing their Healing Bonus and inflicting 141-191 + 166% Weapon Damage."
+}

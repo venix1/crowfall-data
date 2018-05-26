@@ -8,7 +8,10 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
-  "sources": [],
+  "sources": [{
+    "id": "blade-master",
+    "data_type": "discipline"
+  }],
   "tags": [
     "Power Efficiency"
   ],

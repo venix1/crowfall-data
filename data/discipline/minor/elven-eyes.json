@@ -18,7 +18,7 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": [],
+  "tags": ["Far Sight"],
   "stats": [{
     "name": "Far-Sight",
     "value": 25

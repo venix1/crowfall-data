@@ -7,7 +7,7 @@
   }],
   "duration": 0,
   "max_targets": 1,
-  "name": "Adjudicate 2",
+  "name": "Adjudicate II",
   "next_chain": [],
   "previous_chain": [
     "adjudicate"

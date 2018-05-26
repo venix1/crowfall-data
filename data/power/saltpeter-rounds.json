@@ -1,8 +1,8 @@
 {
   "cast_type": "instant",
-  "cooldown": 68,
+  "cooldown": 24,
   "cost": [],
-  "duration": 30,
+  "duration": 20,
   "max_targets": 1,
   "name": "Saltpeter Rounds",
   "next_chain": [],
@@ -20,5 +20,5 @@
   ],
   "targeting": "self",
   "type": "buff",
-  "description": "While active, any Pistol attacks have a chance to apply a movement speed reduction for the next 30 seconds, as well as increasing your Distance Bonus by 5."
+  "description": "Pistol attacks have a chance to apply a movement speed reduction for the next 20 seconds, as well as increasing your Distance Bonus by 5."
 }

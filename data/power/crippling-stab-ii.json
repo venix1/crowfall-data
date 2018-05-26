@@ -1,0 +1,24 @@
+{
+  "cast_type": "instant",
+  "cooldown": 30,
+  "cost": [{
+    "name": "resource",
+    "cost": 6
+  }],
+  "duration": 0,
+  "max_targets": 1,
+  "name": "Crippling Stab II",
+  "next_chain": [],
+  "previous_chain": [
+    "crippling-stab"
+  ],
+  "range": 5,
+  "sources": [{
+    "id": "master-of-daggers",
+    "data_type": "discipline"
+  }],
+  "tags": [],
+  "targeting": "cone",
+  "type": "buff",
+  "description": "Stab an enemy with a quick strike reducing your short cooldown time and causing 49-67 + 58% Weapon Damage."
+}

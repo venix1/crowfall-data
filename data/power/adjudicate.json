@@ -9,7 +9,7 @@
   "max_targets": 1,
   "name": "Adjudicate",
   "next_chain": [
-    "adjudicate-2"
+    "adjudicate-ii"
   ],
   "previous_chain": [],
   "range": 5,

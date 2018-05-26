@@ -3,7 +3,7 @@
   "cooldown": 0,
   "cost": [],
   "duration": 60,
-  "max_targets": 0,
+  "max_targets": 1,
   "name": "Blood Price",
   "next_chain": [],
   "previous_chain": [],

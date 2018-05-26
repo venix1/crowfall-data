@@ -3,22 +3,24 @@
   "cooldown": 5,
   "cost": [{
     "name": "resource",
-    "cost": 7
+    "cost": 14
   }],
   "duration": 0,
-  "max_targets": 1,
-  "name": "Crippling Stab",
+  "max_targets": 5,
+  "name": "Blood Strike II",
   "next_chain": [
-    "crippling-stab-ii"
+    "blood-strike-iii"
   ],
-  "previous_chain": [],
+  "previous_chain": [
+    "blood-strike"
+  ],
   "range": 5,
   "sources": [{
-    "id": "master-of-daggers",
+    "id": "blade-master",
     "data_type": "discipline"
   }],
   "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Stab an enemy for 48-64 + 56% Weapon Damage."
+  "description": "Slash enemies for 62-83 + 72% Weapon Damage."
 }
