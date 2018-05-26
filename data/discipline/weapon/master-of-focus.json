@@ -16,11 +16,11 @@
   "type": "weapon",
   "tags": [],
   "stats": [{
-      "name": "Fire Damage Bonus",
+      "name": "Damage Bonus: Fire",
       "value": 6.25
     },
     {
-      "name": "Ice Damage Bonus",
+      "name": "Damage Bonus: Ice",
       "value": 6.25
     }
   ],
