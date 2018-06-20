@@ -18,9 +18,34 @@
   "tags": [],
   "type": "race",
   "stats": [{
-    "name": "constitution",
-    "value": 30
-  }],
+      "name": "Constitution",
+      "value": 30
+    },
+    {
+      "name": "Strength Cap",
+      "value": 50
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": -50
+    },
+    {
+      "name": "Constitution Cap",
+      "value": 100
+    },
+    {
+      "name": "Intellect Cap",
+      "value": -50
+    },
+    {
+      "name": "Spirit Cap",
+      "value": -50
+    },
+    {
+      "name": "Food Regen Cap",
+      "value": -60
+    }
+  ],
   "equips": [],
   "tray_granted": "",
   "tray_removed": ""

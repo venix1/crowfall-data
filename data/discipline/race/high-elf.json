@@ -23,6 +23,22 @@
     {
       "name": "Elemental Armor Bonus",
       "value": 5
+    },
+    {
+      "name": "Strength Cap",
+      "value": -50
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": 50
+    },
+    {
+      "name": "Constitution Cap",
+      "value": -50
+    },
+    {
+      "name": "intellect cap",
+      "value": 50
     }
   ],
   "equips": [],

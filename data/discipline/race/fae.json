@@ -16,12 +16,24 @@
   "slots_removed": [],
   "type": "race",
   "stats": [{
-      "name": "dexterity",
+      "name": "Dexterity",
       "value": 30
     },
     {
-      "name": "intellect",
+      "name": "Intellect",
       "value": 30
+    },
+    {
+      "name": "Strength Cap",
+      "value": -50
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": 100
+    },
+    {
+      "name": "Constitution Cap",
+      "value": -50
     }
   ],
   "equips": [],

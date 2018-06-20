@@ -18,16 +18,28 @@
   ],
   "slots_removed": [],
   "stats": [{
-      "name": "dexterity",
+      "name": "Dexterity",
       "value": 60
     },
     {
-      "name": "intellect",
+      "name": "Intellect",
       "value": 30
     },
     {
-      "name": "subsistence",
+      "name": "Subsistence",
       "value": 0.1
+    },
+    {
+      "name": "Strength Cap",
+      "value": -50
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": 100
+    },
+    {
+      "name": "constitution cap",
+      "value": -50
     }
   ],
   "tray_granted": "",

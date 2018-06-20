@@ -1,19 +1,43 @@
 {
-    "classes": [
-        "knight",
-        "champion",
-        "myrmidon",
-        "cleric"
-    ],
-    "description": "",
-    "name": "Stoneborn",
-    "tags": [],
-    "powers": [],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "race",
-    "stats": [],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "knight",
+    "champion",
+    "myrmidon",
+    "cleric"
+  ],
+  "description": "Enchanted creatures shaped of raw earth and living tree, with skin of living stone and beards of twisted vines and earthen roots.",
+  "name": "Stoneborn",
+  "tags": [],
+  "powers": ["stoneborn-bloodline", "stone-skin", "barrell-roll"],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "race",
+  "stats": [{
+      "name": "Strength",
+      "value": 30
+    },
+    {
+      "name": "Spirit",
+      "value": 30
+    },
+    {
+      "name": "Constitution",
+      "value": 30
+    },
+    {
+      "name": "Strength Cap",
+      "value": 50
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": -100
+    },
+    {
+      "name": "Constitution Cap",
+      "value": 50
+    }
+  ],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

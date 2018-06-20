@@ -23,6 +23,26 @@
     {
       "name": "Constitution",
       "value": 60
+    },
+    {
+      "name": "Strength Cap",
+      "value": 100
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": -100
+    },
+    {
+      "name": "Constitution Cap",
+      "value": 50
+    },
+    {
+      "name": "intellect cap",
+      "value": -50
+    },
+    {
+      "name": "food regen cap",
+      "value": -30
     }
   ],
   "equips": [],

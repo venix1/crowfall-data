@@ -21,8 +21,24 @@
       "value": 30
     },
     {
-      "name": "Food Regen: Rate",
+      "name": "Food Regen Rate",
       "value": -30
+    },
+    {
+      "name": "Strength Cap",
+      "value": 50
+    },
+    {
+      "name": "Constitution Cap",
+      "value": 100
+    },
+    {
+      "name": "Intellect Cap",
+      "value": -100
+    },
+    {
+      "name": "Spirit Cap",
+      "value": -50
     }
   ],
   "equips": [],

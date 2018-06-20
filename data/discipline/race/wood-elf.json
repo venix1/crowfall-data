@@ -18,9 +18,26 @@
   "slots_removed": [],
   "type": "race",
   "stats": [{
-    "name": "spirit",
-    "value": 30
-  }],
+      "name": "Spirit",
+      "value": 30
+    },
+    {
+      "name": "Strength Cap",
+      "value": -50
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": 50
+    },
+    {
+      "name": "Intellect Cap",
+      "value": -50
+    },
+    {
+      "name": "Spirit Cap",
+      "value": 50
+    }
+  ],
   "equips": [],
   "tray_granted": "",
   "tray_removed": ""

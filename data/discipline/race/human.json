@@ -15,7 +15,7 @@
     "sidestep",
     "candle-that-burns"
   ],
-  "slots_granted": [],
+  "slots_granted": ["Cloak"],
   "slots_removed": [],
   "type": "race",
   "stats": [{

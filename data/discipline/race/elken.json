@@ -19,20 +19,32 @@
   "slots_removed": [],
   "type": "race",
   "stats": [{
-      "name": "strength",
+      "name": "Strength",
       "value": 30
     },
     {
-      "name": "constitution",
+      "name": "Constitution",
       "value": 30
     },
     {
-      "name": "perception",
+      "name": "Perception",
       "value": 25
     },
     {
-      "name": "ranged distance bonus",
+      "name": "Ranged Distance Bonus",
       "value": 10
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": 50
+    },
+    {
+      "name": "Intellect Cap",
+      "value": -50
+    },
+    {
+      "name": "Food Regen Rate",
+      "value": -30
     }
   ],
   "equips": [],

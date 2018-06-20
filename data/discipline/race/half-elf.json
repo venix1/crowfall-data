@@ -15,20 +15,28 @@
   "slots_removed": [],
   "type": "race",
   "stats": [{
-      "name": "dexterity",
+      "name": "Dexterity",
       "value": 60
     },
     {
-      "name": "intellect",
+      "name": "Intellect",
       "value": 30
     },
     {
-      "name": "spirit",
+      "name": "Spirit",
       "value": 30
     },
     {
-      "name": "power bar bonus slots",
+      "name": "Power Bar Bonus Slots",
       "value": 1
+    },
+    {
+      "name": "Dexterity Cap",
+      "value": 50
+    },
+    {
+      "name": "Constitution Cap",
+      "value": -50
     }
   ],
   "equips": [],
