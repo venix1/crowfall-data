@@ -11,9 +11,10 @@
     "dash",
     "wild-charge",
     "strength-of-the-legion",
-    "hippocratic-oath"
+    "hippocratic-oath",
+    "rear-kick"
   ],
-  "slots_granted": ["horseshoes"],
+  "slots_granted": ["Horseshoes Slot"],
   "slots_removed": [],
   "tags": [],
   "type": "race",
@@ -22,31 +23,27 @@
       "value": 30
     },
     {
-      "name": "Strength Cap",
-      "value": 50
+      "name": "Blacksmithing",
+      "value": 10
     },
     {
-      "name": "Dexterity Cap",
-      "value": -50
+      "name": "Blacksmithing Experimentation",
+      "value": 5
     },
     {
-      "name": "Constitution Cap",
-      "value": 100
+      "name": "Woodworking",
+      "value": 10
     },
     {
-      "name": "Intellect Cap",
-      "value": -50
+      "name": "Woodworking Experimentation",
+      "value": 5
     },
     {
-      "name": "Spirit Cap",
-      "value": -50
-    },
-    {
-      "name": "Food Regen Cap",
+      "name": "Food Regen Rate",
       "value": -60
     }
   ],
-  "equips": [],
+  "equips": ["Horshoes Slot"],
   "tray_granted": "",
   "tray_removed": ""
 }

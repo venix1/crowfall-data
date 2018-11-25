@@ -15,20 +15,36 @@
     "sidestep",
     "candle-that-burns"
   ],
-  "slots_granted": ["Cloak"],
+  "slots_granted": ["Cloak Slot"],
   "slots_removed": [],
   "type": "race",
   "stats": [{
-      "name": "strength",
+      "name": "Strength",
       "value": 30
     },
     {
-      "name": "power bar bonus slots",
+      "name": "Power Bar Bonus Slots",
       "value": 1
     },
     {
-      "name": "passive bonus slots",
+      "name": "Passive Bonus Slots",
       "value": 1
+    },
+    {
+      "name": "Blacksmithing",
+      "value": 10
+    },
+    {
+      "name": "Blacksmithing Experimentation",
+      "value": 5
+    },
+    {
+      "name": "Leatherworking",
+      "value": 10
+    },
+    {
+      "name": "Leatherworking Experimentation",
+      "value": 5
     }
   ],
   "equips": [],

@@ -18,16 +18,24 @@
   "slots_removed": [],
   "type": "race",
   "stats": [{
-      "name": "intellect",
+      "name": "Intellect",
       "value": 30
     },
     {
-      "name": "Strength Cap",
-      "value": -50
+      "name": "Blacksmithing",
+      "value": 10
     },
     {
-      "name": "Intellect Cap",
-      "value": 50
+      "name": "Blacksmithing Experimentation",
+      "value": 5
+    },
+    {
+      "name": "Necromancy",
+      "value": 10
+    },
+    {
+      "name": "Necromancy Experimentation",
+      "value": 10
     }
   ],
   "equips": [],

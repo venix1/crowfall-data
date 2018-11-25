@@ -8,7 +8,7 @@
   ],
   "description": "Silent and brooding, the Elken speak mostly through gestures. They apparently keep no memory of the men they once were, but retain their intellect and, of course, their love of the hunt.",
   "name": "Elken",
-  "tags": ["Anti-Stealth"],
+  "tags": [],
   "powers": [
     "elken-bloodline",
     "bound",
@@ -31,16 +31,20 @@
       "value": 25
     },
     {
-      "name": "Ranged Distance Bonus",
+      "name": "Leatherworking",
       "value": 10
     },
     {
-      "name": "Dexterity Cap",
-      "value": 50
+      "name": "Leatherworking Experimentation",
+      "value": 5
     },
     {
-      "name": "Intellect Cap",
-      "value": -50
+      "name": "Woodworking",
+      "value": 5
+    },
+    {
+      "name": "Woodworking Experimentation",
+      "value": 10
     },
     {
       "name": "Food Regen Rate",

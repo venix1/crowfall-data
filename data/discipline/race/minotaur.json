@@ -25,20 +25,20 @@
       "value": -30
     },
     {
-      "name": "Strength Cap",
-      "value": 50
+      "name": "Necromancy",
+      "value": 10
     },
     {
-      "name": "Constitution Cap",
-      "value": 100
+      "name": "Necromancy Experimentation",
+      "value": 10
     },
     {
-      "name": "Intellect Cap",
-      "value": -100
+      "name": "Stonemasonry",
+      "value": 10
     },
     {
-      "name": "Spirit Cap",
-      "value": -50
+      "name": "Stonemasonry Experimentation",
+      "value": 5
     }
   ],
   "equips": [],

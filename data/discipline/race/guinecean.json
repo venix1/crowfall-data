@@ -10,11 +10,10 @@
   "powers": [
     "guinecean-bloodline",
     "leap-roll",
-    "guinecean-burrow",
-    "saltpeter-rounds"
+    "guinecean-burrow"
   ],
   "slots_granted": [
-    "ring"
+    "Ring Slot"
   ],
   "slots_removed": [],
   "stats": [{
@@ -27,19 +26,23 @@
     },
     {
       "name": "Subsistence",
-      "value": 0.1
+      "value": 10%
     },
     {
-      "name": "Strength Cap",
-      "value": -50
+      "name": "Jewelcrafting",
+      "value": 5
     },
     {
-      "name": "Dexterity Cap",
-      "value": 100
+      "name": "Jewelcrafting Experimentation",
+      "value": 10
     },
     {
-      "name": "constitution cap",
-      "value": -50
+      "name": "Woodworking",
+      "value": 10
+    },
+    {
+      "name": "Woodworking Experimentation",
+      "value": 5
     }
   ],
   "tray_granted": "",

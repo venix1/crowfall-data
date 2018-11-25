@@ -24,16 +24,24 @@
       "value": 30
     },
     {
-      "name": "Strength Cap",
-      "value": -50
+      "name": "Movement Speed: Stealth",
+      "value": 75%
     },
     {
-      "name": "Dexterity Cap",
-      "value": 100
+      "name": "Leatherworking",
+      "value": 10
     },
     {
-      "name": "Constitution Cap",
-      "value": -50
+      "name": "Leatherworking Experimentation",
+      "value": 5
+    },
+    {
+      "name": "Necromancy",
+      "value": 10
+    },
+    {
+      "name": "Necromancy Experimentation",
+      "value": 10
     }
   ],
   "equips": [],

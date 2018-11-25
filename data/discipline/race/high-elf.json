@@ -10,7 +10,7 @@
   "tags": [],
   "powers": [
     "high-elf-bloodline",
-    "dodge-high-elf",
+    "cartwheel",
     "humiliate"
   ],
   "slots_granted": ["Amulet"],
@@ -22,23 +22,23 @@
     },
     {
       "name": "Elemental Armor Bonus",
+      "value": 5%
+    },
+    {
+      "name": "Jewelcrafting",
+      "value": 10
+    },
+    {
+      "name": "Jewelcrafting Experimentation",
       "value": 5
     },
     {
-      "name": "Strength Cap",
-      "value": -50
+      "name": "Leatherworking",
+      "value": 10
     },
     {
-      "name": "Dexterity Cap",
-      "value": 50
-    },
-    {
-      "name": "Constitution Cap",
-      "value": -50
-    },
-    {
-      "name": "intellect cap",
-      "value": 50
+      "name": "Leatherworking Experimentation",
+      "value": 5
     }
   ],
   "equips": [],

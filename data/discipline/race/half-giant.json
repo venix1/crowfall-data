@@ -25,23 +25,23 @@
       "value": 60
     },
     {
-      "name": "Strength Cap",
-      "value": 100
+      "name": "Leatherworking",
+      "value": 5
     },
     {
-      "name": "Dexterity Cap",
-      "value": -100
+      "name": "Leatherworking Experimentation",
+      "value": 10
     },
     {
-      "name": "Constitution Cap",
-      "value": 50
+      "name": "Stonemasonry",
+      "value": 10
     },
     {
-      "name": "intellect cap",
-      "value": -50
+      "name": "Stonemasonry Experimentation",
+      "value": 5
     },
     {
-      "name": "food regen cap",
+      "name": "Food Regen Rate",
       "value": -30
     }
   ],

@@ -8,7 +8,11 @@
   "description": "Enchanted creatures shaped of raw earth and living tree, with skin of living stone and beards of twisted vines and earthen roots.",
   "name": "Stoneborn",
   "tags": [],
-  "powers": ["stoneborn-bloodline", "stone-skin", "barrell-roll"],
+  "powers": [
+    "stoneborn-bloodline",
+    "stone-skin",
+    "barrell-roll"
+  ],
   "slots_granted": [],
   "slots_removed": [],
   "type": "race",
@@ -25,16 +29,20 @@
       "value": 30
     },
     {
-      "name": "Strength Cap",
-      "value": 50
+      "name": "Jewelcrafting",
+      "value": 5
     },
     {
-      "name": "Dexterity Cap",
-      "value": -100
+      "name": "Jewelcrafting Experimentation",
+      "value": 10
     },
     {
-      "name": "Constitution Cap",
-      "value": 50
+      "name": "Stonemasonry",
+      "value": 10
+    },
+    {
+      "name": "Stonemasonry Experimentation",
+      "value": 5
     }
   ],
   "equips": [],

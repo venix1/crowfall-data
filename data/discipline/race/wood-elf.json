@@ -22,20 +22,20 @@
       "value": 30
     },
     {
-      "name": "Strength Cap",
-      "value": -50
+      "name": "Blacksmithing",
+      "value": 10
     },
     {
-      "name": "Dexterity Cap",
-      "value": 50
+      "name": "Blacksmithing Experimentation",
+      "value": 5
     },
     {
-      "name": "Intellect Cap",
-      "value": -50
+      "name": "Woodworking",
+      "value": 10
     },
     {
-      "name": "Spirit Cap",
-      "value": 50
+      "name": "Woodworking Experimentation",
+      "value": 5
     }
   ],
   "equips": [],
