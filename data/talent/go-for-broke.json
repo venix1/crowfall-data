@@ -1,0 +1,20 @@
+{
+  "id": "go-for-broke",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Go For Broke",
+  "unlocks": [
+    "go-for-broke"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "flick-of-the-blade",
+      "nimbleness"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Go For Broke power."
+}

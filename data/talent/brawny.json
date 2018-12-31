@@ -1,0 +1,17 @@
+{
+  "id": "brawny",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Brawny",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "bloody-swipe"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Brawny improves Maximum Health by 100 per point spent."
+}

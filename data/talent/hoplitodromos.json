@@ -1,0 +1,20 @@
+{
+  "id": "hoplitodromos",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Hoplitodromos",
+  "unlocks": [
+    "pursuit",
+    "resolve"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "shield-bash"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Pursuit power and the Resolve passive power."
+}

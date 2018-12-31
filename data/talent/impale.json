@@ -1,0 +1,19 @@
+{
+  "id": "impale",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Impale",
+  "unlocks": [
+    "impale"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "critical-insight"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Impale power."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hellfire",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Hellfire",
+  "unlocks": [
+    "hellfire-shield"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "revelation",
+      "divine-armor",
+      "persecution"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Hellfire Shield power."
+}

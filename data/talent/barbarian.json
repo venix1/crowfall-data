@@ -1,0 +1,19 @@
+{
+  "id": "barbarian",
+  "class": "Champion",
+  "promotion": "Barbarian",
+  "name": "Barbarian",
+  "unlocks": [
+    "barbarian"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "revenge"
+    ],
+    "spentPips": 0,
+    "levelRequired": 25
+  },
+  "details": "This talent grants the Barbarian passive power.\r\nIncreases by 15%: Slashing Damage Cap|Crushing Damage Cap \r\nYou can now equip: Runic Great Axes|Runic Great Maces"
+}

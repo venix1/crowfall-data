@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-ranger",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Ranger)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "gleeful-strike"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

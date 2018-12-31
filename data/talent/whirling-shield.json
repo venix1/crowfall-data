@@ -1,0 +1,19 @@
+{
+  "id": "whirling-shield",
+  "class": "Champion",
+  "promotion": "Pit Fighter",
+  "name": "Whirling Shield",
+  "unlocks": [],
+  "modifies": [
+    "whirling-pain"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "fast-counter-attack"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Whirling Shield enhances Whirling Pain to also activate a damage preventing Barrier."
+}

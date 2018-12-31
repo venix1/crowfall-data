@@ -1,0 +1,19 @@
+{
+  "id": "censure",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Censure",
+  "unlocks": [
+    "censure"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "reproach"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Censure power."
+}

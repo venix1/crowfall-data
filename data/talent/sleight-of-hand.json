@@ -1,0 +1,19 @@
+{
+  "id": "sleight-of-hand",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Sleight of Hand",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "thievery",
+      "minor-discipline-slot-iii-ranger",
+      "cross-slash"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Sleight of Hand improves Basic Attack Damage by 5% per point spent."
+}

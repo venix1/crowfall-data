@@ -1,0 +1,19 @@
+{
+  "id": "vicious-stomp",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Vicious Stomp",
+  "unlocks": [
+    "vicious-stomp"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "leap"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Vicious Stomp power."
+}

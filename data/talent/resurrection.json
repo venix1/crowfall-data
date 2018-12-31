@@ -1,0 +1,21 @@
+{
+  "id": "resurrection",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Resurrection",
+  "unlocks": [
+    "resurrection"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "righteous-indignation",
+      "shining-armor",
+      "intercession"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Resurrection power."
+}

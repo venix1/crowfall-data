@@ -1,0 +1,17 @@
+{
+  "id": "blazing-judgement",
+  "class": "Templar",
+  "promotion": "Vindicator",
+  "name": "Blazing Judgement",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "excoriate"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Blazing Judgment improves Damage Bonus"
+}

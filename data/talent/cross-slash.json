@@ -1,0 +1,19 @@
+{
+  "id": "cross-slash",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Cross Slash",
+  "unlocks": [
+    "cross-slash"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "boundless-energy"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Cross Slash power."
+}

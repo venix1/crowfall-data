@@ -1,0 +1,19 @@
+{
+  "id": "dreadful-silencing",
+  "class": "Myrmidon",
+  "promotion": "Conqueror",
+  "name": "Dreadful Silencing",
+  "unlocks": [],
+  "modifies": [
+    "neck-slash"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "horrific-trauma"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Dreadful Silencing enhances Neck Slash to also inflict Suppression."
+}

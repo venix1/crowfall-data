@@ -1,0 +1,19 @@
+{
+  "id": "pulverize",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Pulverize",
+  "unlocks": [
+    "pulverize"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "cast-net"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Pulverize power."
+}

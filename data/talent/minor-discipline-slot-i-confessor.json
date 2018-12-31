@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-confessor",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Confessor)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "righteousness"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

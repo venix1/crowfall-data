@@ -1,0 +1,19 @@
+{
+  "id": "bark-skin",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Bark Skin",
+  "unlocks": [
+    "bark-skin"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "remnant-of-gaea"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Bark Skin power."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "spirit-dart",
+  "class": "Assassin",
+  "promotion": "Blackguard",
+  "name": "Spirit Dart",
+  "unlocks": [
+    "spirit-dart"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "payback"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Spirit Dart power."
+}

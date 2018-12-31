@@ -1,0 +1,21 @@
+{
+  "id": "flames-of-arkon",
+  "class": "Confessor",
+  "promotion": "Inquisitor",
+  "name": "Flames of Arkon",
+  "unlocks": [],
+  "modifies": [
+    "forced-confession",
+    "flames-of-truth"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "tools-of-justice",
+      "zeal"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Forced Confession no longer consumes Flames Of Truth when cast."
+}

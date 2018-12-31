@@ -1,0 +1,19 @@
+{
+  "id": "punishing-decree",
+  "class": "Templar",
+  "promotion": "Fury",
+  "name": "Punishing Decree",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "inner-light",
+      "subjugate",
+      "explosive-light"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Punishing Decree improves Movement Control Intensity and Hard Control Intensity by 7% per point spent."
+}

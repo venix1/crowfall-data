@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-iii-templar",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Minor Discipline Slot III (Templar)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ecstasy"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

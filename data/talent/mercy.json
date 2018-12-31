@@ -1,0 +1,17 @@
+{
+  "id": "mercy",
+  "class": "Knight",
+  "promotion": "Swordsman",
+  "name": "Mercy",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "commanding-vow"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Mercy improves Damage Bonus by 1% per point spent."
+}

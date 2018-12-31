@@ -1,0 +1,17 @@
+{
+  "id": "guts",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Guts",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "spinning-backfist"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Guts improves Critical Hit Chance by 1% per point spent."
+}

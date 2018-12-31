@@ -1,0 +1,19 @@
+{
+  "id": "storm-avatar",
+  "class": "Druid",
+  "promotion": "Stormcaller",
+  "name": "Storm Avatar",
+  "unlocks": [
+    "storm-avatar"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "weather-sense"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Storm Avatar power."
+}

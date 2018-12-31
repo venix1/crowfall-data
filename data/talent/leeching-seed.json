@@ -1,0 +1,19 @@
+{
+  "id": "leeching-seed",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Leeching Seed",
+  "unlocks": [
+    "leeching-seed"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "dream-away"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Leeching Seed power."
+}

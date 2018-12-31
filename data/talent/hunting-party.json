@@ -1,0 +1,17 @@
+{
+  "id": "hunting-party",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Hunting Party",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "rapid-fire"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Hunting Party improves Critical Hit Chance by 1% per point spent."
+}

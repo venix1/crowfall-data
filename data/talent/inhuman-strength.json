@@ -1,0 +1,19 @@
+{
+  "id": "inhuman-strength",
+  "class": "Myrmidon",
+  "promotion": "Titan",
+  "name": "Inhuman Strength",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "gathering-storm",
+      "indestructible-frenzy",
+      "blood-thirst"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Titan improves Armor Penetration"
+}

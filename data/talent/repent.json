@@ -1,0 +1,17 @@
+{
+  "id": "repent",
+  "class": "Confessor",
+  "promotion": "Fanatic",
+  "name": "Repent",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "atone"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Repent improves Hard Crowd Control by 6% per point spent."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bewildering-offense",
+  "class": "Duelist",
+  "promotion": "Slayer",
+  "name": "Bewildering Offense",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "run-and-gun",
+      "triple-aught-shot",
+      "dynamite"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Bewildering Offense improves Armor Penetration"
+}

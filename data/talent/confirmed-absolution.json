@@ -1,0 +1,20 @@
+{
+  "id": "confirmed-absolution",
+  "class": "Confessor",
+  "promotion": "Fanatic",
+  "name": "Confirmed Absolution",
+  "unlocks": [],
+  "modifies": [
+    "absolution"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "repent",
+      "plenary-indulgence"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Confirmed Absolution enhances Absolution to no longer consume Sin and always apply a Slow."
+}

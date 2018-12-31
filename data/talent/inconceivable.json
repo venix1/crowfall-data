@@ -1,0 +1,19 @@
+{
+  "id": "inconceivable",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Inconceivable",
+  "unlocks": [
+    "inconceivable"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "energetic"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Inconceivable! power."
+}

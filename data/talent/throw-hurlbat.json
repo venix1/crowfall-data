@@ -1,0 +1,19 @@
+{
+  "id": "throw-hurlbat",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Throw Hurlbat",
+  "unlocks": [
+    "throw-hurlbat"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "leap"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Throw Hurlbat power."
+}

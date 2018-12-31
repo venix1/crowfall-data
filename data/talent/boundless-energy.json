@@ -1,0 +1,17 @@
+{
+  "id": "boundless-energy",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Boundless Energy",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "gleeful-strike"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Boundless Energy improves Maximum Energy by 75 per point spent."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "shining-armor",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Shining Armor",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "magnificent-purpose",
+      "holy-warrior",
+      "grace"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Shining Armor improves Armor Bonus by 1% per point spent."
+}

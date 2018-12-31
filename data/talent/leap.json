@@ -1,0 +1,20 @@
+{
+  "id": "leap",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Leap",
+  "unlocks": [
+    "leap"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "guts",
+      "armaments"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Leap power."
+}

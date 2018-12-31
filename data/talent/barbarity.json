@@ -1,0 +1,19 @@
+{
+  "id": "barbarity",
+  "class": "Champion",
+  "promotion": "Alpha Warrior",
+  "name": "Barbarity",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "dominant-leap",
+      "violent-neckbreaker",
+      "rend-and-butcher"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Barbarity improves Armor Penetration"
+}

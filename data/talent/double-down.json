@@ -1,0 +1,19 @@
+{
+  "id": "double-down",
+  "class": "Assassin",
+  "promotion": "Vandal",
+  "name": "Double Down",
+  "unlocks": [],
+  "modifies": [
+    "kidney-shot"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "toxicology"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Double Down enhances Kidney Shot to apply a Severe Bleed when Stunning an enemy."
+}

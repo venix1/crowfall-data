@@ -1,0 +1,17 @@
+{
+  "id": "humble-duty",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Humble Duty",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "righteous-stand"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Humble Duty improves Maximum Health by 150 per point spent."
+}

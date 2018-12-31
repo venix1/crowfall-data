@@ -1,0 +1,17 @@
+{
+  "id": "lambs-become-lions",
+  "class": "Ranger",
+  "promotion": "Brigand",
+  "name": "Lambs Become Lions",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "into-the-shadows"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Lambs Become Lions improves Attack Power by 75 per point spent."
+}

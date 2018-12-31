@@ -1,0 +1,19 @@
+{
+  "id": "call-storm",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Call Storm",
+  "unlocks": [
+    "call-storm"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "remnant-of-gaea"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Call Storm power."
+}

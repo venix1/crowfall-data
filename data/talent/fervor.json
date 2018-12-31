@@ -1,0 +1,20 @@
+{
+  "id": "fervor",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Fervor",
+  "unlocks": [
+    "fervor"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "vendetta",
+      "armor-of-flame"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Fervor power."
+}

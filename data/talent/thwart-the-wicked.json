@@ -1,0 +1,19 @@
+{
+  "id": "thwart-the-wicked",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Thwart the Wicked",
+  "unlocks": [],
+  "modifies": [
+    "retaliate"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "anointed"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Thwart the Wicked enhances Retaliate powers to recover 35 Stamina over 7 seconds."
+}

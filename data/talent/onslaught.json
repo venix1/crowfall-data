@@ -1,0 +1,21 @@
+{
+  "id": "onslaught",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Onslaught",
+  "unlocks": [
+    "onslaught"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "bulwark",
+      "into-the-fray",
+      "pell-training"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Onslaught power."
+}

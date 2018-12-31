@@ -1,0 +1,17 @@
+{
+  "id": "commanding-vow",
+  "class": "Knight",
+  "promotion": "Swordsman",
+  "name": "Commanding Vow",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "onslaught"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Commanding Vow improves Attack Power by 75 per point spent.\r\nWARNING: Purchasing this talent commits you to the Swordsman promotion path and prevents access to the Secutor and Sentinel promotion paths."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "treant-lore",
+  "class": "Ranger",
+  "promotion": "Warden",
+  "name": "Treant Lore",
+  "unlocks": [],
+  "modifies": [
+    "archers-stake"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "barkskin"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Treant Lore enhances Archers Stake to become Treant Wood Stake| which removes its deploy time and reduces all Damage Taken by 15%."
+}

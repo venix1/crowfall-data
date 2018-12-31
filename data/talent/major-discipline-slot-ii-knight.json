@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-ii-knight",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Major Discipline Slot II (Knight)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "onslaught"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

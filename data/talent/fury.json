@@ -1,0 +1,19 @@
+{
+  "id": "fury",
+  "class": "Templar",
+  "promotion": "Fury",
+  "name": "Fury",
+  "unlocks": [
+    "fury"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "punishing-decree"
+    ],
+    "spentPips": 0,
+    "levelRequired": 25
+  },
+  "details": "This talent grants the Fury passive power.\r\nIncreases by 15%: Fire Damage Cap|Slashing Damage Cap \r\nYou can now equip: Runic Great Swords"
+}

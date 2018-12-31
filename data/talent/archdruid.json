@@ -1,0 +1,20 @@
+{
+  "id": "archdruid",
+  "class": "Druid",
+  "promotion": "Archdruid",
+  "name": "Archdruid",
+  "unlocks": [
+    "will-o-wisps",
+    "force-of-nature"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "heart-of-the-wild"
+    ],
+    "spentPips": 0,
+    "levelRequired": 25
+  },
+  "details": "This talent grants the powers: Will O Wisps| Force of Nature\r\nIncreases by 10%: Nature Damage Bonus| Nature Damage Bonus Cap| Final Mitigations Cap\r\nYou can now equip: Mail Armor| Runic Mystical Staves"
+}

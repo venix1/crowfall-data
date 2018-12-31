@@ -1,0 +1,20 @@
+{
+  "id": "triumphant-cry",
+  "class": "Ranger",
+  "promotion": "Warden",
+  "name": "Triumphant Cry",
+  "unlocks": [],
+  "modifies": [
+    "sweep"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "barkskin",
+      "shrapnel"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Triumphant Cry enhances Sweep to apply the Damage Bonus effect to all group members except you."
+}

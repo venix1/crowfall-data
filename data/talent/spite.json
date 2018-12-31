@@ -1,0 +1,17 @@
+{
+  "id": "spite",
+  "class": "Champion",
+  "promotion": "Barbarian",
+  "name": "Spite",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "malice"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Spite improves Attack Control Intensity by 7% per point spent."
+}

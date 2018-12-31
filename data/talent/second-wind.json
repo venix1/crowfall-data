@@ -1,0 +1,21 @@
+{
+  "id": "second-wind",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Second Wind",
+  "unlocks": [
+    "second-wind"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "brutality",
+      "fortification",
+      "outrage"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Second Wind power."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mark-of-the-storm",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Mark of the Storm",
+  "unlocks": [
+    "electrogenesis"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "remnant-of-gaea"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Electrogenesis passive power."
+}

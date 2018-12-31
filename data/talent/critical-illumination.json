@@ -1,0 +1,20 @@
+{
+  "id": "critical-illumination",
+  "class": "Cleric",
+  "promotion": "Radical",
+  "name": "Critical Illumination",
+  "unlocks": [],
+  "modifies": [
+    "illuminate"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "hammer-time",
+      "symbol-of-fury"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Critical Illumination enhances Illuminate to also increase Critical Hit Chance with each hit until you score three critical hits or the effect ends."
+}

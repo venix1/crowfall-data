@@ -1,0 +1,19 @@
+{
+  "id": "salvation",
+  "class": "Confessor",
+  "promotion": "Sanctifier",
+  "name": "Salvation",
+  "unlocks": [],
+  "modifies": [
+    "condemnation"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "militant"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Salvation enhances Condemnation to heal the caster each time it hits."
+}

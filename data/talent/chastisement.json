@@ -1,0 +1,17 @@
+{
+  "id": "chastisement",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Chastisement",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "righteous-stand"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Chastisement improves Attack Power by 50 per point spent."
+}

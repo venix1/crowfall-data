@@ -1,0 +1,20 @@
+{
+  "id": "shield-bash",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Shield Bash",
+  "unlocks": [
+    "shield-bash"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "martial-weaponry",
+      "armor-bearer"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Shield Bash power."
+}

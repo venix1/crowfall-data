@@ -1,0 +1,19 @@
+{
+  "id": "redeem",
+  "class": "Confessor",
+  "promotion": "Fanatic",
+  "name": "Redeem",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "damnation",
+      "hellfire-and-brimstone",
+      "confirmed-absolution"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Redeem improves Movement Crowd Control by 6% per point spent."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dagger-storm",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Dagger Storm",
+  "unlocks": [
+    "dagger-storm"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "deceptive-strength"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Dagger Storm power."
+}

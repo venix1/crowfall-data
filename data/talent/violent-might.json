@@ -1,0 +1,19 @@
+{
+  "id": "violent-might",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Violent Might",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "powerhouse",
+      "minor-discipline-slot-ii-myrmidon",
+      "frenzy"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Violent Might improves Critical Hit Damage by 5% per point spent."
+}

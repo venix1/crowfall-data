@@ -1,0 +1,19 @@
+{
+  "id": "flash-of-light",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Flash of Light",
+  "unlocks": [
+    "flash-of-light"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "illuminate"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Flash of Light power."
+}

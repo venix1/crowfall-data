@@ -1,0 +1,17 @@
+{
+  "id": "fiery-perdition",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Fiery Perdition",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "infallible-dictum"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Fiery Perdition improves Damage Bonus"
+}

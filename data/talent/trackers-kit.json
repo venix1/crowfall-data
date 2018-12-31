@@ -1,0 +1,20 @@
+{
+  "id": "trackers-kit",
+  "class": "Ranger",
+  "promotion": "Warden",
+  "name": "Trackers Kit",
+  "unlocks": [
+    "alertness",
+    "forest-step"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "shrapnel"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Alertness and Forest Step powers."
+}

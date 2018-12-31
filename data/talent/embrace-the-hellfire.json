@@ -1,0 +1,20 @@
+{
+  "id": "embrace-the-hellfire",
+  "class": "Confessor",
+  "promotion": "Sanctifier",
+  "name": "Embrace the Hellfire",
+  "unlocks": [],
+  "modifies": [
+    "hellfire-aura"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "militant",
+      "poise"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Embrace the Hellfire enhances Hellfire Aura to Increases the damage it deals by 50%. Also Fire Tornadoes no longer consume your Hellfire Aura."
+}

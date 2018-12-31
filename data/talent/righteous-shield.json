@@ -1,0 +1,19 @@
+{
+  "id": "righteous-shield",
+  "class": "Confessor",
+  "promotion": "Sanctifier",
+  "name": "Righteous Shield",
+  "unlocks": [],
+  "modifies": [
+    "righteousness"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "poise"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Righteous Shield enhances Righteousness to apply a Barrier that is 50% more resistant against Physical Damage for 8 seconds."
+}

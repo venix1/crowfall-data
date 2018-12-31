@@ -1,0 +1,17 @@
+{
+  "id": "weapon-mastery-i-upgrade-1-cleric",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Weapon Mastery I Upgrade 1 (Cleric)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "weapon-mastery-i-cleric"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the second discipline bonus from an equipped Weapon Mastery discipline."
+}

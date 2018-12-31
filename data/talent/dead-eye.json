@@ -1,0 +1,17 @@
+{
+  "id": "dead-eye",
+  "class": "Duelist",
+  "promotion": "Slayer",
+  "name": "Dead Eye",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "rapid-fire"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Dead Eye improves Critical Hit Chance by 2% per point spent.\r\nWARNING: Purchasing this talent commits you to the Slayer promotion path and prevents access to the Vanguard Scout and Dirge promotion paths."
+}

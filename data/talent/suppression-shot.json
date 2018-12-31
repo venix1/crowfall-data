@@ -1,0 +1,19 @@
+{
+  "id": "suppression-shot",
+  "class": "Ranger",
+  "promotion": "Archer",
+  "name": "Suppression Shot",
+  "unlocks": [
+    "suppression-shot"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "withering-barrage"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Suppression Shot power."
+}

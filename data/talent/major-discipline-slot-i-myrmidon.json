@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-i-myrmidon",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Major Discipline Slot I (Myrmidon)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "collosus-smash"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

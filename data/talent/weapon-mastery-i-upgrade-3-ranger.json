@@ -1,0 +1,17 @@
+{
+  "id": "weapon-mastery-i-upgrade-3-ranger",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Weapon Mastery I Upgrade 3 (Ranger)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "weapon-mastery-i-ranger"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the fourth set of disciplines bonuses from the attached Weapon Mastery slot."
+}

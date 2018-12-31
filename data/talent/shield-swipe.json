@@ -1,0 +1,17 @@
+{
+  "id": "shield-swipe",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Shield Swipe",
+  "unlocks": [
+    "shield-swipe"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Shield Swipe power."
+}

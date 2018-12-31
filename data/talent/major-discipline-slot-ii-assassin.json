@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-ii-assassin",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Major Discipline Slot II (Assassin)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "enter-the-shadows"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

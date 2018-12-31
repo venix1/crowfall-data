@@ -1,0 +1,19 @@
+{
+  "id": "spy-master",
+  "class": "Duelist",
+  "promotion": "Vanguard Scout",
+  "name": "Spy Master",
+  "unlocks": [],
+  "modifies": [
+    "recon"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "tenacity"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Spy Master enhances Recon to reduce an enemy's Critical Hit Chance Defense and reduce its cooldown."
+}

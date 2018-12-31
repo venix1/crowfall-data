@@ -1,0 +1,19 @@
+{
+  "id": "pepperbox-shot",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Pepperbox Shot",
+  "unlocks": [
+    "pepperbox-shot"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "go-for-broke"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Pepperbox Shot power."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "saintly-protection",
+  "class": "Templar",
+  "promotion": "Paladin",
+  "name": "Saintly Protection",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "fanatical",
+      "profound-devotion-virtuous-light"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Saintly Protection improves Critical Healing Amount by 10% per point spent."
+}

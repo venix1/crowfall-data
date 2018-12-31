@@ -1,0 +1,19 @@
+{
+  "id": "disengage",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Disengage",
+  "unlocks": [
+    "disengage"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "backstab"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Disengage power."
+}

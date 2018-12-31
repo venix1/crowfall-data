@@ -1,0 +1,17 @@
+{
+  "id": "kidney-shot",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Kidney Shot",
+  "unlocks": [
+    "kidney-shot"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Kidney Shot power."
+}

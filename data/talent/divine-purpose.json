@@ -1,0 +1,19 @@
+{
+  "id": "divine-purpose",
+  "class": "Cleric",
+  "promotion": "Radical",
+  "name": "Divine Purpose",
+  "unlocks": [],
+  "modifies": [
+    "divine-order"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "symbol-of-fury"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Divine Purpose enhances Divine Order to reduce its cost to 500 Soul Power."
+}

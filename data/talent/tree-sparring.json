@@ -1,0 +1,17 @@
+{
+  "id": "tree-sparring",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Tree Sparring",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "rapid-fire"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Tree Sparring improves Physical Armor Bonus by 1% per point spent."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pack-avatar",
+  "class": "Druid",
+  "promotion": "Archdruid",
+  "name": "Pack Avatar",
+  "unlocks": [
+    "pack-avatar"
+  ],
+  "modifies": [
+    "nature's-avatar"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "blur"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Pack Avatar power."
+}

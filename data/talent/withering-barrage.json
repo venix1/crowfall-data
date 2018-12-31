@@ -1,0 +1,19 @@
+{
+  "id": "withering-barrage",
+  "class": "Ranger",
+  "promotion": "Archer",
+  "name": "Withering Barrage",
+  "unlocks": [],
+  "modifies": [
+    "barrage"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "military-training"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Enemies hit by your Barrage suffer a 20% Damage Bonus decrease for 15 seconds."
+}

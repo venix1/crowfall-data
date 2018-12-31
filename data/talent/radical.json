@@ -1,0 +1,19 @@
+{
+  "id": "radical",
+  "class": "Cleric",
+  "promotion": "Radical",
+  "name": "Radical",
+  "unlocks": [
+    "radical"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "transcendence"
+    ],
+    "spentPips": 0,
+    "levelRequired": 25
+  },
+  "details": "This talent grants the Radical passive power.\r\nIncreases by 15%: Fire Damage Cap\r\nYou can now equip: Runic Mystical Throwing Hammers|Runic Bucklers|Runic Medium Shields"
+}

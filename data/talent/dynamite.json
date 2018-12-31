@@ -1,0 +1,19 @@
+{
+  "id": "dynamite",
+  "class": "Duelist",
+  "promotion": "Slayer",
+  "name": "Dynamite",
+  "unlocks": [
+    "dynamite"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "quick-draw"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Dynamite power."
+}

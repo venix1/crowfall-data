@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-iii-champion",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Minor Discipline Slot III (Champion)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ire"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

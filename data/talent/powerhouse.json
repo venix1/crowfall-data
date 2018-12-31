@@ -1,0 +1,17 @@
+{
+  "id": "powerhouse",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Powerhouse",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "ruthless-force"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Powerhouse improves Armor Penetration"
+}

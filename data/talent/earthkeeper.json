@@ -1,0 +1,20 @@
+{
+  "id": "earthkeeper",
+  "class": "Druid",
+  "promotion": "Earthkeeper",
+  "name": "Earthkeeper",
+  "unlocks": [
+    "soothing-winds",
+    "commune-with-nature"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "secret-of-stone"
+    ],
+    "spentPips": 0,
+    "levelRequired": 25
+  },
+  "details": "This talent grants the powers: Soothing Winds| Commune With Nature\r\nIncreases by 10%: Healing Bonus|Healing Bonus Cap|Final Mitigations Cap \r\nYou can now equip: Mail Armor| Runic Mystical Staves"
+}

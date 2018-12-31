@@ -1,0 +1,19 @@
+{
+  "id": "press-the-advantage",
+  "class": "Duelist",
+  "promotion": "Dirge",
+  "name": "Press The Advantage",
+  "unlocks": [],
+  "modifies": [
+    "redirect-pain"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "go-for-the-knees"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Press the Advantage enhances Redirect Pain to also apply a heal over time effect."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "consecrated-armor",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Consecrated Armor",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "hand-of-the-gods"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Consecrated Armor improves Physical Armor Bonus by 1% per point spent."
+}

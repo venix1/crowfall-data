@@ -1,0 +1,19 @@
+{
+  "id": "seismic-symbol",
+  "class": "Cleric",
+  "promotion": "Arbiter",
+  "name": "Seismic Symbol",
+  "unlocks": [],
+  "modifies": [
+    "holy-symbol"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "interdiction"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Seismic Symbol enhances Holy Symbol to knock down up to three enemies within its radius when it is deployed."
+}

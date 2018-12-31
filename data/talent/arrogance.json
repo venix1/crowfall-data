@@ -1,0 +1,19 @@
+{
+  "id": "arrogance",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Arrogance",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "vengeance",
+      "minor-discipline-slot-iii-myrmidon",
+      "gall"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Arrogance improves Fury Regen"
+}

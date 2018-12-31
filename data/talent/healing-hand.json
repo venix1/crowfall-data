@@ -1,0 +1,19 @@
+{
+  "id": "healing-hand",
+  "class": "Cleric",
+  "promotion": "Crusader",
+  "name": "Healing Hand",
+  "unlocks": [],
+  "modifies": [
+    "hand-of-the-gods"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "divine-intervention"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Healing Hand enhances Hand of The Gods to also heal friendly targets within its deploy radius."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "frenzied-righteousness",
+  "class": "Confessor",
+  "promotion": "Inquisitor",
+  "name": "Frenzied Righteousness",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "zeal"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Righteousness grants an 8% Damage Bonus for 8 seconds."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "weapon-mastery-i-upgrade-1-duelist",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Weapon Mastery I Upgrade 1 (Duelist)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "weapon-mastery-i-duelist"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the second set of disciplines bonuses from the attached Weapon Mastery slot."
+}

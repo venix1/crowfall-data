@@ -1,0 +1,17 @@
+{
+  "id": "infallible-dictum",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Infallible Dictum",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "devotion"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Infallible Dictum improves Critical Hit Chance by 2% per point spent."
+}

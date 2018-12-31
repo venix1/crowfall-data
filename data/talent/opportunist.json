@@ -1,0 +1,20 @@
+{
+  "id": "opportunist",
+  "class": "Assassin",
+  "promotion": "Cutthroat",
+  "name": "Opportunist",
+  "unlocks": [],
+  "modifies": [
+    "backstab"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "cruel-blades",
+      "kiss-of-death"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Opportunist enhances Backstab to deal 10% more damage when used from behind."
+}

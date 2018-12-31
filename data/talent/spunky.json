@@ -1,0 +1,17 @@
+{
+  "id": "spunky",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Spunky",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "energetic"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Spunky improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent."
+}

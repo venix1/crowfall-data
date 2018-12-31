@@ -1,0 +1,17 @@
+{
+  "id": "excoriate",
+  "class": "Templar",
+  "promotion": "Vindicator",
+  "name": "Excoriate",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "resurrection"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Excoriate improves Critical Hit Chance by 2% per point spent.\r\nWARNING: Purchasing this talent commits you to the Vindicator promotion path and prevents access to the Paladin and Fury promotion paths."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dominant-smashing",
+  "class": "Champion",
+  "promotion": "Alpha Warrior",
+  "name": "Dominant Smashing",
+  "unlocks": [],
+  "modifies": [
+    "smash"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "enmity"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Dominant Smashing enhances your basic Smash attacks to add a point of Dominance when they critically hit."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-iii-assassin",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Minor Discipline Slot III (Assassin)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "deceptive-strength"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

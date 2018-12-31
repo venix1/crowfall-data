@@ -1,0 +1,19 @@
+{
+  "id": "fanatical",
+  "class": "Templar",
+  "promotion": "Paladin",
+  "name": "Fanatical",
+  "unlocks": [],
+  "modifies": [
+    "holy-warrior"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "divine-protection"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Fanatical enhances Holy Warrior to reduce its cooldown by 24 seconds and improves Zealotry gains by 50%. Holy Warrior will also heal your most injured group member in addition to yourself while scaling with Support Power."
+}

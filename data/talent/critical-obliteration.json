@@ -1,0 +1,19 @@
+{
+  "id": "critical-obliteration",
+  "class": "Knight",
+  "promotion": "Swordsman",
+  "name": "Critical Obliteration",
+  "unlocks": [],
+  "modifies": [
+    "obliterate"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "mercy"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Critical Obliteration enhances Obliterate to cause Bleed effects to have a 100% Critical Hit Chance."
+}

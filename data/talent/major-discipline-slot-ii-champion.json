@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-ii-champion",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Major Discipline Slot II (Champion)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "second-wind"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

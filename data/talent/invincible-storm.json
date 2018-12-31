@@ -1,0 +1,20 @@
+{
+  "id": "invincible-storm",
+  "class": "Myrmidon",
+  "promotion": "Battle Rager",
+  "name": "Invincible Storm",
+  "unlocks": [],
+  "modifies": [
+    "whirlwind"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "impressive-physique",
+      "satisfying-slaughter"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Invincible Storm enhances Whirlwind so you ignore all Berserk Crash damage while channeling."
+}

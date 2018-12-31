@@ -1,0 +1,17 @@
+{
+  "id": "armor-bearer",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Armor Bearer",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "shield-swipe"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Armor Bearer improves Physical Armor Bonus by 1% per point spent."
+}

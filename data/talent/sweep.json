@@ -1,0 +1,19 @@
+{
+  "id": "sweep",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Sweep",
+  "unlocks": [
+    "sweep"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "archers-stake"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Sweep power."
+}

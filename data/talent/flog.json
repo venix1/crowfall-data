@@ -1,0 +1,19 @@
+{
+  "id": "flog",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Flog",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "flay",
+      "minor-discipline-slot-ii-cleric",
+      "holy-symbol"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Flog improves Critical Hit Damage by 5% per point spent."
+}

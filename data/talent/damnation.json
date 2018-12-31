@@ -1,0 +1,19 @@
+{
+  "id": "damnation",
+  "class": "Confessor",
+  "promotion": "Fanatic",
+  "name": "Damnation",
+  "unlocks": [],
+  "modifies": [
+    "condemnation"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "repent"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Damnation enhances Condemnation to apply a Slow effect."
+}

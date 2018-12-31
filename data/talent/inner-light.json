@@ -1,0 +1,19 @@
+{
+  "id": "inner-light",
+  "class": "Templar",
+  "promotion": "Fury",
+  "name": "Inner Light",
+  "unlocks": [],
+  "modifies": [
+    "brilliance"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "edict-of-damnation"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Inner Light enhances Brilliance to reduce its cost to 500 Soul Power."
+}

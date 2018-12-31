@@ -1,0 +1,19 @@
+{
+  "id": "chain-attack",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Chain Attack",
+  "unlocks": [
+    "chain-attack"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "vitality"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Chain Attack power."
+}

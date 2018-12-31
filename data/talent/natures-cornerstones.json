@@ -1,0 +1,21 @@
+{
+  "id": "natures-cornerstones",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Natures Cornerstones",
+  "unlocks": [
+    "gaea's-wail"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "lines-of-force",
+      "ironwood-skin",
+      "loved-by-the-sun"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Gaea's Wail power."
+}

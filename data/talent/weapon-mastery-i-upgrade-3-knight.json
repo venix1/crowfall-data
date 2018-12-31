@@ -1,0 +1,19 @@
+{
+  "id": "weapon-mastery-i-upgrade-3-knight",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Weapon Mastery I Upgrade 3 (Knight)",
+  "unlocks": [],
+  "modifies": [
+    "``"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "weapon-mastery-i-knight"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the fourth set of disciplines bonuses from the attached Weapon Mastery slot."
+}

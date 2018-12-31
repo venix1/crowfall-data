@@ -1,0 +1,20 @@
+{
+  "id": "double-time",
+  "class": "Knight",
+  "promotion": "Swordsman",
+  "name": "Double Time",
+  "unlocks": [],
+  "modifies": [
+    "pursuit"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "mercy",
+      "fortified-shield-slam"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Double Time reduces the cooldown of Pursuit by 50%."
+}

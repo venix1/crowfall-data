@@ -1,0 +1,19 @@
+{
+  "id": "sanctuary",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Sanctuary",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "purity",
+      "divine-auras",
+      "righteous-defense"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Sanctuary improves Armor Bonus by 1% per point spent."
+}

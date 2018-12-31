@@ -1,0 +1,17 @@
+{
+  "id": "animosity",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Animosity",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "ire"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Animosity improves Control Defense by 5% per point spent."
+}

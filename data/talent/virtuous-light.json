@@ -1,0 +1,20 @@
+{
+  "id": "virtuous-light",
+  "class": "Templar",
+  "promotion": "Paladin",
+  "name": "Virtuous Light",
+  "unlocks": [],
+  "modifies": [
+    "divine-light"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "divine-protection",
+      "moral-prerogative"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Virtuous Light enhances Divine Light to heal without draining additional Righteousness pips from you each tick."
+}

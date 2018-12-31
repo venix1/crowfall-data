@@ -1,0 +1,19 @@
+{
+  "id": "scintillating-smash",
+  "class": "Templar",
+  "promotion": "Fury",
+  "name": "Scintillating Smash",
+  "unlocks": [],
+  "modifies": [
+    "righteous-smash"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "scourge"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Scintillating Smash enhances Righteous Smash to Slow enemies."
+}

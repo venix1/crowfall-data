@@ -1,0 +1,19 @@
+{
+  "id": "collosus-smash",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Collosus Smash",
+  "unlocks": [
+    "colossus-smash"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "cast-net"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Colossus Smash power."
+}

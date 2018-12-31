@@ -1,0 +1,20 @@
+{
+  "id": "blazing-light",
+  "class": "Templar",
+  "promotion": "Vindicator",
+  "name": "Blazing Light",
+  "unlocks": [],
+  "modifies": [
+    "divine-light"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "blazing-judgement",
+      "fiery-devotion"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Blazing Light enhances Divine Light to increase its damage but removes its healing properties."
+}

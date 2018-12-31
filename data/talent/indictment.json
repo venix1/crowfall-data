@@ -1,0 +1,19 @@
+{
+  "id": "indictment",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Indictment",
+  "unlocks": [],
+  "modifies": [
+    "censure"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ecstasy"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Indictment enhances Censure to award one Pip when you hit an enemy."
+}

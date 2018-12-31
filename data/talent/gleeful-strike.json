@@ -1,0 +1,19 @@
+{
+  "id": "gleeful-strike",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Gleeful Strike",
+  "unlocks": [
+    "gleeful-strike"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "archers-stake"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Gleeful Strike power."
+}

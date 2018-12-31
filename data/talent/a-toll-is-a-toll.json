@@ -1,0 +1,19 @@
+{
+  "id": "a-toll-is-a-toll",
+  "class": "Ranger",
+  "promotion": "Brigand",
+  "name": "A Toll is a Toll",
+  "unlocks": [],
+  "modifies": [
+    "archers-stake"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "lambs-become-lions"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "A Toll is a Toll enhances Archers Stake to become Treant Wood Stake| which removes its deploy time and applies a Slow to all enemies within 10m."
+}

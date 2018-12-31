@@ -1,0 +1,17 @@
+{
+  "id": "ruthless-force",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Ruthless Force",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "collosus-smash"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Ruthless Force improves Critical Hit Chance by 2% per point spent."
+}

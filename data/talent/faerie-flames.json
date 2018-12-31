@@ -1,0 +1,17 @@
+{
+  "id": "faerie-flames",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Faerie Flames",
+  "unlocks": [
+    "faerie-flames"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Faerie Flames power."
+}

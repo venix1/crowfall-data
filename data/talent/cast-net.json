@@ -1,0 +1,20 @@
+{
+  "id": "cast-net",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Cast Net",
+  "unlocks": [
+    "cast-net"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ferocity",
+      "brawny"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Cast Net power."
+}

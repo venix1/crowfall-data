@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-cleric",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Cleric)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "block"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

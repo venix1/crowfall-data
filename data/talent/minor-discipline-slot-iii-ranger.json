@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-iii-ranger",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Minor Discipline Slot III (Ranger)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "boundless-energy"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

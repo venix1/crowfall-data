@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-i-upgrade-2-cleric",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Major Discipline I Upgrade 2 (Cleric)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "major-discipline-slot-i-cleric"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the third discipline bonus from this equipped Major Discipline."
+}

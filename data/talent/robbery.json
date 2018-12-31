@@ -1,0 +1,20 @@
+{
+  "id": "robbery",
+  "class": "Ranger",
+  "promotion": "Brigand",
+  "name": "Robbery",
+  "unlocks": [
+    "ambush",
+    "stealth"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "into-the-shadows"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Stealth power tray and the Ambush power."
+}

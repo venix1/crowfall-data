@@ -1,0 +1,19 @@
+{
+  "id": "bulwark",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Bulwark",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "hardiness",
+      "noble-blood",
+      "unbreakable"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Bulwark improves Physical Armor Bonus by 2% per point spent."
+}

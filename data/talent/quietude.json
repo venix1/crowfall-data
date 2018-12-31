@@ -1,0 +1,17 @@
+{
+  "id": "quietude",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Quietude",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "vigor"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Quietude improves In and Out of Combat Health Regeneration by 5 per point spent."
+}

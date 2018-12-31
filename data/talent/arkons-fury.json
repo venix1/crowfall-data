@@ -1,0 +1,19 @@
+{
+  "id": "arkons-fury",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Arkons Fury",
+  "unlocks": [
+    "arkons-fury"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "blessed"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Arkon's Fury power."
+}

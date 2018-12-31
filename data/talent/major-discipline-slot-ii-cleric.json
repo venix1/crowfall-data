@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-ii-cleric",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Major Discipline Slot II (Cleric)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "circle-of-life"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

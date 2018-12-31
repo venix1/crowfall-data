@@ -1,0 +1,17 @@
+{
+  "id": "foresight",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Foresight",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "faerie-flames"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Foresight improves Critical Healing Chance by 1% per point spent."
+}

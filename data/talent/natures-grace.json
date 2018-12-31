@@ -1,0 +1,19 @@
+{
+  "id": "natures-grace",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Nature's Grace",
+  "unlocks": [
+    "nature's-grace"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "potential-energy"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Nature's Grace power."
+}

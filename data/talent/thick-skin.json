@@ -1,0 +1,17 @@
+{
+  "id": "thick-skin",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Thick Skin",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "faerie-flames"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Thick Skin improves Physical Armor Bonus by 1% per point spent."
+}

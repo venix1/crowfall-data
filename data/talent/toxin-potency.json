@@ -1,0 +1,17 @@
+{
+  "id": "toxin-potency",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Toxin Potency",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "armor-gap"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Toxin Potency improves Toxin Proc Chance by 3% per point spent."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-ii-upgrade-3-templar",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Major Discipline II Upgrade 3 (Templar)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "major-discipline-slot-ii-templar"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the fourth discipline bonus from this equipped Major Discipline."
+}

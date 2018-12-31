@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-i-knight",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Major Discipline Slot I (Knight)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "hoplitodromos"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tunnel",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Tunnel",
+  "unlocks": [
+    "tunnel",
+    "recon"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "go-for-broke"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Tunnel and Recon powers."
+}

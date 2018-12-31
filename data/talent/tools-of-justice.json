@@ -1,0 +1,17 @@
+{
+  "id": "tools-of-justice",
+  "class": "Confessor",
+  "promotion": "Inquisitor",
+  "name": "Tools of Justice",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "lawful"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Tools of Justice improves Damage Bonus"
+}

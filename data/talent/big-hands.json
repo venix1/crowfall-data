@@ -1,0 +1,21 @@
+{
+  "id": "big-hands",
+  "class": "Cleric",
+  "promotion": "Arbiter",
+  "name": "Big Hands",
+  "unlocks": [
+    "big-hands-of-the-gods"
+  ],
+  "modifies": [
+    "hand-of-the-gods"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "spiritual-restraint"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Big Hand of the Gods replaces Hand of The Gods and doubles its aimed deploy radius."
+}

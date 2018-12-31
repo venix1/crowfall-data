@@ -1,0 +1,17 @@
+{
+  "id": "flagellation",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Flagellation",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "erudite"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Flagellation improves Armor Penetration"
+}
