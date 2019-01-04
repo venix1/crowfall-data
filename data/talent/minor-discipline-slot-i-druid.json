@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-druid",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Druid)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "mark-of-the-storm"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

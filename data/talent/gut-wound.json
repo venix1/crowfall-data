@@ -1,0 +1,19 @@
+{
+  "id": "gut-wound",
+  "class": "Duelist",
+  "promotion": "Dirge",
+  "name": "Gut Wound",
+  "unlocks": [],
+  "modifies": [
+    "impale"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "marksmanship"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gut Wound enhances Impale to inflict Stun when performed using five Pips."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "magic-dance",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Magic Dance",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "mark-of-the-storm"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Magic Dance improves Personal Healing Modifier by 1.5% per point spent."
+}

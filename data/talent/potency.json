@@ -1,0 +1,17 @@
+{
+  "id": "potency",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Potency",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "toughness"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Potency improves Maximum Stamina by 5 per point spent and Power Efficiency by 8 per point spent."
+}

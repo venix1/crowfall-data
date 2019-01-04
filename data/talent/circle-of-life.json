@@ -1,0 +1,21 @@
+{
+  "id": "circle-of-life",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Circle of Life",
+  "unlocks": [
+    "circle-of-life"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "flog",
+      "sanctuary",
+      "reproval"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Circle Of Life power."
+}

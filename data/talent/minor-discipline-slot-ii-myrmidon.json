@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-ii-myrmidon",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Minor Discipline Slot II (Myrmidon)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ruthless-force"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

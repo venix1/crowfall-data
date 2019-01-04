@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-duelist",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Duelist)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "pepperbox-shot"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

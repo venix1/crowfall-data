@@ -1,0 +1,19 @@
+{
+  "id": "absolution",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Absolution",
+  "unlocks": [
+    "absolution"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "erudite"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Absolution power."
+}

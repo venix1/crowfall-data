@@ -1,0 +1,17 @@
+{
+  "id": "exceptional-weaponry",
+  "class": "Ranger",
+  "promotion": "Archer",
+  "name": "Exceptional Weaponry",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "military-training"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Exceptional Weaponry improves Min and Max Weapon Damage by 3 per point spent."
+}

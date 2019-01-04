@@ -1,0 +1,17 @@
+{
+  "id": "divine-favor",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Divine Favor",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "devotion"
+    ],
+    "spentPips": 0,
+    "levelRequired": 15
+  },
+  "details": "Divine Favor improves Decay Rate"
+}

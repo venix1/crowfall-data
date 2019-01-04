@@ -1,0 +1,18 @@
+{
+  "id": "cutthroat",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Cutthroat",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "domination"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Cutthroat improves Critical Hit Chance by 1 per point spent."
+}ow Strikes passive power.\r\nIncreases by 10%: Piercing Damage Bonus|Piercing Damage Bonus Cap\r\nYou can now equip: Runic Axes|Runic Daggers|Runic Maces"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "keen-aim",
+  "class": "Duelist",
+  "promotion": "Slayer",
+  "name": "Keen Aim",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "dead-eye"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Keen Aim improves Ranged Distance Bonus by 3 per point spent."
+}

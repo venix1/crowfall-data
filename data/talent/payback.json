@@ -1,0 +1,19 @@
+{
+  "id": "payback",
+  "class": "Assassin",
+  "promotion": "Blackguard",
+  "name": "Payback",
+  "unlocks": [],
+  "modifies": [
+    "kidney-shot"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "agile-footwork"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Payback enhances Kidney Shot to apply a Barrier when Stunning an enemy."
+}

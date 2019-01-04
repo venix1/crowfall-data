@@ -1,0 +1,19 @@
+{
+  "id": "blood-craze",
+  "class": "Myrmidon",
+  "promotion": "Battle Rager",
+  "name": "Blood Craze",
+  "unlocks": [],
+  "modifies": [
+    "berserk"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "impressive-physique"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Blood Craze enhances Berserk to reduce Berserk Crash damage by an additional 25% when damaging an enemy who is Bleeding."
+}

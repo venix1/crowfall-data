@@ -1,0 +1,19 @@
+{
+  "id": "alligator-blood",
+  "class": "Assassin",
+  "promotion": "Blackguard",
+  "name": "Alligator Blood",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "zoned-out",
+      "assassins-point",
+      "spirit-dart"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Alligator Blood improves Bleed Armor Bonus by 10% per point spent."
+}

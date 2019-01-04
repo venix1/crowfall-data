@@ -1,0 +1,19 @@
+{
+  "id": "massive-cleave",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Massive Cleave",
+  "unlocks": [
+    "massive-cleave"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "leap"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Massive Cleave power."
+}

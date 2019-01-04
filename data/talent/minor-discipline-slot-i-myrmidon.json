@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-myrmidon",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Myrmidon)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "collosus-smash"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

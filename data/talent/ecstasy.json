@@ -1,0 +1,17 @@
+{
+  "id": "ecstasy",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Ecstasy",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "devotion"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Ecstasy improves Maximum Stamina by 5 per point spent."
+}

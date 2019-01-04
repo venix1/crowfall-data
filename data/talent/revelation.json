@@ -1,0 +1,19 @@
+{
+  "id": "revelation",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Revelation",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "flagellation",
+      "minor-discipline-slot-ii-confessor",
+      "absolution"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Revelation improves Critical Hit Damage by 5% per point spent."
+}

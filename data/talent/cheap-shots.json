@@ -1,0 +1,20 @@
+{
+  "id": "cheap-shots",
+  "class": "Duelist",
+  "promotion": "Vanguard Scout",
+  "name": "Cheap Shots",
+  "unlocks": [
+    "cheap-shots"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "tenacity",
+      "daring-escape"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Cheap Shots power."
+}

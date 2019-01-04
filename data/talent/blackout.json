@@ -1,0 +1,20 @@
+{
+  "id": "blackout",
+  "class": "Assassin",
+  "promotion": "Vandal",
+  "name": "Blackout",
+  "unlocks": [],
+  "modifies": [
+    "backstab"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "no-escape",
+      "-double-down"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Blackout enhances Backstab to Suppress a target from behind."
+}

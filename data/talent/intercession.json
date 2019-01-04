@@ -1,0 +1,19 @@
+{
+  "id": "intercession",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Intercession",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "indictment",
+      "minor-discipline-slot-iii-templar",
+      "tempus-medico"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Intercession improves Personal Healing Modifier by 1.5% per point spent."
+}

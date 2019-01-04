@@ -1,0 +1,19 @@
+{
+  "id": "invocation-of-renewal",
+  "class": "Cleric",
+  "promotion": "Crusader",
+  "name": "Invocation of Renewal",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "healing-hand",
+      "divine-illumination",
+      "empowered-circle-of-life"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Invocation of Renewal improves Critical Healing Amount by 5% per point spent."
+}

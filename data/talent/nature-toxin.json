@@ -1,0 +1,17 @@
+{
+  "id": "nature-toxin",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Nature Toxin",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "vigor"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "You can now equip Nature Toxin."
+}

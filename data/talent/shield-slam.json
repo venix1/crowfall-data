@@ -1,0 +1,19 @@
+{
+  "id": "shield-slam",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Shield Slam",
+  "unlocks": [
+    "shield-slam"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "shield-bash"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Shield Slam power."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "revenge",
+  "class": "Champion",
+  "promotion": "Barbarian",
+  "name": "Revenge",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "death-from-above",
+      "effortless-neckbreaker",
+      "whirling-disaster"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Revenge improves Hard Control Intensity by 7% per point spent."
+}

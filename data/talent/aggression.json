@@ -1,0 +1,19 @@
+{
+  "id": "aggression",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Aggression",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "dagger-storm",
+      "minor-discipline-slot-iii-assassin",
+      "schadenfreude"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Aggression improves Basic Attack Damage by 5% per point spent."
+}

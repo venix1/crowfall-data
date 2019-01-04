@@ -1,0 +1,17 @@
+{
+  "id": "grip-strength",
+  "class": "Knight",
+  "promotion": "Sentinel",
+  "name": "Grip Strength",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "onslaught"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Grip Strength improves Power Efficiency and Power Efficiency Cap by 5% per point spent.\r\nWARNING: Purchasing this talent commits you to the Sentinel promotion path and prevents access to the Swordsman and Secutor promotion paths."
+}

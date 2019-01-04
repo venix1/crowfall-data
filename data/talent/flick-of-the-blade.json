@@ -1,0 +1,17 @@
+{
+  "id": "flick-of-the-blade",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Flick of the Blade",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "flintlock-shot"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Flick of the Blade improves Critical Hit Chance by 1% per point spent."
+}

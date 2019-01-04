@@ -1,0 +1,20 @@
+{
+  "id": "natures-avatar",
+  "class": "Druid",
+  "promotion": "Earthkeeper",
+  "name": "Natures Avatar",
+  "unlocks": [
+    "natures-avatar"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "blood-of-gaea",
+      "partial-redirection"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Chain Avatar enhances Nature's Avatar to apply to a second friendly target within 8m of your primary target."
+}

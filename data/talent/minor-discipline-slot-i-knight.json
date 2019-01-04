@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-knight",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Knight)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "hoplitodromos"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

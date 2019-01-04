@@ -1,0 +1,17 @@
+{
+  "id": "echoing-assault",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Echoing Assault",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "chivalry"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Echoing Assault enhances Stun and Knock Down to recover 15% Energy when applied."
+}

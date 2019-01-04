@@ -1,0 +1,19 @@
+{
+  "id": "killers-instinct",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Killers Instinct",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "toxin-potency",
+      "minor-discipline-slot-ii-assassin",
+      "disease-toxin"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Killer's Instinct improves Critical Hit Damage by 5% per point spent."
+}

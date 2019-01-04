@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-i-templar",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Major Discipline Slot I (Templar)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "devotion"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

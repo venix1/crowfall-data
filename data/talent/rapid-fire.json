@@ -1,0 +1,20 @@
+{
+  "id": "rapid-fire",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Rapid Fire",
+  "unlocks": [
+    "rapid-fire"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Rapid Fire power."
+}Required": 0
+  },
+  "details": "This talent grants the Rapid Fire and Snipe powers."
+}

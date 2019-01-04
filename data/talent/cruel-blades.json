@@ -1,0 +1,17 @@
+{
+  "id": "cruel-blades",
+  "class": "Assassin",
+  "promotion": "Cutthroat",
+  "name": "Cruel Blades",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "overachieve"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Cruel Blades improves Damage Bonus by 1% per point spent."
+}

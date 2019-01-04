@@ -1,0 +1,17 @@
+{
+  "id": "unstoppable",
+  "class": "Knight",
+  "promotion": "Secutor",
+  "name": "Unstoppable",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "onslaught"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unstoppable improves Control Defense by 10% per point spent.\r\nWARNING: Purchasing this talent commits you to the Secutor promotion path and prevents access to the Swordsman and Sentinel promotion paths."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "raging",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Raging",
+  "unlocks": [],
+  "modifies": [
+    "retaliate"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "violent-might"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Raging enhances Retaliate powers to recover 35 Stamina over 7 seconds."
+}

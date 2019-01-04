@@ -1,0 +1,19 @@
+{
+  "id": "barbed-thorns",
+  "class": "Druid",
+  "promotion": "Archdruid",
+  "name": "Barbed Thorns",
+  "unlocks": [],
+  "modifies": [
+    "bark-skin"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "forest-affinity"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Barbed Thorns enhances Bark Skin increasing Thorns by 200%."
+}

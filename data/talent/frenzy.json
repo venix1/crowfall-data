@@ -1,0 +1,19 @@
+{
+  "id": "frenzy",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Frenzy",
+  "unlocks": [
+    "frenzy"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ruthless-force"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Frenzy power."
+}

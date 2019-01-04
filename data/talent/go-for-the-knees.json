@@ -1,0 +1,20 @@
+{
+  "id": "go-for-the-knees",
+  "class": "Duelist",
+  "promotion": "Dirge",
+  "name": "Go For The Knees",
+  "unlocks": [],
+  "modifies": [
+    "ambush",
+    "snipe"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "persistence"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Go for the Knees enhances Ambush and Snipe to always inflict Knockdown."
+}

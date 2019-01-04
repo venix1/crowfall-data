@@ -1,0 +1,20 @@
+{
+  "id": "remnant-of-gaea",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Remnant of Gaea",
+  "unlocks": [
+    "sacrifice"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "foresight",
+      "thick-skin"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Sacrifice power."
+}

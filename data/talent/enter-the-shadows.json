@@ -1,0 +1,22 @@
+{
+  "id": "enter-the-shadows",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Enter the Shadows",
+  "unlocks": [
+    "stealth",
+    "recon"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "killers-instinct",
+      "born-in-darkness",
+      "aggression"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Stealth power tray and Recon power."
+}

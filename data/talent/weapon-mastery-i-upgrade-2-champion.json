@@ -1,0 +1,17 @@
+{
+  "id": "weapon-mastery-i-upgrade-2-champion",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Weapon Mastery I Upgrade 2 (Champion)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "weapon-mastery-i-champion"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the third set of disciplines bonuses from the attached Weapon Mastery slot."
+}

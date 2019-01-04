@@ -1,0 +1,20 @@
+{
+  "id": "divine-illumination",
+  "class": "Cleric",
+  "promotion": "Crusader",
+  "name": "Divine Illumination",
+  "unlocks": [],
+  "modifies": [
+    "illuminate"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "divine-intervention",
+      "blessed-symbol"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Divine Illumination enhances Illuminate to also heal group members and yourself over time."
+}

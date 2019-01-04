@@ -1,0 +1,19 @@
+{
+  "id": "close-ranks",
+  "class": "Ranger",
+  "promotion": "Archer",
+  "name": "Close Ranks",
+  "unlocks": [],
+  "modifies": [
+    "archers-stake"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "exceptional-weaponry"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Close Ranks enhances Archers Stake to become Treant Wood Stake| which removes its deploy time and prevents some types of Movement Reduction and Root effects."
+}

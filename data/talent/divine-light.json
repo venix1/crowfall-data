@@ -1,0 +1,19 @@
+{
+  "id": "divine-light",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Divine Light",
+  "unlocks": [
+    "divine-light"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "infallible-dictum"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Divine Light power."
+}

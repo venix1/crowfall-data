@@ -1,0 +1,17 @@
+{
+  "id": "agile-footwork",
+  "class": "Assassin",
+  "promotion": "Blackguard",
+  "name": "Agile Footwork",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "enter-the-shadows"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Agile Footwork improves Critical Chance Defense by 5% per point spent.\r\nWARNING: Purchasing this talent commits you to the Blackguard promotion path and prevents access to the Cutthroat and Vandal promotion paths."
+}

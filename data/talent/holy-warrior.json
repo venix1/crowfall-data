@@ -1,0 +1,19 @@
+{
+  "id": "holy-warrior",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Holy Warrior",
+  "unlocks": [
+    "holy-warrior"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "divine-favor"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Holy Warrior power."
+}

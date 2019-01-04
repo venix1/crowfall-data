@@ -1,0 +1,17 @@
+{
+  "id": "empathy",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Empathy",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "hand-of-the-gods"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Empathy improves Critical Healing Chance by 2% per point spent."
+}

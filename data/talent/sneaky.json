@@ -1,0 +1,17 @@
+{
+  "id": "sneaky",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Sneaky",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "steady-hand"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Sneaky improves Stealth by 25."
+}

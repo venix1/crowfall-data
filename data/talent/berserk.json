@@ -1,0 +1,19 @@
+{
+  "id": "berserk",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Berserk",
+  "unlocks": [
+    "berserk"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "violent-might"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Berserk power."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ultimate-warrior",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Ultimate Warrior",
+  "unlocks": [
+    "ultimate-warrior"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "toughness"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Ultimate Warrior power."
+}

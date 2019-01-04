@@ -1,0 +1,19 @@
+{
+  "id": "whirling-pain",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Whirling Pain",
+  "unlocks": [
+    "whirling-pain"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "toughness"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Whirling Pain power."
+}

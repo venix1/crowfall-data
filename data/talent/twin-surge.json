@@ -1,0 +1,19 @@
+{
+  "id": "twin-surge",
+  "class": "Ranger",
+  "promotion": "Brigand",
+  "name": "Twin Surge",
+  "unlocks": [
+    "twin-surge"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "robbery"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Twin Surge power."
+}

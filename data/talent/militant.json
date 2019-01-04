@@ -1,0 +1,17 @@
+{
+  "id": "militant",
+  "class": "Confessor",
+  "promotion": "Sanctifier",
+  "name": "Militant",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "melt-shackles"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Militant improves Armor Bonus and Final Mitigations Cap by 2% per point spent."
+}

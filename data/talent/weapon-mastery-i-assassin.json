@@ -1,0 +1,17 @@
+{
+  "id": "weapon-mastery-i-assassin",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Weapon Mastery I (Assassin)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "enter-the-shadows"
+    ],
+    "spentPips": 0,
+    "levelRequired": 20
+  },
+  "details": "This talent unlocks the Weapon Mastery slot. Also gain access to the initial set of discipline bonuses of any discipline equipped in this slot."
+}

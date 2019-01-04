@@ -1,0 +1,19 @@
+{
+  "id": "freeze-recruit-freeze",
+  "class": "Knight",
+  "promotion": "Sentinel",
+  "name": "Freeze Recruit Freeze",
+  "unlocks": [],
+  "modifies": [
+    "noble-blood"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ringing-shield"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Freeze Recruit Freeze! enhances Noble Blood to also Root enemies."
+}

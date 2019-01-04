@@ -1,0 +1,19 @@
+{
+  "id": "reproval",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Reproval",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "inviolable",
+      "minor-discipline-slot-iii-cleric",
+      "thwart-the-wicked"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Reproval improves Attack Power by 50 per point spent."
+}

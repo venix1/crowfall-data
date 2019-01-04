@@ -1,0 +1,17 @@
+{
+  "id": "somethings-amiss",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Somethings Amiss",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "cloaked-in-moss"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Something's Amiss improves Perception by 15 per point spent."
+}

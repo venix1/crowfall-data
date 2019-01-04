@@ -1,0 +1,17 @@
+{
+  "id": "martial-weaponry",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Martial Weaponry",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "shield-swipe"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Martial Weaponry improves Min and Max Weapon Damage by 2 per point spent."
+}

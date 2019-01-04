@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-iii-knight",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Minor Discipline Slot III (Knight)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "chivalry"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

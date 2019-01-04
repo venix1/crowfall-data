@@ -1,0 +1,17 @@
+{
+  "id": "schadenfreude",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Schadenfreude",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "deceptive-strength"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Schadenfreude enhances Stun to recover 1.5% Health per point spent when applied."
+}

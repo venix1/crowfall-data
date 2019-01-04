@@ -1,0 +1,17 @@
+{
+  "id": "flintlock-shot",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Flintlock Shot",
+  "unlocks": [
+    "flintlock-shot"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Flintlock Shot power."
+}

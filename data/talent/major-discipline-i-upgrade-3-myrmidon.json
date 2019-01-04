@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-i-upgrade-3-myrmidon",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Major Discipline I Upgrade 3 (Myrmidon)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "major-discipline-slot-i-myrmidon"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Gain access to the fourth discipline bonus from this equipped Major Discipline."
+}

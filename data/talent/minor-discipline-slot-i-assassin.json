@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-assassin",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Assassin)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "tools-of-the-trade"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "guile",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Guile",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "steady-hand"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Guile improves Armor Penetration"
+}

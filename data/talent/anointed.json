@@ -1,0 +1,17 @@
+{
+  "id": "anointed",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Anointed",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "block"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Anointed improves Critical Healing Amount by 5% per point spent."
+}

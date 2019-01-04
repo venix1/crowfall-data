@@ -1,0 +1,21 @@
+{
+  "id": "neck-slash",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Neck Slash",
+  "unlocks": [
+    "neck-slash"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "violent-might",
+      "vengeful-vitality",
+      "arrogance"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Neck Slash power."
+}

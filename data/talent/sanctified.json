@@ -1,0 +1,19 @@
+{
+  "id": "sanctified",
+  "class": "Confessor",
+  "promotion": "Inquisitor",
+  "name": "Sanctified",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "perfect-storm",
+      "frenzied-righteousness",
+      "flames-of-arkon"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Sanctified improves Attack Power by 75 per point spent."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ferocity",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Ferocity",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "bloody-swipe"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Ferocity improves Attack Power by 25 per point spent."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "redirect-pain",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Redirect Pain",
+  "unlocks": [
+    "redirect-pain"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "steady-hand"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Redirect Pain power."
+}

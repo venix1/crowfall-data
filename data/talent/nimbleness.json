@@ -1,0 +1,17 @@
+{
+  "id": "nimbleness",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Nimbleness",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "flintlock-shot"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Nimbleness improves Armor Bonus by 1% per point spent."
+}

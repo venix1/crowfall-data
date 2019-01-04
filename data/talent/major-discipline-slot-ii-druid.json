@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-ii-druid",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Major Discipline Slot II (Druid)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "nature's-cornerstones"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "divine-protection",
+  "class": "Templar",
+  "promotion": "Paladin",
+  "name": "Divine Protection",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "martyrdom"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Divine Protection improves Armor Bonus by 1% per point spent."
+}

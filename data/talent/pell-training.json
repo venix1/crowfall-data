@@ -1,0 +1,19 @@
+{
+  "id": "pell-training",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Pell Training",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "tactical-mastery",
+      "minor-discipline-slot",
+      "echoing-assault"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Pell Training improves Critical Hit Chance by 2% per point spent."
+}

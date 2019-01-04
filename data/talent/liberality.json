@@ -1,0 +1,17 @@
+{
+  "id": "liberality",
+  "class": "Knight",
+  "promotion": "Secutor",
+  "name": "Liberality",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "unstoppable"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Liberality improves Maximum Health by 500 per point spent."
+}

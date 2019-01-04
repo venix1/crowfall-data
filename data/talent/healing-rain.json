@@ -1,0 +1,19 @@
+{
+  "id": "healing-rain",
+  "class": "Druid",
+  "promotion": "Earthkeeper",
+  "name": "Healing Rain",
+  "unlocks": [
+    "healing-rain"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "partial-redirection"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Healing Rain power."
+}

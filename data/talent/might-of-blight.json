@@ -1,0 +1,20 @@
+{
+  "id": "might-of-blight",
+  "class": "Druid",
+  "promotion": "Archdruid",
+  "name": "Might of Blight",
+  "unlocks": [],
+  "modifies": [
+    "blight"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "blur",
+      "barbed-thorns"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Might of Blight enhances Blight to cause Orbs in your field to deal 25% more damage when they explode."
+}

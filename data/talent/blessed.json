@@ -1,0 +1,17 @@
+{
+  "id": "blessed",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Blessed",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "righteousness"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Blessed improves Maximum Stamina by 5 per point spent."
+}

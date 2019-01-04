@@ -1,0 +1,19 @@
+{
+  "id": "noble-blood",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Noble Blood",
+  "unlocks": [
+    "noble-blood"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "endurance"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Noble Blood power."
+}

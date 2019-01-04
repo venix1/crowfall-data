@@ -1,0 +1,17 @@
+{
+  "id": "cloaked-in-shadow",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Cloaked in Shadow",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "vigor"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Cloaked in Shadow increases your Stealth by 35."
+}

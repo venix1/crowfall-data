@@ -1,0 +1,20 @@
+{
+  "id": "backstab",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Backstab",
+  "unlocks": [
+    "backstab"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "brutal-fury",
+      "shadow-armor"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Backstab power."
+}

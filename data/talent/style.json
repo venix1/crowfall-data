@@ -1,0 +1,17 @@
+{
+  "id": "style",
+  "class": "Champion",
+  "promotion": "Alpha Warrior",
+  "name": "Style",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "enmity"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Style improves Critical Hit Chance by 1% per point spent."
+}

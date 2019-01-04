@@ -1,0 +1,20 @@
+{
+  "id": "illuminate",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Illuminate",
+  "unlocks": [
+    "illuminate"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "empathy",
+      "consecrated-armor"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Illuminate power."
+}

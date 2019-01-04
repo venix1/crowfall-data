@@ -1,0 +1,17 @@
+{
+  "id": "flay",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Flay",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "prudence"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Flay improves Critical Hit Chance by 1% per point spent."
+}

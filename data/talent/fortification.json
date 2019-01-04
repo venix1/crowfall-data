@@ -1,0 +1,19 @@
+{
+  "id": "fortification",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Fortification",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "potency",
+      "ultimate-warrior",
+      "whirling-pain"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Fortification improves Armor Bonus by 1% per point spent."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wrathful-illumination",
+  "class": "Cleric",
+  "promotion": "Arbiter",
+  "name": "Wrathful Illumination",
+  "unlocks": [],
+  "modifies": [
+    "illuminate"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "spiritual-restraint",
+      "seismic-symbol"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Wrathful Illumination enhances Illuminate causing your next Spirit Hammer attack within 5 seconds to stun an enemy."
+}

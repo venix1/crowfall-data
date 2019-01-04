@@ -1,0 +1,17 @@
+{
+  "id": "break-the-law",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Break the Law",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "vitality"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Break the Law reduces Long Power Cooldowns by 10% per point spent."
+}

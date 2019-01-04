@@ -1,0 +1,17 @@
+{
+  "id": "domination",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Domination",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "massive-cleave"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Domination improves Attack Power by 50 per point spent."
+}

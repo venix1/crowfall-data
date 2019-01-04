@@ -1,0 +1,19 @@
+{
+  "id": "in-the-zone",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "In the Zone",
+  "unlocks": [
+    "in-the-zone"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "backstab"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the In The Zone power."
+}

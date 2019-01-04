@@ -1,0 +1,20 @@
+{
+  "id": "fallback",
+  "class": "Knight",
+  "promotion": "Secutor",
+  "name": "Fallback",
+  "unlocks": [],
+  "modifies": [
+    "pursuit"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "liberality",
+      "mighty-shield"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Fallback enhances Pursuit to apply a Barrier to the player when it ends."
+}

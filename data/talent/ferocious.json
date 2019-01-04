@@ -1,0 +1,17 @@
+{
+  "id": "ferocious",
+  "class": "Champion",
+  "promotion": "Pit Fighter",
+  "name": "Ferocious",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "obstinance"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Ferocious improves Attack Power by 50 per point spent."
+}

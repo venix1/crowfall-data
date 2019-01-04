@@ -1,0 +1,17 @@
+{
+  "id": "major-discipline-slot-ii-templar",
+  "class": "Templar",
+  "promotion": "",
+  "name": "Major Discipline Slot II (Templar)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "resurrection"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
+}

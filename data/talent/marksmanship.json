@@ -1,0 +1,17 @@
+{
+  "id": "marksmanship",
+  "class": "Duelist",
+  "promotion": "Dirge",
+  "name": "Marksmanship",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "persistence"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Marksmanship improves Ranged Distance Bonus by 3 per point spent."
+}

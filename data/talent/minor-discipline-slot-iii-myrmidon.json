@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-iii-myrmidon",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Minor Discipline Slot III (Myrmidon)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "relentless"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

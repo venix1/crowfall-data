@@ -1,0 +1,19 @@
+{
+  "id": "shroud-of-darkness",
+  "class": "Druid",
+  "promotion": "Archdruid",
+  "name": "Shroud of Darkness",
+  "unlocks": [
+    "shroud-of-darkness"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "barbed-thorns"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Shroud Of Darkness power."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "vengeance",
+  "class": "Myrmidon",
+  "promotion": "",
+  "name": "Vengeance",
+  "unlocks": [
+    "vengeance"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "relentless"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Vengeance power."
+}

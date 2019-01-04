@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-ii-knight",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Minor Discipline Slot II (Knight)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "vitality"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

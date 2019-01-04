@@ -1,0 +1,20 @@
+{
+  "id": "tripleaught-shot",
+  "class": "Duelist",
+  "promotion": "Slayer",
+  "name": "Triple-Aught Shot",
+  "unlocks": [],
+  "modifies": [
+    "pepperbox-shot"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "keen-aim",
+      "quick-draw"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Triple-Aught Shot enhances Pepperbox Shot to cause 50% more damage."
+}

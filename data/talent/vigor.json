@@ -1,0 +1,17 @@
+{
+  "id": "vigor",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Vigor",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "tools-of-the-trade"
+    ],
+    "spentPips": 15,
+    "levelRequired": 0
+  },
+  "details": "Vigor improves Maximum Stamina by 5 per point spent."
+}

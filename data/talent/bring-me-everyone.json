@@ -1,0 +1,22 @@
+{
+  "id": "bring-me-everyone",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Bring Me Everyone",
+  "unlocks": [
+    "barrage",
+    "dagger-spin"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "armor-piercing",
+      "weathered-resilience",
+      "sleight-of-hand"
+    ],
+    "spentPips": 28,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Barrage and Dagger Spin powers."
+}

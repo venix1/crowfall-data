@@ -1,0 +1,18 @@
+{
+  "id": "torturous-wounding",
+  "class": "Myrmidon",
+  "promotion": "Conqueror",
+  "name": "Torturous Wounding",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "pitiless",
+      "dreadful-silencing"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Torturous Wounding enhances Bleeding to also apply the Slow effect as well."
+}

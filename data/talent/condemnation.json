@@ -1,0 +1,19 @@
+{
+  "id": "condemnation",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Condemnation",
+  "unlocks": [
+    "condemnation"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "fervor"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Condemnation power."
+}

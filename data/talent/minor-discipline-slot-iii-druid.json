@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-iii-druid",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Minor Discipline Slot III (Druid)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "dream-away"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

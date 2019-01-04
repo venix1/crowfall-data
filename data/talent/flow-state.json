@@ -1,0 +1,19 @@
+{
+  "id": "flow-state",
+  "class": "Assassin",
+  "promotion": "Vandal",
+  "name": "Flow State",
+  "unlocks": [],
+  "modifies": [
+    "in-the-zone"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "no-escape"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "In The Zone has a chance to refund Combo Points on every attack."
+}

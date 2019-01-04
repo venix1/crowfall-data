@@ -1,0 +1,17 @@
+{
+  "id": "tactical-mastery",
+  "class": "Knight",
+  "promotion": "",
+  "name": "Tactical Mastery",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "chivalry"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Tactical Mastery improves Power Efficiency by 8% per point spent."
+}

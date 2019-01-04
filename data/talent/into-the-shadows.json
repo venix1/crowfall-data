@@ -1,0 +1,17 @@
+{
+  "id": "into-the-shadows",
+  "class": "Ranger",
+  "promotion": "Brigand",
+  "name": "Into the Shadows",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "bring-me-everyone"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Into the Shadows improves Melee Power Damage Bonus by 3% per point spent.\r\nThe first point in this talent grants a permanent Energy Regeneration Rate of 2(s) in all Power Trays.\r\nWARNING: Purchasing this talent commits you to the Brigand promotion path and prevents access to the Warden and Archer promotion paths."
+}

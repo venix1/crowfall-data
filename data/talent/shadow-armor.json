@@ -1,0 +1,17 @@
+{
+  "id": "shadow-armor",
+  "class": "Assassin",
+  "promotion": "",
+  "name": "Shadow Armor",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "kidney-shot"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Shadow Armor improves Physical Armor Bonus by 1% per point spent."
+}

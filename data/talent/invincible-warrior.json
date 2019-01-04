@@ -1,0 +1,20 @@
+{
+  "id": "invincible-warrior",
+  "class": "Champion",
+  "promotion": "Pit Fighter",
+  "name": "Invincible Warrior",
+  "unlocks": [
+    "invincible-warrior"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "ferocious",
+      "fast-counter-attack"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Invincible Warrior power."
+}

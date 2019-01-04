@@ -1,0 +1,19 @@
+{
+  "id": "fury-of-the-storm",
+  "class": "Druid",
+  "promotion": "Stormcaller",
+  "name": "Fury of the Storm",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "electric-skin",
+      "lightning-bugs",
+      "lightning-burst"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Fury of the Storm increases your Damage Bonus by 1% per point spent."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "violent-neckbreaker",
+  "class": "Champion",
+  "promotion": "Alpha Warrior",
+  "name": "Violent Neckbreaker",
+  "unlocks": [],
+  "modifies": [
+    "neckbreaker"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "style",
+      "dominant-smashing"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Violent Neckbreaker enhances Neckbreaker to cause cause increased damage and consume a point of Dominance to critically hit."
+}

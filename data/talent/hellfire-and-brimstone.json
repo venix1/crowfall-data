@@ -1,0 +1,20 @@
+{
+  "id": "hellfire-and-brimstone",
+  "class": "Confessor",
+  "promotion": "Fanatic",
+  "name": "Hellfire and Brimstone",
+  "unlocks": [],
+  "modifies": [
+    "hellfire-shield",
+    "hellfire-aura"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "plenary-indulgence"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Hellfire and Brimstone enhances Hellfire Shield and Hellfire Aura so they are no longer consumed by Hellfire combo powers."
+}

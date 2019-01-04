@@ -1,0 +1,19 @@
+{
+  "id": "entangling-chains",
+  "class": "Knight",
+  "promotion": "Sentinel",
+  "name": "Entangling Chains",
+  "unlocks": [],
+  "modifies": [
+    "chain-attack"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "heartless"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Chain Attack also applies a Slow effect to the target."
+}

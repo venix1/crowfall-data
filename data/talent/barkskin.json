@@ -1,0 +1,17 @@
+{
+  "id": "barkskin",
+  "class": "Ranger",
+  "promotion": "Warden",
+  "name": "Barkskin",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "gift-of-the-forest"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Barkskin reduces the amount of Damage Taken by 2% per point spent."
+}

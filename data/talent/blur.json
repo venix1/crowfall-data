@@ -1,0 +1,17 @@
+{
+  "id": "blur",
+  "class": "Druid",
+  "promotion": "Archdruid",
+  "name": "Blur",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "forest-affinity"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Blur reduces the amount of Damage Taken by 2% per point spent."
+}

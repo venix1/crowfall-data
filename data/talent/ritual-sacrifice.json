@@ -1,0 +1,19 @@
+{
+  "id": "ritual-sacrifice",
+  "class": "Druid",
+  "promotion": "",
+  "name": "Ritual Sacrifice",
+  "unlocks": [
+    "ritual-sacrifice"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "yielding-roots"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Ritual Sacrifice power."
+}

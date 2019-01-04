@@ -1,0 +1,17 @@
+{
+  "id": "minor-discipline-slot-i-champion",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Minor Discipline Slot I (Champion)",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "massive-cleave"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Unlock a Minor Discipline slot."
+}

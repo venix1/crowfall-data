@@ -1,0 +1,17 @@
+{
+  "id": "hand-of-the-gods",
+  "class": "Cleric",
+  "promotion": "",
+  "name": "Hand of the Gods",
+  "unlocks": [
+    "hand-of-the-gods"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Hand Of The Gods power."
+}

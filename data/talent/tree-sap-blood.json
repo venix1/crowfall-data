@@ -1,0 +1,19 @@
+{
+  "id": "tree-sap-blood",
+  "class": "Ranger",
+  "promotion": "Warden",
+  "name": "Tree Sap Blood",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "treant-lore",
+      "triumphant-cry",
+      "trackers-kit"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Tree Sap Blood improves Bleed Armor Bonus by 10% per point spent."
+}

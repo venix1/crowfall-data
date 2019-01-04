@@ -1,0 +1,17 @@
+{
+  "id": "armaments",
+  "class": "Champion",
+  "promotion": "",
+  "name": "Armaments",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "spinning-backfist"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Armaments improves Critical Hit Damage by 3% per point spent."
+}

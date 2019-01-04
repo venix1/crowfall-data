@@ -1,0 +1,17 @@
+{
+  "id": "armor-of-flame",
+  "class": "Confessor",
+  "promotion": "",
+  "name": "Armor of Flame",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 5,
+  "prerequisite": {
+    "precursors": [
+      "flames-of-truth"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Armor of Flame improves Physical Armor Bonus by 1% per point spent."
+}

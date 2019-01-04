@@ -1,0 +1,20 @@
+{
+  "id": "ambush",
+  "class": "Duelist",
+  "promotion": "",
+  "name": "Ambush",
+  "unlocks": [
+    "ambush"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "go-for-broke"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Ambush power."
+}h power."
+}

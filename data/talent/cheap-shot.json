@@ -1,0 +1,19 @@
+{
+  "id": "cheap-shot",
+  "class": "Assassin",
+  "promotion": "Vandal",
+  "name": "Cheap Shot",
+  "unlocks": [
+    "cheap-shot"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "double-down"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Cheap Shot power."
+}

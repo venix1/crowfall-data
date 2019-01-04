@@ -1,0 +1,19 @@
+{
+  "id": "lightning-burst",
+  "class": "Druid",
+  "promotion": "Stormcaller",
+  "name": "Lightning Burst",
+  "unlocks": [
+    "lightning-burst"
+  ],
+  "modifies": [],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "storm-avatar"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "This talent grants the Lightning Burst power."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "impenetrable-storm",
+  "class": "Myrmidon",
+  "promotion": "Conqueror",
+  "name": "Impenetrable Storm",
+  "unlocks": [],
+  "modifies": [
+    "whirlwind"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "pitiless"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Impenetrable Storm enhances Whirlwind so that you are immune to Control Effects while channeling."
+}

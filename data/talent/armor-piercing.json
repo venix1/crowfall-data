@@ -1,0 +1,19 @@
+{
+  "id": "armor-piercing",
+  "class": "Ranger",
+  "promotion": "",
+  "name": "Armor Piercing",
+  "unlocks": [],
+  "modifies": [],
+  "maxPips": 3,
+  "prerequisite": {
+    "precursors": [
+      "on-target",
+      "minor-discipline-slot-ii-ranger",
+      "flare"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Armor Piercing improves Armor Penetration"
+}

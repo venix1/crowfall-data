@@ -1,0 +1,20 @@
+{
+  "id": "explosive-shot",
+  "class": "Duelist",
+  "promotion": "Dirge",
+  "name": "Explosive Shot",
+  "unlocks": [],
+  "modifies": [
+    "pepperbox-shot"
+  ],
+  "maxPips": 1,
+  "prerequisite": {
+    "precursors": [
+      "marksmanship",
+      "go-for-the-knees"
+    ],
+    "spentPips": 0,
+    "levelRequired": 0
+  },
+  "details": "Explosive Shot enhances Pepperbox Shot to reduce the target's Piercing Armor by 25% when performed using five Pips."
+}
