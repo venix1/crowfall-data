@@ -1,11 +1,7 @@
 # crowfallData
 The grand repository of all things Crowfall. JSON objects for each recipe, race, class, power, talents, discipline and more. For use with public API projects.
 
-This data will be used to power the Unofficial Crowfall API, Project Malekai.
-
-https://github.com/TheObsidian/malekaiAPI
-https://github.com/TheObsidian/malekaiDiscord
-as well as the powering https://malekai.org
+This data will be used to power the Unofficial Crowfall API, Project Malekai (https://malekai.org).
 
 Many thanks goes out to community contributors to this project, at the time of this update:
 Axfan & [LoD] Miraluna.
