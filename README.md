@@ -1,22 +1,23 @@
 # crowfallData
-The grand repository of all things Crowfall. JSON objects for each recipe, race, class, power, discipline and more. For use with public API projects.
+The grand repository of all things Crowfall. JSON objects for each recipe, race, class, power, talents, discipline and more. For use with public API projects.
 
-This data will be used to power the unofficial Crowfall API project Malekai.
+This data will be used to power the Unofficial Crowfall API, Project Malekai.
 
 https://github.com/TheObsidian/malekaiAPI
 https://github.com/TheObsidian/malekaiDiscord
 as well as the powering https://malekai.org
 
 Many thanks goes out to community contributors to this project, at the time of this update:
-Scree, Michael Fedora, [LOD] Will, Izalea, Remm, That_Eriksson, Typ3cast, Orleans, and CytheS.
+Axfan & [LoD] Miraluna.
 
 ## Folder Structure
 - `data`: Root folder
   - `class`: All the classes, with the class data model
   - `discipline`: All of the disciplines *and* races, which all adhere to the discipline data model
-    - `{subtype}`: Extra organization, for `major`, `minor`, `weapon`, and `race` types
-  - `power`: All of the powers
-  - `recipes`: All of the tradeskill recipes.
+    - `{subtype}`: Extra organization, for `major`, `minor`, `weapon`, `crafting`, `harvesting` and `race` types
+  - `power`: All of the powers in Crowfall.
+  - `talents`: All of the talents in Crowfall.
+  - `recipes`: All of the tradeskill recipes in Crowfall (coming soon).
 
 ## Data Schemes
 
