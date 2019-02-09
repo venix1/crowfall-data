@@ -25,9 +25,5 @@
   ],
   "targeting": "reticle",
   "type": "debuff",
-  "description": "Executes a versatile attack dealing damage to your target. Any victim already afflicted with a Toxin suffers additional negative effects. Effects vary by your equipped Toxin and increase in severity with the amount of Pips spent. Exposed targets are also knocked down if struck while attacking. Increases your chance to apply Toxins by 20% for 5 seconds scaling up by 2 seconds per Pip spent.
-   Specific Toxin Effects:
-   Poison Toxin: Cause additional damage and applies a movement reduction to enemies afflicted with a Poison Toxin.
-   Disease Toxin: Prevent healing with Blackmantle against enemies afflicted with a Disease Toxin.
-   Nature Toxin: Additional nearby enemies can have a Severe Corruption applied to them when used against a target afflicted with a Nature Toxin."
+  "description": "Executes a versatile attack dealing damage to your target. Any victim already afflicted with a Toxin suffers additional negative effects. Effects vary by your equipped Toxin and increase in severity with the amount of Pips spent. Exposed targets are also knocked down if struck while attacking. Increases your chance to apply Toxins by 20% for 5 seconds scaling up by 2 seconds per Pip spent. Specific Toxin Effects: Poison Toxin: Cause additional damage and applies a movement reduction to enemies afflicted with a Poison Toxin. Disease Toxin: Prevent healing with Blackmantle against enemies afflicted with a Disease Toxin. Nature Toxin: Additional nearby enemies can have a Severe Corruption applied to them when used against a target afflicted with a Nature Toxin."
 }
