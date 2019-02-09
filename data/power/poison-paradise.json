@@ -13,8 +13,8 @@
     "data_type": "talent"
   }],
   "tags": [
-    "Blackguard"
-    "Promotion Capstone",
+    "Blackguard",
+    "Promotion Capstone"
   ],
   "targeting": "self",
   "type": "passive",
