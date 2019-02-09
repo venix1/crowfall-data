@@ -7,16 +7,16 @@
   }],
   "duration": 0,
   "max_targets": 5,
-  "name": "Dagger Storm 3",
-  "next_chain": ["dagger-storm-4"],
-  "previous_chain": ["dagger-storm-2"],
-  "range": 5,
+  "name": "Dagger Storm III",
+  "next_chain": ["dagger-storm-iv"],
+  "previous_chain": ["dagger-storm-ii"],
+  "range": 6,
   "sources": [{
-    "id": "assassin",
-    "data_type": "class"
+    "id": "dagger-storm",
+    "data_type": "talent"
   }],
   "tags": ["Assassin", "AoE"],
   "targeting": "sphere",
   "type": "ranged attack",
-  "description": "Fling throwing daggers in all directions hitting multiple enemies for 78-118 + 98% Weapon Damage."
+  "description": "Fling throwing daggers in all directions hitting multiple enemies for 36-54 + 45% Weapon Damage."
 }

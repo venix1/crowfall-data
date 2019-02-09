@@ -9,15 +9,15 @@
     "engage"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 15,
   "sources": [{
-    "id": "assassin",
-    "data_type": "class"
+    "id": "disengage",
+    "data_type": "talent"
   }],
   "tags": [
     "Assassin"
   ],
   "targeting": "reticle",
   "type": "movement",
-  "description": "Quickly dash backward with an attack generating a Pip and causing 114-171 + 142% Weapon Damage."
+  "description": "Dashes you backward 16m with an attack generating a Pip and causing 86-129 + 108% Weapon Damage."
 }

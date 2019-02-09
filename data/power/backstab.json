@@ -7,13 +7,13 @@
   "name": "Backstab",
   "next_chain": [],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "assassin",
-    "data_type": "class"
+    "id": "backstab",
+    "data_type": "talent"
   }],
   "tags": ["Assassin"],
   "targeting": "reticle",
   "type": "melee attack",
-  "description": "Run an enemy through with a deadly strike generating two Pips and causing 133-200 + 167% Weapon Damage when striking from behind or generating one Pip and causing 17-25+ 21% Weapon Damage otherwise."
+  "description": "Stabs an enemy, causing 17-25 + 21% Weapon Damage. Power Damage is increased by 800% and generate a bonus Pip when you are behind your target. Generates 1 Pip."
 }

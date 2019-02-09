@@ -9,13 +9,14 @@
   "previous_chain": [],
   "range": 5,
   "sources": [{
-    "id": "assassin",
-    "data_type": "class"
+    "id": "spirit-dart",
+    "data_type": "talent"
   }],
   "tags": [
     "Stealth",
     "Exposed",
-    "Toxin"
+    "Toxin",
+    "Blackguard"
   ],
   "targeting": "reticle",
   "type": "debuff",

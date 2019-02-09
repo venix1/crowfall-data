@@ -8,12 +8,12 @@
   "duration": 0,
   "max_targets": 5,
   "name": "Dagger Storm",
-  "next_chain": ["dagger-storm-2"],
+  "next_chain": ["dagger-storm-ii"],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "assassin",
-    "data_type": "class"
+    "id": "dagger-storm",
+    "data_type": "talent"
   }],
   "tags": [
     "Assassin",
@@ -21,5 +21,5 @@
   ],
   "targeting": "sphere",
   "type": "ranged attack",
-  "description": "Spend one Pip and fling throwing daggers in all directions hitting multiple enemies for 56-84 + 70% Weapon Damage."
+  "description": "Spend one Pip and fling throwing daggers in all directions hitting multiple enemies for 30-45 + 37% Weapon Damage."
 }

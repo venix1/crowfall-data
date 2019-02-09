@@ -9,11 +9,11 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "assassin",
-    "data_type": "class"
+    "id": "enter-the-shadows",
+    "data_type": "talent"
   }],
   "tags": ["Assassin", "Stealth", "Exposed"],
   "targeting": "reticle",
   "type": "instant",
-  "description": "Carefully studying a target from stealth, applying the Exposed debuff to reveal weaknesses you may capitalize on."
+  "description": "Applies the Exposed debuff to reveal weaknesses you may capitalize on."
 }

@@ -11,21 +11,16 @@
     "Stealth"
   ],
   "powers": [
-    "ambush-assassin",
-    "backstab",
-    "cheap-shot",
-    "curse-weapon",
-    "dagger-storm",
-    "diffusion",
-    "disengage-assassin",
-    "engage",
-    "kidney-shot",
-    "recon-assassin",
-    "retaliate-assassin",
+    "mental-fortitude",
+    "spotting",
+    "energetic-harvesting",
     "shadowstep",
-    "spirit-dart",
-    "stab",
-    "stab-2",
-    "stab-3"
+    "retaliate-assassin",
+    "stab"
+  ],
+  "promotions": [
+    "Cuthroat",
+    "Blackguard",
+    "Vandal"
   ]
 }

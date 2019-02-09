@@ -4,10 +4,10 @@
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Stab 3",
+  "name": "Stab III",
   "next_chain": [],
-  "previous_chain": ["stab-2"],
-  "range": 5,
+  "previous_chain": ["stab-ii"],
+  "range": 6,
   "sources": [{
     "id": "assassin",
     "data_type": "class"
@@ -15,5 +15,5 @@
   "tags": ["Assassin"],
   "targeting": "reticle",
   "type": "instant",
-  "description": "Jab for 128-192 + 160% Weapon Damage."
+  "description": "Jab for 59-89 + 74% Weapon Damage. Generates 1 Pip."
 }

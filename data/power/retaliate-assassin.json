@@ -1,9 +1,9 @@
 {
-  "cast_type": "instant",
-  "cooldown": 3,
+  "cast_type": "channeled",
+  "cooldown": 0,
   "cost": [{
     "name": "stamina",
-    "cost": 75
+    "cost": 65
   }],
   "duration": 0,
   "max_targets": 3,
@@ -22,5 +22,5 @@
   ],
   "targeting": "area",
   "type": "retaliate",
-  "description": "Jump to your feet, damaging all nearby enemies for 105-158 + 132% Weapon Damage and generating a Pip. Retaliating an Exposed enemy generates an additional Pip."
+  "description": "Jump to your feet, damaging nearby enemies for 105-158 + 132% Weapon Damage and generating a Pip. Retaliating an Exposed enemy generates an additional Pip."
 }

@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 9,
+  "cooldown": 20,
   "cost": [{
     "name": "pips",
     "cost": 1
@@ -10,10 +10,10 @@
   "name": "Kidney Shot",
   "next_chain": [],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "assassin",
-    "data_type": "class"
+    "id": "kidney-shot",
+    "data_type": "talent"
   }],
   "tags": [
     "Assassin",
@@ -21,5 +21,5 @@
   ],
   "targeting": "reticle",
   "type": "melee attack",
-  "description": "Stab an enemy with a crippling blow to the vitals causing 80-120 + 100% Weapon Damage and stunning for a duration scaling by Pips spent. 1 Pip: 3.25 seconds. 2 Pips: 4 seconds. 3 Pips: 4.75 seconds. 4 Pips: 5.5 seconds. 5 Pips: 6.25 seconds."
+  "description": "Stabs an enemy with a crippling blow to the vitals causing 80-120 + 100% Weapon Damage and stunning for a duration scaling by Pips spent. 1 Pip: 3.25 seconds. 2 Pips: 4 seconds. 3 Pips: 4.75 seconds. 4 Pips: 5.5 seconds. 5 Pips: 6.25 seconds."
 }
