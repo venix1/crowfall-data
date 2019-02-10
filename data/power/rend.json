@@ -3,7 +3,7 @@
   "cooldown": 24,
   "cost": [{
     "name": "rage",
-    "cost": 23
+    "cost": 18
   }],
   "duration": 0,
   "max_targets": 1,
@@ -12,10 +12,10 @@
   "previous_chain": [
     "vicious-stomp"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "champion",
-    "data_type": "class"
+    "id": "vicious-stomp",
+    "data_type": "talent"
   }],
   "tags": [
     "Bleed",
@@ -23,5 +23,5 @@
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Rend in front of you, dealing 244-330 + 287% Weapon Damage. Applies a Severe Bleed to all hit. Consumes a point of Dominance when used for a guaranteed critical hit."
+  "description": "Deals 187-253 + 220% Weapon Damage. Applies a Severe Bleed to all hit."
 }

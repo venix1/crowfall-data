@@ -12,10 +12,10 @@
   "previous_chain": [
     "vicious-stomp"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "champion",
-    "data_type": "class"
+    "id": "vicious-stomp",
+    "data_type": "talent"
   }],
   "tags": [
     "Suppress",
@@ -23,5 +23,5 @@
   ],
   "targeting": "cone",
   "type": "crowd control",
-  "description": "Suppress enemies, disabling their powers for 6 seconds. Deals 154-208 + 181% Weapon Damage. Consumes a point of Dominance when used for a guaranteed critical hit."
+  "description": "Suppresses an enemy, disabling their powers for 6 seconds. Disarming Shout deals 154-208 + 181% Weapon Damage."
 }

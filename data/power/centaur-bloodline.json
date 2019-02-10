@@ -20,5 +20,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Gain Trailmaster and increase Out of Combat Movement Speed by 25%. Chance after suffering a damaging attack from melee to activate a combo to kick behind you for 60-73 + 67% Weapon Damage and knockback those hit."
+  "description": "Grants Trailmaster increasing Out of Combat Movement Speed by 25% and activate REAR KICK periodically when suffering an attack from behind 60-73 + 67% Weapon Damage and pushing enemies away."
 }

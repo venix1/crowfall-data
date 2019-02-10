@@ -9,10 +9,10 @@
   "previous_chain": [
     "leap"
   ],
-  "range": 4,
+  "range": 16,
   "sources": [{
-    "id": "champion",
-    "data_type": "class"
+    "id": "leap",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
@@ -21,5 +21,5 @@
   ],
   "targeting": "sphere",
   "type": "melee attack",
-  "description": "Leap forward, dealing 95-129 + 112% Weapon Damage as Crushing Damage as you land and grants a point of Dominance."
+  "description": "Launches you forward 16m dealing 95-129 + 112% Weapon Damage as Crushing Damage as you land."
 }

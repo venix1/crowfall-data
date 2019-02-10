@@ -1,6 +1,6 @@
 {
   "cast_type": "passive",
-  "cooldown": 90,
+  "cooldown": 120,
   "cost": [],
   "duration": 4,
   "max_targets": 1,
@@ -9,8 +9,8 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "champion",
-    "data_type": "class"
+    "id": "second-wind",
+    "data_type": "talent"
   }],
   "tags": [
     "Champion",
@@ -18,5 +18,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "After not taking damage for 4 seconds and falling below 50% Health, Health Regeneration is greatly increased until reaching 50% Health. This can occur once every 90 seconds."
+  "description": "Recovers Hitpoints over time after taking damage dropping you below 50% Hitpoints until your current Hitpoint total is above 50%. This can occur once every two minutes."
 }

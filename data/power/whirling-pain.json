@@ -9,13 +9,11 @@
   "max_targets": 5,
   "name": "Whirling Pain",
   "next_chain": [],
-  "previous_chain": [
-    "massive-cleave"
-  ],
-  "range": 4.3,
+  "previous_chain": [],
+  "range": 5,
   "sources": [{
-    "id": "champion",
-    "data_type": "class"
+    "id": "whirling-pain",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
@@ -23,5 +21,5 @@
   ],
   "targeting": "sphere",
   "type": "melee attack",
-  "description": "Sweep seven times around you dealing 59-79 + 69% Weapon Damage per swing. You may move while spinning. Consumes a point of Dominance when used for guaranteed critical hits."
+  "description": "Swees around you repeatedly dealing 59-79 + 69% Weapon Damage per swing. You may move while spinning."
 }

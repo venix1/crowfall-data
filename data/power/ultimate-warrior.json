@@ -12,13 +12,13 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "champion",
-    "data_type": "class"
+    "id": "ultimate-warrior",
+    "data_type": "talent"
   }],
   "tags": [
     "Champion"
   ],
   "targeting": "self",
   "type": "non-aggressive",
-  "description": "Harness your Hatred and grow in size, increase Bonus Damage by up to 10%, heal restore Rage and grant two points of Dominance. This effect can stack twice."
+  "description": "Increases your size, heals, restores Rage, briefly applies a barrier equal to 20% of your maximum Health and can be instantly Flash-Cast. This effect can stack twice but will overwrite other Warrior effects."
 }

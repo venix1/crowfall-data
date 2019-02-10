@@ -11,17 +11,15 @@
     "previous_chain": [
         "smash"
     ],
-    "range": 5,
-    "sources": [
-        {
-            "id": "champion",
-            "data_type": "class"
-        }
-    ],
+    "range": 6,
+    "sources": [{
+        "id": "champion",
+        "data_type": "class"
+      }],
     "tags": [
         "Champion"
     ],
     "targeting": "cone",
     "type": "melee attack",
-    "description": "Strike in front of you for 102 - 138 + 120% Weapon Damage, generating 4 Rage if you hit."
+    "description": "Strikes in front of you for 124-167 + 145% Weapon Damage, generating 4 Rage if you hit."
 }

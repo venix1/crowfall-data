@@ -2,24 +2,12 @@
   "description": "",
   "name": "Champion",
   "powers": [
-    "disarming-shout",
-    "giant-smash",
-    "kick-sand",
-    "leap",
-    "leap-2",
-    "massive-cleave",
-    "massive-smash",
-    "neck-breaker",
-    "relentless-champion",
-    "rend",
     "retaliate-champion",
-    "second-wind",
-    "smash",
-    "spinning-backfist",
-    "throw-hurlbat",
-    "ultimate-warrior",
-    "vicious-stomp",
-    "whirling-pain"
+    "neckbreaker",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "smash"
   ],
   "races": [
     "stoneborn",
@@ -27,5 +15,10 @@
     "minotaur",
     "centaur"
   ],
-  "tags": []
+  "tags": [],
+  "promotions": [
+    "Alpha Warrior",
+    "Barbarian",
+    "Pit Fighter"
+  ]
 }
