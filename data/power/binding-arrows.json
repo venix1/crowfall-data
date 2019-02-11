@@ -2,7 +2,7 @@
   "cast_type": "ground aimed",
   "cooldown": 24,
   "cost": [{
-    "name": "energy",
+    "name": "resource",
     "cost": 12
   }],
   "duration": 5,
@@ -21,5 +21,5 @@
   ],
   "targeting": "area",
   "type": "ranged attack",
-  "description": "Pin down multiple enemies in an area Rooting them in place and causing 45-60 + 53% Weapon Damage. This Power's Maximum Range cannot be modified."
+  "description": "Pins down multiple enemies in an area Rooting them in place and causing 45-60 + 53% Weapon Damage. This Power's Maximum Range cannot be modified."
 }

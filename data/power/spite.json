@@ -8,17 +8,12 @@
     "next_chain": [],
     "previous_chain": [],
     "range": 0,
-    "sources": [
-        {
-            "id": "juggernaut",
-            "data_type": "discipline"
-        }
-    ],
-    "tags": [
-        "Knockdown",
-        "Stun"
-    ],
+    "sources": [{
+      "id": "juggernaut",
+      "data_type": "discipline"
+    }],
+    "tags": [],
     "targeting": "self",
     "type": "passive",
-    "description": "Seethe dangerously each time you suffer a Knockdown or Stun and recover 4 - 6% of your maximum Health over 5 seconds."
+    "description": "Recovers 4-6% of maximum Health over 5 seconds each time you suffer a Knockdown or Stun."
 }

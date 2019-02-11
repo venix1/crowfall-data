@@ -10,16 +10,17 @@
   "name": "Arcane Archer",
   "powers": [
     "arcane-barrier",
-    "binding-arrows",
-    "way-of-the-trails"
+    "multi-shot",
+    "way-of-the-trails",
+    "binding-arrows"
   ],
   "slots_granted": ["Ranged", "Ammo"],
   "slots_removed": [],
   "type": "major",
-  "tags": ["Far Sight", "Ranged Distance Bonus", "Elemental Mitigations"],
+  "tags": ["Far Sight", "Ranged Distance Bonus"],
   "stats": [{
-      "name": "Elemental Mitigations",
-      "value": 3
+      "name": "Elemental Armor Bonus",
+      "value": 3.75
     },
     {
       "name": "Ranged Distance Bonus",
@@ -27,10 +28,10 @@
     },
     {
       "name": "Far Sight",
-      "value": 5
+      "value": 6.25
     }
   ],
-  "equips": ["Basic Bows", "Arcane Bows", "Arrows", "Elemental Arrows"],
+  "equips": ["Basic Bows", "Spellbound Bows", "Arrows", "Elemental Arrows"],
   "tray_granted": "Ranged",
   "tray_removed": ""
 }

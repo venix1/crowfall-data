@@ -25,8 +25,8 @@
   "type": "major",
   "tags": [],
   "stats": [{
-    "name": "Final Damage Modifier",
-    "value": 5
+    "name": "Critical Hit Chance",
+    "value": 2.5
   }],
   "equips": [],
   "tray_granted": "",

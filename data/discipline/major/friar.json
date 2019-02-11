@@ -24,12 +24,10 @@
     "slots_removed": [],
     "type": "major",
     "tags": [],
-    "stats": [
-        {
-            "name": "Final Healing Modifier",
-            "value": 0.063
-        }
-    ],
+    "stats": [{
+      "name": "Critical Healing Chance",
+      "value": 6.25
+    }],
     "equips": [],
     "tray_granted": "",
     "tray_removed": ""

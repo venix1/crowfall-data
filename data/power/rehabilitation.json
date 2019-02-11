@@ -10,7 +10,7 @@
   "name": "Rehabilitation",
   "next_chain": [],
   "previous_chain": [],
-  "range": 35,
+  "range": 30,
   "sources": [{
     "id": "field-surgeon",
     "data_type": "discipline"
@@ -18,5 +18,5 @@
   "tags": [],
   "targeting": "reticle",
   "type": "non-aggressive",
-  "description": "Tend an ally's relieving 53 + 84% Weapon Damage plus an additional 1.4 Health for every point of Stamina every two seconds for six seconds."
+  "description": "Tends an ally's wounds relieving 53 + 84% Weapon Damage plus an additional 1.4 Health for every point of Stamina. Heals two times over six seconds."
 }

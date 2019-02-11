@@ -10,18 +10,14 @@
   "name": "Demolish Armor",
   "next_chain": [],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-      "id": "master-of-axes",
-      "data_type": "discipline"
-    },
-    {
-      "id": "master-of-great-axes",
+      "id": "adjudicator",
       "data_type": "discipline"
     }
   ],
   "tags": [],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Demolish an enemy's Physical armor causing 120 - 163 + 142% Weapon Damage."
+  "description": "Demolishes an enemy's Physical armor causing 120-163 + 142% Weapon Damage."
 }

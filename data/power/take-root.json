@@ -18,5 +18,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Standing still for 2 seconds increases Healing Bonus by 10% and Physical Mitigations by 5% until you move."
-}
+  "description": "Increases Healing Bonus by 10% and Physical Mitigations by 5% when standing still for 2 seconds and until you move."
+}k

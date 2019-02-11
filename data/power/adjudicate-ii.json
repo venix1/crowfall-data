@@ -12,7 +12,7 @@
   "previous_chain": [
     "adjudicate"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
     "id": "adjudicator",
     "data_type": "discipline"
@@ -20,5 +20,5 @@
   "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Judge an enemy inflicting 136-184 + 160% Holy Weapon Damage and cannot be mitigated normally."
+  "description": "Judges an enemy for 136-184 + 160% Holy Weapon Damage and cannot be mitigated normally."
 }

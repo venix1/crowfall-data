@@ -24,7 +24,11 @@
   "stats": [{
     "name": "Plentiful Resources Ore: All",
     "value": 1.25
-  }],
+  },
+  {
+    "name": "Harvest Power Pips Bonus",
+    "value": 0.63
+  }]],
   "equips": [],
   "tray_granted": "",
   "tray_removed": ""

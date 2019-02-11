@@ -4,7 +4,7 @@
   "cost": [],
   "duration": 0,
   "max_targets": 1,
-  "name": "Long Live the Fighter",
+  "name": "Long Live The Fighter",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Inflict a Bleed with your last Basic attack."
+  "description": "Inflicts a Bleed with your third Basic attack."
 }

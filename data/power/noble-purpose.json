@@ -15,5 +15,5 @@
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Inspire yourself, taking stock of your life saving endeavors and recover Resource for every 1000 Health you restore to others. This effect can only occur once every 15 seconds."
+  "description": "Inspires you and recovers Resource for every 1000 Health you restore to others. This effect can only occur once every 15 seconds."
 }

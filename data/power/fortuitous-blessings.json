@@ -8,17 +8,15 @@
     "next_chain": [],
     "previous_chain": [],
     "range": 0,
-    "sources": [
-        {
-            "id": "friar",
-            "data_type": "discipline"
-        }
-    ],
+    "sources": [{
+      "id": "friar",
+      "data_type": "discipline"
+    }],
     "tags": [
         "Movement Speed",
         "Support Power"
     ],
     "targeting": "self",
     "type": "passive",
-    "description": "Have faith and recieve the blessing you need.  Your actions determine whether you receive the Seeker's Blessing for movement speed, Charitable Blessing for Support Power or Impoverished Blessing for restoring your resource over time."
+    "description": "Grants the Seeker's Blessing for movement speed if you have not recently healed, Impoverished Blessing for restoring your Resource over time if you have healed and are low on resources and Charitable Blessing for Support Power otherwise."
 }

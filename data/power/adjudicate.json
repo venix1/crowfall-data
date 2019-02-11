@@ -12,7 +12,7 @@
     "adjudicate-ii"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
     "id": "adjudicator",
     "data_type": "discipline"
@@ -20,5 +20,5 @@
   "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Smash an enemy for 113-153 + 133% Weapon Damage."
+  "description": "Smashes an enemy for 113-153 + 133% Weapon Damage."
 }

@@ -20,5 +20,5 @@
   ],
   "targeting": "rectangle",
   "type": "buff",
-  "description": "Blasts Leaves healing allies in front of you for 102-138 + 120% Weapon Damage multiple times per second."
+  "description": "Blasts Leaves healing allies in front of you for 96-128 + 435% Weapon Damageover four seconds while you channel."
 }

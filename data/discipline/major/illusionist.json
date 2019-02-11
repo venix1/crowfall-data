@@ -15,20 +15,19 @@
     "description": "An Illusionist alters the perception of those within their proximity which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements an Illusionist maintains a dapper appearance while also being a worth adversary in combat.",
     "name": "Illusionist",
     "powers": [
-        "glamour-weapon",
-        "reveal-shadows",
-        "finery"
+      "invisibility",
+      "glamour-weapon",
+      "phantom-feints",
+      "hot-foot"
     ],
     "slots_granted": [],
     "slots_removed": [],
     "type": "major",
     "tags": [],
-    "stats": [
-        {
-            "name": "Perception",
-            "value": 20
-        }
-    ],
+    "stats": [{
+      "name": "Critical Hit Chance",
+      "value": 6.25
+    }],
     "equips": [],
     "tray_granted": "",
     "tray_removed": ""

@@ -8,16 +8,14 @@
     "next_chain": [],
     "previous_chain": [],
     "range": 0,
-    "sources": [
-        {
-            "id": "holy-avenger",
-            "data_type": "discipline"
-        }
-    ],
+    "sources": [{
+      "id": "holy-avenger",
+      "data_type": "discipline"
+    }],
     "tags": [
         "Attack Power"
     ],
     "targeting": "self",
     "type": "passive",
-    "description": "Increase your Attack Power when a group member dies."
+    "description": "Increases your Attack Power when a group member dies."
 }

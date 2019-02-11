@@ -24,12 +24,10 @@
     "slots_removed": [],
     "type": "major",
     "tags": [],
-    "stats": [
-        {
-            "name": "Healing Modifier",
-            "value": 6.25
-        }
-    ],
+    "stats": [{
+      "name": "Healing Modifier",
+      "value": 6.25
+    }],
     "equips": [],
     "tray_granted": "",
     "tray_removed": ""

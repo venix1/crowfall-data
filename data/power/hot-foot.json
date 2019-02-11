@@ -3,19 +3,17 @@
     "cooldown": 0,
     "cost": [],
     "duration": 0,
-    "max_targets": 1,
-    "name": "Conduction",
+    "max_targets": 0,
+    "name": "Hot Foot",
     "next_chain": [],
     "previous_chain": [],
     "range": 0,
     "sources": [{
-      "id": "elementalist",
+      "id": "illusionist",
       "data_type": "discipline"
     }],
-    "tags": [
-      "Attack Power"
-    ],
+    "tags": [],
     "targeting": "self",
     "type": "passive",
-    "description": "Increases your Attack Power by 150 for 30 seconds when damaged by Fire, Ice or Electricty."
+    "description": "Causes your third basic attack to beguile an enemy with an illusion of fire surrounding their feet and reduces their Movement Speed by 30%."
 }

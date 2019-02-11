@@ -2,24 +2,21 @@
   "cast_type": "instant",
   "cooldown": 24,
   "cost": [{
-    "name": "energy",
-    "cost": 11
+    "name": "resource",
+    "cost": 19
   }],
   "duration": 15,
   "max_targets": 5,
   "name": "Reverberating Blow",
   "next_chain": [],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "master-of-maces",
-    "data_type": "discipline"
-  }, {
-    "id": "master-of-great-maces",
+    "id": "adjudicator",
     "data_type": "discipline"
   }],
   "tags": ["AoE"],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Afflict an enemy with an aura causing other nearby enemies to suffer 15 - 20 + 18% Weapon Damage."
+  "description": "Afflicts an enemy with an aura causing other nearby enemies to suffer 26-35 + 30% Weapon Damage."
 }

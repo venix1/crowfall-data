@@ -7,7 +7,7 @@
   }],
   "duration": 0,
   "max_targets": 1,
-  "name": "Grabthars Hammer 2",
+  "name": "Grabthars Hammer II",
   "next_chain": [],
   "previous_chain": [
     "grabthars-hammer"
@@ -22,5 +22,5 @@
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Smash an enemy, stunning them for 106-143 + 124% Weapon Damage."
+  "description": "Smashes an enemy, stunning them for 106-143 + 124% Weapon Damage."
 }

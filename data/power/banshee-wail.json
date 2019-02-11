@@ -17,9 +17,9 @@
   }],
   "tags": [
     "AoE",
-    "Movement Speed"
+    "Snare"
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Wail in front of you reducing the Movement Speed of up to 5 enemies."
+  "description": "Reduces the Movement Speed of up to 5 enemies."
 }

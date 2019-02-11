@@ -18,5 +18,5 @@
   "tags": [],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Disorient multiple enemies with an attack reducing their Critical Hit Chance by 40 for 15 seconds and inflicting 151-204 + 178% Weapon Damage."
+  "description": "Disorients multiple enemies with an attack reducing their Critical Hit Chance by -40 for 15 seconds and inflicting 151-204 + 178% Weapon Damage."
 }

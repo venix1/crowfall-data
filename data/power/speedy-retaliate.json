@@ -1,25 +1,26 @@
 {
     "cast_type": "instant",
-    "cooldown": 30,
-    "cost": [],
+    "cooldown": 0,
+    "cost": [{
+      "name": "stamina",
+      "cost": 65
+    }],
     "duration": 8,
     "max_targets": 5,
     "name": "Speedy Retaliate",
     "next_chain": [],
     "previous_chain": [],
     "range": 5,
-    "sources": [
-        {
-            "id": "escape-artist",
-            "data_type": "discipline"
-        }
-    ],
+    "sources": [{
+      "id": "escape-artist",
+      "data_type": "discipline"
+    }],
     "tags": [
-        "Knockdown",
-        "Movement Speed",
-        "Stun"
+      "Knockdown",
+      "Movement Speed",
+      "Stun"
     ],
     "targeting": "area",
     "type": "debuff",
-    "description": "Regain your senses recovering immediately from Knockdown or Stun effects with an attack inflicting #min_damage_1# - #max_damage_1# + #weapon_damage_value#% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds."
+    "description": "Regains your senses recovering immediately from Knockdown or Stun effects with an attack inflicting 113-153 + 133% Weapon Damage and then increasing your Movement Speed by 30% for 8 seconds."
 }

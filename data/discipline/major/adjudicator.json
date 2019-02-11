@@ -12,7 +12,9 @@
   "powers": [
     "adjudicate",
     "adjudicate-ii",
-    "prosecute"
+    "prosecute",
+    "demolish-armor",
+    "reverberating-blow"
   ],
   "slots_granted": [],
   "slots_removed": [],

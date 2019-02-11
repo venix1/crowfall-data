@@ -8,14 +8,12 @@
     "next_chain": [],
     "previous_chain": [],
     "range": 0,
-    "sources": [
-        {
-            "id": "master-of-pistols",
-            "data_type": "discipline"
-        }
-    ],
+    "sources": [{
+      "id": "escape-artist",
+      "data_type": "discipline"
+    }],
     "tags": [],
     "targeting": "self",
     "type": "passive",
-    "description": "Recover one Dodge when hitting critically.  This effect can occur twice in 45 seconds."
+    "description": "Recover one Dodge when hitting critically.  This effect can occur once per 30 seconds."
 }

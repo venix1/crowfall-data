@@ -13,9 +13,10 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Trailblazer"
+    "Trailblazer",
+    "Trailmaster"
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Grants Trailblazer passive, which increases Out of Combat Movement Speed by 15%. If you already have the Trailblazer passive, this upgrades to Trailmaster, which increases Out of Combat Movement Speed by 25%."
+  "description": "Grants the Trailblazer passive increasing Out of Combat Movement Speed by 15% or upgrades you to Trailmaster increasing Out of Combat Movement Speed by 25% if you already have Trailblazer."
 }

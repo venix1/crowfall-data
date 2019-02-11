@@ -22,5 +22,5 @@
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Attack multiple enemies for 117-158 + 138% Weapon Damage and causing them to Bleed for 50-75 + 6% Weapon Damage per tick."
+  "description": "Attacks multiple enemies for 117-158 + 138% Weapon Damage and causing them to Bleed for 50-75 + 6% Weapon Damage per tick."
 }

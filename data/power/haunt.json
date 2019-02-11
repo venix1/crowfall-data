@@ -20,5 +20,5 @@
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Haunt 3 enemies, reflecting 35% of their attack damage as Nature damage and healing you for 35% of damage taken."
+  "description": "Haunts 3 enemies, reflecting 35% of their attack damage as Nature damage and healing you for 35% of damage taken."
 }

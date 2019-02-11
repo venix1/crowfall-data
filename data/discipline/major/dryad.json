@@ -23,7 +23,7 @@
   "tags": [],
   "stats": [{
       "name": "Healing Modifier",
-      "value": 3
+      "value": 6.25
     },
     {
       "name": "Druid Orb Refund",

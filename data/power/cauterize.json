@@ -15,10 +15,8 @@
     "id": "knife-grinder",
     "data_type": "discipline"
   }],
-  "tags": [
-    "Bleed"
-  ],
+  "tags": [],
   "targeting": "self",
   "type": "buff",
-  "description": "Remove Bleeding effects."
+  "description": "Removes Bleeding effects."
 }

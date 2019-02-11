@@ -3,22 +3,22 @@
   "cooldown": 5,
   "cost": [{
     "name": "resource",
-    "cost": 7
+    "cost": 10
   }],
   "duration": 0,
   "max_targets": 1,
-  "name": "Crippling Stab",
+  "name": "Cripple",
   "next_chain": [
-    "crippling-stab-ii"
+    "cripple-ii"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "master-of-daggers",
+    "id": "knife-grinder",
     "data_type": "discipline"
   }],
   "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Stab an enemy for 48-64 + 56% Weapon Damage."
+  "description": "Attacks an enemy for 66-99 + 83% Weapon Damage."
 }

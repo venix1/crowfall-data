@@ -11,7 +11,7 @@
   "name": "Holy Avenger",
   "powers": [
     "grabthars-hammer",
-    "grabthars-hammer-2",
+    "grabthars-hammer-ii",
     "battle-chant",
     "suns-of-worvan",
     "you-shall-be-avenged"
@@ -22,7 +22,7 @@
   "tags": [],
   "stats": [{
     "name": "Damage Bonus: Crushing",
-    "value": 5
+    "value": 6.25
   }],
   "equips": [],
   "tray_granted": "",

@@ -7,20 +7,18 @@
   }],
   "duration": 15,
   "max_targets": 1,
-  "name": "Tenderize II",
+  "name": "Cripple II",
   "next_chain": [],
   "previous_chain": [
-    "tenderize"
+    "cripple"
   ],
   "range": 6,
   "sources": [{
     "id": "knife-grinder",
     "data_type": "discipline"
   }],
-  "tags": [
-    "Bleed"
-  ],
+  "tags": [],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Cuts an enemy for 136-184 + 160% Weapon Damage and reduces their Bleed Armor for 15 seconds."
+  "description": "Attacks an enemy with a quick strike reducing their Melee Power Damage by -20% for 15 seconds and causing 117-176 + 147% Weapon Damage"
 }

@@ -12,7 +12,7 @@
     "tenderize-ii"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
     "id": "knife-grinder",
     "data_type": "discipline"
@@ -20,5 +20,5 @@
   "tags": [],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Slice an enemy for 113-153 + 133% Weapon Damage."
+  "description": "Slices an enemy for 113-153 + 133% Weapon Damage."
 }

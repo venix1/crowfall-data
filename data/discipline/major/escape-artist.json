@@ -16,7 +16,7 @@
     "name": "Escape Artist",
     "powers": [
         "free-action",
-        "weapon-oil",
+        "critical-dodge",
         "speedy-retaliate",
         "escapology"
     ],
@@ -25,7 +25,7 @@
     "type": "major",
     "tags": [],
     "stats": [],
-    "equips": [],
+    "equips": ["Retaliate Refund (35)"],
     "tray_granted": "",
     "tray_removed": ""
 }
