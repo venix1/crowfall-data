@@ -18,5 +18,5 @@
   "tags": ["Gathering"],
   "targeting": "self",
   "type": "buff",
-  "description": "Increase your Harvest Weak Spot Chance by 10% for 8 seconds."
+  "description": "Increases your Harvest Weak Spot Chance by 10% for 8 seconds."
 }

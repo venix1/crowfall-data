@@ -18,5 +18,5 @@
   "tags": ["Gathering"],
   "targeting": "self",
   "type": "buff",
-  "description": "Deal 100% additional Harvest Base Damage to any resource node type. Lasts 6 seconds or 2 hits, whichever comes first."
+  "description": "Deals 100% additional Harvest Base Damage to any resource node type. Lasts 6 seconds or 2 hits, whichever comes first."
 }

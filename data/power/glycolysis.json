@@ -3,7 +3,7 @@
   "cooldown": 0,
   "cost": [],
   "duration": 0,
-  "max_targets": 0,
+  "max_targets": 1,
   "name": "Glycolysis",
   "next_chain": [],
   "previous_chain": [],
@@ -12,8 +12,8 @@
     "id": "connoisseur",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": ["Gathering"],
   "targeting": "self",
   "type": "passive",
-  "description": "Restore Stamina when consuming Apples."
+  "description": "Restores Stamina when consuming Apples."
 }

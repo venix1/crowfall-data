@@ -12,15 +12,15 @@
     "ranger",
     "templar"
   ],
-  "description": "A little bit of elbow grease can go a long way when it comes to harvesting. A bit more practice and patience can make one more adept and experienced while also prolonging the life of the harvesting tools used.",
-  "name": "Villein",
+  "description": "The art of survival often has more to do with resourcefulness and strength rather than luck. Perserverance, motivation, and drive are key factors in surviving the Dying Worlds.",
+  "name": "Survivalist",
   "powers": [
-    "put-your-back-into-it",
-    "seasoned-hand"
+    "burst-of-strength",
+    "bounty-of-the-land"
   ],
   "slots_granted": [],
   "slots_removed": [],
-  "type": "major",
+  "type": "exploration",
   "tags": ["Gathering"],
   "stats": [],
   "equips": [],

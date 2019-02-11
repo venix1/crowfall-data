@@ -15,5 +15,5 @@
   "tags": ["Gathering"],
   "targeting": "self",
   "type": "passive",
-  "description": "Whenever you successfully harvest, your group members gain Inspired, which adds 2% Weak Spot Chance, and 4% Weak Spot Amount for 20 seconds. Inspired stacks up to 5 times. Does not affect the caster."
+  "description": "Blesses group members with Inspired whenever you succesfully harvest adding 2% Weak Spot Chance, and 4% Weak Spot Amount for 20 seconds and stacking up to 5 times. Does not affect the caster."
 }

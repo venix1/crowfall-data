@@ -18,5 +18,5 @@
   "tags": ["Gathering"],
   "targeting": "self",
   "type": "buff",
-  "description": "Instantly restores 2 Harvest Pips and 8 Stamina to all your group members. Does not affect the caster."
+  "description": "Restores 2 Harvest Pips and 8 Stamina to all your group members. Does not affect the caster."
 }

@@ -18,5 +18,5 @@
   "tags": ["Gathering"],
   "targeting": "self",
   "type": "buff",
-  "description": "Spend Health to gain 5 Harvest Pips on your next 2 harvests for 8 seconds or 2 hits, whichever comes first."
+  "description": "Spends Health to gain 5 Harvest Pips on your next 2 harvests for 8 seconds or 2 hits, whichever comes first."
 }

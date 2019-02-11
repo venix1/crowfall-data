@@ -15,5 +15,5 @@
   "tags": ["Gathering"],
   "targeting": "self",
   "type": "passive",
-  "description": "Whenever you successfully hit a Weak Point, gain 16 Stamina."
+  "description": "Grants 16 stamina when successfully hitting a Weak Point."
 }

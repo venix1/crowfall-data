@@ -15,11 +15,12 @@
   "description": "Some may consider the Connoisseur to be a rather persnickety personality to deal with, but anyone who prefers the finer things in life will mention that the trade in for a bit of extra work pays off greatly. A distinguished partiality can help differentiate between qualities and may also grant even greater rewards.",
   "name": "Connoisseur",
   "powers": [
-    "finer-things", "glycolysis"
+    "finer-things",
+    "glycolysis"
   ],
   "slots_granted": [],
   "slots_removed": [],
-  "type": "major",
+  "type": "exploration",
   "tags": ["Gathering"],
   "stats": [],
   "equips": [],

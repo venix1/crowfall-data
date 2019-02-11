@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 0,
+  "cooldown": 45,
   "cost": [{
     "name": "health",
     "cost": 0
@@ -15,8 +15,8 @@
     "id": "hoarder",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": ["Gathering"],
   "targeting": "self",
   "type": "buff",
-  "description": "Sacrifice <cost> Health for 50 Stamina"
+  "description": "Sacrifices <cost> Health for 50 Stamina"
 }

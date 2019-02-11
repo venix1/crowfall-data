@@ -15,12 +15,11 @@
   "description": "Razor-focus and a quickness to react at the first sign of change can be the turning point for a harvester. Reaction to even the slightest change in weakness can lead to greater wealth and riches while harvesting, giving a clear edge to those with a keen eye.",
   "name": "Lookout",
   "powers": [
-    "keen-eye",
-    "spotting"
+    "keen-eye"
   ],
   "slots_granted": [],
   "slots_removed": [],
-  "type": "major",
+  "type": "exploration",
   "tags": ["Gathering"],
   "stats": [],
   "equips": [],

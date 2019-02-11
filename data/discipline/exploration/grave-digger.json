@@ -19,12 +19,16 @@
   ],
   "slots_granted": [],
   "slots_removed": [],
-  "type": "major",
+  "type": "exploration",
   "tags": ["Gathering"],
   "stats": [{
-    "name": "Plentiful Resources Grave: All",
-    "value": 1.25
-  }],
+      "name": "Plentiful Resources Grave: All",
+      "value": 1.25
+    },
+    {
+      "name": "Harvest Power Pips Bonus",
+      "value": 0.63
+    }],
   "equips": [],
   "tray_granted": "",
   "tray_removed": ""
