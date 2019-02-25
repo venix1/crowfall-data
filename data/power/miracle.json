@@ -22,5 +22,5 @@
   ],
   "targeting": "group",
   "type": "ultimate",
-  "description": "Heal group members and yourself instantly for 225-275 + 1000% Weapon Damage, increasing their Critical Hit Chance by 5% for 15 seconds and restoring some of your own Mana. Ultimate Powers instantly remove and temporarily prevent control and expose effects and grant temporary damage invulnerability."
+  "description": "Heals group members and you instantly for 225-275 + 1000% Weapon Damage, increasing their Critical Hit Chance by 5% for 15 seconds and restoring some of your own Mana. You gain a damage preventing barrier and your Expose statuses are removed. This power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast."
 }

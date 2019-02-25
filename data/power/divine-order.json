@@ -22,5 +22,5 @@
   ],
   "targeting": "group",
   "type": "ultimate",
-  "description": "Issue a holy decree instantly restoring some mana and increasing your Attack Power by an amount equal to your Support Power, causing your Spirit Hammers to chain up to two times for 79-97 + 88% Weapon Damage and occasionally Stunning enemies. Ultimate powers instantly remove and temporarily prevent control and expose effects and grant temporary damage invulnerability."
+  "description": "Issues a holy decree instantly restoring some mana and increasing the base damage of both Spirit Hammers and Searing Light by 70. Your Spirit Hammers also chain up to two additional times to strike nearby enemies and occasionally stun them. You gain a damage preventing barrier and your Expose statuses are removed. This power can be used while suffering from Control Effects to escape and can be instantaly Flash-Cast."
 }

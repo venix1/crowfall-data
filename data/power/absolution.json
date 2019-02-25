@@ -10,10 +10,10 @@
   "name": "Absolution",
   "next_chain": [],
   "previous_chain": [],
-  "range": 40,
+  "range": 25,
   "sources": [{
-    "id": "confessor",
-    "data_type": "class"
+    "id": "absolution",
+    "data_type": "talent"
   }],
   "tags": [
     "Confessor",
@@ -23,5 +23,5 @@
   ],
   "targeting": "ray",
   "type": "debuff",
-  "description": "Absolve an enemy consuming all their Sin, causing 145-218 + 181% Fire Weapon Damage with damage scaling to as much as 284-426 + 355% Weapon Damage based on the amount of Sin removed and reducing movement speed by 50% for 8 seconds if five stacks are consumed."
+  "description": "Absolves an enemy, consuming all stacked Sin and causing 145-218 + 181% Fire Weapon Damage. Absolution damage scales to as much as 329-494 + 411% Weapon Damage based on the amount of Sin removed. If five stacks of Sin are consumed the targets movement speed is reduced by 30% for 8 seconds."
 }

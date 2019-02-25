@@ -10,9 +10,9 @@
   "name": "Grasping Roots",
   "next_chain": [],
   "previous_chain": [],
-  "range": 7,
+  "range": 35,
   "sources": [{
-    "id": "master-of-mystical-staves",
+    "id": "naiad",
     "data_type": "discipline"
   }],
   "tags": [
@@ -20,5 +20,5 @@
   ],
   "targeting": "area",
   "type": "debuff",
-  "description": "Command nature to envelope enemies in the targeted area rooting them in place and inflicting 50-75 + 63% Nature Weapon Damage."
+  "description": "Commands nature to envelope enemies in the targeted area rooting them in place and inflicting 50-75 + 63% Nature Weapon Damage."
 }

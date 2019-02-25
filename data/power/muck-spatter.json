@@ -10,7 +10,7 @@
   "name": "Muck Spatter",
   "next_chain": [],
   "previous_chain": [],
-  "range": 5,
+  "range": 8,
   "sources": [{
     "id": "mudman",
     "data_type": "discipline"
@@ -21,5 +21,5 @@
   ],
   "targeting": "self",
   "type": "debuff",
-  "description": "Crushing attacks made against you have a chance to cause nearby enemies to be afflicted with Blindness and Severe Corruption."
+  "description": "Causes Crushing attacks made against you to have a chance to cause nearby enemies to be afflicted with Blindness and Severe Corruption."
 }

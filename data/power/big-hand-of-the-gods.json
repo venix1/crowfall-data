@@ -7,12 +7,12 @@
   }],
   "duration": 5,
   "max_targets": 5,
-  "name": "Hand of the Gods",
+  "name": "Big Hand of the Gods",
   "next_chain": [],
   "previous_chain": [],
   "range": 20,
   "sources": [{
-    "id": "hand-of-the-gods",
+    "id": "big-hands",
     "data_type": "talent"
   }],
   "tags": [
@@ -22,5 +22,5 @@
   ],
   "targeting": "area",
   "type": "ranged attack",
-  "description": "Unleashes a divine force holding enemies in place and inflicting 119-149 + 132% Weapon Damage."
+  "description": "Unleashes a divine force holding enemies in place and inflicting 119-149 + 132% Weapon Damage in a big way."
 }

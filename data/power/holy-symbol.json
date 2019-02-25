@@ -5,15 +5,15 @@
     "name": "mana",
     "cost": 80
   }],
-  "duration": 10,
-  "max_targets": 4,
+  "duration": 15,
+  "max_targets": 3,
   "name": "Holy Symbol",
   "next_chain": [],
   "previous_chain": [],
   "range": 35,
   "sources": [{
-    "id": "cleric",
-    "data_type": "class"
+    "id": "holy-symbol",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
@@ -22,5 +22,5 @@
   ],
   "targeting": "area",
   "type": "buff",
-  "description": "Summon a celestial force at the targeted position chain healing the closest ally and up to two others for 29-35 + 128% Weapon Damage every three seconds for 15 seconds or until it has healed 30 times."
+  "description": "Summons a celestial force at the targeted position chain healing the closest ally and up to two others for 29-35 + 128% Weapon Damage every three seconds for 15 seconds or until it has healed 30 times."
 }

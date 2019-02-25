@@ -1,11 +1,11 @@
 {
   "cast_type": "instant",
-  "cooldown": 23,
+  "cooldown": 30,
   "cost": [{
     "name": "resource",
-    "cost": 16
+    "cost": 0
   }],
-  "duration": 6,
+  "duration": 15,
   "max_targets": 1,
   "name": "Lay Low",
   "next_chain": [],
@@ -20,5 +20,5 @@
   ],
   "targeting": "self",
   "type": "non-aggressive",
-  "description": "Take it easy tending to your wounds and recovering 13-15 + 56% Weapon Damage a second for 6 seconds while maintaining Stealth."
+  "description": "Tends to your wounds, and recover 30% maximum Health over 15 seconds as long as Stealth is maintained."
 }

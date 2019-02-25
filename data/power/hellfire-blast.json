@@ -1,26 +1,24 @@
 {
     "cast_type": "instant",
-    "cooldown": 30,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 80
-        }
-    ],
+    "cooldown": 23,
+    "cost": [{
+      "name": "mana",
+      "cost": 80
+    }],
     "duration": 0,
     "max_targets": 5,
     "name": "Hellfire Blast",
-    "next_chain": [],
+    "next_chain": [
+      "fire-tornadoes"
+    ],
     "previous_chain": [
         "fire-wave"
     ],
     "range": 30,
-    "sources": [
-        {
-            "id": "confessor",
-            "data_type": "class"
-        }
-    ],
+    "sources": [{
+      "id": "hellfire",
+      "data_type": "talent"
+    }],
     "tags": [
         "AoE",
         "Confessor",
@@ -28,5 +26,5 @@
     ],
     "targeting": "rectangle",
     "type": "ranged attack",
-    "description": "Damages all players in front of you who were hit by the Hellfire Wave for 76 - 114 + 95% Weapon Damage, and knocks them briefly into the air."
+    "description": "Blasts those in front of you, dealing 82-123 + 102% Weapon Damage and leaving them Knocked Down."
 }

@@ -1,5 +1,5 @@
 {
-  "cast_type": "10 seconds",
+  "cast_type": "15 seconds",
   "cooldown": 600,
   "cost": [],
   "duration": 0,
@@ -9,14 +9,11 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
-  }, {
-    "id": "cleric",
-    "data_type": "class"
+    "id": "circle-of-life",
+    "data_type": "talent"
   }],
   "tags": ["Resurrection"],
   "targeting": "area",
   "type": "resurrection",
-  "description": "Target a large area and revive up to five unconscious vessels."
+  "description": "Targets a large area and revives up to five unconscious vessels."
 }

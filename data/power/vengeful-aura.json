@@ -1,6 +1,6 @@
 {
   "cast_type": "toggle",
-  "cooldown": 1,
+  "cooldown": 0,
   "cost": [{
     "name": "mana",
     "cost": 175
@@ -12,8 +12,8 @@
   "previous_chain": [],
   "range": 50,
   "sources": [{
-    "id": "cleric",
-    "data_type": "class"
+    "id": "divine-auras",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
@@ -22,5 +22,5 @@
   ],
   "targeting": "group",
   "type": "aura",
-  "description": "Fortify group members and yourself with otherworldly strength increasing their maximum Attack Power by 75 while you maintain the effect."
+  "description": "Fortifies group members and your with otherworldly strength increasing their maximum Attack Power by 75 while you maintain the effect."
 }

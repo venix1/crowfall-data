@@ -1,12 +1,10 @@
 {
     "cast_type": "instant",
     "cooldown": 9,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 70
-        }
-    ],
+    "cost": [{
+      "name": "mana",
+      "cost": 70
+    }],
     "duration": 0,
     "max_targets": 1,
     "name": "Flames of Truth",
@@ -14,18 +12,16 @@
         "forced-confession"
     ],
     "previous_chain": [],
-    "range": 40,
-    "sources": [
-        {
-            "id": "confessor",
-            "data_type": "class"
-        }
-    ],
+    "range": 25,
+    "sources": [{
+      "id": "flames-of-truth",
+      "data_type": "talent"
+    }],
     "tags": [
         "Confessor",
         "Fire"
     ],
     "targeting": "sphere",
     "type": "ranged attack",
-    "description": "Applies Flames of Truth to your reticle target, damaging them for 17 - 26. After 10 seconds Flames of Truth explodes dealing 93 - 140 + 117% Weapon Damage as Fire Damage in a 4m radius."
+    "description": "Applies Flames of Truth to your target, damaging them for 17-26 instantly. After 10 seconds, Flames of Truth explodes in a 4m radius for 93-140 + 117% Fire Weapon Damage."
 }

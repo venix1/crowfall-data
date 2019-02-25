@@ -12,8 +12,8 @@
   "previous_chain": [],
   "range": 50,
   "sources": [{
-    "id": "cleric",
-    "data_type": "class"
+    "id": "divine-auras",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
@@ -22,5 +22,5 @@
   ],
   "targeting": "group",
   "type": "aura",
-  "description": "Imbue group members and yourself with sanctified power increasing their maximum Health by 1250 while you maintain the effect."
+  "description": "Imbues group members and you with sanctified power increasing their maximum Health by 1250 while you maintain the effect."
 }

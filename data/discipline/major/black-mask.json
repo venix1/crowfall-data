@@ -7,9 +7,10 @@
   "description": "Black Masks are masters of disguise. Despite the rumors they are not a group of heartless and evil killers, but rather cunning and sly assassins. They are employed by all that request their blade, even those who seek revenge from previous errands.",
   "name": "Black Mask",
   "powers": [
-    "shadow-mantle",
     "call-darkness",
-    "shadows-linger"
+    "shadow-mantle",
+    "shadows-linger",
+    "cripple"
   ],
   "slots_granted": [],
   "slots_removed": [],
@@ -19,7 +20,7 @@
   ],
   "stats": [{
     "name": "Stealth",
-    "value": 5
+    "value": 6.25
   }],
   "equips": [],
   "tray_granted": "",

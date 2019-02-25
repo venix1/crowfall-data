@@ -25,13 +25,14 @@
     "type": "major",
     "tags": [],
     "stats": [
-        {
-            "name": "Perception",
-            "value": 20
+        { "name": "Perception",
+          "value": 20
         },
-        {
-            "name": "Dodge Regen Tick Rate",
-            "value": -0.01
+        { "name": "Dodge Regen Tick Rate",
+          "value": -1.00
+        },
+        { "name": "Food Regen Rate",
+          "value": 3.75
         }
     ],
     "equips": [],

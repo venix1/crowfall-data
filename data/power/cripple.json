@@ -16,7 +16,10 @@
   "sources": [{
     "id": "knife-grinder",
     "data_type": "discipline"
-  }],
+  },{
+    "id": "black-mask",
+    "data_type": "discipline"
+    }],
   "tags": [],
   "targeting": "cone",
   "type": "melee attack",

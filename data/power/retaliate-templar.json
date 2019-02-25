@@ -3,7 +3,7 @@
   "cooldown": 3,
   "cost": [{
     "name": "stamina",
-    "cost": 75
+    "cost": 65
   }],
   "duration": 0,
   "max_targets": 5,

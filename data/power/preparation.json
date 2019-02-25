@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Plan your next attack when entering Stealth immediately recovering a pip if you don't have one and periodically gaining additional Pips every 30 seconds as you maintain Stealth."
+  "description": "Allows you to plan your next attack when entering Stealth, immediately recovering a Pip if you don't have one, and periodically gaining additional Pips every 30 seconds as you maintain Stealth."
 }

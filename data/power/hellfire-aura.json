@@ -1,33 +1,29 @@
 {
     "cast_type": "instant",
-    "cooldown": 24,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 80
-        }
-    ],
+    "cooldown": 15,
+    "cost": [{
+      "name": "mana",
+      "cost": 80
+    }],
     "duration": 10,
     "max_targets": 5,
     "name": "Hellfire Aura",
     "next_chain": [
-        "fire-tornados"
+        "fire-tornadoes"
     ],
     "previous_chain": [
         "hellfire-shield"
     ],
-    "range": 3.6,
-    "sources": [
-        {
-            "id": "confessor",
-            "data_type": "class"
-        }
-    ],
+    "range": 1,
+    "sources": [{
+      "id": "hellfire",
+      "data_type": "talent"
+    }],
     "tags": [
         "AoE",
         "Confessor"
     ],
     "targeting": "sphere",
     "type": "buff",
-    "description": "Consumes your Hellfire Shield and surrounds you in a pulsing Hellfire Aura which damages all players within 4m of you every second for 15 - 18 Weapon Damage."
+    "description": "Consumes your Hellfire Shield surrounding you in a pulsing Hellfire Aura that damages enemies within 4m for 23% to 28% Weapon Damage every second."
 }

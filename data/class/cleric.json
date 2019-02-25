@@ -2,19 +2,15 @@
   "description": "",
   "name": "Cleric",
   "powers": [
-    "block-cleric",
-    "circle-of-life",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
     "divine-order",
-    "flash-of-light",
-    "hand-of-the-gods",
-    "holy-aura",
-    "holy-symbol",
-    "hushed-prayer",
-    "illuminate",
     "miracle",
     "retaliate-cleric",
-    "tend-wounds",
-    "vengeful-aura"
+    "spirit-hammer",
+    "spirit-hammer-ii",
+    "spirit-hammer-iii"
   ],
   "races": [
     "human",
@@ -24,5 +20,10 @@
     "guinecean",
     "elken"
   ],
-  "tags": ["Support"]
+  "tags": ["Support"],
+  "promotions": [
+    "Arbiter",
+    "Crusader",
+    "Radical"
+  ]
 }

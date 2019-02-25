@@ -1,12 +1,10 @@
 {
     "cast_type": "instant",
     "cooldown": 30,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 55
-        }
-    ],
+    "cost": [{
+      "name": "mana",
+      "cost": 55
+    }],
     "duration": 0,
     "max_targets": 1,
     "name": "Forced Confession",
@@ -14,18 +12,16 @@
     "previous_chain": [
         "flames-of-truth"
     ],
-    "range": 30,
-    "sources": [
-        {
-            "id": "confessor",
-            "data_type": "class"
-        }
-    ],
+    "range": 25,
+    "sources": [{
+      "id": "flames-of-truth",
+      "data_type": "talent"
+    }],
     "tags": [
         "Confessor",
         "Stun"
     ],
     "targeting": "sphere",
     "type": "crowd control",
-    "description": "Consumes Flame of the Truth on your reticle target, which instantly exploded for 47 - 71 + 59% Weapon Damage, and stuns the target. Does nothing againts target without Flames of Truth."
+    "description": "Consumes the Flame of the Truth applied to your target, causing an explosion that deals 47-71 + 59% Weapon Damage and leaves your target Stunned."
 }

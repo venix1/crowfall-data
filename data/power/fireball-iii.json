@@ -1,13 +1,16 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [],
+  "cost": [{
+      "name": "mana",
+      "cost": 45
+  }],
   "duration": 0,
   "max_targets": 1,
-  "name": "Fireball 3",
+  "name": "Fireball III",
   "next_chain": [],
   "previous_chain": [
-    "fireball-2"
+    "fireball-ii"
   ],
   "range": 25,
   "sources": [{
@@ -21,5 +24,5 @@
   ],
   "targeting": "reticle",
   "type": "ranged attack",
-  "description": "Shoot a fireball at your reticle target applying Sin to them and causing 106-159 + 132% Fire Weapon Damage."
+  "description": "Shoots a fireball, causing 115-172 + 144% Fire Weapon Damage and applying Sin to your target."
 }

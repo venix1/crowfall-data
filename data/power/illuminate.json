@@ -12,8 +12,8 @@
   "previous_chain": [],
   "range": 50,
   "sources": [{
-    "id": "cleric",
-    "data_type": "class"
+    "id": "illuminate",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
@@ -22,5 +22,5 @@
   ],
   "targeting": "group",
   "type": "buff",
-  "description": "Empower group members and yourself restoring some of their native Resource and healing their Health twice for 63-77 + 280% Weapon Damage over five seconds."
+  "description": "Empowers group members and you restoring some of their native Resource over five seconds."
 }

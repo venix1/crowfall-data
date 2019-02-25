@@ -1,12 +1,10 @@
 {
     "cast_type": "instant",
     "cooldown": 9,
-    "cost": [
-        {
-            "name": "resource",
-            "cost": 55
-        }
-    ],
+    "cost": [{
+      "name": "mana",
+      "cost": 55
+    }],
     "duration": 15,
     "max_targets": 1,
     "name": "Hellfire Shield",
@@ -15,17 +13,15 @@
         "fire-wave"
     ],
     "previous_chain": [],
-    "range": 25,
-    "sources": [
-        {
-            "id": "confessor",
-            "data_type": "class"
-        }
-    ],
+    "range": 0,
+    "sources": [{
+      "id": "hellfire",
+      "data_type": "talent"
+    }],
     "tags": [
         "Confessor"
     ],
     "targeting": "self",
     "type": "buff",
-    "description": "Surrounds your skin an a Hellfire Shield to 15 seconds damaging all who cause damage to your for 15 - 18 damage."
+    "description": "Surrounds you in a Hellfire Shield for 15 seconds. Anyone who hits you is damaged for 23-28 damage."
 }

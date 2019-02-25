@@ -17,18 +17,17 @@
     "powers": [
         "fountain-of-life",
         "water-spirits",
-        "supreme-element"
+        "supreme-element",
+        "grasping-roots"
     ],
     "slots_granted": [],
     "slots_removed": [],
     "type": "major",
     "tags": [],
-    "stats": [
-        {
-            "name": "Healing Modifier",
-            "value": 6.25
-        }
-    ],
+    "stats": [{
+      "name": "Healing Modifier",
+      "value": 6.25
+    }],
     "equips": [],
     "tray_granted": "",
     "tray_removed": ""

@@ -5,6 +5,7 @@
     "cleric",
     "confessor",
     "druid",
+    "duelist",
     "frostweaver",
     "knight",
     "myrmidon",
@@ -25,7 +26,7 @@
   "tags": [],
   "stats": [{
     "name": "Mitigation: Crushing",
-    "value": 5
+    "value": 6.25
   }],
   "equips": [],
   "tray_granted": "",

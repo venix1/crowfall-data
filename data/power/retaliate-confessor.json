@@ -1,9 +1,9 @@
 {
   "cast_type": "instant",
-  "cooldown": 3,
+  "cooldown": 0,
   "cost": [{
     "name": "stamina",
-    "cost": 75
+    "cost": 65
   }],
   "duration": 0,
   "max_targets": 3,
@@ -18,10 +18,9 @@
   "tags": [
     "AoE",
     "Confessor",
-    "Knockdown",
     "Retaliate"
   ],
   "targeting": "sphere",
   "type": "retaliate",
-  "description": "Jump to your feet, damaging all nearby enemies twice for 107-160 + 133% Weapon Damage."
+  "description": "Returns you to your feet, dealing 107-160 + 133% Weapon Damage to nearby enemies."
 }
