@@ -16,9 +16,9 @@
     "data_type": "talent"
   }],
   "tags": [
-    "Confessor",
+    "Confessor"
   ],
   "targeting": "rectangle",
   "type": "debuff",
-  "description": "Unleashes Arkon's Fury on a target dealing 93-140 + 117% Weapon Damage and applying Elemental Vulnerability to them."
+  "description": "Unleashes Arkons Fury on a target dealing 93-140 + 117% Weapon Damage and applying Elemental Vulnerability to them."
 }
