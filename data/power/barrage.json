@@ -10,7 +10,6 @@
   "name": "Barrage",
   "next_chain": [],
   "previous_chain": [],
-  "radius": 8,
   "range": 35,
   "sources": [{
     "id": "ranger",
