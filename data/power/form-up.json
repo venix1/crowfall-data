@@ -11,12 +11,10 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 5,
-  "sources": [
-      {
-          "id": "secutor",
-          "data_type": "discipline"
-      }
-  ],
+  "sources": [{
+    "id": "secutor",
+    "data_type": "discipline"
+  }],
   "tags": [],
   "targeting": "",
   "type": "buff",

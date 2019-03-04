@@ -1,5 +1,5 @@
 {
-  "cast_type": "",
+  "cast_type": "passive",
   "cooldown": 0,
   "cost": {},
   "duration": 0,
@@ -8,14 +8,12 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
-  "sources": [
-      {
-          "id": "shield-whiz",
-          "data_type": "discipline"
-      }
-  ],
+  "sources": [{
+    "id": "shield-whiz",
+    "data_type": "discipline"
+  }],
   "tags": [
-      "Movement Speed"
+    "Movement Speed"
   ],
   "targeting": "self",
   "type": "passive",

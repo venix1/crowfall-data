@@ -4,9 +4,7 @@
   "promotion": "",
   "name": "Weapon Mastery I Upgrade 3 (Knight)",
   "unlocks": [],
-  "modifies": [
-    "``"
-  ],
+  "modifies": [],
   "maxPips": 1,
   "prerequisite": {
     "precursors": [
