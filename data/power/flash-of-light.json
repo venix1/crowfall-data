@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 30,
-  "cost": [{
+  "cost": {
     "name": "mana",
     "cost": 75
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Flash of Light",

@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 45,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 25
-  }],
+  },
   "duration": 12,
   "max_targets": 1,
   "name": "Candle That Burns",

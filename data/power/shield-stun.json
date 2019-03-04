@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 30,
-  "cost": [{
+  "cost": {
     "name": "energy",
     "cost": 203
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Shield Stun",

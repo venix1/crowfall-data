@@ -1,10 +1,10 @@
 {
   "cast_type": "hold channeled",
   "cooldown": 20,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 70
-  }],
+  },
   "duration": 0,
   "max_targets": 5,
   "name": "Blast of Leaves",

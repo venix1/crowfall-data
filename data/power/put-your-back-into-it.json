@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 12,
-  "cost": [{
+  "cost": {
     "name": "health",
     "cost": 1000
-  }],
+  },
   "duration": 8,
   "max_targets": 1,
   "name": "Put Your Back Into It",

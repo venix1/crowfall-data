@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "Hate",
     "cost": 100
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Blood of the Giant",

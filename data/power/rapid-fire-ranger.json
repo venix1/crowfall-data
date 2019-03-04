@@ -1,10 +1,10 @@
 {
   "cast_type": "hold channeled",
   "cooldown": 9,
-  "cost": [{
+  "cost": {
     "name": "arrows",
     "cost": 0
-  }],
+  },
   "duration": 2,
   "max_targets": 1,
   "name": "Rapid Fire (Ranger)",

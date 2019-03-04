@@ -1,10 +1,10 @@
 {
   "cast_type": "ground aimed",
   "cooldown": 24,
-  "cost": [{
+  "cost": {
     "name": "energy",
     "cost": 0
-  }],
+  },
   "duration": 60,
   "max_targets": 5,
   "name": "Explosive Trap",

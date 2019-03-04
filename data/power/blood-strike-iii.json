@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 24,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 25
-  }],
+  },
   "duration": 0,
   "max_targets": 5,
   "name": "Blood Strike III",

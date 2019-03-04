@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 5,
-  "cost": [{
+  "cost": {
     "name": "energy",
     "cost": 156
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Onslaught",

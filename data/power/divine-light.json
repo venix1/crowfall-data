@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 23,
-  "cost": [{
+  "cost": {
     "name": "righteousness",
     "cost": 1
-  }],
+  },
   "duration": 12,
   "max_targets": 5,
   "name": "Divine Light",

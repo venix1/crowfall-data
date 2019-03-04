@@ -1,7 +1,7 @@
 {
   "cast_type": "instant",
   "cooldown": 24,
-  "cost": [],
+  "cost": {},
   "duration": 20,
   "max_targets": 1,
   "name": "Saltpeter Rounds",

@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 23,
-  "cost": [{
+  "cost": {
     "name": "energy",
     "cost": 10
-  }],
+  },
   "duration": 15,
   "max_targets": 5,
   "name": "Critical Hack 2",

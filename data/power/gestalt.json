@@ -1,7 +1,7 @@
 {
   "cast_type": "2 Seconds",
   "cooldown": 45,
-  "cost": [],
+  "cost": {},
   "duration": 15,
   "max_targets": 1,
   "name": "Gestalt",

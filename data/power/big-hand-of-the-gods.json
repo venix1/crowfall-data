@@ -1,10 +1,10 @@
 {
   "cast_type": "ground aimed",
   "cooldown": 24,
-  "cost": [{
+  "cost": {
     "name": "mana",
     "cost": 80
-  }],
+  },
   "duration": 5,
   "max_targets": 5,
   "name": "Big Hand of the Gods",

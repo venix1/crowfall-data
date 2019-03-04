@@ -1,10 +1,10 @@
 {
   "cast_type": "charged",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 35
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Nature's Avatar",

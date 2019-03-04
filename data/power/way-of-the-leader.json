@@ -1,7 +1,7 @@
 {
   "cast_type": "passive",
   "cooldown": 0,
-  "cost": [],
+  "cost": {},
   "duration": 0,
   "max_targets": 5,
   "name": "Way of the Leader",

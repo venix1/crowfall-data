@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 24,
-  "cost": [{
+  "cost": {
     "name": "rage",
     "cost": 12
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Vicious Stomp",

@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 45,
-  "cost": [{
+  "cost": {
     "name": "health",
     "cost": 0
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Usurious Bargain",

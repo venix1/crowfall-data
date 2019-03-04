@@ -1,7 +1,7 @@
 {
   "cast_type": "instant",
   "cooldown": 45,
-  "cost": [],
+  "cost": {},
   "duration": 30,
   "max_targets": 1,
   "name": "Faerie Fire",

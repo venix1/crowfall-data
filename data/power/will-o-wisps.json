@@ -1,10 +1,10 @@
 {
   "cast_type": "charged",
   "cooldown": 25,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 63
-  }],
+  },
   "duration": 0,
   "max_targets": 5,
   "name": "Will o' Wisps",

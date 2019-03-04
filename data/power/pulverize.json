@@ -1,10 +1,10 @@
 {
   "cast_type": "charged",
   "cooldown": 10,
-  "cost": [{
+  "cost": {
     "name": "fury",
     "cost": 50
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Pulverize",

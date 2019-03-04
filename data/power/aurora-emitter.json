@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 24,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 77
-  }],
+  },
   "duration": 15,
   "max_targets": 5,
   "name": "Aurora Emitter",

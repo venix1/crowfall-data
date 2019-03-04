@@ -1,7 +1,7 @@
 {
   "cast_type": "channeled",
   "cooldown": 9,
-  "cost": [],
+  "cost": {},
   "duration": 0,
   "max_targets": 3,
   "name": "Go For Broke",

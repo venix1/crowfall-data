@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "harvest pips",
     "cost": 0
-  }],
+  },
   "duration": 0,
   "max_targets": 0,
   "name": "Energetic Harvest",

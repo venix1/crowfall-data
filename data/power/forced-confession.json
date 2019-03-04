@@ -1,10 +1,10 @@
 {
     "cast_type": "instant",
     "cooldown": 30,
-    "cost": [{
+    "cost": {
       "name": "mana",
       "cost": 55
-    }],
+    },
     "duration": 0,
     "max_targets": 1,
     "name": "Forced Confession",

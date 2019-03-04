@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 9,
-  "cost": [{
+  "cost": {
     "name": "pips",
     "cost": 1
-  }],
+  },
   "duration": 0,
   "max_targets": 3,
   "name": "Pepperbox Shot",

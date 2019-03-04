@@ -1,10 +1,10 @@
 {
   "cast_type": "hold channeled",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "stamina",
     "cost": 6
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Block (Cleric)",

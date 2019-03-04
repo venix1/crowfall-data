@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "stamina",
     "cost": 65
-  }],
+  },
   "duration": 0,
   "max_targets": 3,
   "name": "Retaliate (Confessor)",

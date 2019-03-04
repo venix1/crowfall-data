@@ -1,10 +1,10 @@
 {
   "cast_type": "toggle",
   "cooldown": 1,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 32
-  }],
+  },
   "duration": 12,
   "max_targets": 5,
   "name": "Requiem",

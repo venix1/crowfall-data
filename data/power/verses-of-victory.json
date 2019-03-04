@@ -1,7 +1,7 @@
 {
   "cast_type": "2 Seconds",
   "cooldown": 1,
-  "cost": [],
+  "cost": {},
   "duration": 12,
   "max_targets": 5,
   "name": "Verses of Victory",

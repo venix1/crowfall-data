@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 90,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 16
-  }],
+  },
   "duration": 30,
   "max_targets": 5,
   "name": "Rallying Banner",

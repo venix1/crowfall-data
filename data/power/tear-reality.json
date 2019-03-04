@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 45,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 13
-  }],
+  },
   "duration": 9,
   "max_targets": 1,
   "name": "Tear Reality",

@@ -1,7 +1,7 @@
 {
   "cast_type": "instant",
   "cooldown": 5,
-  "cost": [],
+  "cost": {},
   "duration": 5,
   "max_targets": 1,
   "name": "Shield Bash",

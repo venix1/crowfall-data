@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 30,
-  "cost": [{
+  "cost": {
     "name": "fury",
     "cost": 25
-  }],
+  },
   "duration": 8,
   "max_targets": 1,
   "name": "Bloodthirst",

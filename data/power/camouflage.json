@@ -1,10 +1,10 @@
 {
   "cast_type": "toggle",
   "cooldown": 5,
-  "cost": [{
+  "cost": {
     "name": "stamina",
     "cost": 0.5
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Camouflage",

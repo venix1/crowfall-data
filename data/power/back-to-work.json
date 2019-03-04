@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 6,
-  "cost": [{
+  "cost": {
     "name": "harvest pips",
     "cost": 4
-  }],
+  },
   "duration": 8,
   "max_targets": 1,
   "name": "Back to Work",

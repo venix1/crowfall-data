@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 5,
-  "cost": [{
+  "cost": {
     "name": "energy",
     "cost": 34
-  }],
+  },
   "duration": 0,
   "max_targets": 5,
   "name": "Dagger Spin 3",

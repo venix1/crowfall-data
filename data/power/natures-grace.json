@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 68,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 22
-  }],
+  },
   "duration": 45,
   "max_targets": 5,
   "name": "Nature's Grace",

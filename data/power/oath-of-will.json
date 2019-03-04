@@ -1,7 +1,7 @@
 {
   "cast_type": "instant",
   "cooldown": 23,
-  "cost": [],
+  "cost": {},
   "duration": 0,
   "max_targets": 1,
   "name": "Oath of Will",

@@ -1,7 +1,7 @@
 {
   "cast_type": "passive",
   "cooldown": 0,
-  "cost": [],
+  "cost": {},
   "duration": 20,
   "max_targets": 1,
   "name": "Lead From The Front",

@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 23,
-  "cost": [{
+  "cost": {
     "name": "essence",
     "cost": 35
-  }],
+  },
   "duration": 20,
   "max_targets": 5,
   "name": "Bark Skin",

@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 45,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 16
-  }],
+  },
   "duration": 15,
   "max_targets": 1,
   "name": "Pin Cushion",

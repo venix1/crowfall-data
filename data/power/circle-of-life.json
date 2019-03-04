@@ -1,7 +1,7 @@
 {
   "cast_type": "15 seconds",
   "cooldown": 600,
-  "cost": [],
+  "cost": {},
   "duration": 0,
   "max_targets": 5,
   "name": "Circle of Life",

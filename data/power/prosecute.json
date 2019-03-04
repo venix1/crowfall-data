@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 17
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Prosecute",

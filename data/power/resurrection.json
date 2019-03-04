@@ -1,7 +1,7 @@
 {
   "cast_type": "10 seconds",
   "cooldown": 600,
-  "cost": [],
+  "cost": {},
   "duration": 0,
   "max_targets": 1,
   "name": "Resurrection",

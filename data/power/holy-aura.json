@@ -1,10 +1,10 @@
 {
   "cast_type": "toggle",
   "cooldown": 1,
-  "cost": [{
+  "cost": {
     "name": "mana",
     "cost": 180
-  }],
+  },
   "duration": 0,
   "max_targets": 5,
   "name": "Holy Aura",

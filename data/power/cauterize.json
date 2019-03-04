@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 9,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 10
-  }],
+  },
   "duration": 0,
   "max_targets": 1,
   "name": "Cauterize",

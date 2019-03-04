@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "fury",
     "cost": 23
-  }],
+  },
   "duration": 20,
   "max_targets": 1,
   "name": "Gore",

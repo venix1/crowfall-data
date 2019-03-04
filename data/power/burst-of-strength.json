@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 6,
-  "cost": [{
+  "cost": {
     "name": "harvest pips",
     "cost": 4
-  }],
+  },
   "duration": 6,
   "max_targets": 1,
   "name": "Burst of Strength",

@@ -1,10 +1,10 @@
 {
   "cast_type": "channeled",
   "cooldown": 180,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 26
-  }],
+  },
   "duration": 7,
   "max_targets": 1,
   "name": "Essence Scram",

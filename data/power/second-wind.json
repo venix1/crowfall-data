@@ -1,7 +1,7 @@
 {
   "cast_type": "passive",
   "cooldown": 120,
-  "cost": [],
+  "cost": {},
   "duration": 4,
   "max_targets": 1,
   "name": "Second Wind",

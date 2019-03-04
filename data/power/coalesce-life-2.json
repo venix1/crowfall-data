@@ -1,10 +1,10 @@
 {
   "cast_type": "instant",
   "cooldown": 0,
-  "cost": [{
+  "cost": {
     "name": "resource",
     "cost": 46
-  }],
+  },
   "duration": 60,
   "max_targets": 1,
   "name": "Coalesce Life 2",
