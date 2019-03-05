@@ -15,7 +15,7 @@
   "tags": [
     "Damage Reduction", "Human", "Bloodline"
   ],
-  "targeting": "passive",
+  "targeting": "self",
   "type": "passive",
   "description": "Grant 3% Damage Reduction"
 }
