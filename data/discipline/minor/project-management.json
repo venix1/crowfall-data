@@ -12,17 +12,17 @@
     "ranger",
     "templar"
   ],
-  "description": "Mail is the new denim.",
-  "name": "Mail Proficiency",
+  "description": "If at first you don't succeed, remove all evidence you ever tried.",
+  "name": "Project Management",
   "powers": [
-    "mail-proficiency"
+    "project-management"
   ],
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": [],
+  "tags": ["Crafting"],
   "stats": [],
-  "equips": ["Mail Proficiency"],
+  "equips": [],
   "tray_granted": "",
   "tray_removed": ""
 }

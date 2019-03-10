@@ -18,10 +18,12 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": ["Gathering"],
+  "tags": [
+    "Gathering"
+  ],
   "stats": [{
     "name": "Harvest Power Pips Bonus",
-    "value": 0.625
+    "value": 0.58
   }],
   "equips": [],
   "tray_granted": "",

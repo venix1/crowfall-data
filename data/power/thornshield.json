@@ -1,12 +1,12 @@
 {
   "cast_type": "instant",
-  "cooldown": 45,
+  "cooldown": 23,
   "cost": {
     "name": "resource",
     "cost": 16
   },
-  "duration": 20,
-  "max_targets": 0,
+  "duration": 15,
+  "max_targets": 1,
   "name": "Thornshield",
   "next_chain": [],
   "previous_chain": [],
@@ -15,8 +15,10 @@
     "id": "thornshield",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Thorns"
+  ],
   "targeting": "self",
   "type": "buff",
-  "description": "Envelope yourself with dangerous Thorns for 20 seconds causing any who strike you to take damage."
+  "description": "Envelopes you with dangerous Thorns for 15 seconds causing any who strike you to take damage."
 }

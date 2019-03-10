@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 45,
+  "cooldown": 23,
   "cost": {
     "name": "resource",
     "cost": 16
@@ -18,5 +18,5 @@
   "tags": [],
   "targeting": "self",
   "type": "buff",
-  "description": "Conjure an illusion effective enough to reduce incoming damage by 7% for 15 seconds."
+  "description": "Conjures an illusion effective enough to reduce incoming damage by 7% for 15 seconds."
 }

@@ -1,0 +1,24 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "duelist",
+    "knight",
+    "myrmidon",
+    "ranger"
+  ],
+  "description": "The spiritual warrior will plunge their hands into the heals, so that you can keep yours bloody.",
+  "name": "Surging Spirit",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "minor",
+  "tags": [],
+  "stats": [{
+    "name": "Support Power",
+    "value": 863
+  }],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

@@ -12,8 +12,10 @@
     "id": "sparring",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Basic Attack"
+  ],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase your basic attack damage 10."
+  "description": "Increases your Basic Attack damage 10."
 }

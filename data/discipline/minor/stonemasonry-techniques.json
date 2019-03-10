@@ -1,0 +1,31 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Just a pile of rocks? More like a piles of ideas!",
+  "name": "Stonemasonry Techniques",
+  "powers": [
+    "stonemasonry-techniques"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "minor",
+  "tags": [
+    "Crafting",
+    "Stonemasonry"
+  ],
+  "stats": [],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

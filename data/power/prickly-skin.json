@@ -8,14 +8,14 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
-  "sources": [
-      {
-          "id": "prickly-skin",
-          "data_type": "discipline"
-      }
+  "sources": [{
+    "id": "prickly-skin",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "Bonus Thorns"
   ],
-  "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase your Bonus Thorns 10."
+  "description": "Increases your Bonus Thorns by 10."
 }

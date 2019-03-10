@@ -18,7 +18,7 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": ["Bonus Passive Slot"],
+  "tags": ["Passive Bonus Slot"],
   "stats": [{
     "name": "Passive Bonus Slots",
     "value": 1

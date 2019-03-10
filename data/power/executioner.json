@@ -8,14 +8,12 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
-  "sources": [
-      {
-          "id": "finish-him",
-          "data_type": "discipline"
-      }
-  ],
+  "sources": [{
+    "id": "finish-him",
+    "data_type": "discipline"
+  }],
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase the damage of Execution abilities."
+  "description": "Increases the damage of Execution abilities."
 }

@@ -9,7 +9,7 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "blade-master",
+    "id": "weapon-finesse",
     "data_type": "discipline"
   }],
   "tags": [
@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Reduce your Power Efficiency by 20%, which reduces the resource cost of using powers."
+  "description": "Increases your Power Efficiency by 20%, which reduces the resource cost of using powers."
 }

@@ -8,14 +8,14 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
-  "sources": [
-      {
-          "id": "furious",
-          "data_type": "discipline"
-      }
+  "sources": [{
+    "id": "furious",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "Damage Bonus"
   ],
-  "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Whenever you reach 100 Rage, your Damage Bonus is increased by 15% for 15 seconds."
+  "description": "Increases your Damage Bonus by 10% for 15 seconds when reaching 100 Rage."
 }

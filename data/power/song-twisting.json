@@ -3,7 +3,7 @@
   "cooldown": 0,
   "cost": {},
   "duration": 6,
-  "max_targets": 0,
+  "max_targets": 1,
   "name": "Song Twisting",
   "next_chain": [],
   "previous_chain": [],
@@ -15,5 +15,5 @@
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Singing 4 different songs with 6 seconds activates Pure Voice buff on you, which greatly increases the effects of the next song played."
+  "description": "Activates the Pure Voice buff greatly increasing the effects of the next song played when singing 4 different songs within 6 seconds."
 }

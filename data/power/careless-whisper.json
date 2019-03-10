@@ -12,8 +12,12 @@
     "id": "careless-whisper",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Critical Hit Chance",
+    "Critical Damage",
+    "Primary Attack"
+  ],
   "targeting": "self",
   "type": "passive",
-  "description": "When you execute a Primary Attack which damages an enemy, you gain a stack of Whispers. If you gain 5 Whispers in 12 seconds, Empowered Whispers is applied, which increases your Critical Hit Chance by 10% and your Critical Damage by 10% for 6 seconds."
+  "description": "Grants stack of Whispers when you execute a Primary Attack that damages an enemy. Empowered Whispers is applied to you if you gain 5 Whispers in 12 seconds. Empowered Whispers increases your Critical Hit Chance by 10% and your Critical Damage by 10% for 6 seconds."
 }

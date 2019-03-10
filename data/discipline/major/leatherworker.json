@@ -18,7 +18,10 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "major",
-  "tags": ["Crafting"],
+  "tags": [
+    "Crafting",
+    "Leatherworking"
+  ],
   "stats": [{
     "name": "Leatherworking",
     "value": 10

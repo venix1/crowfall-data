@@ -20,7 +20,9 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": [],
+  "tags": [
+    "Gathering"
+  ],
   "stats": [],
   "equips": [],
   "tray_granted": "",

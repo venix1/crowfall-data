@@ -3,7 +3,7 @@
   "cooldown": 0,
   "cost": {},
   "duration": 20,
-  "max_targets": 0,
+  "max_targets": 1,
   "name": "Protective Thorns",
   "next_chain": [],
   "previous_chain": [],
@@ -12,8 +12,10 @@
     "id": "protective-thorns",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Armor Bonus"
+  ],
   "targeting": "self",
   "type": "passive",
-  "description": "Fortify your Armor Bonus for 20 seconds when activating Thorns and gain one percent Bonus Armor for every 25 points Thorns and Bonus Thorns."
+  "description": "Fortifies your Armor Bonus for 20 seconds when activating Thorns and gain 1% Bonus Armor for every 25 points of Thorns and Bonus Thorns."
 }

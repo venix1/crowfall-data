@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Return to a minimum of two pips when entering stealth."
+  "description": "Returns you to a minimum of two pips when entering stealth."
 }

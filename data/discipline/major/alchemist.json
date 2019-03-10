@@ -18,7 +18,10 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "major",
-  "tags": ["Crafting"],
+  "tags": [
+    "Crafting",
+    "Alchemy"
+  ],
   "stats": [{
     "name": "Alchemy",
     "value": 10

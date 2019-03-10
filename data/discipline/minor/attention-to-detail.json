@@ -1,23 +1,28 @@
 {
   "classes": [
+    "assassin",
     "champion",
     "cleric",
+    "confessor",
     "druid",
+    "duelist",
+    "frostweaver",
     "knight",
     "myrmidon",
+    "ranger",
     "templar"
   ],
-  "description": "Plate is the new denim.",
-  "name": "Plate Proficiency",
+  "description": "A very particular set of skills.",
+  "name": "Attention to Detail",
   "powers": [
-    "plate-proficiency"
+    "attention-to-detail"
   ],
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": [],
+  "tags": ["Crafting"],
   "stats": [],
-  "equips": ["Plate Proficiency"],
+  "equips": [],
   "tray_granted": "",
   "tray_removed": ""
 }

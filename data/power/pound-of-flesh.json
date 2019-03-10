@@ -12,8 +12,10 @@
     "id": "pound-of-flesh",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Damage Bonus"
+  ],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase your Damage Bonus by 15% when an enemy's Health is above 90%."
+  "description": "Increases your Damage Bonus by 15% when your target's Health is above 90%."
 }

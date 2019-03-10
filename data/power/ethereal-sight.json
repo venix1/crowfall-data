@@ -12,8 +12,10 @@
     "id": "ethereal-sight",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Gathering"
+  ],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase Plethora of Dust: Basic Resources by 5% while you have a Basic or Intermediate Tool equipped."
+  "description": "Increases your Plethora of Dust: Basic Resources by 5% while you have a Basic or Intermediate Tool equipped."
 }

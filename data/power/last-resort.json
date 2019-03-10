@@ -12,8 +12,10 @@
     "id": "last-resort",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Critical Hit Chance"
+  ],
   "targeting": "self",
   "type": "passive",
-  "description": "Put it all on the line increasing your critical hit chance by 25% when your Health drops below 25%."
+  "description": "Increases your Critical Hit Chance by 25% when your Health drops below 25%."
 }

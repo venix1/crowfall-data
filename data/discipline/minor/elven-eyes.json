@@ -18,10 +18,10 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": ["Far Sight"],
+  "tags": ["Far-sight"],
   "stats": [{
-    "name": "Far-Sight",
-    "value": 25
+    "name": "Far-sight",
+    "value": 23
   }],
   "equips": [],
   "tray_granted": "",

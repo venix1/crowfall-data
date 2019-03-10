@@ -8,14 +8,12 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
-  "sources": [
-      {
-          "id": "minor-accompaniment",
-          "data_type": "discipline"
-      }
-  ],
+  "sources": [{
+    "id": "minor-accompaniment",
+    "data_type": "discipline"
+  }],
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase your Song Damage by 20%."
+  "description": "Increases your Song Damage by 20%."
 }

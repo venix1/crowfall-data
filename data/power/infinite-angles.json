@@ -13,9 +13,9 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Movement Speed"
+    "Snare"
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Shield Throws now apply a movement speed reduction to all targets hit."
+  "description": "Applies a Movement Speed reduction to all targets hit by Shield Throws."
 }

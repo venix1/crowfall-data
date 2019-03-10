@@ -18,7 +18,7 @@
   "slots_granted": [],
   "slots_removed": [],
   "type": "minor",
-  "tags": ["Bonus Power Slot"],
+  "tags": ["Power Bar Bonus Slot"],
   "stats": [{
     "name": "Power Bar Bonus Slots",
     "value": 1

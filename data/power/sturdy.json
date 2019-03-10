@@ -1,5 +1,5 @@
 {
-  "cast_type": "instant",
+  "cast_type": "passive",
   "cooldown": 0,
   "cost": {},
   "duration": 0,
@@ -15,5 +15,5 @@
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Reinforce your body reducing Health loss by 33% when your Health is above 80%."
+  "description": "Reinforces your body reducing Health loss by 33% when your Health is above 80%."
 }
