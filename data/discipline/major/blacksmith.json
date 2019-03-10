@@ -1,0 +1,47 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Keep Forging Ahead!",
+  "name": "Blacksmith",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Crafting"],
+  "stats": [{
+    "name": "Blacksmithing",
+    "value": 10
+  },
+  {
+    "name": "Blacksmithing Experimentation",
+    "value": 10
+  },
+  {
+    "name": "Blacksmithing Experimentation Points",
+    "value": 2
+  }
+],
+  "equips": [
+    "Recipes: Blacksmithing Novice",
+    "Recipes: Blacksmithing Research",
+    "Recipes: Intermediate Armor Research",
+    "Recipes: Expert Armor Research",
+    "Recipes: Advanced Armor Research",
+    "Recipes: Intermediate Weapon Research",
+    "Recipes: Expert Weapon Research",
+    "Recipes: Advanced Weapon Research"
+  ],
+  "tray_granted": "",
+  "tray_removed": ""
+}

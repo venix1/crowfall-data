@@ -1,0 +1,44 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "An unchiseled stone is a stone full of possibilities.",
+  "name": "Jewelcrafter",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Crafting"],
+  "stats": [{
+    "name": "Jewelcrafting",
+    "value": 10
+  },
+  {
+    "name": "Jewelcrafting Experimentation",
+    "value": 10
+  },
+  {
+    "name": "Jewelcrafting Experimentation Points",
+    "value": 2
+  }
+],
+  "equips": [
+    "Recipes: Jewelcrafting Novice",
+    "Recipes: Jewelcrafting Research",
+    "Recipes: Intermediate Jewelcrafting Research",
+    "Recipes: Expert Jewelcrafting Research",
+    "Recipes: Advanced Jewelcrafting Research"
+  ],
+  "tray_granted": "",
+  "tray_removed": ""
+}

@@ -11,18 +11,17 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 30,
-  "sources": [
-      {
-          "id": "plague-lord",
-          "data_type": "discipline"
-      }
-  ],
+  "sources": [{
+    "id": "plague-lord",
+    "data_type": "discipline"
+  }],
   "tags": [
       "Exposed",
-      "Heal",
-      "Knockdown"
+      "Healing Received",
+      "Knockdown",
+      "Disease"
   ],
   "targeting": "ray",
   "type": "debuff",
-  "description": "Infect an enemy with a Disease and reduce Healing Received.  If Decay hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage."
+  "description": "Infects an enemy with a Disease and reduces Healing Received.  If Decay hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage."
 }

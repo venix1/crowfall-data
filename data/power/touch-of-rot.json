@@ -3,8 +3,8 @@
   "cooldown": 0,
   "cost": {},
   "duration": 0,
-  "max_targets": 0,
-  "name": "Touch of Rot",
+  "max_targets": 1,
+  "name": "Touch Of Rot",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Your basic attacks apply a stacking Support Power debuff."
+  "description": "Applies a Support Power debuff with your third Basic attack."
 }

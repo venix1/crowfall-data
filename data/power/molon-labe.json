@@ -13,9 +13,10 @@
     "data_type": "discipline"
   }],
   "tags": [
-      "Block"
+      "Damage Bonus",
+      "Big Hits"
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Block high damage attacks with reduced cost and a 5% increase in bonus damage for 2 additional seconds."
+  "description": "Increases the Damage Bonus from blocking Big Hits - Knight only. Enemies that strike you with Elemental attacks take 100% Weapon Damage in return."
 }

@@ -23,5 +23,5 @@
   ],
   "targeting": "area",
   "type": "buff",
-  "description": "Fortify nearby group members with a banner increasing Attack Power by 100, healing those under 35% Health and removing Slow effects."
+  "description": "Fortifies nearby group members with a banner increasing Attack Power by 100, healing those under 35% Health for 38-46 +168% Weapon Damage per second and removing Slow effects."
 }

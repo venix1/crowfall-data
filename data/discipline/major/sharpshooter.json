@@ -10,23 +10,28 @@
   "name": "Sharpshooter",
   "powers": [
     "ricochet-shot-sharpshooter",
-    "all-clear"
+    "all-clear",
+    "hunker-down",
+    "binding-arrows"
   ],
   "slots_granted": ["Ranged", "Ammo"],
   "slots_removed": [],
   "type": "major",
-  "tags": ["Farsight"],
+  "tags": [
+    "Farsight",
+    "Ranged Tray"
+  ],
   "stats": [{
-      "name": "Piercing Damage Bonus",
-      "value": 5
+      "name": "Damage Bonus: Piercing",
+      "value": 6.25
     },
     {
       "name": "Ranged Distance Bonus",
       "value": 5
     },
     {
-      "name": "Far-Sight",
-      "value": 5
+      "name": "Far-sight",
+      "value": 12.5
     }
   ],
   "equips": ["Basic Bows", "Compound Bows", "Arrows", "Exotic Arrows"],

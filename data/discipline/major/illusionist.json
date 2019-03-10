@@ -1,34 +1,34 @@
 {
-    "classes": [
-        "assassin",
-        "champion",
-        "cleric",
-        "confessor",
-        "druid",
-        "duelist",
-        "frostweaver",
-        "knight",
-        "myrmidon",
-        "ranger",
-        "templar"
-    ],
-    "description": "An Illusionist alters the perception of those within their proximity which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements an Illusionist maintains a dapper appearance while also being a worth adversary in combat.",
-    "name": "Illusionist",
-    "powers": [
-      "invisibility",
-      "glamour-weapon",
-      "phantom-feints",
-      "hot-foot"
-    ],
-    "slots_granted": [],
-    "slots_removed": [],
-    "type": "major",
-    "tags": [],
-    "stats": [{
-      "name": "Critical Hit Chance",
-      "value": 6.25
-    }],
-    "equips": [],
-    "tray_granted": "",
-    "tray_removed": ""
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "An Illusionist alters the perception of those within their proximity which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements an Illusionist maintains a dapper appearance while also being a worth adversary in combat.",
+  "name": "Illusionist",
+  "powers": [
+    "invisibility",
+    "glamour-weapon",
+    "phantom-feints",
+    "hot-foot"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": [],
+  "stats": [{
+    "name": "Critical Hit Chance",
+    "value": 6.25
+  }],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
 }

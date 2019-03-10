@@ -1,19 +1,19 @@
 {
-  "cast_type": "instant",
+  "cast_type": "channeled",
   "cooldown": 0,
   "cost": {},
   "duration": 0,
-  "max_targets": 0,
-  "name": "Poison Food",
+  "max_targets": 3,
+  "name": "Shield Siege Engine",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "poisoner",
+    "id": "siege-engineer",
     "data_type": "discipline"
   }],
   "tags": [],
   "targeting": "self",
   "type": "buff",
-  "description": "Coming Soon"
+  "description": "Reduces damage taken by Siege Engines in the area by 90%."
 }

@@ -15,5 +15,5 @@
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase Damage Bonus when there are no enemies within 30m."
+  "description": "Increases Damage Bonus when there are no enemies within 30m."
 }

@@ -6,7 +6,7 @@
     "cost": 13
   },
   "duration": 0,
-  "max_targets": 5,
+  "max_targets": 1,
   "name": "Shield Breaker",
   "next_chain": [],
   "previous_chain": [],
@@ -23,5 +23,5 @@
   ],
   "targeting": "reticle",
   "type": "debuff",
-  "description": "Crush an enemy who is actively using Block or Parry causing a Knockdown and dealing 91 - 123 + 107% Weapon Damage."
+  "description": "Crushes an enemy who is actively using Block or Parry causing a Knockdown and dealing 91-123 + 107% Weapon Damage."
 }

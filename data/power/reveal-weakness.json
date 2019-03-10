@@ -10,7 +10,7 @@
   "name": "Reveal Weakness",
   "next_chain": [],
   "previous_chain": [],
-  "range": 0,
+  "range": 50,
   "sources": [{
     "id": "shield-breaker",
     "data_type": "discipline"
@@ -18,5 +18,5 @@
   "tags": [],
   "targeting": "group",
   "type": "buff",
-  "description": "Enhance group members and yourself increasing Physical Armor Penetration by 10."
+  "description": "Enhances group members and you increasing Physical Armor Penetration by 15."
 }

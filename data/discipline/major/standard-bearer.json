@@ -17,15 +17,16 @@
   "powers": [
     "banner-of-storms",
     "rallying-banner",
-    "bearers-insignia"
+    "bearers-insignia",
+    "sentinel"
   ],
   "slots_granted": [],
   "slots_removed": [],
   "type": "major",
   "tags": [],
   "stats": [{
-    "name": "Physical Mitigation",
-    "value": 3
+    "name": "Physical Armor Bonus",
+    "value": 3.75
   }],
   "equips": [],
   "tray_granted": "",

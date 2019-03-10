@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 23,
+  "cooldown": 45,
   "cost": {
     "name": "resource",
     "cost": 16
@@ -16,9 +16,10 @@
     "data_type": "discipline"
   }],
   "tags": [
-    "Electric Damage"
+    "Electric Damage",
+    "Electricity Armor"
   ],
   "targeting": "area",
   "type": "buff",
-  "description": "Deploy a banner overriding the damage of all nearby group members to Electric and increasing their Electric Armor by 25."
+  "description": "Deploys a banner overriding the damage of all nearby group members to Electricity and increasing their Electric Armor by 25."
 }

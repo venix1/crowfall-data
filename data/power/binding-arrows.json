@@ -14,7 +14,12 @@
   "sources": [{
     "id": "arcane-archer",
     "data_type": "discipline"
-  }],
+  },
+  {
+    "id": "sharpshooter",
+    "data_type": "discipline"
+  }
+  ],
   "tags": [
     "Root",
     "AoE"

@@ -1,0 +1,44 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "A Practical Guide to Divination rates runemaking a 'X out of X'.",
+  "name": "Runemaker",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Crafting"],
+  "stats": [{
+    "name": "Runemaking",
+    "value": 10
+  },
+  {
+    "name": "Runemaking Experimentation",
+    "value": 10
+  },
+  {
+    "name": "Runemaking Experimentation Points",
+    "value": 2
+  }
+],
+  "equips": [
+    "Recipes: Runemaking Novice",
+    "Recipes: Runemaking Research",
+    "Recipes: Intermediate Runemaking Research",
+    "Recipes: Expert Runemaking Research",
+    "Recipes: Advanced Runemaking Research"
+  ],
+  "tray_granted": "",
+  "tray_removed": ""
+}

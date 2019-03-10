@@ -3,24 +3,24 @@
   "cooldown": 45,
   "cost": {
     "name": "resource",
-    "cost": 18
+    "cost": 27
   },
-  "duration": 15,
+  "duration": 0,
   "max_targets": 1,
   "name": "Slow Demise II",
   "next_chain": [],
   "previous_chain": [
     "slow-demise"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "master-of-daggers",
+    "id": "poisoner",
     "data_type": "discipline"
   }],
   "tags": [
-    "Heal"
+    "Healing Bonus"
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Torment an enemy reducing their Healing Bonus and inflicting 141-191 + 166% Weapon Damage."
+  "description": "Torments an enemy reducing their Healing Bonus and inflicting 209-313 + 261% Weapon Damage."
 }

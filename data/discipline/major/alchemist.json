@@ -1,0 +1,44 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "The Alchemist Handbook clearly states the differences between vegetable, mineral, and animal. Use with caution and don't imbide anything without testing on an unwilling subject first.",
+  "name": "Alchemist",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Crafting"],
+  "stats": [{
+    "name": "Alchemy",
+    "value": 10
+  },
+  {
+    "name": "Alchemy Experimentation",
+    "value": 10
+  },
+  {
+    "name": "Alchemy Experimentation Points",
+    "value": 2
+  }
+],
+  "equips": [
+    "Recipes: Alchemy Novice",
+    "Recipes: Alchemy Research",
+    "Recipes: Intermediate Alchemy Research",
+    "Recipes: Expert Alchemy Research",
+    "Recipes: Advanced Alchemy Research"
+  ],
+  "tray_granted": "",
+  "tray_removed": ""
+}

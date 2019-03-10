@@ -17,5 +17,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Increase your Out of Combat Health Regen by 10 and apply a barrier when your Health is critically low."
+  "description": "Increases your Out of Combat Health Regen by 10 and apply a barrier when your Health is critically low."
 }

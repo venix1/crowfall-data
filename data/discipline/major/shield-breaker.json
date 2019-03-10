@@ -25,15 +25,15 @@
   "type": "major",
   "tags": [],
   "stats": [{
-      "name": "Slashing Armor Penetration",
+      "name": "Armor Penetration: Crushing",
       "value": 3.75
     },
     {
-      "name": "Crushing Armor Penetration",
+      "name": "Armor Penetration: Piercing",
       "value": 3.75
     },
     {
-      "name": "Piercing Armor Penetration",
+      "name": "Armor Penetration: Slashing",
       "value": 3.75
     }
   ],

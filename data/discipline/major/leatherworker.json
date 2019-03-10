@@ -1,0 +1,44 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "Hide and go seek? More like seek, skin, and then hide!",
+  "name": "Leatherworker",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Crafting"],
+  "stats": [{
+    "name": "Leatherworking",
+    "value": 10
+  },
+  {
+    "name": "Leatherworking Experimentation",
+    "value": 10
+  },
+  {
+    "name": "Leatherworking Experimentation Points",
+    "value": 2
+  }
+],
+  "equips": [
+    "Recipes: Leatherworking Novice",
+    "Recipes: Leatherworking Research",
+    "Recipes: Intermediate Leatherworking Research",
+    "Recipes: Expert Leatherworking Research",
+    "Recipes: Advanced Leatherworking Research"
+  ],
+  "tray_granted": "",
+  "tray_removed": ""
+}

@@ -1,0 +1,36 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "A branch of magic specializing in the manipulation of kinetic energy, Force Mages wield physical forces to both protect themselves and to defeat their enemies. Force fields and impulses are easy things for them but that's not all. They can also use their power to augment their physical strength and seem much stronger than normal. Although capable of summoning forces with surgical precision they are sometimes savagely indiscriminate with their power.",
+  "name": "Force Mage",
+  "powers": [
+    "reactive-barrier",
+    "force-wave",
+    "kinetic-boost",
+    "wreckoning"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": [
+    "Barrier"
+  ],
+  "stats": [{
+    "name": "Barrier Bonus",
+    "value": 125
+  }],
+  "equips": [],
+  "tray_granted": "",
+  "tray_removed": ""
+}

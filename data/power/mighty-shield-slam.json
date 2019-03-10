@@ -10,7 +10,7 @@
   "name": "Mighty Shield Slam",
   "next_chain": [],
   "previous_chain": [],
-  "range": 7.5,
+  "range": 7,
   "sources": [{
     "id": "shield-fighter",
     "data_type": "discipline"
@@ -21,5 +21,5 @@
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Deliver a shield attack using all your might to consume all Stamina and scale damage with stamina spent.  MIGHTY SHIELD SLAM inflicts 32 Damage Bonus per Stamina spent + 97% Crushing Weapon Damage to multiple enemies, pushing them back.  While charging the attack you are considered Blocking.  The attack is guaranteed to crit when more than 2/3rds charged."
+  "description": "Delivers a shield attack moving you forward 3.1m using all your might to consume all Stamina and scale damage with stamina spent. Mighty Shield Slam inflicts 32 Damage Bonus per Stamina spent + 97% Crushing Weapon Damage to multiple enemies, pushing them back. While charging the attack you are considered Blocking. The attack has a 100% Critical Hit Chance when charged more than 66%."
 }

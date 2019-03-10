@@ -11,14 +11,14 @@
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
-  "sources": [
-      {
-          "id": "rune-caster",
-          "data_type": "discipline"
-      }
+  "sources": [{
+    "id": "rune-caster",
+    "data_type": "discipline"
+  }],
+  "tags": [
+    "Health"
   ],
-  "tags": [],
   "targeting": "group",
   "type": "buff",
-  "description": "Aid group members and yourself increasing Health by 1000."
+  "description": "Aids group members and you increasing Health by 1000."
 }

@@ -6,7 +6,7 @@
     "cost": 16
   },
   "duration": 0,
-  "max_targets": 0,
+  "max_targets": 1,
   "name": "Mithradatism",
   "next_chain": [],
   "previous_chain": [],
@@ -20,5 +20,5 @@
   ],
   "targeting": "self",
   "type": "buff",
-  "description": "Remove all Poison effects from yourself."
+  "description": "Removes all Poison effects from yourself."
 }

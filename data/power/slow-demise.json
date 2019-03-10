@@ -3,7 +3,7 @@
   "cooldown": 9,
   "cost": {
     "name": "resource",
-    "cost": 12
+    "cost": 15
   },
   "duration": 0,
   "max_targets": 1,
@@ -12,13 +12,13 @@
     "slow-demise-ii"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "master-of-daggers",
+    "id": "poisoner",
     "data_type": "discipline"
   }],
   "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Stick an enemy for 87-118 + 102% Weapon Damage."
+  "description": "Hits an enemy for 103-155 + 129% Weapon Damage."
 }

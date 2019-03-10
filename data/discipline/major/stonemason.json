@@ -1,0 +1,44 @@
+{
+  "classes": [
+    "assassin",
+    "champion",
+    "cleric",
+    "confessor",
+    "druid",
+    "duelist",
+    "frostweaver",
+    "knight",
+    "myrmidon",
+    "ranger",
+    "templar"
+  ],
+  "description": "An unchiseled stone is a stone full of possibilities.",
+  "name": "Stonemason",
+  "powers": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "major",
+  "tags": ["Crafting"],
+  "stats": [{
+    "name": "Stonemasonry",
+    "value": 10
+  },
+  {
+    "name": "Stonemasonry Experimentation",
+    "value": 10
+  },
+  {
+    "name": "Stonemasonry Experimentation Points",
+    "value": 2
+  }
+],
+  "equips": [
+    "Recipes: Stonemasonry Novice",
+    "Recipes: Stonemasonry Research",
+    "Recipes: Intermediate Stonemasonry Research",
+    "Recipes: Expert Stonemasonry Research",
+    "Recipes: Advanced Stonemasonry Research"
+  ],
+  "tray_granted": "",
+  "tray_removed": ""
+}

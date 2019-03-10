@@ -22,5 +22,5 @@
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Come back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 300 for 30 seconds. This effect can stack with itself."
+  "description": "Comes back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 100 for 30 seconds. This effect can stack with itself."
 }

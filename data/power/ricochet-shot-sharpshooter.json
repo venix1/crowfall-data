@@ -20,5 +20,5 @@
   ],
   "targeting": "reticle",
   "type": "ranged attack",
-  "description": "Fire an arrow that can ricochet to strike up to four additional nearby enemies for 65-89 + 77% Weapon Damage and is a guaranteed Critical Hit after the second ricochet."
+  "description": "Fires an arrow that can ricochet to strike up to four additional nearby enemies for 65-89 + 77% Weapon Damage and has a 100% Critical Hit Chance after the second ricochet."
 }

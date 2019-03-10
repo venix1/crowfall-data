@@ -1,12 +1,9 @@
 {
   "cast_type": "passive",
   "cooldown": 0,
-  "cost": {
-    "name": "resource",
-    "cost": 16
-  },
+  "cost": {},
   "duration": 0,
-  "max_targets": 0,
+  "max_targets": 1,
   "name": "Sword Ward",
   "next_chain": [],
   "previous_chain": [],

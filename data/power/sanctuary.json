@@ -15,8 +15,10 @@
     "id": "rune-caster",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "All Armor"
+  ],
   "targeting": "area",
   "type": "buff",
-  "description": "Defend an area with a runic symbol increasing allies' All Armor by 20%."
+  "description": "Defends an area with a runic symbol increasing allies All Armor by 20%."
 }

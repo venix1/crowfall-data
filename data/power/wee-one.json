@@ -15,8 +15,10 @@
     "id": "pixie",
     "data_type": "discipline"
   }],
-  "tags": [],
+  "tags": [
+    "Damage Bonus"
+  ],
   "targeting": "area",
   "type": "debuff",
-  "description": "Shrink the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times."
+  "description": "Shrinks the targeted area down to size, reducing Damage Bonus by 20% for 25 seconds.  This debuff stacks up to 3 times."
 }
