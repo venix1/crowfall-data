@@ -7,13 +7,13 @@
   "modifies": [
     "brilliance"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "edict-of-damnation"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Inner Light enhances Brilliance to reduce its cost to 500 Soul Power."
 }

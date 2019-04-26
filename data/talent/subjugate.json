@@ -9,13 +9,13 @@
   "modifies": [
     "judgement"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "scintillating-smash"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "This talent grants the Subjugate power as an additional combo following Judgement."
 }

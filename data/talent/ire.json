@@ -5,13 +5,13 @@
   "name": "Ire",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "massive-cleave"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Ire improves Maximum Rage by 5 per point spent."
 }

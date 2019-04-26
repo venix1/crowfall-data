@@ -5,13 +5,13 @@
   "name": "Toughness",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "massive-cleave"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Toughness improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent."
 }

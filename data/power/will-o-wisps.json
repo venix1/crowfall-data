@@ -2,7 +2,7 @@
   "cast_type": "charged",
   "cooldown": 25,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 63
   },
   "duration": 0,
@@ -12,15 +12,18 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "gift-of-nature",
+    "data_type": "talent"
+  },
+  {
+    "id": "archdruid",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Druid",
     "Heal"
   ],
   "targeting": "area",
-  "type": "non-aggressive",
-  "description": "Charge up and fling a Will o' Wisp to heal allies in a #range# area for 270 - 330 + 300% Weapon Damage."
+  "type": "heal",
+  "description": "Charges up and flings a Will o' Wisp to heal allies in a ranged area for 108-132 + 48% Support Power."
 }

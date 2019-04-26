@@ -5,13 +5,13 @@
   "name": "Brutal Fury",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 5,
+  "max-pips": 5,
   "prerequisite": {
     "precursors": [
       "kidney-shot"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Brutal Fury improves Critical Hit Chance by 2% per point spent."
 }

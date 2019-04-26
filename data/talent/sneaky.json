@@ -5,13 +5,13 @@
   "name": "Sneaky",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "steady-hand"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Sneaky improves Stealth by 25."
 }

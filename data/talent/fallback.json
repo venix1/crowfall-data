@@ -7,14 +7,14 @@
   "modifies": [
     "pursuit"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "liberality",
       "mighty-shield"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Fallback enhances Pursuit to apply a Barrier to the player when it ends."
 }

@@ -5,13 +5,13 @@
   "name": "Military Training",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "bring-me-everyone"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Military Training improves Ranged Power Damage Bonus by 3% per point spent.\r\nWARNING: Purchasing this talent commits you to the Archer promotion path and prevents access to the Warden and Brigand promotion paths."
 }

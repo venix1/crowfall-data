@@ -5,13 +5,13 @@
   "name": "Style",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "enmity"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Style improves Critical Hit Chance by 1% per point spent."
 }

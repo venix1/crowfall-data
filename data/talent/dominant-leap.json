@@ -7,13 +7,13 @@
   "modifies": [
     "leap"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "style"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Dominant Leap enhances Leap powers to add a point of Dominance."
 }

@@ -5,13 +5,13 @@
   "name": "Ruthless Force",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "collosus-smash"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Ruthless Force improves Critical Hit Chance by 2% per point spent."
 }

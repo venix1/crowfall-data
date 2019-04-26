@@ -1,6 +1,7 @@
 {
   "description": "",
   "name": "Cleric",
+  "base": true,
   "powers": [
     "spotting",
     "mental-fortitude",
@@ -20,7 +21,7 @@
     "guinecean",
     "elken"
   ],
-  "tags": ["Support"],
+  "tags": [],
   "promotions": [
     "Arbiter",
     "Crusader",

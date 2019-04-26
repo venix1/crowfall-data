@@ -1,0 +1,14 @@
+{
+  "description": "",
+  "name": "Vandal",
+  "base": "assassin",
+  "races": [
+    "half-elf",
+    "nethari",
+    "fae",
+    "high-elf"
+  ],
+  "tags": [],
+  "powers": [],
+  "promotions": false
+}

@@ -5,13 +5,13 @@
   "name": "Shadow Armor",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 5,
+  "max-pips": 5,
   "prerequisite": {
     "precursors": [
       "kidney-shot"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Shadow Armor improves Physical Armor Bonus by 1% per point spent."
 }

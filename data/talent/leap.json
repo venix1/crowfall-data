@@ -7,14 +7,14 @@
     "leap"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "guts",
       "armaments"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "This talent grants the Leap power."
 }

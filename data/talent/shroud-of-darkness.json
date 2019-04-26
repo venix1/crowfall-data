@@ -7,13 +7,13 @@
     "shroud-of-darkness"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "barbed-thorns"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "This talent grants the Shroud Of Darkness power."
 }

@@ -5,15 +5,15 @@
   "name": "Heart of the Wild",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "pack-avatar",
       "might-of-blight",
       "shroud-of-darkness"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Heart of the Wild improves Maximum Health by 500 per point spent."
 }

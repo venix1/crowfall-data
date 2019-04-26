@@ -7,13 +7,13 @@
   "modifies": [
     "shield-slam"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "grip-strength"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Ringing Shield enhances Shield Slam to also Suppress the target when it is more than 2/3rds charged."
 }

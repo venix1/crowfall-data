@@ -5,15 +5,15 @@
   "name": "Born in Darkness",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "quietude",
       "nature-toxin",
       "cloaked-in-shadow"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Born in Darkness improves Physical Armor Bonus by 2% per point spent."
 }

@@ -5,15 +5,15 @@
   "name": "Alligator Blood",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "zoned-out",
       "assassins-point",
       "spirit-dart"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Alligator Blood improves Bleed Armor Bonus by 10% per point spent."
 }

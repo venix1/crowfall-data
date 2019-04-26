@@ -5,13 +5,13 @@
   "name": "Shock and Awe",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "potential-energy"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Shock and Awe improves Critical Hit Chance by 3% per point spent."
 }

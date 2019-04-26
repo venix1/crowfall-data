@@ -7,13 +7,13 @@
   "modifies": [
     "devotion"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "moral-prerogative"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Profound Devotion enhances Devotion to heal allies and you for 50% of the damage you cause while scaling with Support Power."
 }

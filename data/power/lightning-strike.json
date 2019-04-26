@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 24,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 46
   },
   "duration": 0,
@@ -16,14 +16,13 @@
   ],
   "range": 35,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "lightning-burst",
+    "data_type": "talent"
   }],
   "tags": [
-    "AoE",
-    "Druid"
+    "AoE"
   ],
   "targeting": "ray",
   "type": "ranged attack",
-  "description": "Strike enemies with lightning for 109 - 163 + 136% Weapon Damage and Dazing them."
+  "description": "Strikes enemies with lightning for 109-163 + 136% Weapon Damage as Electricity Damage, while also Dazing them."
 }

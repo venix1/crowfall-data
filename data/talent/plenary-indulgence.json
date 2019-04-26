@@ -7,13 +7,13 @@
   "modifies": [
     "fervor"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "atone"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Plenary Indulgence reduces the cooldown of Fervor by 35%."
 }

@@ -5,13 +5,13 @@
   "name": "Electric Skin",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "plasma-spark"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Electric Skin enhances Barrier effects to have 50% increased mitigation against Crushing| Electricity| and Piercing damage types."
 }

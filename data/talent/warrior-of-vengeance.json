@@ -5,13 +5,13 @@
   "name": "Warrior of Vengeance",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "blazing-judgement"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Warrior of Vengeance enhances Holy Warrior to increase Damage Bonus"
 }

@@ -7,13 +7,13 @@
   "modifies": [
     "obliterate"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "mercy"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Critical Obliteration enhances Obliterate to cause Bleed effects to have a 100% Critical Hit Chance."
 }

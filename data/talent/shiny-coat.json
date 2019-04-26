@@ -5,15 +5,15 @@
   "name": "Shiny Coat",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "spy-master",
       "cheap-shots",
       "fast-tunneling"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Shiny Coat improves Personal Healing Modifier by 1.5% per point spent."
 }

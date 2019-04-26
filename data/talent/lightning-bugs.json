@@ -8,14 +8,14 @@
     "faerie-flames",
     "faerie-fire"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "plasma-spark",
       "storm-avatar"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Lightning Bugs enhances Faerie Flames and Faerie Fire to reduce the target's Electricity Armor Bonus by 15%. This does not stack with Blight field effects."
 }

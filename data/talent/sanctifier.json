@@ -7,13 +7,13 @@
     "spitting-distance"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "well-oiled-sandal"
     ],
-    "spentPips": 0,
-    "levelRequired": 25
+    "spent-pips": 0,
+    "required-level": 25
   },
   "details": "This talent grants the Spitting Distance passive power.\r\nIncreases by 10%: Fire Damage Bonus|Fire Damage Bonus Cap\r\nYou can now equip: Mail Armor|Plate Armor|Runic Books"
 }

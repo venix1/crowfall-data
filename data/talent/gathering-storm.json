@@ -7,13 +7,13 @@
   "modifies": [
     "whirlwind"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "solid-muscle"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Gathering Storm enhances Whirlwind to stack the Gathering Storm buff up to 20 times with each hit adding +1 Fury Regen in Combat and base Whirlwind Damage."
 }

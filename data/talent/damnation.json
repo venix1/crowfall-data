@@ -7,13 +7,13 @@
   "modifies": [
     "condemnation"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "repent"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Damnation enhances Condemnation to apply a Slow effect."
 }

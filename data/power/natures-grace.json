@@ -2,27 +2,21 @@
   "cast_type": "instant",
   "cooldown": 68,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 22
   },
-  "duration": 45,
-  "max_targets": 5,
+  "duration": 12,
+  "max_targets": 1,
   "name": "Nature's Grace",
-  "next_chain": [
-    "natural-bond"
-  ],
+  "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "natures-grace",
+    "data_type": "talent"
   }],
-  "tags": [
-    "AoE",
-    "Druid",
-    "Heal"
-  ],
+  "tags": [],
   "targeting": "self",
   "type": "buff",
-  "description": "Increase Healing by 10% for 45 seconds."
+  "description": "Graces you for 12 seconds, healing you for 2% of your maximum health each time you damage an enemy with a Basic Attack."
 }

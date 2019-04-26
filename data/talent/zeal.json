@@ -7,13 +7,13 @@
   "modifies": [
     "fervor"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "lawful"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Basic Attacks deal 35% more damage for 12 seconds after completely casting Fervor."
 }

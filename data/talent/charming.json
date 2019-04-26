@@ -5,15 +5,15 @@
   "name": "Charming",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "inconceivable",
       "minor-discipline-slot-iii-duelist",
       "spunky"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Charming improves Personal Healing Modifier by 1.5% per point spent."
 }

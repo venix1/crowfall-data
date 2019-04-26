@@ -1,12 +1,12 @@
 {
   "cast_type": "instant",
-  "cooldown": 3,
+  "cooldown": 0,
   "cost": {
     "name": "stamina",
     "cost": 65
   },
   "duration": 0,
-  "max_targets": 1,
+  "max_targets": 3,
   "name": "Retaliate (Druid)",
   "next_chain": [],
   "previous_chain": [],
@@ -22,5 +22,5 @@
   ],
   "targeting": "self",
   "type": "retaliate",
-  "description": "Jump to your feet, healing yourself for x-y + z% Weapon Damage."
+  "description": "Returns you to your feet dealing 88-132 + 110% Weapon Damage to nearby enemies and healing you for 3% of your maximum Health over 3 seconds."
 }

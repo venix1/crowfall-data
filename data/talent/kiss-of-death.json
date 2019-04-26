@@ -7,13 +7,13 @@
   "modifies": [
     "kidney-shot"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "overachieve"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Kiss of Death enhances Kidney Shot to cause Stunned enemies to take 10% increased damage for 6 seconds."
 }

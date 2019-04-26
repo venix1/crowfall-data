@@ -5,13 +5,13 @@
   "name": "Frenzied Righteousness",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "zeal"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Righteousness grants an 8% Damage Bonus for 8 seconds."
 }

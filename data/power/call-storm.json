@@ -2,26 +2,24 @@
   "cast_type": "instant",
   "cooldown": 30,
   "cost": {
-    "name": "resource",
-    "cost": 12
+    "name": "essence",
+    "cost": 26
   },
   "duration": 0,
-  "max_targets": 5,
+  "max_targets": 1,
   "name": "Call Storm",
   "next_chain": [],
   "previous_chain": [],
   "range": 35,
-  "sources": [
-      {
-          "id": "master-of-scimitars",
-          "data_type": "discipline"
-      }
-  ],
+  "sources": [{
+    "id": "call-storm",
+    "data_type": "talent"
+  }],
   "tags": [
       "Electric",
       "Stun"
   ],
   "targeting": "ray",
   "type": "debuff",
-  "description": "Call lightning to strike a target stunning them and causing 60 - 90 + 75% Electric Weapon Damage.  Afterward they suffer Severe Electrocution taking 17 - 25 + 2% Electric Weapon Damage per tick."
+  "description": "Calls lightning to strike a target stunning them and causing 128-192 + 160% Electricity Weapon Damage."
 }

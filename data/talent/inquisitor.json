@@ -7,13 +7,13 @@
     "feel-the-burn"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "sanctified"
     ],
-    "spentPips": 0,
-    "levelRequired": 25
+    "spent-pips": 0,
+    "required-level": 25
   },
   "details": "This talent grants the Feel the Burn passive power.\r\nIncreases by 10%: Fire Damage Bonus|Fire Damage Bonus Cap\r\nYou can now equip: Runic Books"
 }

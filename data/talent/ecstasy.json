@@ -5,13 +5,13 @@
   "name": "Ecstasy",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "devotion"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Ecstasy improves Maximum Stamina by 5 per point spent."
 }

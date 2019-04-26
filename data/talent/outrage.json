@@ -5,15 +5,15 @@
   "name": "Outrage",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "brutal-warrior",
       "minor-discipline-slot-iii-champion",
       "animosity"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Outrage improves Rage Regen In Combat by 0.5 per point spent and Rage Loss Out of Combat by 0.025 per point spent"
 }

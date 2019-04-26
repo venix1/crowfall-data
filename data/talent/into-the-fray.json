@@ -5,15 +5,15 @@
   "name": "Into the Fray",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "break-the-law",
       "minor-discipline-slot",
       "chain-attack"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Into the Fray improves Critical Hit Damage by 5% per point spent."
 }

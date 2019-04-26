@@ -1,40 +1,24 @@
 {
   "description": "",
   "name": "Druid",
+  "base": true,
   "powers": [
-    "aurora-emitter",
-    "bark-skin",
-    "blight",
-    "circle-of-life",
-    "coalesce-life",
-    "coalesce-life-2",
-    "coalesce-nature",
-    "contain-essence",
-    "empower",
-    "essence-scram",
-    "faerie-flames",
-    "focused-spark",
-    "forest-whispers",
-    "gaeas-wail",
-    "healing-rain",
-    "leeching-seed",
-    "lightning-burst",
-    "lightning-strike",
-    "natural-bond",
-    "natures-avatar",
-    "natures-grace",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "death-surge",
     "retaliate-druid",
-    "sacrifice",
-    "shroud-of-darkness",
-    "wicked-winds",
-    "will-o-wisps"
+    "focused-spark"
   ],
   "races": [
     "half-elf",
     "fae",
     "wood-elf"
   ],
-  "tags": [
-    "Support"
+  "tags": [],
+  "promotions": [
+    "Archdruid",
+    "Earthkeeper",
+    "Stormcaller"
   ]
 }

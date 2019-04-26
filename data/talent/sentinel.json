@@ -7,13 +7,13 @@
     "macemanship"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "pinning"
     ],
-    "spentPips": 0,
-    "levelRequired": 25
+    "spent-pips": 0,
+    "required-level": 25
   },
   "details": "This talent grants the Macemanship passive power.\r\nIncreases by 10%: Crushing Damage Bonus|Crushing Damage Bonus Cap\r\nYou can now equip: Runic Axes|Runic Longswords|Runic Maces| Runic Short Swords|Runic Bucklers|Runic Medium Shields"
 }

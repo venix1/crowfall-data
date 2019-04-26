@@ -5,13 +5,13 @@
   "name": "Persistence",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "rapid-fire"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Persistence improves Maximum Health by 250 per point spent.\r\nWARNING: Purchasing this talent commits you to the Dirge promotion path and prevents access to the Vanguard Scout and Slayer promotion paths."
 }

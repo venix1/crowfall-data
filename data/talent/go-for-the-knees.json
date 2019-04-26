@@ -8,13 +8,13 @@
     "ambush",
     "snipe"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "persistence"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Go for the Knees enhances Ambush and Snipe to always inflict Knockdown."
 }

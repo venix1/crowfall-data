@@ -5,15 +5,15 @@
   "name": "Loved by the Sun",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "magic-dance",
       "minor-discipline-slot-iii-druid",
       "leeching-seed"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Loved by the Sun improves Healing Bonus by 2% per point spent."
 }

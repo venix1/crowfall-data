@@ -5,13 +5,13 @@
   "name": "Purity",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "mission-of-mercy"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Purity improves Maximum Stamina by 5% and Power Efficiency by 8% per point spent."
 }

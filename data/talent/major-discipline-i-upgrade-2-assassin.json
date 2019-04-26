@@ -5,13 +5,13 @@
   "name": "Major Discipline I Upgrade 2 (Assassin)",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "major-discipline-slot-i-assassin"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Gain access to the third set of disciplines bonuses from the attached Major Discipline slot."
 }

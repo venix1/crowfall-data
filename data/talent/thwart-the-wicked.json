@@ -7,13 +7,13 @@
   "modifies": [
     "retaliate"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "anointed"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Thwart the Wicked enhances Retaliate powers to recover 35 Stamina over 7 seconds."
 }

@@ -7,14 +7,14 @@
   "modifies": [
     "absolution"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "repent",
       "plenary-indulgence"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Confirmed Absolution enhances Absolution to no longer consume Sin and always apply a Slow."
 }

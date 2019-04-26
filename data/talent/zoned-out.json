@@ -7,13 +7,13 @@
   "modifies": [
     "in-the-zone"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "brick-outhouse"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Zoned Out increases the duration of In The Zone by 3 seconds per PIP spent."
 }

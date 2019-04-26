@@ -1,6 +1,7 @@
 {
   "description": "",
   "name": "Myrmidon",
+  "base": true,
   "powers": [
     "arcing-slash",
     "berserk",
@@ -24,5 +25,6 @@
     "half-giant",
     "minotaur"
   ],
-  "tags": []
+  "tags": [],
+  "promotions": []
 }

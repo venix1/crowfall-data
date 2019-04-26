@@ -7,13 +7,13 @@
   "modifies": [
     "whirling-pain"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "fast-counter-attack"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Whirling Shield enhances Whirling Pain to also activate a damage preventing Barrier."
 }

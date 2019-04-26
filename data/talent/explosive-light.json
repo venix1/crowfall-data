@@ -7,14 +7,14 @@
   "modifies": [
     "divine-light"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "edict-of-damnation",
       "scintillating-smash"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Explosive Light enhances Divine Light to also inflict a Knockdown when deployed and to Daze enemies within the field."
 }

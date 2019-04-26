@@ -1,6 +1,7 @@
 {
   "description": "",
   "name": "Confessor",
+  "base": true,
   "powers": [
     "spotting",
     "mental-fortitude",

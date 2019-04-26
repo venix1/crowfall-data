@@ -5,15 +5,15 @@
   "name": "Artful Advance",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "cunning-jabs",
       "minor-discipline-slot-ii-duelist",
       "impale"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Artful Advance improves Critical Hit Damage by 5% per point spent."
 }

@@ -7,13 +7,13 @@
   "modifies": [
     "block"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "mission-of-mercy"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Righteous Defense enhances Block to Heal allies and yourself when you are damaged by enemies."
 }

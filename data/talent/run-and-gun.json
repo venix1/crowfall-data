@@ -7,13 +7,13 @@
   "modifies": [
     "rapid-fire"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "keen-aim"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Run and Gun enhances Rapid Fire to increase your Movement Speed In Combat by 25% while you channel."
 }

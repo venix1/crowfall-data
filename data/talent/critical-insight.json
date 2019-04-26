@@ -5,13 +5,13 @@
   "name": "Critical Insight",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "pepperbox-shot"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Critical Insight improves Critical Hit Chance by 2% per point spent."
 }

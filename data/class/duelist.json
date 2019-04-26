@@ -1,6 +1,7 @@
 {
   "description": "",
   "name": "Duelist",
+  "base": true,
   "powers": [
     "ambush-duelist",
     "flintlock-shot",
@@ -21,7 +22,6 @@
   "races": [
     "guinecean"
   ],
-  "tags": [
-    "Stealth"
-  ]
+  "tags": [],
+  "promotions": []
 }

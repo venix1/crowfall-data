@@ -9,13 +9,13 @@
     "shield-swipe",
     "shield-bash"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "unstoppable"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Mighty Shield increases the base damage of Shield Slam| Shield Swipe| and Shield Bash by 20%."
 }

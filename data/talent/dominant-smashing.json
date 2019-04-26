@@ -7,13 +7,13 @@
   "modifies": [
     "smash"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "enmity"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Dominant Smashing enhances your basic Smash attacks to add a point of Dominance when they critically hit."
 }

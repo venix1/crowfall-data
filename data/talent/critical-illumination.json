@@ -7,14 +7,14 @@
   "modifies": [
     "illuminate"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "hammer-time",
       "symbol-of-fury"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Critical Illumination enhances Illuminate to also increase Critical Hit Chance with each hit until you score three critical hits or the effect ends."
 }

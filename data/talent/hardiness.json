@@ -5,13 +5,13 @@
   "name": "Hardiness",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "endurance"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Hardiness improves In and Out of Combat Health Regeneration by 5 per point spent."
 }

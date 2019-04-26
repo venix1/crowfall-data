@@ -1,0 +1,14 @@
+{
+  "description": "",
+  "name": "Pit Fighter",
+  "base": "champion",
+  "races": [
+    "stoneborn",
+    "half-giant",
+    "minotaur",
+    "centaur"
+  ],
+  "tags": [],
+  "powers": [],
+  "promotions": false
+}

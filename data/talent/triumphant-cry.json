@@ -7,14 +7,14 @@
   "modifies": [
     "sweep"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "barkskin",
       "shrapnel"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Triumphant Cry enhances Sweep to apply the Damage Bonus effect to all group members except you."
 }

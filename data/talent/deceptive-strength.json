@@ -5,13 +5,13 @@
   "name": "Deceptive Strength",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "tools-of-the-trade"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Deceptive Strength improves High Health Damage Bonus by 3% per point spent."
 }

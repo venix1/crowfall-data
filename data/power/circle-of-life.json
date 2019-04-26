@@ -11,6 +11,13 @@
   "sources": [{
     "id": "circle-of-life",
     "data_type": "talent"
+  },
+  { "id": "forest-affinity",
+    "data_type": "talent"
+  },
+  {
+    "id": "gift-of-nature",
+      "data_type": "talent"
   }],
   "tags": ["Resurrection"],
   "targeting": "area",

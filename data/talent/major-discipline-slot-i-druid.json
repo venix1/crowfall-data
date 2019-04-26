@@ -5,13 +5,13 @@
   "name": "Major Discipline Slot I (Druid)",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "mark-of-the-storm"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Unlock this Major Discipline slot and gain access to its first discipline bonus."
 }

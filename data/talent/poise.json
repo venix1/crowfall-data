@@ -7,13 +7,13 @@
   "modifies": [
     "fervor"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "melt-shackles"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Poise enhances Fervor to remove the mitigation debuff and increase Physical Armor Bonus by 10%."
 }

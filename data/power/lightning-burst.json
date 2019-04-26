@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 9,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 68
   },
   "duration": 0,
@@ -14,14 +14,13 @@
   "previous_chain": [],
   "range": 35,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "lightning-burst",
+    "data_type": "talent"
   }],
   "tags": [
-    "AoE",
-    "Druid"
+    "AoE"
   ],
   "targeting": "ray",
   "type": "ranged attack",
-  "description": "Blast enemies with lightning for 110 - 165 + 138% Weapon Damage."
+  "description": "Electrifies enemies with lightning for 110-165 + 138% Weapon Damage as Electricity Damage."
 }

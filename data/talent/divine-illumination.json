@@ -7,14 +7,14 @@
   "modifies": [
     "illuminate"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "divine-intervention",
       "blessed-symbol"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Divine Illumination enhances Illuminate to also heal group members and yourself over time."
 }

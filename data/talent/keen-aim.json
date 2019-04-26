@@ -5,13 +5,13 @@
   "name": "Keen Aim",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "dead-eye"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Keen Aim improves Ranged Distance Bonus by 3 per point spent."
 }

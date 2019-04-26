@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 24,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 79
   },
   "duration": 0,
@@ -14,8 +14,8 @@
   ],
   "range": 0,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "shroud-of-darkness",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
@@ -23,5 +23,5 @@
   ],
   "targeting": "reticle",
   "type": "ranged attack",
-  "description": "Launch a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage."
+  "description": "Launches a swirling maelstrom to fling enemies around and causing 193-290 + 242% Weapon Damage as Nature Damage."
 }

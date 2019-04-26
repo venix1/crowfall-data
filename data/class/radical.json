@@ -1,0 +1,16 @@
+{
+  "name": "Radical",
+  "base": "cleric",
+  "races": [
+    "human",
+    "stoneborn",
+    "half-giant",
+    "centaur",
+    "guinecean",
+    "elken"
+  ],
+  "tags": [],
+  "description": "",
+  "powers": [],
+  "promotions": false
+}

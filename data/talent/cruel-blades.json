@@ -5,13 +5,13 @@
   "name": "Cruel Blades",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "overachieve"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Cruel Blades improves Damage Bonus by 1% per point spent."
 }

@@ -5,13 +5,13 @@
   "name": "Lawful",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "hellfire"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Lawful improves Critical Hit Chance by 2% per point spent.\r\nWARNING: Purchasing this talent commits you to the Inquisitor promotion path and prevents access to the Sanctifier and Fanatic promotion paths."
 }

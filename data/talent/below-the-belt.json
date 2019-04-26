@@ -5,15 +5,15 @@
   "name": "Below the Belt",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "a-toll-is-a-toll",
       "deep-cuts",
       "twin-surge"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Below the Belt increases Power Damage Bonus"
 }

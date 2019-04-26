@@ -5,15 +5,15 @@
   "name": "Barbarity",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "dominant-leap",
       "violent-neckbreaker",
       "rend-and-butcher"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Barbarity improves Armor Penetration"
 }

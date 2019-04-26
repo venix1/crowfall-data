@@ -10,14 +10,14 @@
     "double-slash",
     "neck-slash"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "solid-muscle",
       "here-i-go-killing-again"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Blood Thirst grants a chance to gain a buff when hitting a Bleeding target that increases the damage caused by Right Slash| Left Slash| Double Slash and Neck Slash."
 }

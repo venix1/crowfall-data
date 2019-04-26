@@ -8,13 +8,13 @@
     "block",
     "fortified-shield-slam"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "endurance"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Unbreakable increases Block and Fortified Shield Slam damage reduction by 20%."
 }

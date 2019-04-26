@@ -5,13 +5,13 @@
   "name": "Barkskin",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "gift-of-the-forest"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Barkskin reduces the amount of Damage Taken by 2% per point spent."
 }

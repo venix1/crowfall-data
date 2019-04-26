@@ -5,13 +5,13 @@
   "name": "Edict of Damnation",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "scourge"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Edict of Damnation improves Hard Control Intensity by 7% per point spent."
 }

@@ -11,6 +11,10 @@
   "sources": [{
     "id": "pixie",
     "data_type": "discipline"
+  },
+  {
+    "id": "earthkeeper",
+    "data_type": "talent"
   }],
   "tags": [
     "Chain Heal"

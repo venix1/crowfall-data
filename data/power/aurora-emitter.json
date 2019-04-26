@@ -2,11 +2,11 @@
   "cast_type": "instant",
   "cooldown": 24,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 77
   },
   "duration": 15,
-  "max_targets": 5,
+  "max_targets": 3,
   "name": "Aurora Emitter",
   "next_chain": [],
   "previous_chain": [
@@ -14,14 +14,13 @@
   ],
   "range": 35,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "lightning-burst",
+    "data_type": "talent"
   }],
   "tags": [
-    "AoE",
-    "Druid"
+    "AoE"
   ],
   "targeting": "sphere",
   "type": "ranged attack",
-  "description": "Strike enemies with lightning in an area for 79 - 119 damage. Enemies are left electrified and will inflict and additional 27 to 40 + #weapon_damage_2_value#% Weapon Damage over 15 seconds to nearby friendlies."
+  "description": "Strikes enemies with lightning in an area for 79-119 as Electricity Damage. Enemies damaged are left electrified, and will pulse an additional 27-40 + 25% Weapon Damage as Electricity Damage over 15 seconds to nearby friendlies."
 }

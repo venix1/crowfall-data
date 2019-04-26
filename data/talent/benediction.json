@@ -5,13 +5,13 @@
   "name": "Benediction",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "circle-of-life"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Benediction improves Support Power by 200 per point spent.\r\nWARNING: Purchasing this talent commits you to the Crusader promotion path and prevents access to the Radical and Arbiter promotion paths."
 }

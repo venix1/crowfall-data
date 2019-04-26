@@ -1,0 +1,16 @@
+{
+  "name": "Arbiter",
+  "base": "cleric",
+  "races": [
+    "human",
+    "stoneborn",
+    "half-giant",
+    "centaur",
+    "guinecean",
+    "elken"
+  ],
+  "description": "",
+  "tags": [],
+  "powers": [],
+  "promotions": false
+}

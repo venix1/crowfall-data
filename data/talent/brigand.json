@@ -7,13 +7,13 @@
     "aero-spin"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "below-the-belt"
     ],
-    "spentPips": 0,
-    "levelRequired": 25
+    "spent-pips": 0,
+    "required-level": 25
   },
   "details": "This talent grants the Aero Spin passive power.\r\nIncreases by 10%: Piercing Damage Bonus|Slashing Damage Bonus|Piercing Damage Bonus Cap|Slashing Bonus Damage Cap \r\nYou can now equip: Runic Axes|Runic Maces|Runic Short Swords"
 }

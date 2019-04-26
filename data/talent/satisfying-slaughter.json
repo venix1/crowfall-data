@@ -7,13 +7,13 @@
   "modifies": [
     "neck-slash"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "fearless-resilience"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Satisfying Slaughter enhances Neck Slash to prevent up to 750 Berserk Crash damage if it hits successfully while under the effects of Berserk."
 }

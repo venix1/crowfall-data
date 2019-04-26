@@ -7,13 +7,13 @@
   "modifies": [
     "recon"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "tenacity"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Spy Master enhances Recon to reduce an enemy's Critical Hit Chance Defense and reduce its cooldown."
 }

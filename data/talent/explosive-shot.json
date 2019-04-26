@@ -7,14 +7,14 @@
   "modifies": [
     "pepperbox-shot"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "marksmanship",
       "go-for-the-knees"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Explosive Shot enhances Pepperbox Shot to reduce the target's Piercing Armor by 25% when performed using five Pips."
 }

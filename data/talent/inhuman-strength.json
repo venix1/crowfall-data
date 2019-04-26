@@ -5,15 +5,15 @@
   "name": "Inhuman Strength",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "gathering-storm",
       "indestructible-frenzy",
       "blood-thirst"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Titan improves Armor Penetration"
 }

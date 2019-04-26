@@ -7,13 +7,13 @@
   "modifies": [
     "backstab"
   ],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "tools-of-the-trade"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Armor Gap increases the Critical Hit Chance of your Backstab power by 4% per point spent."
 }

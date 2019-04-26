@@ -5,13 +5,13 @@
   "name": "Major Discipline II Upgrade 1 (Confessor)",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "major-discipline-slot-ii-confessor"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Gain access to the second set of disciplines bonuses from the attached Major Discipline slot."
 }

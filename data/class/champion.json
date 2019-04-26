@@ -1,6 +1,6 @@
 {
-  "description": "",
   "name": "Champion",
+  "base": true,
   "powers": [
     "retaliate-champion",
     "neckbreaker",
@@ -15,10 +15,11 @@
     "minotaur",
     "centaur"
   ],
-  "tags": [],
+  "description": "",
   "promotions": [
     "Alpha Warrior",
     "Barbarian",
     "Pit Fighter"
-  ]
+  ],
+  "tags": [],
 }

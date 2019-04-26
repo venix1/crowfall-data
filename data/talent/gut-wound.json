@@ -7,13 +7,13 @@
   "modifies": [
     "impale"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "marksmanship"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Gut Wound enhances Impale to inflict Stun when performed using five Pips."
 }

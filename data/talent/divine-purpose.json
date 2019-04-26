@@ -7,13 +7,13 @@
   "modifies": [
     "divine-order"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "symbol-of-fury"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Divine Purpose enhances Divine Order to reduce its cost to 500 Soul Power."
 }

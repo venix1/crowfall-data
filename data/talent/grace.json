@@ -7,13 +7,13 @@
   "modifies": [
     "retaliate"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "divine-favor"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Grace enhances Retaliate powers to recover 35 Stamina over 7 seconds."
 }

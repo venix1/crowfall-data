@@ -1,6 +1,7 @@
 {
-  "description": "",
   "name": "Ranger",
+  "base": true,
+  "description": "",
   "powers": [
     "alertness",
     "archers-stake",
@@ -36,5 +37,6 @@
     "elken",
     "minotaur"
   ],
-  "tags": ["Anti-Stealth"]
+  "tags": [],
+  "promotions": []
 }

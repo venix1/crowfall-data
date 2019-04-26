@@ -5,15 +5,15 @@
   "name": "Divine Armor",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "restoration",
       "arkon's-fury",
       "partial-indulgence"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Divine Armor improves Elemental Armor Bonus by 2% per point spent."
 }

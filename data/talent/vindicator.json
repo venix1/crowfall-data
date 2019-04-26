@@ -7,13 +7,13 @@
     "vindicator"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "holy-avenger"
     ],
-    "spentPips": 0,
-    "levelRequired": 25
+    "spent-pips": 0,
+    "required-level": 25
   },
   "details": "This talent grants the Vindicator passive power.\r\nIncreases by 15%: Fire Damage Cap|Slashing Damage Cap \r\nYou can now equip: Runic Great Swords"
 }

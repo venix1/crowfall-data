@@ -5,15 +5,15 @@
   "name": "Punishing Decree",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "inner-light",
       "subjugate",
       "explosive-light"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Punishing Decree improves Movement Control Intensity and Hard Control Intensity by 7% per point spent."
 }

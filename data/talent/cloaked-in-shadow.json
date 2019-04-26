@@ -5,13 +5,13 @@
   "name": "Cloaked in Shadow",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "vigor"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Cloaked in Shadow increases your Stealth by 35."
 }

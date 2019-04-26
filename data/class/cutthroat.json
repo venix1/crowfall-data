@@ -1,0 +1,14 @@
+{
+  "name": "Cutthroat",
+  "base": "assassin",
+  "races": [
+    "half-elf",
+    "nethari",
+    "fae",
+    "high-elf"
+  ],
+  "description": "",
+  "tags": [],
+  "powers": [],
+  "promotions": false
+}

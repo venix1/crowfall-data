@@ -7,13 +7,13 @@
   "modifies": [
     "tunnel"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "daring-escape"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Fast Tunneling enhances Tunnel reducing its cooldown to 12 seconds."
 }

@@ -1,0 +1,13 @@
+{
+  "name": "Sanctifier",
+  "base": "confessor",
+  "races": [
+    "nethari",
+    "high-elf",
+    "elken"
+  ],
+  "description": "",
+  "powers": [],
+  "promotions": false,
+  "tags": []
+}

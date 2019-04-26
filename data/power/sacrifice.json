@@ -3,7 +3,7 @@
   "cooldown": 5,
   "cost": {
     "name": "health",
-    "cost": 1000
+    "cost": "20%"
   },
   "duration": 0,
   "max_targets": 1,
@@ -12,13 +12,11 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "remnant-of-gaea",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Druid"
-  ],
+  "tags": [],
   "targeting": "self",
   "type": "buff",
-  "description": "Sacrifice 1000 Health to add 25% Essence."
+  "description": "Instantly sacrifices 20% of your maximum Health to restore 20% of your maximum Essence up to 79% of maximum."
 }

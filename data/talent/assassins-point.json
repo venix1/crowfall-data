@@ -8,14 +8,14 @@
     "kidney-shot",
     "backstab"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "brick-outhouse",
       "payback"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Assassin's Point reduces the cooldown of Kidney Shot and Backstab by 30%."
 }

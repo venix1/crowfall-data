@@ -5,13 +5,13 @@
   "name": "Mission of Mercy",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "block"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Mission of Mercy improves Support Power by 50 per point spent."
 }

@@ -1,15 +1,14 @@
 {
   "description": "",
   "name": "Assassin",
+  "base": true,
   "races": [
     "half-elf",
     "nethari",
     "fae",
     "high-elf"
   ],
-  "tags": [
-    "Stealth"
-  ],
+  "tags": [],
   "powers": [
     "mental-fortitude",
     "spotting",
@@ -19,7 +18,7 @@
     "stab"
   ],
   "promotions": [
-    "Cuthroat",
+    "Cutthroat",
     "Blackguard",
     "Vandal"
   ]

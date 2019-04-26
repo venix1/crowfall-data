@@ -7,13 +7,13 @@
   "modifies": [
     "leap"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "ferocious"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Leap to Safety enhances Leap powers to trigger Health recovery over time when you land at least 30m away from the nearest enemy and are below 50% Health. This can only occur once every 90 seconds."
 }

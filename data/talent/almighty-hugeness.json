@@ -5,15 +5,14 @@
   "name": "Almighty Hugeness",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "leap-to-safety",
-      "invincible-warrior",
-      ""
+      "invincible-warrior"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Almighty Hugeness improves Maximum Health by 250 and the amount healed by Ultimate Warrior by 5% per point spent."
 }

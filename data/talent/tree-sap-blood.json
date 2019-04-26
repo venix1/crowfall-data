@@ -5,15 +5,15 @@
   "name": "Tree Sap Blood",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "treant-lore",
       "triumphant-cry",
       "trackers-kit"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Tree Sap Blood improves Bleed Armor Bonus by 10% per point spent."
 }

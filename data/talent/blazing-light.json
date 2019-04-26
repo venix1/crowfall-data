@@ -7,14 +7,14 @@
   "modifies": [
     "divine-light"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "blazing-judgement",
       "fiery-devotion"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Blazing Light enhances Divine Light to increase its damage but removes its healing properties."
 }

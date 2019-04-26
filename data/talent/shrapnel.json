@@ -7,13 +7,13 @@
   "modifies": [
     "explosive-trap"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "gift-of-the-forest"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Shrapnel enhances Explosive Trap to reduce the cooldown by 50% and to inflict Major Burning. Explosive Trap will no longer knock enemies into the air."
 }

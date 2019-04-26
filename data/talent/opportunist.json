@@ -7,14 +7,14 @@
   "modifies": [
     "backstab"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "cruel-blades",
       "kiss-of-death"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Opportunist enhances Backstab to deal 10% more damage when used from behind."
 }

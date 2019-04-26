@@ -9,11 +9,11 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "master-of-mystical-staves",
-    "data_type": "discipline"
+    "id": "forest-affinity",
+    "data_type": "talent"
   }],
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Favor the forces of Life reducing your Essence Gain by 50%."
+  "description": "Favor the forces of Life, reducing how fast you generate Essence by 50%. Also increases your Healing Bonus by 3%. Equipping this Passive Power prevents equiping Quick Burn." 
 }

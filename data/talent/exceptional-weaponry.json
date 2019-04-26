@@ -5,13 +5,13 @@
   "name": "Exceptional Weaponry",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "military-training"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Exceptional Weaponry improves Min and Max Weapon Damage by 3 per point spent."
 }

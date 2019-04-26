@@ -7,14 +7,14 @@
   "modifies": [
     "pursuit"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "mercy",
       "fortified-shield-slam"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Double Time reduces the cooldown of Pursuit by 50%."
 }

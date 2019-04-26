@@ -5,15 +5,15 @@
   "name": "Target Practice",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "close-ranks",
       "amazing-rapidity",
       "suppression-shot"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Target Practice improves Ranged Distance Bonus by 3m per point spent."
 }

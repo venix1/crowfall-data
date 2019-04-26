@@ -5,15 +5,15 @@
   "name": "Brutality",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "cutthroat",
       "minor-discipline-slot-ii-champion",
       "mighty-warrior"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Brutality improves Armor Penetration"
 }

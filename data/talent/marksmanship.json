@@ -5,13 +5,13 @@
   "name": "Marksmanship",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "persistence"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Marksmanship improves Ranged Distance Bonus by 3 per point spent."
 }

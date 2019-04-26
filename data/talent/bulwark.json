@@ -5,15 +5,15 @@
   "name": "Bulwark",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "hardiness",
       "noble-blood",
       "unbreakable"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Bulwark improves Physical Armor Bonus by 2% per point spent."
 }

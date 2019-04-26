@@ -7,13 +7,13 @@
   "modifies": [
     "noble-blood"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "ringing-shield"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Freeze Recruit Freeze! enhances Noble Blood to also Root enemies."
 }

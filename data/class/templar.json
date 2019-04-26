@@ -1,6 +1,7 @@
 {
   "description": "",
   "name": "Templar",
+  "base": true,
   "powers": [
     "brilliance",
     "castigate",
@@ -26,5 +27,6 @@
     "nethari",
     "elken"
   ],
-  "tags": []
+  "tags": [],
+  "promotions": []
 }

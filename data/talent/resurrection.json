@@ -7,15 +7,15 @@
     "resurrection"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "righteous-indignation",
       "shining-armor",
       "intercession"
     ],
-    "spentPips": 28,
-    "levelRequired": 0
+    "spent-pips": 28,
+    "required-level": 0
   },
   "details": "This talent grants the Resurrection power."
 }

@@ -12,14 +12,11 @@
   "previous_chain": [],
   "range": 35,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "faerie-flames",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Druid",
-    "Corruption"
-  ],
+  "tags": [],
   "targeting": "reticle",
   "type": "debuff",
-  "description": "Engulf an enemy in Faerie Flames reducing Physical Mitigations by 20 for 30 seconds and afflicting them with Severe Corruption."
+  "description": "Engulfs an enemy in Faerie Fire decreasing Physical Mitigations by 20 for 30 seconds. While affected, the target cannot stealth."
 }

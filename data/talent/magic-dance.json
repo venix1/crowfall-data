@@ -5,13 +5,13 @@
   "name": "Magic Dance",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "mark-of-the-storm"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Magic Dance improves Personal Healing Modifier by 1.5% per point spent."
 }

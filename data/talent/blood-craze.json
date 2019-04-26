@@ -7,13 +7,13 @@
   "modifies": [
     "berserk"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "impressive-physique"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Blood Craze enhances Berserk to reduce Berserk Crash damage by an additional 25% when damaging an enemy who is Bleeding."
 }

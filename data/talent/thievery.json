@@ -5,13 +5,13 @@
   "name": "Thievery",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "boundless-energy"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Thievery improves Power Efficiency by 5% per point spent."
 }

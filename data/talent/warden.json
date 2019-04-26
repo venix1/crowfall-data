@@ -7,13 +7,13 @@
     "faerie-bomb"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "tree-sap-blood"
     ],
-    "spentPips": 0,
-    "levelRequired": 25
+    "spent-pips": 0,
+    "required-level": 25
   },
   "details": "This talent grants the Faerie Bomb passive power.\r\nIncreases by 10%: Crushing Damage Bonus|Piercing Damage Bonus|Crushing Damage Bonus Cap| Piercing Damage Bonus Cap| Final Mitigations Cap \r\nYou can now equip: Mail Armor|Runic Recurve Bows| Runic Short Swords"
 }

@@ -5,15 +5,15 @@
   "name": "Unbreakable Contender",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "blood-craze",
       "beefy-berserking",
       "invincible-storm"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Unbreakable Contender improves Armor Bonus by 1% per point spent."
 }

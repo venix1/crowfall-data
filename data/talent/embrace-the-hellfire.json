@@ -7,14 +7,14 @@
   "modifies": [
     "hellfire-aura"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "militant",
       "poise"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Embrace the Hellfire enhances Hellfire Aura to Increases the damage it deals by 50%. Also Fire Tornadoes no longer consume your Hellfire Aura."
 }

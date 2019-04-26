@@ -5,13 +5,13 @@
   "name": "Endurance",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "hoplitodromos"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Endurance improves Maximum Stamina by 5 per point spent."
 }

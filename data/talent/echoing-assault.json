@@ -5,13 +5,13 @@
   "name": "Echoing Assault",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "chivalry"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Echoing Assault enhances Stun and Knock Down to recover 15% Energy when applied."
 }

@@ -7,13 +7,13 @@
   "modifies": [
     "frenzy"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "here-i-go-killing-again"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Indestructible Frenzy enhances Frenzy to prevent you from dropping below one Health while it is active."
 }

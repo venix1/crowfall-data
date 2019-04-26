@@ -7,13 +7,13 @@
   "modifies": [
     "retaliate"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "obstinance"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Fast Counter-Attack enhances Retaliate abilities to also recover 35 Stamina over 7 seconds."
 }

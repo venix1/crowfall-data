@@ -5,13 +5,13 @@
   "name": "Divine Protection",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "martyrdom"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Divine Protection improves Armor Bonus by 1% per point spent."
 }

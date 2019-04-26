@@ -7,13 +7,13 @@
   "modifies": [
     "holy-symbol"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "benediction"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Blessed Symbol enhances Holy Symbol to increase Critical Healing Chance and Critical Healing Amount by 20% for allies and yourself who remain within its radius."
 }

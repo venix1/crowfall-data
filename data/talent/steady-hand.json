@@ -5,13 +5,13 @@
   "name": "Steady Hand",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "pepperbox-shot"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Steady Hand improves Attack Power by 75 per point spent."
 }

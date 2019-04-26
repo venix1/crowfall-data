@@ -5,15 +5,15 @@
   "name": "Killers Gift",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "deep-cuts",
       "opportunist",
       "ambush"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Killer's Gift improves Attack Power by 75 per point spent."
 }

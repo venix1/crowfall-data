@@ -5,15 +5,15 @@
   "name": "Celestial Authority",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "big-hands",
       "wrathful-illumination",
       "divine-alacrity"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Celestial Authority improves Hard Control Intensity by 5% per point spent."
 }

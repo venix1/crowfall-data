@@ -5,13 +5,13 @@
   "name": "Brawny",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 5,
+  "max-pips": 5,
   "prerequisite": {
     "precursors": [
       "bloody-swipe"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Brawny improves Maximum Health by 100 per point spent."
 }

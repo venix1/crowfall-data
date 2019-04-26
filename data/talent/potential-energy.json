@@ -5,13 +5,13 @@
   "name": "Potential Energy",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "mark-of-the-storm"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Potential Energy improves Attack Power by 75 per point spent."
 }

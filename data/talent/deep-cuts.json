@@ -7,14 +7,14 @@
   "modifies": [
     "cross-slash"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "lambs-become-lions",
       "robbery"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Deep Cuts enhances Cross Slash to apply a Severe Bleed and a 5% Bleed Armor Bonus reduction."
 }

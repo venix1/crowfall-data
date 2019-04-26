@@ -7,13 +7,13 @@
   "modifies": [
     "divine-order"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "seismic-symbol"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Divine Alacrity enhances Divine Order to reset the cooldown of Flash of Light| Big Hand of the Gods| Holy Symbol| and Illuminate."
 }

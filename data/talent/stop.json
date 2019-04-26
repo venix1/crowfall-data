@@ -7,14 +7,14 @@
   "modifies": [
     "pursuit"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "heartless",
       "ringing-shield"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Stop! enhances Pursuit to Stun the nearest enemy."
 }

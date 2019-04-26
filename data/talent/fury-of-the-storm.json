@@ -5,15 +5,15 @@
   "name": "Fury of the Storm",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "electric-skin",
       "lightning-bugs",
       "lightning-burst"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Fury of the Storm increases your Damage Bonus by 1% per point spent."
 }

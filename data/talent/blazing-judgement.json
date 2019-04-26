@@ -5,13 +5,13 @@
   "name": "Blazing Judgement",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "excoriate"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Blazing Judgment improves Damage Bonus"
 }

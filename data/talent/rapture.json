@@ -5,13 +5,13 @@
   "name": "Rapture",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "righteousness"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Rapture improves Low Health Damage Bonus by 5% per point spent."
 }

@@ -7,13 +7,13 @@
     "alpha-warrior"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "barbarity"
     ],
-    "spentPips": 0,
-    "levelRequired": 25
+    "spent-pips": 0,
+    "required-level": 25
   },
   "details": "This talent grants the Alpha Warrior passive power.\r\nIncreases by 15%: Slashing Damage Cap|Crushing Damage Cap\r\nYou can now equip: Runic Great Axes|Runic Great Maces"
 }

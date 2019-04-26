@@ -7,14 +7,14 @@
   "modifies": [
     "illuminate"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "spiritual-restraint",
       "seismic-symbol"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Wrathful Illumination enhances Illuminate causing your next Spirit Hammer attack within 5 seconds to stun an enemy."
 }

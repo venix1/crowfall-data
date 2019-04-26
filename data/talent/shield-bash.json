@@ -7,14 +7,14 @@
     "shield-bash"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "martial-weaponry",
       "armor-bearer"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "This talent grants the Shield Bash power."
 }

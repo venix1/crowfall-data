@@ -5,15 +5,15 @@
   "name": "Ruthlessness",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "flow-state",
       "blackout",
       "cheap-shot"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Ruthlessness improves Hard Crowd Control by 6% per point spent."
 }

@@ -5,15 +5,15 @@
   "name": "Revenge",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "death-from-above",
       "effortless-neckbreaker",
       "whirling-disaster"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Revenge improves Hard Control Intensity by 7% per point spent."
 }

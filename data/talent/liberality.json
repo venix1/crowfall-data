@@ -5,13 +5,13 @@
   "name": "Liberality",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "unstoppable"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Liberality improves Maximum Health by 500 per point spent."
 }

@@ -5,15 +5,15 @@
   "name": "Transcendence",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "searing-light",
       "critical-illumination",
       "divine-purpose"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Transcendence improves Ranged Distance Bonus by 2 per point spent."
 }

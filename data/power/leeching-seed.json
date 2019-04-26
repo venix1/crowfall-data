@@ -1,25 +1,25 @@
 {
   "cast_type": "instant",
-  "cooldown": 30,
+  "cooldown": 45,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 35
   },
-  "duration": 8,
+  "duration": 15,
   "max_targets": 1,
   "name": "Leeching Seed",
   "next_chain": [],
   "previous_chain": [],
-  "range": 0,
+  "range": 8,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "leeching-seed",
+    "data_type": "talent"
   }],
   "tags": [
-    "Druid",
+    "Melee Power Damage Bonus"
     "Movement Speed"
   ],
-  "targeting": "area",
   "type": "debuff",
-  "description": "Cause an enemy to become lethargic increasing all Power cooldowns and reducing their movement speed for 8 seconds."
+  "targeting": "ray",
+  "description": "Causes an enemy to become lethargic reducing their Melee Power Damage Bonus by 20% for 15 seconds, as well as applying a Movement Speed reduction."
 }

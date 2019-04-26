@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 45,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 31
   },
   "duration": 0,
@@ -14,14 +14,13 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "druid",
-    "data_type": "class"
+    "id": "shroud-of-darkness",
+    "data_type": "talent"
   }],
   "tags": [
-    "Druid",
     "Stun"
   ],
   "targeting": "self",
   "type": "buff",
-  "description": "Attacks made against you have a chance of Stunning the enemy who struck you."
+  "description": "Protects you with darkness giving enemies who strike you a chance to be Stunned."
 }

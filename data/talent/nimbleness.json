@@ -5,13 +5,13 @@
   "name": "Nimbleness",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 5,
+  "max-pips": 5,
   "prerequisite": {
     "precursors": [
       "flintlock-shot"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Nimbleness improves Armor Bonus by 1% per point spent."
 }

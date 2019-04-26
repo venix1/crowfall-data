@@ -7,13 +7,13 @@
   "modifies": [
     "in-the-zone"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "no-escape"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "In The Zone has a chance to refund Combo Points on every attack."
 }

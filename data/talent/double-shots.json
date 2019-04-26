@@ -5,13 +5,13 @@
   "name": "Double Shots",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "cloaked-in-moss"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Double Shots! enhances Charged Bow Powers granting a chance to gain the Double Shots! effect causing your next Charged Bow Power shot to deal 50% more damage. You lose Double Shots! if you miss your next Charged Bow Power."
 }

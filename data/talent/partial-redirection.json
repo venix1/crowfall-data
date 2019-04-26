@@ -7,13 +7,13 @@
   "modifies": [
     "coalesce-life"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "gift-of-nature"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Partial Redirection enhances Coalesce Life Orbs to also heal you for a small amount when an ally is healed by an orb."
 }

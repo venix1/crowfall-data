@@ -5,13 +5,13 @@
   "name": "Tough Hide",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "collosus-smash"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Tough Hide improves Armor Bonus by 1% per point spent."
 }

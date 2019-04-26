@@ -5,15 +5,15 @@
   "name": "Sanctified",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "perfect-storm",
       "frenzied-righteousness",
       "flames-of-arkon"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Sanctified improves Attack Power by 75 per point spent."
 }

@@ -5,13 +5,13 @@
   "name": "Brick Outhouse",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "agile-footwork"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Brick Outhouse improves Maximum Health by 350 per point spent."
 }

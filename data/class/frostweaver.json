@@ -1,11 +1,13 @@
 {
-    "description": "",
-    "name": "Frostweaver",
-    "races": [
-        "fae",
-        "wood-elf",
-        "high-elf"
-    ],
-    "tags": [],
-    "powers": []
+  "description": "",
+  "name": "Frostweaver",
+  "base": true,
+  "races": [
+    "fae",
+    "wood-elf",
+    "high-elf"
+  ],
+  "tags": [],
+  "powers": [],
+  "promotions": []
 }

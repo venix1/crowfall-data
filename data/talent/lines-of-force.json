@@ -5,15 +5,15 @@
   "name": "Lines of Force",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "shock-and-awe",
       "minor-discipline-slot-ii-druid",
       "nature's-grace"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Lines of Force improves Critical Hit Damage by 5% per point spent."
 }

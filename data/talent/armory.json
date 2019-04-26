@@ -5,15 +5,15 @@
   "name": "Armory",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "board-and-board",
       "fallback",
       "oath-of-protection"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Armory improves Personal Damage Modifier to reduce damage by 1.5% per point spent."
 }

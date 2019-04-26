@@ -7,13 +7,13 @@
   "modifies": [
     "hand-of-the-gods"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "divine-intervention"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Healing Hand enhances Hand of The Gods to also heal friendly targets within its deploy radius."
 }

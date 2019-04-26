@@ -1,6 +1,7 @@
 {
   "description": "",
   "name": "Knight",
+  "base": true,
   "powers": [
     "block-knight",
     "bloodstone-spin",
@@ -31,5 +32,6 @@
     "centaur",
     "guinecean"
   ],
-  "tags": []
+  "tags": [],
+  "promotions": []
 }

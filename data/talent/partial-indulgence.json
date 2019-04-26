@@ -7,13 +7,13 @@
   "modifies": [
     "fervor"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "blessed"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Partial Indulgence increases the amount of Mana gained from the Fervor power by 50%."
 }

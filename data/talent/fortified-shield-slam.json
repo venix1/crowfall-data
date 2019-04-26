@@ -7,13 +7,13 @@
   "modifies": [
     "shield-slam"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "commanding-vow"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Fortified Shield Slam enhances Shield Slam so you are considered Blocking while charging."
 }

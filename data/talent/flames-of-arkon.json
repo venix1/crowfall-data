@@ -8,14 +8,14 @@
     "forced-confession",
     "flames-of-truth"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "tools-of-justice",
       "zeal"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Forced Confession no longer consumes Flames Of Truth when cast."
 }

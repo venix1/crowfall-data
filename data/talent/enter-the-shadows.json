@@ -8,15 +8,15 @@
     "recon"
   ],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "killers-instinct",
       "born-in-darkness",
       "aggression"
     ],
-    "spentPips": 28,
-    "levelRequired": 0
+    "spent-pips": 28,
+    "required-level": 0
   },
   "details": "This talent grants the Stealth power tray and Recon power."
 }

@@ -5,15 +5,15 @@
   "name": "Sanctuary",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "purity",
       "divine-auras",
       "righteous-defense"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Sanctuary improves Armor Bonus by 1% per point spent."
 }

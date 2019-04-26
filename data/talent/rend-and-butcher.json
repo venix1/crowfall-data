@@ -7,13 +7,13 @@
   "modifies": [
     "rend"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "dominant-smashing"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Rend and Butcher enhances Rend to reduce an enemy's Critical Hit Chance Defense by 7%."
 }

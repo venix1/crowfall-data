@@ -9,11 +9,11 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "master-of-mystical-staves",
-    "data_type": "discipline"
+    "id": "forest-affinity",
+    "data_type": "talent"
   }],
   "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "Tip the scales towards Death increasing your Essence Gain by 50%."
+  "description": "Tip the scales towards Death, increasing how fast you generate Essence by 50%. Also increases your Healing Bonus by 5%. Equipping this Passive Power prevents equipping Slow Growth."
 }

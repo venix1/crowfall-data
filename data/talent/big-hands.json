@@ -9,13 +9,13 @@
   "modifies": [
     "hand-of-the-gods"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "spiritual-restraint"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Big Hand of the Gods replaces Hand of The Gods and doubles its aimed deploy radius."
 }

@@ -7,13 +7,13 @@
   "modifies": [
     "execute"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "fiery-devotion"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Executioner enhances Execute to remove its Pip cost."
 }

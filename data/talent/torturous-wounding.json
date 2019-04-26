@@ -5,14 +5,14 @@
   "name": "Torturous Wounding",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "pitiless",
       "dreadful-silencing"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Torturous Wounding enhances Bleeding to also apply the Slow effect as well."
 }

@@ -1,0 +1,16 @@
+{
+  "description": "",
+  "name": "Archdruid",
+  "base": "druid",
+  "powers": [],
+  "races": [
+    "half-elf",
+    "fae",
+    "wood-elf"
+  ],
+  "tags": [
+    "Druid",
+    "Promotion"
+  ],
+  "promotions": false
+}

@@ -5,15 +5,15 @@
   "name": "Wily",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "guile",
       "redirect-pain",
       "sneaky"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Wily improves Control Defense by 7% per point spent."
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Alpha Warrior",
+  "base": "champion",
+  "races": [
+    "stoneborn",
+    "half-giant",
+    "minotaur",
+    "centaur"
+  ],
+  "description": "",
+  "tags": [],
+  "powers": [],
+  "promotions": false
+}

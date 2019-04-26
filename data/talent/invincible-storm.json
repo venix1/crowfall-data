@@ -7,14 +7,14 @@
   "modifies": [
     "whirlwind"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "impressive-physique",
       "satisfying-slaughter"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Invincible Storm enhances Whirlwind so you ignore all Berserk Crash damage while channeling."
 }

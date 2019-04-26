@@ -7,13 +7,13 @@
   "modifies": [
     "retaliate"
   ],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "hellfire"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Melt Shackles reduces the cost of Retaliate by 10% per point spent.\r\nWARNING: Purchasing this talent commits you to the Sanctifier promotion path and prevents access to the Inquisitor and Fanatic promotion paths."
 }

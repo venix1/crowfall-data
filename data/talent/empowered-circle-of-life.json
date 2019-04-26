@@ -7,13 +7,13 @@
   "modifies": [
     "circle-of-life"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "blessed-symbol"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Empowered Circle of Life enhances Circle of Life so allies are revived with 40% maximum Health."
 }

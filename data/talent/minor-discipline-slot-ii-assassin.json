@@ -5,13 +5,13 @@
   "name": "Minor Discipline Slot II (Assassin)",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "armor-gap"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Unlock a Minor Discipline slot."
 }

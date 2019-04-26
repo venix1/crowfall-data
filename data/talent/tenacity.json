@@ -5,13 +5,13 @@
   "name": "Tenacity",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "lurk-more"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Tenacity improves Maximum Health by 350 per point spent."
 }

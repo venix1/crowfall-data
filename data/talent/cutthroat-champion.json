@@ -5,13 +5,13 @@
   "name": "Cutthroat",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "domination"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Cutthroat improves Critical Hit Chance by 1 per point spent."
 }

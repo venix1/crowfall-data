@@ -5,13 +5,13 @@
   "name": "Relentless",
   "unlocks": [],
   "modifies": [],
-  "maxPips": 3,
+  "max-pips": 3,
   "prerequisite": {
     "precursors": [
       "collosus-smash"
     ],
-    "spentPips": 15,
-    "levelRequired": 0
+    "spent-pips": 15,
+    "required-level": 0
   },
   "details": "Relentless improves Maximum Stamina by 5 per point spent and Power Efficiency by 8 per point spent."
 }

@@ -7,13 +7,13 @@
   "modifies": [
     "righteousness"
   ],
-  "maxPips": 1,
+  "max-pips": 1,
   "prerequisite": {
     "precursors": [
       "poise"
     ],
-    "spentPips": 0,
-    "levelRequired": 0
+    "spent-pips": 0,
+    "required-level": 0
   },
   "details": "Righteous Shield enhances Righteousness to apply a Barrier that is 50% more resistant against Physical Damage for 8 seconds."
 }
