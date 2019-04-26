@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "name": "Vanguard Scout",
+  "base": "duelist",
+  "powers": [],
+  "races": [
+    "guinecean"
+  ],
+  "tags": [],
+  "promotions": false
+}

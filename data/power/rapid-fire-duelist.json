@@ -9,8 +9,8 @@
   "previous_chain": [],
   "range": 15,
   "sources": [{
-    "id": "master-of-pistols",
-    "data_type": "discipline"
+    "id": "rapid-fire-duelist",
+    "data_type": "talent"
   }],
   "tags": [
     "Exposed",

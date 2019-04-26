@@ -12,7 +12,11 @@
     "id": "enter-the-shadows",
     "data_type": "talent"
   }],
-  "tags": ["Assassin", "Stealth", "Exposed"],
+  "tags": [
+    "Assassin",
+    "Stealth",
+    "Exposed"
+  ],
   "targeting": "reticle",
   "type": "instant",
   "description": "Applies the Exposed debuff to reveal weaknesses you may capitalize on."

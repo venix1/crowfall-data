@@ -3,25 +3,25 @@
   "name": "Duelist",
   "base": true,
   "powers": [
-    "ambush-duelist",
-    "flintlock-shot",
-    "go-for-broke",
-    "impale",
-    "inconceivable",
-    "opportunist",
-    "pepperbox-shot",
-    "recon-duelist",
-    "redirect-pain",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "vanish",
     "retaliate-duelist",
-    "saber-attack-1",
-    "saber-attack-2",
-    "saber-attack-3",
-    "tunnel",
-    "vanish"
+    "pistol-shot",
+    "pistol-shot-ii",
+    "pistol-shot-iii",
+    "saber-attack",
+    "saber-attack-ii",
+    "saber-attack-iii"
   ],
   "races": [
     "guinecean"
   ],
   "tags": [],
-  "promotions": []
+  "promotions": [
+    "Dirge",
+    "Slayer",
+    "Vanguard Scout"
+  ]
 }

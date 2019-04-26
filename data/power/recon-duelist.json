@@ -9,15 +9,14 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "duelist",
-    "data_type": "class"
+    "id": "tunnel",
+    "data_type": "talent"
   }],
   "tags": [
     "Burrow",
-    "Duelist",
     "Exposed"
   ],
   "targeting": "ray",
   "type": "debuff",
-  "description": "Carefully studying a target from the comfort of your Burrow, you apply the Exposed debuff to reveal weaknesses you and other specialists may capitalize on."
+  "description": "Applies the Exposed debuff to reveal weaknesses you and other specialists may capitalize on."
 }

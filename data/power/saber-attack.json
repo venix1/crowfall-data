@@ -4,14 +4,12 @@
   "cost": {},
   "duration": 0,
   "max_targets": 1,
-  "name": "Saber Attack 2",
+  "name": "Saber Attack",
   "next_chain": [
-    "saber-attack-3"
+    "saber-attack-ii"
   ],
-  "previous_chain": [
-    "saber-attack-1"
-  ],
-  "range": 5,
+  "previous_chain": [],
+  "range": 6,
   "sources": [{
     "id": "duelist",
     "data_type": "class"
@@ -21,5 +19,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack for 54 - 81 + 68% Weapon Damage."
+  "description": "Attacks for 56-84 + 70% Weapon Damage."
 }

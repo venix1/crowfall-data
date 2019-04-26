@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "name": "Slayer",
+  "base": "duelist",
+  "powers": [],
+  "races": [
+    "guinecean"
+  ],
+  "tags": [],
+  "promotions": false
+}

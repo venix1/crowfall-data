@@ -1,0 +1,11 @@
+{
+  "description": "",
+  "name": "Dirge",
+  "base": "duelist",
+  "powers": [],
+  "races": [
+    "guinecean"
+  ],
+  "tags": [],
+  "promotions": false
+}

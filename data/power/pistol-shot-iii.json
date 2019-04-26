@@ -4,20 +4,18 @@
   "cost": {},
   "duration": 0,
   "max_targets": 1,
-  "name": "Saber Attack 3",
+  "name": "Pistol Shot III",
   "next_chain": [],
   "previous_chain": [
-    "saber-attack-2"
+    "pistol-shot-ii"
   ],
-  "range": 5,
+  "range": 15,
   "sources": [{
     "id": "duelist",
     "data_type": "class"
   }],
-  "tags": [
-    "Duelist"
-  ],
-  "targeting": "cone",
-  "type": "melee attack",
-  "description": "Attack for 69 - 104 + 86% Weapon Damage."
+  "tags": [],
+  "targeting": "ray",
+  "type": "debuff",
+  "description": "Shoot an enemy for 42-64 + 53% Weapon Damage while generating a Pip."
 }

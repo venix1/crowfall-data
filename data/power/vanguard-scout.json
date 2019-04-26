@@ -1,21 +1,21 @@
 {
-  "cast_type": "instant",
+  "cast_type": "passive",
   "cooldown": 0,
   "cost": {},
   "duration": 0,
   "max_targets": 1,
-  "name": "Tunnel",
+  "name": "Vanguard Scout",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "tunnel",
+    "id": "vanguard-scout",
     "data_type": "talent"
   }],
   "tags": [
-    "Duelist"
+    "Promotion Capstone"
   ],
   "targeting": "self",
-  "type": "travel",
-  "description": "Excavates a path directly ahead of you, ignoring walls and object in your path."
+  "type": "passive",
+  "description": "Grants 35% Lifesteal for attacks made while maintaining Stealth."
 }

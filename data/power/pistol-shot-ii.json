@@ -1,14 +1,16 @@
 {
   "cast_type": "instant",
-  "cooldown": 9,
+  "cooldown": 0,
   "cost": {},
   "duration": 0,
   "max_targets": 1,
-  "name": "Pistol Shot",
+  "name": "Pistol Shot II",
   "next_chain": [
-    "pistol-shot-ii"
+    "pistol-shot-iii"
   ],
-  "previous_chain": [],
+  "previous_chain": [
+    "pistol-shot"
+  ],
   "range": 15,
   "sources": [{
     "id": "duelist",
@@ -17,5 +19,5 @@
   "tags": [],
   "targeting": "ray",
   "type": "ranged attack",
-  "description": "Shoot an enemy for 40-60 + 50% Weapon Damage while generating a Pip."
+  "description": "Shoot an enemy for 45-68 + 57% Weapon Damage while generating a Pip."
 }

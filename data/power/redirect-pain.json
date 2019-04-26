@@ -12,14 +12,13 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "duelist",
-    "data_type": "class"
+    "id": "redirect-pain",
+    "data_type": "talent"
   }],
   "tags": [
-    "Barrier",
-    "Duelist"
+    "Barrier"
   ],
   "targeting": "self",
   "type": "buff",
-  "description": "Focus your will ignoring pain with a damage preventing Barrier and then begin reflecting damage back to your attackers if the Barrier is broken. Effects scale with Pips spent. 1 Pip: Gain 400 Barrier and 15% Retribution for 6 seconds. 2 Pips: Gain 650 Barrier and 25% Retribution for 9 seconds. 3 Pips: Gain 900 Barrier and 35% Retribution for 12 seconds. 4 Pips: Gain 1150 Barrier and 45% Retribution for 15 seconds. 5 Pips: Gain 1400 Barrier and 55% Retribution for 18 seconds."
+  "description": "Applies a damage preventing Barrier and then begins reflecting damage back to your attackers if the Barrier is broken. Effects scale with Pips spent. 1 Pip: Gain 400 Barrier and 15% Retribution for 6 seconds. 2 Pips: Gain 650 Barrier and 25% Retribution for 9 seconds. 3 Pips: Gain 900 Barrier and 35% Retribution for 12 seconds. 4 Pips: Gain 1150 Barrier and 45% Retribution for 15 seconds. 5 Pips: Gain 1400 Barrier and 55% Retribution for 18 seconds."
 }
