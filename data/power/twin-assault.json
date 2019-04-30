@@ -6,7 +6,7 @@
     "cost": 172
   },
   "duration": 0,
-  "max_targets": 1,
+  "max_targets": 5,
   "name": "Twin Assault",
   "next_chain": [
     "shockwave",
@@ -15,15 +15,15 @@
   "previous_chain": [
     "onslaught"
   ],
-  "range": 7.5,
+  "range": 5,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "onslaught",
+    "data_type": "talent"
   }],
   "tags": [
-    "Knight"
+    "AoE"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack in front of you twice for 15-20 + 17% Weapon Damage each hit."
+  "description": "Attacks in front of you twice for 15-20 + 17% Weapon Damage each strike."
 }

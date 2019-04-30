@@ -1,0 +1,16 @@
+{
+  "description": "",
+  "name": "Swordsman",
+  "base": "knight",
+  "powers": [],
+  "races": [
+    "human",
+    "high-elf",
+    "stoneborn",
+    "elken",
+    "centaur",
+    "guinecean"
+  ],
+  "tags": [],
+  "promotions": false
+}

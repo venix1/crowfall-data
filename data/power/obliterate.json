@@ -3,10 +3,10 @@
   "cooldown": 24,
   "cost": {
     "name": "energy",
-    "cost": 125
+    "cost": 188
   },
   "duration": 0,
-  "max_targets": 3,
+  "max_targets": 5,
   "name": "Obliterate",
   "next_chain": [],
   "previous_chain": [
@@ -15,15 +15,14 @@
   ],
   "range": 5,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "onslaught",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Bleed",
-    "Knight"
+    "Bleed"
   ],
   "targeting": "sphere",
   "type": "melee attack",
-  "description": "Slash twice for 45-60 + 52% Weapon Damage applying a moderate bleed to all hit."
+  "description": "Slashes three times around you for 67-90 + 79% Weapon Damage, applying a moderate bleed to all hit."
 }

@@ -1,16 +1,16 @@
 {
   "cast_type": "instant",
-  "cooldown": 5,
+  "cooldown": 0,
   "cost": {},
-  "duration": 5,
+  "duration": 0,
   "max_targets": 1,
   "name": "Shield Bash",
   "next_chain": [],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "shield-bash",
+    "data_type": "talent"
   }],
   "tags": [
     "Block",
@@ -19,5 +19,5 @@
   ],
   "targeting": "sphere",
   "type": "crowd control",
-  "description": "Follow-up with a shield attack Dazing, removing one Dodge Pip and striking for 50-67 + 58% Crushing Weapon Damage. Shield Bash hits critically for 94-128 if used again within 5 seconds and is enabled after performing three consecutive basic attacks or when you fill your Block Meter."
+  "description": "Strikes with a shield attack that hits for 50-67 + 58% Crushing Weapon Damage, leaving your target Dazed and removing two Dodge pips. Shield Bash has a 100% Critical Hit Chance for 94-128 if used again within five seconds. This attack is enabled after performing three consecutive basic attacks or when you fill your Block Meter. This attack can be instantly Flash-Cast."
 }

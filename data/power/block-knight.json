@@ -12,8 +12,8 @@
   "previous_chain": [],
   "range": 5,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "block-knight",
+    "data_type": "talent"
   }],
   "tags": [
     "Block",
@@ -21,5 +21,5 @@
   ],
   "targeting": "self",
   "type": "crowd control self",
-  "description": "Raise your shield Blocking attacks, reducing damage and preventing crowd control effects.  Enemies striking you with Elemental attacks take 100% Weapon Damage in return. Increases damage by 15% for 5 seconds for each 150 damage taken while Blocking.  Taking more that 150 damage while Blocking activates Shield Bash and increases damage by 15% for 5 seconds for each 150 damage taken while Blocking."
+  "description": "Reduces damage by 50% and prevents crowd control effects. Your damage increases by 15% for 5 seconds for each 150 damage taken while Blocking. Taking more than 150 damage while Blocking increases damage by 15% for 5 seconds for each 150 damage taken while Blocking and activates Shield Bash. This attack can be instantly Flash-Cast."
 }

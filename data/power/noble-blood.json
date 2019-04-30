@@ -1,10 +1,7 @@
 {
   "cast_type": "instant",
   "cooldown": 23,
-  "cost": {
-    "name": "energy",
-    "cost": 250
-  },
+  "cost": {},
   "duration": 0,
   "max_targets": 3,
   "name": "Noble Blood",
@@ -14,15 +11,14 @@
   "previous_chain": [],
   "range": 5,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "noble-blood",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Barrier",
-    "Knight"
+    "Barrier"
   ],
   "targeting": "cone",
   "type": "buff",
-  "description": "Shout and deal 60-81 + 70% Weapon Damage to enemies in a cone and gaining a Barrier lasting up to 15 seconds."
+  "description": "Deals 60-81 + 70% Weapon Damage to enemies in a cone. You gain a Barrier lasting up to 15 seconds."
 }

@@ -9,7 +9,7 @@
     "emerald-slash"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
     "id": "knight",
     "data_type": "class"
@@ -19,5 +19,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slash in front of you for 60-82 + 71% Weapon Damage. Scoring three or more consecutive basic attacks activate Shield Bash."
+  "description": "Slashes in front of you for 60-82 + 71% Weapon Damage. Scoring three or more consecutive basic attacks activate Shield Bash."
 }

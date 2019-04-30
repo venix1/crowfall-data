@@ -13,15 +13,13 @@
     "twin-assault"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "onslaught",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Knight"
-  ],
+  "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack in front of you twice for 74-100 + 87% Weapon Damage each strike."
+  "description": "Attacks in front of you twice for 74-100 + 87% Weapon Damage each strike."
 }

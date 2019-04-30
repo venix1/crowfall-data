@@ -3,25 +3,13 @@
   "name": "Knight",
   "base": true,
   "powers": [
-    "block-knight",
-    "bloodstone-spin",
-    "brutal-strike",
-    "chain-attack",
-    "emerald-slash",
-    "noble-blood",
-    "oath-of-will",
-    "obliterate",
-    "onslaught",
-    "pursuit",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
     "retaliate-knight",
+    "bloodstone-spin",
+    "emerald-slash",
     "ruby-slash",
-    "resolve",
-    "shield-bash",
-    "shield-slam",
-    "shield-stun",
-    "shield-swipe",
-    "shockwave",
-    "twin-assault",
     "whirling-leap"
   ],
   "races": [
@@ -33,5 +21,9 @@
     "guinecean"
   ],
   "tags": [],
-  "promotions": []
+  "promotions": [
+    "Swordsman",
+    "Secutor",
+    "Sentinel"
+  ]
 }

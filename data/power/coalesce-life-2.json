@@ -2,12 +2,12 @@
   "cast_type": "instant",
   "cooldown": 0,
   "cost": {
-    "name": "resource",
+    "name": "essence",
     "cost": 46
   },
   "duration": 60,
   "max_targets": 1,
-  "name": "Coalesce Life 2",
+  "name": "Coalesce Life II",
   "next_chain": [
     "coalesce-nature"
   ],
@@ -22,6 +22,6 @@
     "Heal"
   ],
   "targeting": "area",
-  "type": "non-aggressive",
-  "description": "Manifest an Orb at your targeted location that allies or you may use to heal 32 to 40 + 144% Weapon Damage."
+  "type": "heal",
+  "description": "Manifests an Orb at your targeted location that allies or you may use to heal 32 to 40 + 14.4% Support Power."
 }

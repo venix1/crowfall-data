@@ -14,14 +14,13 @@
   "previous_chain": [],
   "range": 5,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "shield-swipe",
+    "data_type": "talent"
   }],
   "tags": [
-    "Crushing",
-    "Knight"
+    "Crushing"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack in front of you for 113-153 + 133% Crushing Weapon Damage."
+  "description": "Attacks in front of you for 113-153 + 133% Crushing Weapon Damage."
 }

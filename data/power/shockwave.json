@@ -13,18 +13,17 @@
     "brutal-strike",
     "twin-assault"
   ],
-  "range": 5,
+  "range": 7,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "onslaught",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Crushing",
-    "Knight",
+    "Crushing"
     "Knockdown"
   ],
   "targeting": "cone",
   "type": "crowd control",
-  "description": "Attack enemies in front of you for 171-232 + 202% Crushing Weapon Damage and knocking them down."
+  "description": "Attacks enemies in front of you for 171-232 + 202% Crushing Weapon Damage and leaving them Knocked Down."
 }

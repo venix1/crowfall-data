@@ -10,17 +10,16 @@
   "name": "Shield Slam",
   "next_chain": [],
   "previous_chain": [],
-  "range": 7.5,
+  "range": 7,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "shield-slam",
+    "data_type": "knight"
   }],
   "tags": [
     "AoE",
-    "Crushing",
-    "Knight"
+    "Crushing"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Charge your shield slamming up to three enemies in front of you for 82-111 + 97% Crushing Weapon Damage and critically hitting and pushing them back if charged more than 66%."
+  "description": "Charges you forward 3.1m and slams up to three enemies in front of you for 82-111 + 97% Crushing Weapon Damage. If charged more than 66%, this attack has a 100% Critical Hit Chance and pushes your targets back more."
 }

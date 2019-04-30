@@ -2,21 +2,20 @@
   "cast_type": "passive",
   "cooldown": 90,
   "cost": {},
-  "duration": 0,
+  "duration": 4,
   "max_targets": 1,
   "name": "Resolve",
   "next_chain": [],
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "hoplitodromos",
+    "data_type": "talent"
   }],
   "tags": [
     "Heal",
-    "Knight"
   ],
   "targeting": "self",
   "type": "passive",
-  "description": "Heal 4% of your maximum Health every second while recovering Stamina when your Health drops below 20%. This can happen once every 90 seconds."
+  "description": "Heals 4% of your maximum Health, 20 Stamina, and 25 Energy every second for 4 seconds when your Health drops below 20%. This can happen once every 90 seconds."
 }

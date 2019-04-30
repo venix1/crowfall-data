@@ -6,22 +6,20 @@
     "cost": 375
   },
   "duration": 0,
-  "max_targets": 3,
+  "max_targets": 5,
   "name": "Pursuit",
   "next_chain": [],
   "previous_chain": [],
   "range": 7,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "hoplitodromos",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Crushing",
-    "Knight",
-    "Stun"
+    "Crushing"
   ],
   "targeting": "reticle",
   "type": "crowd control",
-  "description": "Charge forward striking with your shield, dealing 119-161 + 140% Crushing Weapon Damage and stunning the closest enemy."
+  "description": "Charges you forward 20m and strikes with your shield, dealing 119-161 + 140% Crushing Weapon Damage."
 }

@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 15,
+  "cooldown": 0,
   "cost": {
     "name": "stamina",
     "cost": 65
@@ -22,5 +22,5 @@
   ],
   "targeting": "sphere",
   "type": "retaliate",
-  "description": "Jump to your feet, damaging all nearby enemies twice for 57-77 + 67% Weapon Damage. This attack may only be used while Knocked Down."
+  "description": "Returns you to your feet, damaging all nearby enemies twice for 57-77 + 67% Weapon Damage. This attack may only be used while Controlled."
 }

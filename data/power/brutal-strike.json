@@ -15,16 +15,15 @@
   "previous_chain": [
     "onslaught"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "onslaught",
+    "data_type": "talent"
   }],
   "tags": [
-    "Crushing",
-    "Knight"
+    "Crushing"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack in front of you for 168-227 + 197% Crushing Weapon Damage."
+  "description": "Attacks in front of you for 168-227 + 197% Weapon Damage."
 }

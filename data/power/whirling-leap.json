@@ -1,5 +1,5 @@
 {
-  "cast_type": "instant",
+  "cast_type": "flash",
   "cooldown": 5,
   "cost": {},
   "duration": 0,
@@ -9,16 +9,11 @@
   "previous_chain": [],
   "range": 8,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+      "id": "knight",
+      "data_type": "class"
   }],
-  "tags": [
-    "AoE",
-    "Crushing",
-    "Invulnerable",
-    "Knight"
-  ],
+  "tags": ["AoE", "Crushing", "Invulnerable", "Knight"],
   "targeting": "sphere",
   "type": "ultimate",
-  "description": "Leap into the air creating a vacuum at your feet pulling in nearby enemies and damaging them for 232-314 + 273% Crushing Weapon Damage and becoming immune to damage and control effects for a short period of time."
+  "description": "Pulls in nearby enemies and damages them for 232-314 + 273% Crushing Weapon Damage. You gain a damage preventing barrier, become immune to control effects and your Expose statuses are removed."
 }

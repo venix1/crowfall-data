@@ -11,13 +11,11 @@
   ],
   "range": 0,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "noble-blood",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Knight"
-  ],
+  "tags": [],
   "targeting": "self",
   "type": "buff",
-  "description": "Vowing never to surrender, you recover 350 Energy over 3 seconds."
+  "description": "Recovers 350 Energy over 3 seconds."
 }

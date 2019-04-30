@@ -12,14 +12,13 @@
   "previous_chain": [],
   "range": 30,
   "sources": [{
-    "id": "knight",
-    "data_type": "class"
+    "id": "chain-attack",
+    "data_type": "talent"
   }],
   "tags": [
-    "Knight",
     "Pull"
   ],
   "targeting": "reticle",
   "type": "crowd control",
-  "description": "Throw a chain to pull enemies toward you causing 130-176 + 153%, applying a large pulling force to any enemy causing 130-176 + 153% and dazing them for 4 seconds."
+  "description": "Throws a chain to pull an enemy toward you causing 130-176 + 153% Weapon Damage."
 }
