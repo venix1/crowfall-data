@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 30,
   "cost": {
-    "name": "fury",
+    "name": "resource",
     "cost": 25
   },
   "duration": 8,
@@ -20,5 +20,5 @@
   ],
   "targeting": "self",
   "type": "buff",
-  "description": "Overcome with bloodthirst you continually recover 50% of all lost Health for 8 seconds. When the effect ends you suffer Bloodthirst Crash and take 50% of the lost health over the next 8 seconds."
+  "description": "Continually recovers 50% of all lost Health for 8 seconds. When the effect ends you suffer Bloodthirst Crash and take 50% of the lost health over the next 8 seconds. (Note: The Berserk power will replace Bloodthirst)"
 }

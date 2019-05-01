@@ -17,10 +17,9 @@
   }],
   "tags": [
     "AoE",
-    "Myrmidon",
     "Retaliate"
   ],
   "targeting": "sphere",
   "type": "retaliate",
-  "description": "Jump to your feet, dealing 39-48 + 44% Weapon Damage to nearby enemies."
+  "description": "Returns you to your feet, dealing 39-48 + 44% Weapon Damage to nearby enemies."
 }

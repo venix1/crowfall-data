@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "name": "Conqueror",
+  "base": "myrmidon",
+  "powers": [],
+  "races": [
+    "stoneborn",
+    "half-giant",
+    "minotaur"
+  ],
+  "tags": [],
+  "promotions": false
+}

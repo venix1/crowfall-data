@@ -12,14 +12,13 @@
     "whirlwind"
   ],
   "previous_chain": [],
-  "range": 5.5,
+  "range": 6,
   "sources": [{
-    "id": "myrmidon",
-    "data_type": "class"
+    "id": "arcing-slash",
+    "data_type": "talent"
   }],
   "tags": [
-    "AoE",
-    "Myrmidon"
+    "AoE"
   ],
   "targeting": "cone",
   "type": "melee attack",

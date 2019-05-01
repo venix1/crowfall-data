@@ -3,22 +3,22 @@
   "cooldown": 0,
   "cost": {
     "name": "fury",
-    "cost": 17
+    "cost": 22
   },
   "duration": 0,
   "max_targets": 1,
-  "name": "Right Slash",
+  "name": "Bloody Swipe",
   "next_chain": [
-    "left-slash"
+    "gore"
   ],
   "previous_chain": [],
   "range": 6,
   "sources": [{
-    "id": "myrmidon",
-    "data_type": "class"
+    "id": "bloody-swipe",
+    "data_type": "talent"
   }],
   "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attacks with your right weapon for 35-42 + 38% Weapon Damage."
+  "description": "Leaps you forward striking twice for 54-66 + 60% Weapon Damage."
 }

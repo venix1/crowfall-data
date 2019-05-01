@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "name": "Battle Rager",
+  "base": "myrmidon",
+  "powers": [],
+  "races": [
+    "stoneborn",
+    "half-giant",
+    "minotaur"
+  ],
+  "tags": [],
+  "promotions": false
+}

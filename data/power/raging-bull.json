@@ -13,10 +13,9 @@
     "data_type": "class"
   }],
   "tags": [
-    "AoE",
-    "Myrmidon"
+    "AoE"
   ],
   "targeting": "cone",
   "type": "ultimate",
-  "description": "Begin Raging and flinging enemies away from you causing 39-48 + 44% Weapon Damage to nearby enemies."
+  "description": "Flings enemies away from you causing 39-48 + 44% Weapon Damage to nearby enemies. You gain a damage preventing barrier, become immune to control effects your Expose statuses are removed. This power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast."
 }

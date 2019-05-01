@@ -2,8 +2,8 @@
   "cast_type": "instant",
   "cooldown": 0,
   "cost": {
-    "name": "resource",
-    "cost": 20
+    "name": "fury",
+    "cost": 22
   },
   "duration": 0,
   "max_targets": 1,
@@ -12,16 +12,15 @@
   "previous_chain": [
     "left-slash"
   ],
-  "range": 5.5,
+  "range": 6,
   "sources": [{
     "id": "myrmidon",
     "data_type": "class"
   }],
   "tags": [
-    "Bleed",
-    "Myrmidon"
+    "Bleed"
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Attack with both weapon simultaneously for 127-156 damage, causing your target to Bleed for 18 - 24 + #weapon_damage_2_values#% Weapon Damage."
+  "description": "Attack with both weapon simultaneously for 139-170 damage, causing your target to Bleed for 18 - 24 + 155% Weapon Damage."
 }

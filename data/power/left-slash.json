@@ -3,7 +3,7 @@
   "cooldown": 0,
   "cost": {
     "name": "fury",
-    "cost": 19
+    "cost": 22
   },
   "duration": 0,
   "max_targets": 1,
@@ -14,15 +14,13 @@
   "previous_chain": [
     "right-slash"
   ],
-  "range": 5.5,
+  "range": 6,
   "sources": [{
     "id": "myrmidon",
     "data_type": "class"
   }],
-  "tags": [
-    "Myrmidon"
-  ],
+  "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack with your left weapon for 77-94 + 85% Weapon Damage."
+  "description": "Attacks with your left weapon for 83-101 + 92% Weapon Damage."
 }

@@ -14,13 +14,11 @@
   ],
   "range": 30,
   "sources": [{
-    "id": "myrmidon",
-    "data_type": "class"
+    "id": "cast-net",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Myrmidon"
-  ],
+  "tags": [],
   "targeting": "reticle",
   "type": "crowd control",
-  "description": "Pull your target toward you inflicting 95-116 + 106% Weapon Damage."
+  "description": "Pulls your target toward you inflicting 95-116 + 106% Weapon Damage."
 }

@@ -3,7 +3,7 @@
   "cooldown": 0,
   "cost": {
     "name": "fury",
-    "cost": 23
+    "cost": 44
   },
   "duration": 20,
   "max_targets": 1,
@@ -12,15 +12,13 @@
   "previous_chain": [
     "bloodied-swipe"
   ],
-  "range": 5.5,
+  "range": 6,
   "sources": [{
-    "id": "myrmidon",
-    "data_type": "class"
+    "id": "bloody-swipe",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Myrmidon"
-  ],
+  "tags": [],
   "targeting": "cone",
   "type": "buff",
-  "description": "Strike overhead with both axes before continuing the carnage with a second bloody slice, inflicting 63-77 + 70% Weapon Damage for each hit. If you connect, recover 5 Fury per second for 20 seconds."
+  "description": "Strikes overhead with both axes before continuing the carnage with a second bloody slice, inflicting 118-144 + 131% Weapon Damage for each hit. If you connect, recover 5 Fury per second for 21 seconds."
 }

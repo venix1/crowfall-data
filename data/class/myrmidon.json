@@ -3,22 +3,14 @@
   "name": "Myrmidon",
   "base": true,
   "powers": [
-    "arcing-slash",
-    "berserk",
-    "bloodied-swipe",
-    "cast-net",
-    "charge",
-    "colossus-smash",
-    "double-slash",
-    "gore",
-    "left-slash",
-    "net-pull",
-    "pulverize",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
     "raging-bull",
     "retaliate-myrmidon",
     "right-slash",
-    "taste-for-blood",
-    "whirlwind"
+    "left-slash",
+    "double-slash"
   ],
   "races": [
     "stoneborn",
@@ -26,5 +18,9 @@
     "minotaur"
   ],
   "tags": [],
-  "promotions": []
+  "promotions": [
+    "Titan",
+    "Battle Rager",
+    "Conqueror"
+  ]
 }
