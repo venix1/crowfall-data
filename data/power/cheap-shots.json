@@ -14,7 +14,7 @@
   }],
   "tags": [
     "Exposed",
-    "Stun",
+    "Stun"
   ],
   "targeting": "ray",
   "type": "instant",
