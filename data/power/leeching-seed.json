@@ -16,7 +16,7 @@
     "data_type": "talent"
   }],
   "tags": [
-    "Melee Power Damage Bonus"
+    "Melee Power Damage Bonus",
     "Movement Speed"
   ],
   "type": "debuff",
