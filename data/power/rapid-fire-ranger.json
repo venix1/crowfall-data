@@ -12,14 +12,11 @@
   "previous_chain": [],
   "range": 15,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "rapid-fire-ranger",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Ranger",
-    "Exposed Punish"
-  ],
+  "tags": [],
   "targeting": "reticle",
   "type": "ranged attack",
-  "description": "Hold to shoot up to 10 arrows towards your reticle that deal 40 - 54 + 47% Weapon Damage per arrow.  Adds 10 Critical Hit Chance for 2 seconds for each arrow that does not critically hit, effect is removed when you land a critical hit. If Rapid Fire hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage."
+  "description": "Shoots up to eight arrows dealing 49-66 + 57% Weapon Damage per arrow while you hold down the power key."
 }

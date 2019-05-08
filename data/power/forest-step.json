@@ -3,9 +3,9 @@
   "cooldown": 24,
   "cost": {
     "name": "energy",
-    "cost": 34
+    "cost": 131
   },
-  "duration": 3,
+  "duration": 0,
   "max_targets": 1,
   "name": "Forest Step",
   "next_chain": [
@@ -14,14 +14,11 @@
   "previous_chain": [],
   "range": 30,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "trackers-kit",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Blink",
-    "Ranger"
-  ],
+  "tags": [],
   "targeting": "reticle",
   "type": "movement",
-  "description": "Blink through the forest shadows directly to your target and strike for 76-103 + 89% Weapon Damage."
+  "description": "Blinks you through the forest shadows directly to your target and strike for 76-103 + 89% Weapon Damage."
 }

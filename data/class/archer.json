@@ -1,0 +1,17 @@
+{
+  "name": "Archer",
+  "base": "ranger",
+  "description": "",
+  "powers": [],
+  "races": [
+    "human",
+    "half-elf",
+    "wood-elf",
+    "elken",
+    "minotaur"
+  ],
+  "tags": [
+    "Ranged"
+  ],
+  "promotions": false
+}

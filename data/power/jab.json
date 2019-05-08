@@ -3,7 +3,7 @@
   "cooldown": 9,
   "cost": {
     "name": "energy",
-    "cost": 47
+    "cost": 190
   },
   "duration": 0,
   "max_targets": 1,
@@ -12,16 +12,15 @@
   "previous_chain": [
     "sweep"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "ambidexterity",
+    "data_type": "talent"
   }],
   "tags": [
-    "Knockdown",
-    "Ranger"
+    "Knockdown"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slash in front of you knocking down your target and critically striking for 175-237 + 206% Weapon Damage."
+  "description": "Slashes in front of you knocking down your target, dealing 136-184 + 160% Weapon Damage. This attack has a 100% Critical Hit Chance."
 }

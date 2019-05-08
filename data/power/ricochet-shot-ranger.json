@@ -5,21 +5,20 @@
     "name": "arrow",
     "cost": 1
   },
-  "duration": 10,
+  "duration": 15,
   "max_targets": 3,
   "name": "Ricochet Shot (Ranger)",
   "next_chain": [],
   "previous_chain": [],
   "range": 15,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "ricochet-shot",
+    "data_type": "talent"
   }],
   "tags": [
-    "AoE",
-    "Ranger"
+    "AoE"
   ],
   "targeting": "reticle",
   "type": "ranged attack",
-  "description": "Charge an arrow and shoot it towards your reticle dealing 158 - 213 + 186% Weapon Damage. The arrow will ricochet to a second target within 6m and then ricochet to a third target. If you hit 3 targets with this power, you gain the Hot Shot buff which applies 10 Critical Hit Damage for 10 seconds."
+  "description": "Charges an arrow and shoot it towards your reticle dealing 158-213 + 186% Weapon Damage. The arrow will ricochet to a second target within 6m and then ricochet to a third target. If you hit 3 targets with this power, you gain the Hot Shot buff which applies 10 Critical Hit Damage for 15 seconds."
 }

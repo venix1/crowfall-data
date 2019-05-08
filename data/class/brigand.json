@@ -1,0 +1,19 @@
+{
+  "name": "Brigand",
+  "base": "ranger",
+  "description": "",
+  "powers": [],
+  "races": [
+    "human",
+    "half-elf",
+    "wood-elf",
+    "elken",
+    "minotaur"
+  ],
+  "tags": [
+    "Melee",
+    "Ranged",
+    "Stealth"
+  ],
+  "promotions": false
+}

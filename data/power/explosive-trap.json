@@ -1,27 +1,26 @@
 {
-  "cast_type": "ground aimed",
+  "cast_type": "instant",
   "cooldown": 24,
   "cost": {
     "name": "energy",
-    "cost": 0
+    "cost": 178
   },
   "duration": 60,
   "max_targets": 5,
   "name": "Explosive Trap",
   "next_chain": [],
   "previous_chain": [],
-  "range": 35,
+  "range": 0,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "ranger-savvy",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
     "Fire Damage",
-    "Knockdown",
-    "Ranger"
+    "Knockdown"
   ],
   "targeting": "area",
-  "type": "ranged attack",
-  "description": "Shoot an explosive trap at a ground location, which explodes when an enemy approaches it dealing 46-62 + 54% Weapon Damage as Fire Damage. Knocks Up all hit. Trap will exist for 60 seconds. This Power's Maximum Range cannot be modified."
+  "type": "trap",
+  "description": "Places an explosive trap at your feet which explodes when an enemy approaches it dealing 47-77 + 67% Weapon Damage as Fire Damage. All targets hit are Knocked into the air. Trap will exist for 60 seconds."
 }

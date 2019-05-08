@@ -3,7 +3,7 @@
   "cooldown": 24,
   "cost": {
     "name": "energy",
-    "cost": 22
+    "cost": 131
   },
   "duration": 0,
   "max_targets": 1,
@@ -12,16 +12,15 @@
   "previous_chain": [
     "forest-step"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "trackers-kit",
+    "data_type": "talent"
   }],
   "tags": [
-    "Ranger",
     "Snare"
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Slash in front of you for 134-181 + 158% Weapon Damage. Applies a 50% movement reduction to the target."
+  "description": "Slashes in front of you for 162-219 + 190% Weapon Damage. Tendon Slice applies a 50% movement reduction to the target."
 }

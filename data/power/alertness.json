@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 30,
+  "cooldown": 68,
   "cost": {
     "name": "energy",
     "cost": 190
@@ -12,11 +12,11 @@
   "previous_chain": [],
   "range": 50,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "trackers-kit",
+    "data_type": "talent"
   }],
   "tags": [],
   "targeting": "group",
   "type": "buff",
-  "description": "Become acutely aware of your surroundings increasing your Perception by 25, Attack Power by 50, removing the Exposed state and detecting enemies in Stealth for group members and yourself."
+  "description": "Increases your Perception by 25, Attack Power by 50, removing the Exposed state and detecting enemies in Stealth for group members and you."
 }

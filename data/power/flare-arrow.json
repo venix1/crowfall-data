@@ -5,15 +5,15 @@
     "name": "arrow",
     "cost": 1
   },
-  "duration": 0,
+  "duration": 30,
   "max_targets": 5,
   "name": "Flare Arrow",
   "next_chain": [],
   "previous_chain": [],
-  "range": 50,
+  "range": 35,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "flare",
+    "data_type": "talent"
   }],
   "tags": [
     "Reveal",
@@ -24,5 +24,5 @@
   ],
   "targeting": "area",
   "type": "ranged attack",
-  "description": "Shoot a flare arrow lighting the targeted area and revealing any Stealth users entering that area. Stealth users revealed in this way are Exposed, take 177-239 + 208% Fire Weapon Damage and begin Burning."
+  "description": "Shoots a flare arrow lighting the targeted area and revealing any Stealth users entering that area. Stealth users revealed in this way are Exposed, take 177-239 + 208% Fire Weapon Damage and begin Burning."
 }

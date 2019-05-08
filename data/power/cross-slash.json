@@ -3,25 +3,24 @@
   "cooldown": 9,
   "cost": {
     "name": "energy",
-    "cost": 31
+    "cost": 131
   },
   "duration": 0,
   "max_targets": 1,
   "name": "Cross Slash",
   "next_chain": [
-    "cross-slash-2"
+    "cross-slash-ii"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "cross-slash",
+    "data_type": "talent"
   }],
   "tags": [
-    "Bleed",
-    "Ranger"
+    "Moderate Bleed"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slash in front of you for 35-47 + 41% Weapon Damage. Applies a Moderate Bleed effect."
+  "description": "Slashes in front of you twice for 38-51 + 44% Weapon Damage. Applies a Moderate Bleed effect."
 }

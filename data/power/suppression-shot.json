@@ -2,7 +2,7 @@
   "cast_type": "ground aimed",
   "cooldown": 30,
   "cost": {
-    "name": "resource",
+    "name": "arrow",
     "cost": 1
   },
   "duration": 0,
@@ -12,15 +12,14 @@
   "previous_chain": [],
   "range": 35,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "suppression-shot",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Ranger",
     "Supression"
   ],
   "targeting": "area",
   "type": "crowd control",
-  "description": "Shoot at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit. This Power's Maximum Range can not be modified."
+  "description": "Shoots at a ground location dealing 93-126 + 109% Weapon Damage. Applies a Suppression effect to all hit. This Power's Maximum Range can not be modified."
 }

@@ -3,7 +3,7 @@
   "cooldown": 23,
   "cost": {
     "name": "energy",
-    "cost": 31
+    "cost": 190
   },
   "duration": 0,
   "max_targets": 1,
@@ -13,16 +13,15 @@
     "disengage"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "ambidexterity",
+    "data_type": "talent"
   }],
   "tags": [
-    "Cunning Sweep",
-    "Ranger"
+    "Cunning Sweep"
   ],
   "targeting": "cone",
-  "type": "crowd control self",
-  "description": "Slash in front of you for 68-92 + 80% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds 5% Bonus Damage to their next attack."
+  "type": "melee attack",
+  "description": "Slashes in front of you for 113-153 + 133% Weapon Damage. Applies Cunning Sweep to one nearby group member, which adds 10% Damage Bonus to their next attack."
 }

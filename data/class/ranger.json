@@ -3,30 +3,16 @@
   "base": true,
   "description": "",
   "powers": [
-    "alertness",
-    "archers-stake",
-    "barrage",
-    "cross-slash",
-    "cross-slash-2",
-    "dagger-spin",
-    "dagger-spin-2",
-    "dagger-spin-3",
-    "dagger-spin-4",
-    "disengage-ranger",
-    "explosive-trap",
-    "flare-arrow",
-    "gleeful-strike",
-    "jab",
-    "laceration",
-    "rapid-fire-ranger",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
     "retaliate-ranger",
-    "ricochet-shot-ranger",
-    "sinister-slash",
-    "suppression-shot",
     "sustain",
-    "sweep",
-    "tendon-slice",
-    "twin-surge",
+    "basic-shot",
+    "one-handed-slash",
+    "one-handed-slash-ii",
+    "one-handed-slash-iii",
+    "sinister-slash",
     "vile-slash",
     "wicked-slash"
   ],
@@ -37,6 +23,13 @@
     "elken",
     "minotaur"
   ],
-  "tags": [],
-  "promotions": []
+  "tags": [
+    "Melee",
+    "Ranged"
+  ],
+  "promotions": [
+    "Archer",
+    "Brigand",
+    "Warden"
+  ]
 }

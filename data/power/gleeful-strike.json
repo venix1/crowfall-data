@@ -9,13 +9,11 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "ranger-savvy",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Ranger"
-  ],
+  "tags": [],
   "targeting": "self",
   "type": "passive",
-  "description": "While in Melee Mode all critical hits you land have a chance to restore Energy."
+  "description": "Increases your Power Damage Bonus: Melee and Power Damage Bonus: Ranged by 10%. Additionally, while the Melee Power Tray is your active tray, all critical hits you land have a chance to restore Energy."
 }

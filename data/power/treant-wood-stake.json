@@ -7,12 +7,12 @@
   },
   "duration": 30,
   "max_targets": 1,
-  "name": "Archers Stake",
+  "name": "Treant Wood Stake",
   "next_chain": [],
   "previous_chain": [],
   "range": 10,
   "sources": [{
-    "id": "archers-stake",
+    "id": "a-toll-is-a-toll",
     "data_type": "talent"
   }],
   "tags": [

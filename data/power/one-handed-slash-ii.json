@@ -4,10 +4,12 @@
   "cost": {},
   "duration": 0,
   "max_targets": 1,
-  "name": "Vile Slash",
-  "next_chain": [],
+  "name": "One Handed Slash II",
+  "next_chain": [
+    "one-handed-slash-iii"
+  ],
   "previous_chain": [
-    "wicked-slash"
+    "one-handed-slash"
   ],
   "range": 6,
   "sources": [{
@@ -19,5 +21,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slashes in front of you three times for 46-62 + 54% Weapon Damage and gain the Spot Weakness buff increasing your Physical Armor Penetration by 5%."
+  "description": "Attacks using just a single weapon with slightly reduced damage output causing 57-78 + 68% Weapon Damage."
 }

@@ -2,7 +2,7 @@
   "cast_type": "ground aimed",
   "cooldown": 9,
   "cost": {
-    "name": "resource",
+    "name": "arrows",
     "cost": 6
   },
   "duration": 0,
@@ -12,14 +12,13 @@
   "previous_chain": [],
   "range": 35,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "bring-me-everyone",
+    "data_type": "talent"
   }],
   "tags": [
-    "AoE",
-    "Ranger"
+    "AoE"
   ],
   "targeting": "area",
   "type": "ranged attack",
-  "description": "Shoot 6 volleys of arrows at a ground location, dealing 30 - 40 + 35% Weapon Damage per volley, up to 5 targets within 8m. This Power's Maximum Range cannot be modified"
+  "description": "Shoots 12 volleys of arrows at a ground location, dealing 30-40 + 35% Weapon Damage per volley hitting up to 5 targets within 8m. This Power's Maximum Range cannot be modified."
 }

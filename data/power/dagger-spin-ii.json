@@ -1,17 +1,19 @@
 {
   "cast_type": "instant",
-  "cooldown": 5,
+  "cooldown": 0,
   "cost": {
     "name": "energy",
-    "cost": 249
+    "cost": 0
   },
   "duration": 0,
   "max_targets": 5,
-  "name": "Dagger Spin",
+  "name": "Dagger Spin II",
   "next_chain": [
-    "dagger-spin-ii"
+    "dagger-spin-iii"
   ],
-  "previous_chain": [],
+  "previous_chain": [
+    "dagger-spin"
+  ],
   "range": 6,
   "sources": [{
     "id": "bring-me-everyone",
@@ -22,5 +24,5 @@
   ],
   "targeting": "sphere",
   "type": "melee attack",
-  "description": "Spins you in place and deals 41-55 + 48% Weapon Damage around you."
+  "description": "Spins you in place and deals 46-62 + 54% Weapon Damage around you."
 }

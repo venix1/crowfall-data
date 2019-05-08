@@ -3,25 +3,24 @@
   "cooldown": 23,
   "cost": {
     "name": "energy",
-    "cost": 34
+    "cost": 83
   },
-  "duration": 0,
+  "duration": 15,
   "max_targets": 1,
   "name": "Laceration",
   "next_chain": [],
   "previous_chain": [
     "twin-surge"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "twin-surge",
+    "data_type": "talent"
   }],
   "tags": [
-    "Ranger",
     "Weapon Break"
   ],
   "targeting": "cone",
   "type": "debuff",
-  "description": "Slash in front of you for 93-126 + 110% Weapon Damage. Applies a Weapon Break which reduces all damage by 20% for 15 seconds."
+  "description": "Slashes in front of you twice for 58-78 + 68% Weapon Damage. Applies a Weapon Break which reduces that target's damage by 20% for 15 seconds."
 }

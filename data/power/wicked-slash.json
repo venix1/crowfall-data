@@ -11,7 +11,7 @@
   "previous_chain": [
     "sinister-slash"
   ],
-  "range": 5,
+  "range": 6,
   "sources": [{
     "id": "ranger",
     "data_type": "class"
@@ -21,5 +21,5 @@
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slash in front of you twice for 50-68 + 59% Weapon Damage."
+  "description": "Slashes in front of you twice for 50-67 + 59% Weapon Damage."
 }

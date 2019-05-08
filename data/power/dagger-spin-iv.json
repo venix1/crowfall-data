@@ -3,27 +3,24 @@
   "cooldown": 0,
   "cost": {
     "name": "energy",
-    "cost": 34
+    "cost": 0
   },
   "duration": 0,
   "max_targets": 5,
-  "name": "Dagger Spin 2",
-  "next_chain": [
-    "dagger-spin-3"
-  ],
+  "name": "Dagger Spin IV",
+  "next_chain": [],
   "previous_chain": [
-    "dagger-spin"
+    "dagger-spin-iii"
   ],
   "range": 6,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "bring-me-everyone",
+    "data_type": "talent"
   }],
   "tags": [
-    "AoE",
-    "Ranger"
+    "AoE"
   ],
   "targeting": "sphere",
   "type": "melee attack",
-  "description": "Spin in place and deal 46-62 + 54% Weapon Damage around you."
+  "description": "Spins you in place and deals 57-77 + 67% Weapon Damage around you."
 }

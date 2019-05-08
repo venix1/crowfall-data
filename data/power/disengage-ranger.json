@@ -3,7 +3,7 @@
   "cooldown": 24,
   "cost": {
     "name": "energy",
-    "cost": 125
+    "cost": 380
   },
   "duration": 0,
   "max_targets": 1,
@@ -14,14 +14,13 @@
   ],
   "range": 25,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "ambidexterity",
+    "data_type": "talent"
   }],
   "tags": [
-    "Ranger",
     "Root"
   ],
   "targeting": "cone",
   "type": "movement",
-  "description": "Leap backwards rooting your target, dealing 149-201 + 175% Weapon Damage and placing you into your Ranged tray."
+  "description": "Leaps you backwards 25m rooting your target, dealing 148-201 + 175% Weapon Damage and placing you into your Ranged tray."
 }

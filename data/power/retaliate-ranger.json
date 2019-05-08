@@ -1,6 +1,6 @@
 {
   "cast_type": "instant",
-  "cooldown": 3,
+  "cooldown": 0,
   "cost": {
     "name": "stamina",
     "cost": 65
@@ -22,5 +22,5 @@
   ],
   "targeting": "sphere",
   "type": "retaliate",
-  "description": "Jump to your feet, dealing 113-153 + 133% Weapon Damage to nearby enemies."
+  "description": "Returns you to your feet, dealing 113-153 + 133% Weapon Damage to nearby enemies."
 }

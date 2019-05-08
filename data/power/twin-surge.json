@@ -3,7 +3,7 @@
   "cooldown": 5,
   "cost": {
     "name": "energy",
-    "cost": 25
+    "cost": 95
   },
   "duration": 0,
   "max_targets": 1,
@@ -12,15 +12,13 @@
     "laceration"
   ],
   "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
-    "id": "ranger",
-    "data_type": "class"
+    "id": "twin-surge",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Ranger"
-  ],
+  "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Slash in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice."
+  "description": "Slashes in front of you with both blades dealing 57-77 + 67% Weapon Damage twice."
 }
