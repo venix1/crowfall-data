@@ -1,14 +1,10 @@
 {
   "classes": [
     "assassin",
-    "champion",
-    "cleric",
     "confessor",
     "druid",
     "duelist",
     "frostweaver",
-    "knight",
-    "myrmidon",
     "ranger",
     "templar"
   ],
@@ -25,9 +21,14 @@
   "type": "major",
   "tags": [],
   "stats": [{
-    "name": "Critical Hit Chance",
-    "value": 6.25
-  }],
+    "name": "Critical Strike",
+    "value": 5
+  },
+  {
+    "name": "Stealth",
+    "value": 5
+  },
+],
   "equips": [],
   "tray_granted": "",
   "tray_removed": ""

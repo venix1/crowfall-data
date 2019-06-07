@@ -11,15 +11,14 @@
   ],
   "range": 5,
   "sources": [{
-    "id": "templar",
-    "data_type": "class"
+    "id": "reproach",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Righteousness",
-    "Templar"
+    "Righteousness"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Spin with an overhead chop hitting multiple enemies for 117-176 + 146% Weapon Damage and generating Righteousness for each hit."
+  "description": "Spins you with an overhead chop, hitting multiple enemies for 117-176 + 146% Weapon Damage and generating Righteousness for each hit."
 }

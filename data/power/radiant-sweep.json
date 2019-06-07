@@ -11,15 +11,14 @@
   ],
   "range": 5,
   "sources": [{
-    "id": "templar",
-    "data_type": "class"
+    "id": "reproach",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
-    "Knockdown",
-    "Templar"
+    "Knockdown"
   ],
   "targeting": "cone",
   "type": "crowd control",
-  "description": "Knock down multiple enemies dealing 72-108 + 90% Weapon Damage."
+  "description": "Slashes multiple enemies dealing 72-108 + 90% Weapon Damage and leaving them Knocked Down."
 }

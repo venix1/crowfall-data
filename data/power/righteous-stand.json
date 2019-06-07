@@ -10,17 +10,16 @@
   "name": "Righteous Stand",
   "next_chain": [],
   "previous_chain": [],
-  "range": 30,
+  "range": 0,
   "sources": [{
-    "id": "templar",
-    "data_type": "class"
+    "id": "righteous-stand",
+    "data_type": "talent"
   }],
   "tags": [
     "Parry",
-    "Righteousness",
-    "Templar"
+    "Righteousness"
   ],
   "targeting": "self",
   "type": "parry",
-  "description": "Raise your sword to defend yourself increasing your damage mitigation and becoming immune to crowd control effects. Being struck with a melee attack restores Righteousness and triggers Righteous Parry."
+  "description": "Defends you, increasing your damage mitigation. You become immune to crowd control effects and any melee attack that strikes you restores Righteousness and triggers Righteous Parry. This attack can be instantly Flash-Cast."
 }

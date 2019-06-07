@@ -2,7 +2,7 @@
   "cast_type": "instant",
   "cooldown": 0,
   "cost": {
-    "name": "resource",
+    "name": "righteousness",
     "cost": 1
   },
   "duration": 0,
@@ -14,13 +14,11 @@
   "previous_chain": [],
   "range": 5,
   "sources": [{
-    "id": "templar",
-    "data_type": "class"
+    "id": "judgement",
+    "data_type": "talent"
   }],
-  "tags": [
-    "Templar"
-  ],
+  "tags": [],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Strike mercillessly inflict 89 - 133 + 111% Weapon Damage. Enemies under 35% health are critically hit for 133 - 200 + 167% Weapon Damage."
+  "description": "Strikes mercilessly, inflicting 89-133 + 111% Weapon Damage. Enemies under 35% health are hit for 133-200 + 167% Weapon Damage, and this attack gains a 100% Critical Strike modifier."
 }

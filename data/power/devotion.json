@@ -12,16 +12,15 @@
   "previous_chain": [],
   "range": 0,
   "sources": [{
-    "id": "templar",
-    "data_type": "class"
+    "id": "devotion",
+    "data_type": "talent"
   }],
   "tags": [
     "AoE",
     "Heal",
-    "Sin",
-    "Templar"
+    "Sin"
   ],
   "targeting": "group",
   "type": "buff",
-  "description": "Recite a benediction healing group members and you based on the damage you inflict and revealing Sin within enemies attacked for 15 seconds."
+  "description": "Devotion is a benediction, healing you and group members based on the damage you inflict once per second (max 200). You reveal Sin within enemies attacked for 15 seconds."
 }

@@ -13,10 +13,12 @@
     "data_type": "talent"
   },
   {
-    "id": "templar",
-    "data_type": "class"
+    "id": "resurrection",
+    "data_type": "talent"
   }],
-  "tags": ["Resurrection"],
+  "tags": [
+    "Resurrection"
+  ],
   "targeting": "area",
   "type": "resurrection",
   "description": "Targets a small area and revives one unconscious vessel."

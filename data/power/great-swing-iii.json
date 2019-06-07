@@ -4,20 +4,20 @@
   "cost": {},
   "duration": 0,
   "max_targets": 1,
-  "name": "Great Swing 1",
-  "next_chain": [
-    "great-swing-2"
+  "name": "Great Swing III",
+  "next_chain": [],
+  "previous_chain": [
+    "great-swing-ii"
   ],
-  "previous_chain": [],
-  "range": 5,
+  "range": 6,
   "sources": [{
     "id": "templar",
     "data_type": "class"
   }],
   "tags": [
-    "Templar"
+    "Righteousness"
   ],
   "targeting": "cone",
   "type": "melee attack",
-  "description": "Attack for 48 - 72 + 60% Weapon Damage."
+  "description": "Attacks for 129-194 + 162% Weapon Damage and generates a point of Righteousness."
 }

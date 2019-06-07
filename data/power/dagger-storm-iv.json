@@ -15,7 +15,9 @@
     "id": "dagger-storm",
     "data_type": "talent"
   }],
-  "tags": ["Assassin", "AoE"],
+  "tags": [
+    "AoE"
+  ],
   "targeting": "sphere",
   "type": "ranged attack",
   "description": "Fling throwing daggers in all directions hitting multiple enemies for 39-59 + 49% Weapon Damage."

@@ -1,22 +1,21 @@
 {
   "cast_type": "instant",
-  "cooldown": 9,
+  "cooldown": 15,
   "cost": {},
   "duration": 0,
   "max_targets": 1,
   "name": "Censure",
   "next_chain": [],
   "previous_chain": [],
-  "range": 20,
+  "range": 5,
   "sources": [{
-    "id": "templar",
-    "data_type": "class"
+    "id": "censure",
+    "data_type": "talent"
   }],
   "tags": [
-    "Stun",
-    "Templar"
+    "Stun"
   ],
   "targeting": "reticle",
-  "type": "non-aggressive",
-  "description": "Lunge forward with a sword strike stunning an enemy and causing 100-149 + 124% Weapon Damage."
+  "type": "movement",
+  "description": "Lunges you forward up to 20m with a sword strike, causing 100-149 + 124% Weapon Damage and leaving your target stunned."
 }
