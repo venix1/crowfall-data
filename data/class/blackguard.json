@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Blackguard",
   "base": "assassin",
   "races": [
@@ -8,7 +7,28 @@
     "fae",
     "high-elf"
   ],
-  "tags": [],
+  "tags": [
+    "Melee",
+    "Stealth"
+  ],
   "powers": [],
-  "promotions": false
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Daggers",
+    "Maces",
+    "Runic Axes",
+    "Runic Daggers",
+    "Runic Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "description": ""
 }

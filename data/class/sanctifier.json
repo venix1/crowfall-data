@@ -6,8 +6,23 @@
     "high-elf",
     "elken"
   ],
-  "description": "",
+  "tags": [
+    "Ranged"
+  ],
   "powers": [],
   "promotions": false,
-  "tags": []
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Tomes",
+    "Runic Books"
+  ],
+  "trays": [
+    "Ranged",
+    "Survival"
+  ],
+  "description": ""
 }

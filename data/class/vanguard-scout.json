@@ -1,11 +1,28 @@
 {
-  "description": "",
   "name": "Vanguard Scout",
   "base": "duelist",
-  "powers": [],
   "races": [
     "guinecean"
   ],
-  "tags": [],
-  "promotions": false
+  "tags": [
+    "Melee",
+    "Stealth"
+  ],
+  "powers": [],
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Pistols",
+    "Rapiers",
+    "Runic Rapiers",
+    "Runic Pistols"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "description": "",
 }

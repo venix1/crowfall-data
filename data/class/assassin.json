@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Assassin",
   "base": true,
   "races": [
@@ -8,7 +7,10 @@
     "fae",
     "high-elf"
   ],
-  "tags": [],
+  "tags": [
+    "Melee",
+    "Stealth"
+  ],
   "powers": [
     "mental-fortitude",
     "spotting",
@@ -21,5 +23,19 @@
     "Cutthroat",
     "Blackguard",
     "Vandal"
-  ]
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Daggers",
+    "Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "description": ""
 }

@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Druid",
   "base": true,
   "powers": [
@@ -15,10 +14,23 @@
     "fae",
     "wood-elf"
   ],
-  "tags": [],
+  "tags": [
+    "Ranged"
+  ],
   "promotions": [
     "Archdruid",
     "Earthkeeper",
     "Stormcaller"
-  ]
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Sickles"
+  ],
+  "trays": [
+    "Death",
+    "Survival"
+  ],
+  "description": ""
 }

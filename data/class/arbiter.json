@@ -9,8 +9,26 @@
     "guinecean",
     "elken"
   ],
-  "description": "",
-  "tags": [],
+  "tags": [
+    "Ranged"
+  ],
   "powers": [],
-  "promotions": false
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Mystical Throwing Hammer",
+    "Runic Mystical Throwing Hammers",
+    "Bucklers",
+    "Runic Bucklers",
+    "Medium Shields"
+    "Runic Medium Shields"
+  ],
+  "trays": [
+    "Ranged",
+    "Survival"
+  ],
+  "description": ""
 }

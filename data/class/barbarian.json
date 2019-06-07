@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Barbarian",
   "base": "champion",
   "races": [
@@ -8,7 +7,24 @@
     "minotaur",
     "centaur"
   ],
-  "tags": [],
+  "tags": [
+    "Melee"
+  ],
   "powers": [],
-  "promotions": false
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Great Axes",
+    "Great Maces",
+    "Runic Great Axes",
+    "Runic Great Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "description": ""
 }

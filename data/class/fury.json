@@ -1,11 +1,10 @@
 {
-  "name": "Pit Fighter",
-  "base": "champion",
+  "name": "Fury",
+  "base": "templar",
   "races": [
-    "stoneborn",
-    "half-giant",
-    "minotaur",
-    "centaur"
+    "human",
+    "nethari",
+    "elken"
   ],
   "tags": [
     "Melee"
@@ -18,10 +17,8 @@
     "Plate"
   ],
   "weapon_proficiency": [
-    "Great Axes",
-    "Great Maces",
-    "Runic Great Axes",
-    "Runic Great Maces"
+    "Great Swords",
+    "Runic Great Swords"
   ],
   "trays": [
     "Melee",

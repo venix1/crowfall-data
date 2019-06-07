@@ -1,8 +1,6 @@
 {
   "name": "Archer",
   "base": "ranger",
-  "description": "",
-  "powers": [],
   "races": [
     "human",
     "half-elf",
@@ -11,7 +9,28 @@
     "minotaur"
   ],
   "tags": [
+    "Melee",
     "Ranged"
   ],
-  "promotions": false
+  "powers": [],
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Recurve Bows",
+    "Axes",
+    "Maces",
+    "Short Swords",
+    "Runic Recurve Bows",
+    "Runic High Tension Compound Bows",
+    "Runic Spellbound Longbows",
+    "Arrows"
+  ],
+  "trays": [
+    "Melee",
+    "Ranged",
+    "Survival"
+  ],
+  "description": ""
 }

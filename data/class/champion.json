@@ -15,11 +15,25 @@
     "minotaur",
     "centaur"
   ],
-  "description": "",
+  "tags": [
+    "Melee"
+  ],
   "promotions": [
     "Alpha Warrior",
     "Barbarian",
     "Pit Fighter"
   ],
-  "tags": []
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Great Axes",
+    "Great Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "description": ""
 }

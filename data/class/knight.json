@@ -1,7 +1,17 @@
 {
-  "description": "",
   "name": "Knight",
   "base": true,
+  "races": [
+    "human",
+    "high-elf",
+    "stoneborn",
+    "elken",
+    "centaur",
+    "guinecean"
+  ],
+  "tags": [
+    "Melee"
+  ],
   "powers": [
     "spotting",
     "mental-fortitude",
@@ -12,18 +22,27 @@
     "ruby-slash",
     "whirling-leap"
   ],
-  "races": [
-    "human",
-    "high-elf",
-    "stoneborn",
-    "elken",
-    "centaur",
-    "guinecean"
-  ],
-  "tags": [],
   "promotions": [
     "Swordsman",
     "Secutor",
     "Sentinel"
-  ]
+  ],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Longswords",
+    "Maces",
+    "Short Swords",
+    "Bucklers",
+    "Medium Shields"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "description": ""
 }

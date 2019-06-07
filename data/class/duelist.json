@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Duelist",
   "base": true,
   "powers": [
@@ -23,5 +22,18 @@
     "Dirge",
     "Slayer",
     "Vanguard Scout"
-  ]
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Pistols",
+    "Rapiers"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "description": ""
 }

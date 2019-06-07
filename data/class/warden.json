@@ -1,8 +1,6 @@
 {
   "name": "Warden",
   "base": "ranger",
-  "description": "",
-  "powers": [],
   "races": [
     "human",
     "half-elf",
@@ -14,5 +12,27 @@
     "Melee",
     "Ranged"
   ],
-  "promotions": false
+  "powers": [],
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Recurve Bows",
+    "Axes",
+    "Maces",
+    "Short Swords",
+    "Runic Recurve Bows",
+    "Runic Axes",
+    "Runic Maces",
+    "Runic Short Swords",
+    "Arrows"
+  ],
+  "trays": [
+    "Melee",
+    "Ranged",
+    "Survival"
+  ],
+  "description": ""
 }

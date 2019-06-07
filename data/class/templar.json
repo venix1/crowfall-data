@@ -1,32 +1,40 @@
 {
-  "description": "",
   "name": "Templar",
   "base": true,
   "powers": [
-    "brilliance",
-    "castigate",
-    "censure",
-    "devotion",
-    "divine-light",
-    "execute",
-    "faith",
-    "great-swing-1",
-    "great-swing-2",
-    "great-swing-3",
-    "holy-warrior",
-    "judgement",
-    "radiant-sweep",
-    "reproach",
-    "resurrection",
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "great-swing-i",
+    "great-swing-ii",
+    "great-swing-iii",
     "retaliate-templar",
-    "righteous-smash",
-    "righteous-stand"
+    "brilliance"
   ],
   "races": [
     "human",
     "nethari",
     "elken"
   ],
-  "tags": [],
-  "promotions": []
+  "tags": [
+    "Melee"
+  ],
+  "promotions": [
+    "Fury",
+    "Paladin",
+    "Vindicator"
+  ],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Great Swords"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "description": ""
 }

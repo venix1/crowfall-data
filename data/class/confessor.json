@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Confessor",
   "base": true,
   "powers": [
@@ -17,10 +16,23 @@
     "high-elf",
     "elken"
   ],
-  "tags": [],
+  "tags": [
+    "Ranged"
+  ],
   "promotions": [
     "Fanatic",
     "Inquisitor",
     "Sanctifier"
-  ]
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Tomes"
+  ],
+  "trays": [
+    "Ranged",
+    "Survival"
+  ],
+  "description": ""
 }

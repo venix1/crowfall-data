@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Myrmidon",
   "base": true,
   "powers": [
@@ -17,10 +16,25 @@
     "half-giant",
     "minotaur"
   ],
-  "tags": [],
+  "tags": [
+    "Melee"
+  ],
   "promotions": [
     "Titan",
     "Battle Rager",
     "Conqueror"
-  ]
+  ],
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "description": ""
 }

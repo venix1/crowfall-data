@@ -7,8 +7,27 @@
     "fae",
     "high-elf"
   ],
-  "description": "",
-  "tags": [],
+  "tags": [
+    "Melee",
+    "Stealth"
+  ],
   "powers": [],
-  "promotions": false
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Daggers",
+    "Maces",
+    "Runic Axes",
+    "Runic Daggers",
+    "Runic Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "description": ""
 }

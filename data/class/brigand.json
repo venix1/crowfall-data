@@ -1,8 +1,6 @@
 {
   "name": "Brigand",
   "base": "ranger",
-  "description": "",
-  "powers": [],
   "races": [
     "human",
     "half-elf",
@@ -15,5 +13,26 @@
     "Ranged",
     "Stealth"
   ],
-  "promotions": false
+  "powers": [],
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Recurve Bows",
+    "Axes",
+    "Maces",
+    "Short Swords",
+    "Runic Axes",
+    "Runic Maces",
+    "Runic Short Swords",
+    "Arrows"
+  ],
+  "trays": [
+    "Melee",
+    "Ranged",
+    "Stealth",
+    "Survival"
+  ],
+  "description": ""
 }

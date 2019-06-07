@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Cleric",
   "base": true,
   "powers": [
@@ -21,10 +20,26 @@
     "guinecean",
     "elken"
   ],
-  "tags": [],
+  "tags": [
+    "Ranged"
+  ],
   "promotions": [
     "Arbiter",
     "Crusader",
     "Radical"
-  ]
+  ],
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Mystical Throwing Hammer",
+    "Bucklers",
+    "Medium Shields"
+  ],
+  "trays": [
+    "Ranged",
+    "Survival"
+  ],
+  "description": ""
 }

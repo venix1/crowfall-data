@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Archdruid",
   "base": "druid",
   "powers": [],
@@ -9,8 +8,22 @@
     "wood-elf"
   ],
   "tags": [
-    "Druid",
-    "Promotion"
+    "Ranged"
   ],
-  "promotions": false
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Sickles",
+    "Mystical Staves",
+    "Runic Mystical Staves"
+  ],
+  "trays": [
+    "Death",
+    "Life"
+    "Survival"
+  ],
+  "description": ""
 }

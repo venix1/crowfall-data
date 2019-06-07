@@ -1,5 +1,4 @@
 {
-  "description": "",
   "name": "Stormcaller",
   "base": "druid",
   "powers": [],
@@ -9,8 +8,21 @@
     "wood-elf"
   ],
   "tags": [
-    "Druid",
-    "Promotion"
+    "Ranged"
   ],
-  "promotions": false
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Sickles",
+    "Runic Sickles",
+    "Bucklers",
+    "Runic Bucklers"
+  ],
+  "trays": [
+    "Death",
+    "Survival"
+  ],
+  "description": ""
 }

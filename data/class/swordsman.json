@@ -1,8 +1,6 @@
 {
-  "description": "",
   "name": "Swordsman",
   "base": "knight",
-  "powers": [],
   "races": [
     "human",
     "high-elf",
@@ -11,6 +9,33 @@
     "centaur",
     "guinecean"
   ],
-  "tags": [],
-  "promotions": false
+  "tags": [
+    "Melee"
+  ],
+  "powers": [],
+  "promotions": false,
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Longswords",
+    "Maces",
+    "Bucklers",
+    "Medium Shields",
+    "Short Swords",
+    "Runic Axes",
+    "Runic Longswords",
+    "Runic Maces",
+    "Runic Short Swords"
+    "Runic Bucklers",
+    "Runic Medium Shields"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "description": ""
 }
