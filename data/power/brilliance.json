@@ -16,7 +16,7 @@
     "AoE",
     "Blind",
     "Fire",
-    "Invulnerable",
+    "Invulnerable"
   ],
   "targeting": "sphere",
   "type": "ultimate",
