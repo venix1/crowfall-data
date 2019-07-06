@@ -1,6 +1,5 @@
 {
   "name": "Champion",
-  "base": true,
   "powers": [
     "retaliate-champion",
     "neckbreaker",

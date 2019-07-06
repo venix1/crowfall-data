@@ -1,6 +1,5 @@
 {
   "name": "Knight",
-  "base": true,
   "races": [
     "human",
     "high-elf",

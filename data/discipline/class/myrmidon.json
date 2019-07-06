@@ -1,6 +1,5 @@
 {
   "name": "Myrmidon",
-  "base": true,
   "powers": [
     "spotting",
     "mental-fortitude",

@@ -1,6 +1,5 @@
 {
   "name": "Templar",
-  "base": true,
   "powers": [
     "spotting",
     "mental-fortitude",

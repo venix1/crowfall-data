@@ -1,6 +1,5 @@
 {
   "name": "Ranger",
-  "base": true,
   "powers": [
     "spotting",
     "mental-fortitude",

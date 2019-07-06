@@ -1,6 +1,5 @@
 {
   "name": "Druid",
-  "base": true,
   "powers": [
     "spotting",
     "mental-fortitude",

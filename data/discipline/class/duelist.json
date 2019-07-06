@@ -1,6 +1,5 @@
 {
   "name": "Duelist",
-  "base": true,
   "powers": [
     "spotting",
     "mental-fortitude",
