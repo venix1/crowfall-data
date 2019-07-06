@@ -7,9 +7,9 @@
   },
   "duration": 0,
   "max_targets": 1,
-  "name": "Bow Shot 2",
-  "next_chain": ["bow-shot-3"],
-  "previous_chain": ["bow-shot"],
+  "name": "Bow Shot III",
+  "next_chain": [],
+  "previous_chain": ["bow-shot-ii"],
   "range": 15,
   "sources": [],
   "tags": [

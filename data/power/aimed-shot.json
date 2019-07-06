@@ -8,7 +8,7 @@
   "duration": 0,
   "max_targets": 1,
   "name": "Aimed Shot",
-  "next_chain": ["aimed-shot-2"],
+  "next_chain": ["aimed-shot-ii"],
   "previous_chain": [],
   "range": 15,
   "sources": [],
