@@ -1,0 +1,29 @@
+{
+  "name": "Fury",
+  "base": "templar",
+  "races": [
+    "human",
+    "nethari",
+    "elken"
+  ],
+  "tags": [
+    "Melee"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Great Swords",
+    "Runic Great Swords"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

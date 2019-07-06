@@ -1,0 +1,35 @@
+{
+  "name": "Arbiter",
+  "base": "cleric",
+  "races": [
+    "human",
+    "stoneborn",
+    "half-giant",
+    "centaur",
+    "guinecean",
+    "elken"
+  ],
+  "tags": [
+    "Ranged"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Mystical Throwing Hammer",
+    "Runic Mystical Throwing Hammers",
+    "Bucklers",
+    "Runic Bucklers",
+    "Medium Shields",
+    "Runic Medium Shields"
+  ],
+  "trays": [
+    "Ranged",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

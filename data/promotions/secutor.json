@@ -1,0 +1,45 @@
+{
+  "name": "Secutor",
+  "base": "knight",
+  "races": [
+    "human",
+    "high-elf",
+    "stoneborn",
+    "elken",
+    "centaur",
+    "guinecean"
+  ],
+  "tags": [
+    "Melee",
+    "Tank"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Longswords",
+    "Maces",
+    "Short Swords",
+    "Bucklers",
+    "Medium Shields",
+    "Tower Shields",
+    "Runic Axes",
+    "Runic Longswords",
+    "Runic Maces",
+    "Runic Short Swords",
+    "Runic Bucklers",
+    "Runic Medium Shields",
+    "Runic Tower Shields"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

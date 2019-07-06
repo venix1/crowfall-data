@@ -1,0 +1,29 @@
+{
+  "name": "Stormcaller",
+  "base": "druid",
+  "powers": [],
+  "races": [
+    "half-elf",
+    "fae",
+    "wood-elf"
+  ],
+  "tags": [
+    "Ranged"
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Sickles",
+    "Runic Sickles",
+    "Bucklers",
+    "Runic Bucklers"
+  ],
+  "trays": [
+    "Death",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

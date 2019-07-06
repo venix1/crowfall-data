@@ -1,0 +1,31 @@
+{
+  "name": "Alpha Warrior",
+  "base": "champion",
+  "races": [
+    "stoneborn",
+    "half-giant",
+    "minotaur",
+    "centaur"
+  ],
+  "tags": [
+    "Melee"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Great Axes",
+    "Great Maces",
+    "Runic Great Axes",
+    "Runic Great Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Druid",
+  "base": true,
+  "powers": [
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "death-surge",
+    "retaliate-druid",
+    "focused-spark"
+  ],
+  "races": [
+    "half-elf",
+    "fae",
+    "wood-elf"
+  ],
+  "tags": [
+    "Ranged"
+  ],
+  "promotions": [
+    "Archdruid",
+    "Earthkeeper",
+    "Stormcaller"
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Sickles"
+  ],
+  "trays": [
+    "Death",
+    "Survival"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "class",
+  "classes": false,
+  "stats": [],
+  "description": ""
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Dirge",
+  "base": "duelist",
+  "races": [
+    "guinecean"
+  ],
+  "tags": [
+    "Melee",
+    "Stealth"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Pistols",
+    "Rapiers",
+    "Runic Rapiers",
+    "Runic Pistols"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

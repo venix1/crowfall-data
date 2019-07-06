@@ -1,0 +1,29 @@
+{
+  "name": "Sanctifier",
+  "base": "confessor",
+  "races": [
+    "nethari",
+    "high-elf",
+    "elken"
+  ],
+  "tags": [
+    "Ranged"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Tomes",
+    "Runic Books"
+  ],
+  "trays": [
+    "Ranged",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

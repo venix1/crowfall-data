@@ -1,0 +1,46 @@
+{
+  "name": "Assassin",
+  "base": true,
+  "races": [
+    "half-elf",
+    "nethari",
+    "fae",
+    "high-elf"
+  ],
+  "tags": [
+    "Melee",
+    "Stealth"
+  ],
+  "powers": [
+    "mental-fortitude",
+    "spotting",
+    "energetic-harvesting",
+    "shadowstep",
+    "retaliate-assassin",
+    "stab"
+  ],
+  "promotions": [
+    "Cutthroat",
+    "Blackguard",
+    "Vandal"
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Daggers",
+    "Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "class",
+  "classes": false,
+  "stats": [],
+  "description": ""
+}

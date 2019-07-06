@@ -1,0 +1,55 @@
+{
+  "name": "Ranger",
+  "base": true,
+  "powers": [
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "retaliate-ranger",
+    "sustain",
+    "basic-shot",
+    "one-handed-slash",
+    "one-handed-slash-ii",
+    "one-handed-slash-iii",
+    "sinister-slash",
+    "vile-slash",
+    "wicked-slash"
+  ],
+  "races": [
+    "human",
+    "half-elf",
+    "wood-elf",
+    "elken",
+    "minotaur"
+  ],
+  "tags": [
+    "Melee",
+    "Ranged"
+  ],
+  "promotions": [
+    "Archer",
+    "Brigand",
+    "Warden"
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Recurve Bows",
+    "Axes",
+    "Maces",
+    "Short Swords",
+    "Arrows"
+  ],
+  "trays": [
+    "Melee",
+    "Ranged",
+    "Survival"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "class",
+  "classes": false,
+  "stats": [],
+  "description": ""
+}

@@ -1,0 +1,18 @@
+{
+  "description": "",
+  "name": "Frostweaver",
+  "base": true,
+  "races": [
+    "fae",
+    "wood-elf",
+    "high-elf"
+  ],
+  "tags": [],
+  "powers": [],
+  "promotions": [],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "class",
+  "classes": false,
+  "stats": []
+}

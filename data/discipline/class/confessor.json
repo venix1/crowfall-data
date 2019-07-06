@@ -1,0 +1,43 @@
+{
+  "name": "Confessor",
+  "base": true,
+  "powers": [
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "immolation",
+    "fireball",
+    "fireball-ii",
+    "fireball-iii",
+    "retaliate-confessor"
+  ],
+  "races": [
+    "nethari",
+    "high-elf",
+    "elken"
+  ],
+  "tags": [
+    "Ranged"
+  ],
+  "promotions": [
+    "Fanatic",
+    "Inquisitor",
+    "Sanctifier"
+  ],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Tomes"
+  ],
+  "trays": [
+    "Ranged",
+    "Survival"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "class",
+  "classes": false,
+  "stats": [],
+  "description": ""
+}

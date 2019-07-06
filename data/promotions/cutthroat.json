@@ -1,0 +1,34 @@
+{
+  "name": "Cutthroat",
+  "base": "assassin",
+  "races": [
+    "half-elf",
+    "nethari",
+    "fae",
+    "high-elf"
+  ],
+  "tags": [
+    "Melee",
+    "Stealth"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Daggers",
+    "Maces",
+    "Runic Axes",
+    "Runic Daggers",
+    "Runic Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Stealth",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

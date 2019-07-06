@@ -1,0 +1,45 @@
+{
+  "name": "Myrmidon",
+  "base": true,
+  "powers": [
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "raging-bull",
+    "retaliate-myrmidon",
+    "right-slash",
+    "left-slash",
+    "double-slash"
+  ],
+  "races": [
+    "stoneborn",
+    "half-giant",
+    "minotaur"
+  ],
+  "tags": [
+    "Melee"
+  ],
+  "promotions": [
+    "Titan",
+    "Battle Rager",
+    "Conqueror"
+  ],
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "class",
+  "classes": false,
+  "stats": [],
+  "description": ""
+}

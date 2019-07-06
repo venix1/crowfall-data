@@ -1,0 +1,30 @@
+{
+  "name": "Battle Rager",
+  "base": "myrmidon",
+  "races": [
+    "stoneborn",
+    "half-giant",
+    "minotaur"
+  ],
+  "tags": [
+    "Melee"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Maces",
+    "Runic Axes",
+    "Runic Maces"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

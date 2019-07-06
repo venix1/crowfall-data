@@ -1,0 +1,30 @@
+{
+  "name": "Archdruid",
+  "base": "druid",
+  "powers": [],
+  "races": [
+    "half-elf",
+    "fae",
+    "wood-elf"
+  ],
+  "tags": [
+    "Ranged"
+  ],
+  "armor_proficiency": [
+    "Leather",
+    "Mail"
+  ],
+  "weapon_proficiency": [
+    "Sickles",
+    "Mystical Staves",
+    "Runic Mystical Staves"
+  ],
+  "trays": [
+    "Death",
+    "Life",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

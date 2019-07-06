@@ -1,0 +1,42 @@
+{
+  "name": "Sentinel",
+  "base": "knight",
+  "races": [
+    "human",
+    "high-elf",
+    "stoneborn",
+    "elken",
+    "centaur",
+    "guinecean"
+  ],
+  "tags": [
+    "Melee"
+  ],
+  "powers": [],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Axes",
+    "Longswords",
+    "Maces",
+    "Bucklers",
+    "Medium Shields",
+    "Short Swords",
+    "Runic Axes",
+    "Runic Longswords",
+    "Runic Maces",
+    "Runic Short Swords",
+    "Runic Bucklers",
+    "Runic Medium Shields"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "type": "promotion",
+  "stats": [],
+  "description": ""
+}

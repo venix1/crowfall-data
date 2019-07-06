@@ -1,0 +1,45 @@
+{
+  "name": "Templar",
+  "base": true,
+  "powers": [
+    "spotting",
+    "mental-fortitude",
+    "energetic-harvesting",
+    "great-swing-i",
+    "great-swing-ii",
+    "great-swing-iii",
+    "retaliate-templar",
+    "brilliance"
+  ],
+  "races": [
+    "human",
+    "nethari",
+    "elken"
+  ],
+  "tags": [
+    "Melee"
+  ],
+  "promotions": [
+    "Fury",
+    "Paladin",
+    "Vindicator"
+  ],
+  "armor_proficiency": [
+    "Leather",
+    "Mail",
+    "Plate"
+  ],
+  "weapon_proficiency": [
+    "Great Swords"
+  ],
+  "trays": [
+    "Melee",
+    "Survival"
+  ],
+  "slots_granted": [],
+  "slots_removed": [],
+  "type": "class",
+  "classes": false,
+  "stats": [],
+  "description": ""
+}
