@@ -25,7 +25,7 @@
     "name": "Harvest Power Pips Bonus",
     "value": 0.58
   }],
-  "equips": [],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
+  "trays": []
 }

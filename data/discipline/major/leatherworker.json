@@ -33,15 +33,10 @@
   {
     "name": "Leatherworking Experimentation Points",
     "value": 2
-  }
-],
-  "equips": [
-    "Recipes: Leatherworking Novice",
-    "Recipes: Leatherworking Research",
-    "Recipes: Intermediate Leatherworking Research",
-    "Recipes: Expert Leatherworking Research",
-    "Recipes: Advanced Leatherworking Research"
+  }],
+  "armor_proficiency": [
   ],
-  "tray_granted": "",
-  "tray_removed": ""
+  "weapon_proficiency": [
+  ],
+  "trays": []
 }

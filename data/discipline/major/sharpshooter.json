@@ -34,7 +34,12 @@
       "value": 12.5
     }
   ],
-  "equips": ["Basic Bows", "Compound Bows", "Arrows", "Exotic Arrows"],
-  "tray_granted": "Ranged",
-  "tray_removed": ""
+  "armor_proficiency": [],
+  "weapon_proficiency": [
+    "Basic Bows",
+    "Compound Bows",
+    "Arrows",
+    "Exotic Arrows"
+  ],
+  "trays": ["Ranged"]
 }

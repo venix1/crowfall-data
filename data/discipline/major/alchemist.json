@@ -34,14 +34,10 @@
     "name": "Alchemy Experimentation Points",
     "value": 2
   }
-],
-  "equips": [
-    "Recipes: Alchemy Novice",
-    "Recipes: Alchemy Research",
-    "Recipes: Intermediate Alchemy Research",
-    "Recipes: Expert Alchemy Research",
-    "Recipes: Advanced Alchemy Research"
   ],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [
+  ],
+  "weapon_proficiency": [
+  ],
+  "trays": []
 }

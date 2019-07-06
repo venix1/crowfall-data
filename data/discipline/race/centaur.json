@@ -43,7 +43,9 @@
       "value": -60
     }
   ],
-  "equips": ["Horshoes Slot"],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [
+    "Horseshoes Slot"
+  ],
+  "weapon_proficiency": [],
+  "trays": []
 }

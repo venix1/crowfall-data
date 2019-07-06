@@ -27,11 +27,7 @@
     "name": "Physical Armor Bonus",
     "value": 3
   }],
-  "equips": [
-    "Recipe: Catapult",
-    "Recipe: Ballista",
-    "Recipe: Trebuchet"
-  ],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
+  "trays": []
 }

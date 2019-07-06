@@ -31,7 +31,15 @@
       "value": 6.25
     }
   ],
-  "equips": ["Basic Bows", "Spellbound Bows", "Arrows", "Elemental Arrows"],
-  "tray_granted": "Ranged",
-  "tray_removed": ""
+  "armor_proficiency": [
+  ],
+  "weapon_proficiency": [
+    "Basic Bows",
+    "Spellbound Bows",
+    "Arrows",
+    "Elemental Arrows"
+  ],
+  "trays": [
+    "Ranged"
+  ]
 }

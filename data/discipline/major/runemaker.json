@@ -33,15 +33,8 @@
   {
     "name": "Runemaking Experimentation Points",
     "value": 2
-  }
-],
-  "equips": [
-    "Recipes: Runemaking Novice",
-    "Recipes: Runemaking Research",
-    "Recipes: Intermediate Runemaking Research",
-    "Recipes: Expert Runemaking Research",
-    "Recipes: Advanced Runemaking Research"
-  ],
-  "tray_granted": "",
-  "tray_removed": ""
+  }],
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
+  "trays": []
 }

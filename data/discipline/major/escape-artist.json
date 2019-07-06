@@ -24,8 +24,13 @@
   "slots_removed": [],
   "type": "major",
   "tags": [],
-  "stats": [],
-  "equips": ["Retaliate Refund (35)"],
-  "tray_granted": "",
-  "tray_removed": ""
+  "stats": [{
+      "name": "Retaliate Refund",
+      "value": 35
+  }],
+  "armor_proficiency": [
+  ],
+  "weapon_proficiency": [
+  ],
+  "trays": []
 }

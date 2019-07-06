@@ -33,15 +33,8 @@
   {
     "name": "Stonemasonry Experimentation Points",
     "value": 2
-  }
-],
-  "equips": [
-    "Recipes: Stonemasonry Novice",
-    "Recipes: Stonemasonry Research",
-    "Recipes: Intermediate Stonemasonry Research",
-    "Recipes: Expert Stonemasonry Research",
-    "Recipes: Advanced Stonemasonry Research"
-  ],
-  "tray_granted": "",
-  "tray_removed": ""
+  }],
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
+  "trays": []
 }

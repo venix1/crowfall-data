@@ -33,15 +33,10 @@
   {
     "name": "Necromancy Experimentation Points",
     "value": 2
-  }
-],
-  "equips": [
-    "Recipes: Necromancy Novice",
-    "Recipes: Necromancy Research",
-    "Recipes: Intermediate Necromancy Research",
-    "Recipes: Expert Necromancy Research",
-    "Recipes: Advanced Necromancy Research"
+  }],
+  "armor_proficiency": [
   ],
-  "tray_granted": "",
-  "tray_removed": ""
+  "weapon_proficiency": [
+  ],
+  "trays": []
 }

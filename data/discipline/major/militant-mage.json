@@ -28,7 +28,9 @@
     "name": "Mitigation: Slashing",
     "value": 6.25
   }],
-  "equips": [],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [
+  ],
+  "weapon_proficiency": [
+  ],
+  "trays": []
 }

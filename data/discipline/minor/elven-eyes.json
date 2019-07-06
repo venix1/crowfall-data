@@ -23,7 +23,7 @@
     "name": "Far-sight",
     "value": 23
   }],
-  "equips": [],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
+  "trays": []
 }

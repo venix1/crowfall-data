@@ -25,7 +25,9 @@
     "name": "Armor Penetration: Slashing",
     "value": 6.25
   }],
-  "equips": [],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [
+  ],
+  "weapon_proficiency": [
+  ],
+  "trays": []
 }

@@ -34,17 +34,10 @@
     "name": "Blacksmithing Experimentation Points",
     "value": 2
   }
-],
-  "equips": [
-    "Recipes: Blacksmithing Novice",
-    "Recipes: Blacksmithing Research",
-    "Recipes: Intermediate Armor Research",
-    "Recipes: Expert Armor Research",
-    "Recipes: Advanced Armor Research",
-    "Recipes: Intermediate Weapon Research",
-    "Recipes: Expert Weapon Research",
-    "Recipes: Advanced Weapon Research"
   ],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [
+  ],
+  "weapon_proficiency": [
+  ],
+  "trays": []
 }

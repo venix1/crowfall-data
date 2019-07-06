@@ -45,8 +45,8 @@
       "value": 5
     }
   ],
-  "tray_granted": "",
-  "tray_removed": "",
+  "trays": [],
   "type": "race",
-  "equips": []
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
 }

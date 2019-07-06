@@ -20,19 +20,7 @@
   "type": "minor",
   "tags": ["Crafting"],
   "stats": [],
-  "equips": [
-    "Recipe: Coal",
-    "Recipe: Carbon",
-    "Recipe: Plank",
-    "Recipe: Parchement Paper",
-    "Recipe: Lacing Sinew",
-    "Recipe: Stitched Leather",
-    "Recipe: Basic Toxin",
-    "Recipe: Basic Potion of Harvest: Dust",
-    "Recipe: Basic Potion of Regeneration",
-    "Recipe: Crafting Station: General",
-    "Recipe: Minor Discipline: Ethereal Sight"
-  ],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
+  "trays": []
 }

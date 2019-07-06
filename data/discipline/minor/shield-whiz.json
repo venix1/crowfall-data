@@ -21,7 +21,7 @@
     "name": "Shield Throw Falloff Bonus",
     "value": 6.0
   }],
-  "equips": [],
-  "tray_granted": "",
-  "tray_removed": ""
+  "armor_proficiency": [],
+  "weapon_proficiency": [],
+  "trays": []
 }

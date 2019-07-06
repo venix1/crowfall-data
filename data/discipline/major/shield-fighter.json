@@ -22,9 +22,9 @@
     "name": "Armor Penetration: Crushing",
     "value": 6.25
   }],
-  "equips": [
+  "armor_proficiency": [
     "Small Bucklers"
   ],
-  "tray_granted": "",
-  "tray_removed": ""
+  "weapon_proficiency": [],
+  "trays": []
 }
