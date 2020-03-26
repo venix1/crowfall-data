@@ -14,25 +14,10 @@
     "vile-slash",
     "wicked-slash"
   ],
-  "races": [
-    "human",
-    "half-elf",
-    "wood-elf",
-    "elken",
-    "minotaur"
-  ],
-  "tags": [
-    "Melee",
-    "Ranged"
-  ],
-  "promotions": [
-    "Archer",
-    "Brigand",
-    "Warden"
-  ],
-  "armor_proficiency": [
-    "Leather"
-  ],
+  "races": ["human", "half-elf", "wood-elf", "elken", "minotaur"],
+  "tags": ["Melee", "Ranged"],
+  "promotions": ["Archer", "Brigand", "Warden"],
+  "armor_proficiency": ["Leather"],
   "weapon_proficiency": [
     "Recurve Bows",
     "Axes",
@@ -40,15 +25,11 @@
     "Short Swords",
     "Arrows"
   ],
-  "trays": [
-    "Melee",
-    "Ranged",
-    "Survival"
-  ],
+  "trays": ["Melee", "Ranged", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "The wardens of the Dying Worlds, the Rangers are Crows who in life served as hunters, trappers, spies, and scouts. They scout the world for survivors, scavenging the ruins for resources and torching anything that remains."
 }

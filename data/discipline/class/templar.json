@@ -10,35 +10,16 @@
     "retaliate-templar",
     "brilliance"
   ],
-  "races": [
-    "human",
-    "nethari",
-    "elken"
-  ],
-  "tags": [
-    "Melee"
-  ],
-  "promotions": [
-    "Fury",
-    "Paladin",
-    "Vindicator"
-  ],
-  "armor_proficiency": [
-    "Leather",
-    "Mail",
-    "Plate"
-  ],
-  "weapon_proficiency": [
-    "Great Swords"
-  ],
-  "trays": [
-    "Melee",
-    "Survival"
-  ],
+  "races": ["human", "nethari", "elken"],
+  "tags": ["Melee"],
+  "promotions": ["Fury", "Paladin", "Vindicator"],
+  "armor_proficiency": ["Leather", "Mail", "Plate"],
+  "weapon_proficiency": ["Great Swords"],
+  "trays": ["Melee", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "Holy warriors who excel at both combat and divine magic, a Templar is a soldier who, in life, dedicated themselves to the service of Arkon, the God of Light and Justice."
 }

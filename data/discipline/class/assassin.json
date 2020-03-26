@@ -1,15 +1,7 @@
 {
   "name": "Assassin",
-  "races": [
-    "half-elf",
-    "nethari",
-    "fae",
-    "high-elf"
-  ],
-  "tags": [
-    "Melee",
-    "Stealth"
-  ],
+  "races": ["half-elf", "nethari", "fae", "high-elf"],
+  "tags": ["Melee", "Stealth"],
   "powers": [
     "mental-fortitude",
     "spotting",
@@ -18,28 +10,14 @@
     "retaliate-assassin",
     "stab"
   ],
-  "promotions": [
-    "Cutthroat",
-    "Blackguard",
-    "Vandal"
-  ],
-  "armor_proficiency": [
-    "Leather"
-  ],
-  "weapon_proficiency": [
-    "Axes",
-    "Daggers",
-    "Maces"
-  ],
-  "trays": [
-    "Melee",
-    "Stealth",
-    "Survival"
-  ],
+  "promotions": ["Cutthroat", "Blackguard", "Vandal"],
+  "armor_proficiency": ["Leather"],
+  "weapon_proficiency": ["Axes", "Daggers", "Maces"],
+  "trays": ["Melee", "Stealth", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "Not all Crows were heroes in life. Assassins ply a darker trade; sharp knives, deadly poisons and silent arrows are the tools they use to carve an inglorious role in history."
 }

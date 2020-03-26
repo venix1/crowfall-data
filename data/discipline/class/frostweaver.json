@@ -1,11 +1,7 @@
 {
-  "description": "",
+  "description": "Frostweavers are wizards who practice the magical art of Cryomancy; they harness ancient words of power to drain heat, freeze water and to shape ice and snow.",
   "name": "Frostweaver",
-  "races": [
-    "fae",
-    "wood-elf",
-    "high-elf"
-  ],
+  "races": ["fae", "wood-elf", "high-elf"],
   "tags": [],
   "powers": [],
   "promotions": [],

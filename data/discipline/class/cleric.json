@@ -19,31 +19,19 @@
     "guinecean",
     "elken"
   ],
-  "tags": [
-    "Ranged"
-  ],
-  "promotions": [
-    "Arbiter",
-    "Crusader",
-    "Radical"
-  ],
-  "armor_proficiency": [
-    "Leather",
-    "Mail"
-  ],
+  "tags": ["Ranged"],
+  "promotions": ["Arbiter", "Crusader", "Radical"],
+  "armor_proficiency": ["Leather", "Mail"],
   "weapon_proficiency": [
     "Mystical Throwing Hammer",
     "Bucklers",
     "Medium Shields"
   ],
-  "trays": [
-    "Ranged",
-    "Survival"
-  ],
+  "trays": ["Ranged", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "Clerics are known by many names in life: priests, prelates, bishops, pontiffs. Some follow a single god, but most are pantheistic, devoting their lives to the study and devotion of all of the gods and studying the language of the All Father to lessen the pain and suffering of others."
 }

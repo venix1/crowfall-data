@@ -13,31 +13,16 @@
     "saber-attack-ii",
     "saber-attack-iii"
   ],
-  "races": [
-    "guinecean"
-  ],
+  "races": ["guinecean"],
   "tags": [],
-  "promotions": [
-    "Dirge",
-    "Slayer",
-    "Vanguard Scout"
-  ],
-  "armor_proficiency": [
-    "Leather"
-  ],
-  "weapon_proficiency": [
-    "Pistols",
-    "Rapiers"
-  ],
-  "trays": [
-    "Melee",
-    "Stealth",
-    "Survival"
-  ],
+  "promotions": ["Dirge", "Slayer", "Vanguard Scout"],
+  "armor_proficiency": ["Leather"],
+  "weapon_proficiency": ["Pistols", "Rapiers"],
+  "trays": ["Melee", "Stealth", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "Duelists are a rare breed, a peculiar blend of soldier made possible through the unique combination of blade skill, unnerving reflexes, and the mastery of both engineering and alchemy."
 }

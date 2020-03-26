@@ -1,16 +1,7 @@
 {
   "name": "Knight",
-  "races": [
-    "human",
-    "high-elf",
-    "stoneborn",
-    "elken",
-    "centaur",
-    "guinecean"
-  ],
-  "tags": [
-    "Melee"
-  ],
+  "races": ["human", "high-elf", "stoneborn", "elken", "centaur", "guinecean"],
+  "tags": ["Melee"],
   "powers": [
     "spotting",
     "mental-fortitude",
@@ -21,16 +12,8 @@
     "ruby-slash",
     "whirling-leap"
   ],
-  "promotions": [
-    "Swordsman",
-    "Secutor",
-    "Sentinel"
-  ],
-  "armor_proficiency": [
-    "Leather",
-    "Mail",
-    "Plate"
-  ],
+  "promotions": ["Swordsman", "Secutor", "Sentinel"],
+  "armor_proficiency": ["Leather", "Mail", "Plate"],
   "weapon_proficiency": [
     "Axes",
     "Longswords",
@@ -39,14 +22,11 @@
     "Bucklers",
     "Medium Shields"
   ],
-  "trays": [
-    "Melee",
-    "Survival"
-  ],
+  "trays": ["Melee", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "A hallmark of feudal society, Knighthood is typically bestowed on men and women noble birth, binding them by oath to protect the land, the people, and the crown."
 }

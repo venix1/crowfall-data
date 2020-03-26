@@ -8,33 +8,16 @@
     "retaliate-druid",
     "focused-spark"
   ],
-  "races": [
-    "half-elf",
-    "fae",
-    "wood-elf"
-  ],
-  "tags": [
-    "Ranged"
-  ],
-  "promotions": [
-    "Archdruid",
-    "Earthkeeper",
-    "Stormcaller"
-  ],
-  "armor_proficiency": [
-    "Leather"
-  ],
-  "weapon_proficiency": [
-    "Sickles"
-  ],
-  "trays": [
-    "Death",
-    "Survival"
-  ],
+  "races": ["half-elf", "fae", "wood-elf"],
+  "tags": ["Ranged"],
+  "promotions": ["Archdruid", "Earthkeeper", "Stormcaller"],
+  "armor_proficiency": ["Leather"],
+  "weapon_proficiency": ["Sickles"],
+  "trays": ["Death", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "In life, the order of the Druids were the followers of Gaea, the Earth Mother. A cult of forest dwellers, the religion took root first with the Wood-Elves before spreading to the Fae and, rarely, took hold with those who share both Human and Wood-Elf blood."
 }

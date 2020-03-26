@@ -10,33 +10,16 @@
     "fireball-iii",
     "retaliate-confessor"
   ],
-  "races": [
-    "nethari",
-    "high-elf",
-    "elken"
-  ],
-  "tags": [
-    "Ranged"
-  ],
-  "promotions": [
-    "Fanatic",
-    "Inquisitor",
-    "Sanctifier"
-  ],
-  "armor_proficiency": [
-    "Leather"
-  ],
-  "weapon_proficiency": [
-    "Tomes"
-  ],
-  "trays": [
-    "Ranged",
-    "Survival"
-  ],
+  "races": ["nethari", "high-elf", "elken"],
+  "tags": ["Ranged"],
+  "promotions": ["Fanatic", "Inquisitor", "Sanctifier"],
+  "armor_proficiency": ["Leather"],
+  "weapon_proficiency": ["Tomes"],
+  "trays": ["Ranged", "Survival"],
   "slots_granted": [],
   "slots_removed": [],
   "type": "class",
   "classes": false,
   "stats": [],
-  "description": ""
+  "description": "Confessors spend their lives dedicated to the Art of Pyromancy, the memorization and recitation of ancient words of power that can be called upon to ignite wood, melt stone, consume flesh, or char bone."
 }
