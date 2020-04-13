@@ -1,0 +1,17 @@
+{
+    "id": "trait-alchemist",
+    "name": "Alchemist",
+    "description": "You are adept at brewing mixtures of ingredients into beneficial potions or deadly toxins.\\n\\nYou can equip Alchemist Disciplines.",
+    "requiredBy": [
+        {
+            "id": "apothecary",
+            "name": "Apothecary"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "alchemist",
+            "name": "Alchemist"
+        }
+    ]
+}

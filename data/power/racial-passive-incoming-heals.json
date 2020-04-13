@@ -3,7 +3,7 @@
     "name": "Blood of the Mountain",
     "description": "increases your Incoming Healing statistic by 15%.",
     "shortDescription": "Passive: Increase Incoming Heals",
-    "icon": "Graphic_Disc_Racial_Stoneborn.png",
+    "icon": "racial-passive-incoming-heals.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

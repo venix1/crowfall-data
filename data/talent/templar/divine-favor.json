@@ -3,7 +3,7 @@
     "name": "Divine Favor",
     "class": "templar",
     "description": "Divine Favor improves Decay Rate: Plate by 3% per point spent.",
-    "icon": "Skill_Icon_045_005.png",
+    "icon": "divine-favor.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

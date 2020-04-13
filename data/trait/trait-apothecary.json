@@ -1,0 +1,12 @@
+{
+    "id": "trait-apothecary",
+    "name": "Apothecary",
+    "description": "You are an expert Alchemist, masterfully brewing a mixture of ingredients into the perfect potion.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "apothecary",
+            "name": "Apothecary"
+        }
+    ]
+}

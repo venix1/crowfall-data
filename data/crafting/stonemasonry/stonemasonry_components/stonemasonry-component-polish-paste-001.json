@@ -1,0 +1,30 @@
+{
+    "name": "Polishing Paste",
+    "id": "stonemasonry-component-polish-paste-001",
+    "icon": "stonemasonry_component_polish_paste_001.png",
+    "description": "Creates a Polishing Paste used to polish gems.",
+    "outputQuantity": 1,
+    "xp": 3.75,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_components",
+    "ingredients": [
+        {
+            "name": "Powdered Stone",
+            "id": "powdered-stone",
+            "icon": "Powdered Stone.png",
+            "quantity": 8,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Water Flask",
+            "id": "water-flask",
+            "icon": "Water Flask.png",
+            "quantity": 3,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

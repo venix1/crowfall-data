@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-crafting-046",
+    "name": "Blacksmithing Techniques Mastery",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases the chance of Assembly Success and the amount of Experimentation Points when assembling Blacksmithing items.",
+    "icon": "skill-generic-crafting-046.png",
+    "stats": [
+        {
+            "name": "Blacksmithing",
+            "amount": "2"
+        },
+        {
+            "name": "Blacksmithing Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-045",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

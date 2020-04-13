@@ -3,7 +3,7 @@
     "name": "Sun-Kissed Skin",
     "description": "increases your Anti-Critical Strike statistic by 3%.",
     "shortDescription": "Passive: Increase Anti-Critical Strike",
-    "icon": "Graphic_Disc_Racial_Nethari.png",
+    "icon": "racial-passive-anti-critical-strike.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

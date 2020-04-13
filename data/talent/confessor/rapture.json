@@ -3,7 +3,7 @@
     "name": "Rapture",
     "class": "confessor",
     "description": "Rapture improves Damage Bonus: Enemy Low Health by 3% per point spent.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "rapture.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

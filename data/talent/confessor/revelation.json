@@ -3,7 +3,7 @@
     "name": "Revelation",
     "class": "confessor",
     "description": "Revelation improves Critical Damage by 5% per point spent.",
-    "icon": "Skill_Icon_023_006.png",
+    "icon": "revelation.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

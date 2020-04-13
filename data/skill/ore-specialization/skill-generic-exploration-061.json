@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-061",
+    "name": "Harvest Critical: Copper Ore",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when mining Copper.",
+    "icon": "skill-generic-exploration-061.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Copper",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-366",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-062"
+    ]
+}

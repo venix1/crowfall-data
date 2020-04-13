@@ -3,11 +3,14 @@
     "name": "Ultimate Warrior",
     "class": "champion",
     "description": "This talent grants the Ultimate Warrior power.",
-    "icon": "Skill_Icon_017_026.png",
+    "icon": "ultimate-warrior.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "champion-ultimate-warrior"
+        {
+            "id": "ultimate-warrior",
+            "name": "Ultimate Warrior"
+        }
     ],
     "unlockedFromSkill": [
         {

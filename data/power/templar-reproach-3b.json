@@ -2,7 +2,8 @@
     "id": "templar-reproach-3b",
     "name": "Righteous Smash",
     "description": "spins you with an overhead chop, hitting multiple enemies for 117 - 176 + 146% Weapon Damage and generating Righteousness for each hit.",
-    "icon": "Graphic_Tmpr_RighteousSmash.png",
+    "shortDescription": "",
+    "icon": "templar-reproach-3b.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

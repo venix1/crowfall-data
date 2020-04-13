@@ -1,0 +1,12 @@
+{
+    "id": "trait-elemental-arrows",
+    "name": "Elemental Arrows",
+    "description": "Sturdy, advanced ammunition used with Bows to perfom ranged ice or fire attacks.\\n\\n\\Each shot with a bow will expend one arrow.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "arcane-archer",
+            "name": "Arcane Archer"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-leather-02-04",
+    "name": "Piercing Resistance",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 21960,
+    "description": "Increases Piercing Resistance while using Leather chest armor.",
+    "icon": "skill-combat-leather-02-04.png",
+    "stats": [
+        {
+            "name": "Piercing Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-leather-02-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-leather-02-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-leather-02-03",
+        "skill-combat-leather-02-05"
+    ]
+}

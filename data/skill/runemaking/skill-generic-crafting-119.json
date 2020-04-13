@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-119",
+    "name": "Runemaking Assembly Cap",
+    "tree": "Runemaking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the maximum potential value of Runemaking Assembly.",
+    "icon": "skill-generic-crafting-119.png",
+    "stats": [
+        {
+            "name": "Runemaking Cap",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-117",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-120"
+    ]
+}

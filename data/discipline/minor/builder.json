@@ -2,8 +2,11 @@
     "id": "builder",
     "name": "Builder",
     "type": "minor",
-    "trait": "",
-    "icon": "Minor_Stonemasonry.png",
+    "trait": {
+        "id": "trait-stonemason",
+        "name": "Stonemason"
+    },
+    "icon": "builder.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,8 +16,11 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Builder"
+    "grantsTrait": [
+        {
+            "id": "trait-builder",
+            "name": "Builder"
+        }
     ],
     "description": "Temporary Additive Slots:\\nGrants Chaos Ember additive slot for Diamond Cutting Blade.\\n\\nReduced Recipe Resource Costs:\\nDiamond Cutting Blade\\nGrinding Wheel\\nPolishing Paste",
     "lore": "Just a pile of rocks? More like a pile of ideas!"

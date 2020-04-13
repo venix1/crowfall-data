@@ -2,7 +2,8 @@
     "id": "myrmidon-bloodied-swipe",
     "name": "Bloody Swipe",
     "description": "leaps you forward striking twice for 54 - 66 + 60% Weapon Damage.",
-    "icon": "Graphic_Myrm_BloodiedSwipe.png",
+    "shortDescription": "",
+    "icon": "myrmidon-bloodied-swipe.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

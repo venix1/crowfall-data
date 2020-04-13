@@ -2,8 +2,11 @@
     "id": "thornshield",
     "name": "Thornshield",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_Thornshield.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "thornshield.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "The Elken tend to view Thorns as a minor annoyance, a garnish, or something to eat around as they devour their victims."
 }

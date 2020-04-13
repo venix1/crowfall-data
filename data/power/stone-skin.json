@@ -3,7 +3,7 @@
     "name": "Stone Skin",
     "description": "hardens your skin dramatically increasing Damage Reduction by 50% and making you Poison Immune for 6 seconds, at the cost of reducing any healing done to you by 50%.",
     "shortDescription": "Reduce Damage, Poison Immunity, Reduce Health Gain",
-    "icon": "Graphic_Disc_StoneSkin.png",
+    "icon": "stone-skin.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

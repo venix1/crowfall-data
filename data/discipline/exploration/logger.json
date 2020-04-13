@@ -2,16 +2,19 @@
     "id": "logger",
     "name": "Logger",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_Logger.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "logger.png",
     "stats": [
         {
             "name": "Plentiful Resources Wood: All",
-            "value": 1
+            "value": "1"
         },
         {
             "name": "Harvest Power Pips Bonus",
-            "value": 0.5
+            "value": "0.5"
         }
     ],
     "grantsPowers": [
@@ -22,7 +25,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "A felling axe is a logger's best friend. Even a small axe can take down a big tree, and the resources it yields hold endless possibilities.",
     "lore": "The fresh smell of sawdust is the sweetest scent one can inhale."
 }

@@ -3,7 +3,7 @@
     "name": "Shrivel",
     "description": "curses an enemy with Disease and Blackmantle, absorbing up to 500 points of Healing. \\n\\nIf Shrivel hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
     "shortDescription": "Attack: Blackmantle; Disease; Expose Punish",
-    "icon": "Graphic_Disc_Shrivel.png",
+    "icon": "plaguelord-shrivel.png",
     "stats": {
         "cast_time": "Charged",
         "target": "Ray",

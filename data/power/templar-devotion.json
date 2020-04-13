@@ -1,8 +1,9 @@
 {
     "id": "templar-devotion",
     "name": "Devotion",
-    "description": "is a benediction, healing you and group members based on the damage you inflict once per second (max 200). \\n\\nYou reveal Sin within enemies attacked for 15 seconds.",
-    "icon": "Graphic_Tmpr_Devotion.png",
+    "description": "is a benediction, healing you and group members based on the damage you inflict once per second (max 200). \\n\\nYou reveal Sin within enemies attacked for 15.",
+    "shortDescription": "",
+    "icon": "templar-devotion.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

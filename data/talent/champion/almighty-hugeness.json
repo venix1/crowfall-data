@@ -3,7 +3,7 @@
     "name": "Almighty Hugeness",
     "class": "champion",
     "description": "Almighty Hugeness improves Maximum Health by 250 and the amount healed by Ultimate Warrior by 5% per point spent.",
-    "icon": "Skill_Icon_017_014.png",
+    "icon": "almighty-hugeness.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

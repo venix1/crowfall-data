@@ -1,0 +1,20 @@
+{
+    "id": "trait-cooling-focus-gem",
+    "name": "Cooling Focus Gem",
+    "description": "You are proficient with Cooling Focus Gems.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "chill-out",
+            "name": "Chill Out"
+        },
+        {
+            "id": "frosty-fortification",
+            "name": "Frosty Fortification"
+        },
+        {
+            "id": "tranquility",
+            "name": "Tranquility"
+        }
+    ]
+}

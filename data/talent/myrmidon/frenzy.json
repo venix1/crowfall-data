@@ -3,11 +3,14 @@
     "name": "Frenzy",
     "class": "myrmidon",
     "description": "This talent grants the Frenzy power.",
-    "icon": "Skill_Icon_017_026.png",
+    "icon": "frenzy.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "myrmidon-frenzy"
+        {
+            "id": "frenzy",
+            "name": "Frenzy"
+        }
     ],
     "unlockedFromSkill": [
         {

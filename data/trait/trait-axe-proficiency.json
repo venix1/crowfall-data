@@ -1,0 +1,24 @@
+{
+    "id": "trait-axe-proficiency",
+    "name": "Axe Proficiency",
+    "description": "Whether it's the chopping of a tree or the decimation of your foes, an axe will never fail you.\\n\\nA small, one-handed melee weapon primarily used for slashing cuts.\\n\\nYou are proficient at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        }
+    ]
+}

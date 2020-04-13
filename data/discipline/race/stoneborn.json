@@ -1,41 +1,41 @@
 {
     "id": "stoneborn",
     "name": "Stoneborn",
-    "type": "racial",
-    "trait": "",
-    "icon": "Racial_Stoneborn.png",
+    "type": "race",
+    "trait": {},
+    "icon": "stoneborn.png",
     "stats": [
         {
             "name": "Strength Cap",
-            "value": 300
+            "value": "300"
         },
         {
             "name": "Dexterity Cap",
-            "value": 150
+            "value": "150"
         },
         {
             "name": "Intellect Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Spirit Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Constitution Cap",
-            "value": 350
+            "value": "350"
         },
         {
             "name": "Strength",
-            "value": 30
+            "value": "30"
         },
         {
             "name": "Spirit",
-            "value": 30
+            "value": "30"
         },
         {
             "name": "Constitution",
-            "value": 75
+            "value": "75"
         }
     ],
     "grantsPowers": [
@@ -71,6 +71,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Enchanted creatures shaped of raw earth and living tree, with skin of living stone and beards of twisted vines and earthen roots."
 }

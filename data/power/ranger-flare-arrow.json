@@ -3,7 +3,7 @@
     "name": "Flare Arrow",
     "description": "shoots a flare arrow lighting the targeted area and revealing any Stealth users entering that area. Stealth users revealed in this way are Exposed, take 177 - 239 + 208% Fire Weapon Damage and begin Burning.",
     "shortDescription": "Ground Target Stealth Users Revealed; Punished",
-    "icon": "Graphic_Disc_Flare.png",
+    "icon": "ranger-flare-arrow.png",
     "stats": {
         "cast_time": "Ground Aimed",
         "target": "Area",

@@ -1,0 +1,48 @@
+{
+    "id": "trait-mace-mastery",
+    "name": "Mace Mastery",
+    "description": "There's just something more satisying about using a mace rather than a sword, isn't there?\\n\\nA small, one-handed melee weapon primarily used for crushing blows.\\n\\nYou are a master at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "cutthroat",
+            "name": "Cutthroat"
+        },
+        {
+            "id": "blackguard",
+            "name": "Blackguard"
+        },
+        {
+            "id": "vandal",
+            "name": "Vandal"
+        },
+        {
+            "id": "swordsman",
+            "name": "Swordsman"
+        },
+        {
+            "id": "secutor",
+            "name": "Secutor"
+        },
+        {
+            "id": "sentinel",
+            "name": "Sentinel"
+        },
+        {
+            "id": "titan",
+            "name": "Titan"
+        },
+        {
+            "id": "battle-rager",
+            "name": "Battle Rager"
+        },
+        {
+            "id": "conqueror",
+            "name": "Conqueror"
+        },
+        {
+            "id": "brigand",
+            "name": "Brigand"
+        }
+    ]
+}

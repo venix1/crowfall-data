@@ -1,0 +1,25 @@
+{
+    "id": "skill-combat-weapon-01-01",
+    "name": "Health",
+    "tree": "Weapons",
+    "pointRequirement": 0,
+    "pipAmount": 10800,
+    "description": "Increases Health while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-01-01.png",
+    "stats": [
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-weapon-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-weapon-01-03"
+    ]
+}

@@ -2,8 +2,11 @@
     "id": "matching-plate",
     "name": "Matching Plate",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_MatchingPlate.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "matching-plate.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Don't ever let anyone dull your sparkle."
 }

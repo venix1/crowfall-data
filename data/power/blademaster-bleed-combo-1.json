@@ -3,7 +3,7 @@
     "name": "Blood Strike",
     "description": "slashes enemies for 56 - 75 + 65% Weapon Damage.",
     "shortDescription": "Attack: Bleed multiple enemies",
-    "icon": "Graphic_Disc_BloodStrike_A.png",
+    "icon": "blademaster-bleed-combo-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -3,7 +3,7 @@
     "name": "Rear Kick",
     "description": "kick behind you inflicting Knockdown and causing 68 - 83 + 75% Weapon Damage.",
     "shortDescription": "Attack: Knockdown Enemies Behind You",
-    "icon": "Graphic_Cntr_RearKick.png",
+    "icon": "legionnaire-rear-react.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Rectangle",

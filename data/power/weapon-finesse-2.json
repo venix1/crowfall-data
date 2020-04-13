@@ -3,7 +3,7 @@
     "name": "Weapon Finesse",
     "description": "increases your Power Efficiency statistic by 20%, which reduces the resource cost of using powers.",
     "shortDescription": "Passive: Greatly Reduces Power Resource Costs",
-    "icon": "Graphic_Disc_WeaponFinesse.png",
+    "icon": "weapon-finesse-2.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

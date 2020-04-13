@@ -3,11 +3,14 @@
     "name": "Devotion",
     "class": "templar",
     "description": "This talent grants the Devotion power.",
-    "icon": "Skill_Icon_037_003.png",
+    "icon": "devotion.png",
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [
-        "templar-devotion"
+        {
+            "id": "devotion",
+            "name": "Devotion"
+        }
     ],
     "unlockedFromSkill": [
         {

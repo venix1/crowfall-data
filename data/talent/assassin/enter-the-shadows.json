@@ -3,11 +3,14 @@
     "name": "Enter the Shadows",
     "class": "assassin",
     "description": "This talent grants the Stealth power tray and Recon power.",
-    "icon": "Skill_Icon_045_008.png",
+    "icon": "enter-the-shadows.png",
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [
-        "assassin-stealth-recon"
+        {
+            "id": "recon",
+            "name": "Recon"
+        }
     ],
     "unlockedFromSkill": [
         {

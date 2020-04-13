@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-onehand-01-02",
+    "name": "Hammer: Support Power",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Support Power while using a Hammer in your main hand.",
+    "icon": "skill-combat-range-onehand-01-02.png",
+    "stats": [
+        {
+            "name": "Support Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-01-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-01-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-01-03"
+    ]
+}

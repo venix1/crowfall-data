@@ -2,7 +2,8 @@
     "id": "champion-vicious-stomp",
     "name": "Vicious Stomp",
     "description": "deals 113 - 153 + 133% Weapon Damage and slowing your target.",
-    "icon": "Graphic_Chmp_ViciousStomp.png",
+    "shortDescription": "",
+    "icon": "champion-vicious-stomp.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

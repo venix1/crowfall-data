@@ -2,7 +2,8 @@
     "id": "ranger-cross-slash",
     "name": "Cross Slash",
     "description": "slashes in front of you twice for 38 - 51 + 44% Weapon Damage. Applies a Moderate Bleed effect.",
-    "icon": "Graphic_Rngr_CrossSlash.png",
+    "shortDescription": "",
+    "icon": "ranger-cross-slash.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

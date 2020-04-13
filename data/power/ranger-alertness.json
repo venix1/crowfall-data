@@ -3,7 +3,7 @@
     "name": "Alertness",
     "description": "increases your Perception by 25, Attack Power by 50, removing the Exposed state and detecting enemies in Stealth for group members and you.",
     "shortDescription": "Group increase Perception; Remove Expose",
-    "icon": "Graphic_Disc_HeadsUp.png",
+    "icon": "ranger-alertness.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

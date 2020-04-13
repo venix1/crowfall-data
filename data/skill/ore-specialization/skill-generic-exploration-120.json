@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-120",
+    "name": "Beneficial Harvest Power: Ore",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the intensity of the Beneficial Harvest Effect applied when mining Ore. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-120.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Power: Ore",
+            "amount": "2.4%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-119",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-128"
+    ]
+}

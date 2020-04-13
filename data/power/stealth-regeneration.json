@@ -3,7 +3,7 @@
     "name": "Shadow's Caress",
     "description": "increases your Health Regeneration by 35 while in Stealth.",
     "shortDescription": "Passive: Increase Health Regen in Stealth",
-    "icon": "Graphic_Disc_ShadowsCaress.png",
+    "icon": "stealth-regeneration.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

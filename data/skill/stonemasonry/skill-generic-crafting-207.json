@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-crafting-207",
+    "name": "Stonemasonry Techniques",
+    "tree": "Stonemasonry",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Assembly Success and the amount of Experimentation Points when assembling Stonemasonry items.",
+    "icon": "skill-generic-crafting-207.png",
+    "stats": [
+        {
+            "name": "Stonemasonry",
+            "amount": "1"
+        },
+        {
+            "name": "Stonemasonry Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-199",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-208",
+        "skill-generic-crafting-209"
+    ]
+}

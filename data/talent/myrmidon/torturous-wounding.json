@@ -3,7 +3,7 @@
     "name": "Torturous Wounding",
     "class": "myrmidon",
     "description": "Torturous Wounding enhances Bleeding to also apply the Slow effect.",
-    "icon": "Skill_Icon_019_002.png",
+    "icon": "torturous-wounding.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

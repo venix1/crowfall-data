@@ -2,7 +2,8 @@
     "id": "duelist-stealth-recon",
     "name": "Recon",
     "description": "applies the Exposed debuff to reveal weaknesses you and other specialists may capitalize on.",
-    "icon": "Graphic_Duel_Recon.png",
+    "shortDescription": "",
+    "icon": "duelist-stealth-recon.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

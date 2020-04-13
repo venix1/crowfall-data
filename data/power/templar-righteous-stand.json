@@ -2,7 +2,8 @@
     "id": "templar-righteous-stand",
     "name": "Righteous Stand",
     "description": "defends you, increasing your damage mitigation. \\n\\nYou become immune to crowd control effects and any attack that strikes you restores Righteousness and triggers Righteous Parry.\\n\\nThis attack can be instantly Flash-Cast.",
-    "icon": "Graphic_Tmpr_RighteousStand.png",
+    "shortDescription": "",
+    "icon": "templar-righteous-stand.png",
     "stats": {
         "cast_time": "Hold Channeled",
         "target": "Self",

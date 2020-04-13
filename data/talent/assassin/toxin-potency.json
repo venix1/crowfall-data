@@ -3,7 +3,7 @@
     "name": "Toxin Potency",
     "class": "assassin",
     "description": "Toxin Potency improves Toxin Proc Chance by 3% per point spent.",
-    "icon": "Skill_Icon_018_014.png",
+    "icon": "toxin-potency.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -14,7 +14,7 @@
         }
     ],
     "unlocksSkill": [
-        "killer-s-instinct"
+        "killers-instinct"
     ],
     "locksSkill": []
 }

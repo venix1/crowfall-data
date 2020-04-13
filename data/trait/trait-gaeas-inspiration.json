@@ -1,0 +1,53 @@
+{
+    "id": "trait-gaeas-inspiration",
+    "name": "Gaea's Inspiration",
+    "description": "Nature isn't a place you visit, it's your home.\\n\\nYou can equip Gaea's Inspiration Disciplines.",
+    "requiredBy": [
+        {
+            "id": "dryad",
+            "name": "Dryad"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "confessor",
+            "name": "Confessor"
+        },
+        {
+            "id": "frostweaver",
+            "name": "Frostweaver"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        },
+        {
+            "id": "promotion-class-archdruid",
+            "name": "Promotion Class - Archdruid"
+        },
+        {
+            "id": "promotion-class-earthkeeper",
+            "name": "Promotion Class - Earthkeeper"
+        },
+        {
+            "id": "promotion-class-archer",
+            "name": "Promotion Class - Archer"
+        },
+        {
+            "id": "promotion-class-warden",
+            "name": "Promotion Class - Warden"
+        }
+    ]
+}

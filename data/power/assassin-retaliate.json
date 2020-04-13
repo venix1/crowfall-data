@@ -2,7 +2,8 @@
     "id": "assassin-retaliate",
     "name": "Retaliate",
     "description": "makes you jump to your feet, damaging nearby enemies for 105 - 158 + 132% Weapon Damage and generating a Pip. \\n\\nRetaliating an Exposed enemy generates an additional Pip.",
-    "icon": "Graphic_Assn_Retaliate.png",
+    "shortDescription": "",
+    "icon": "assassin-retaliate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",
@@ -23,6 +24,7 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest"
+        "harvest",
+        "assassin"
     ]
 }

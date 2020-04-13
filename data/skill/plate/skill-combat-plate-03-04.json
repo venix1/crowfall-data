@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-plate-03-04",
+    "name": "Ice Resistance",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Ice Resistance while using Plate chest armor.",
+    "icon": "skill-combat-plate-03-04.png",
+    "stats": [
+        {
+            "name": "Ice Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-03-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-03-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-03-03"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Bearers Insignia",
     "description": "increases your Out of Combat Health Regen by 10 and apply a barrier when your Health is critically low.",
     "shortDescription": "Passive: Increase Out of Combat Regeneration",
-    "icon": "Graphic_Disc_BearersInsignia.png",
+    "icon": "standardbearer-ooc-regen.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

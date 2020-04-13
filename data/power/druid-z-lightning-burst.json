@@ -2,7 +2,8 @@
     "id": "druid-z-lightning-burst",
     "name": "Lightning Burst",
     "description": "electrifies enemies with lightning for 210 - 315 + 262% Weapon Damage as Electricity Damage.",
-    "icon": "Graphic_Drud_LightningBurst.png",
+    "shortDescription": "",
+    "icon": "druid-z-lightning-burst.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

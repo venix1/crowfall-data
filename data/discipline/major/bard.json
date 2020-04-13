@@ -2,16 +2,19 @@
     "id": "bard",
     "name": "Bard",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Bard.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "bard.png",
     "stats": [
         {
             "name": "Elemental Resistance",
-            "value": 3
+            "value": "300"
         },
         {
             "name": "Anti-Critical Strike",
-            "value": -5
+            "value": "5%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Bards are quick to jump in with a motivating song or a tune that is sweet and spiriting. The knowledge behind the power of song is a key element; music can provide a restorative feeling and can guard even the weariest of spirits. The importance of an encore is also truly unique to a bard - always leave them wanting more...",
     "lore": "This Bard sings tales of grandeur and woe. Oft a man whose nefarious deeds caused the gods to take notice and interfere in mortal affairs, bringing rules to a ruleless world. Known commonly as Fansy."
 }

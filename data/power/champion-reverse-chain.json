@@ -2,7 +2,8 @@
     "id": "champion-reverse-chain",
     "name": "Leap",
     "description": "launches you forward 16m dealing 65 - 88 + 77% Weapon Damage as Crushing Damage as you land and you may perform a second Leap for zero resource cost.",
-    "icon": "Graphic_Chmp_Leap.png",
+    "shortDescription": "",
+    "icon": "champion-reverse-chain.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

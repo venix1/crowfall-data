@@ -1,0 +1,30 @@
+{
+    "name": "Great Weapon Pommel",
+    "id": "blacksmithing-weapon-pommel-002",
+    "icon": "blacksmithing_weapon_pommel_002.png",
+    "description": "Creates a Great Weapon Pommel that is used to create a Great Weapon Hilt.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "twohand_weapon_components",
+    "ingredients": [
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "Metal Bar.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Metal Bar",
+            "id": "metal-bar",
+            "icon": "Metal Bar.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

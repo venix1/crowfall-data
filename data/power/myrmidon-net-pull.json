@@ -2,7 +2,8 @@
     "id": "myrmidon-net-pull",
     "name": "Net Pull",
     "description": "pulls your target toward you inflicting 95 - 116 + 106% Weapon Damage.",
-    "icon": "Graphic_Myrm_NetPull.png",
+    "shortDescription": "",
+    "icon": "myrmidon-net-pull.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

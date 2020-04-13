@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-189",
+    "name": "Thrall Presence",
+    "tree": "Alchemy",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Enhances the power of Buffs that Alchemy Stations grant when they have a Thrall inhabiting them.",
+    "icon": "skill-generic-crafting-189.png",
+    "stats": [
+        {
+            "name": "Alchemy Thrall Power",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-187",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-188",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-190"
+    ]
+}

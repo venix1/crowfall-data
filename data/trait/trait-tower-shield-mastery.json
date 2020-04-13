@@ -1,0 +1,12 @@
+{
+    "id": "trait-tower-shield-mastery",
+    "name": "Tower Shield Mastery",
+    "description": "A massive shield resembling a portable wall. While the incredible size makes it difficult to use, it provides great protection against damage.\\n\\nYou are a master at wielding this type of shield.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "secutor",
+            "name": "Secutor"
+        }
+    ]
+}

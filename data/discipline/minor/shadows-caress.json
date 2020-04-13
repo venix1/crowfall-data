@@ -1,18 +1,22 @@
 {
-  "id": "shadows-caress",
-  "name": "Shadow's Caress",
-  "type": "minor",
-  "trait": "Stealther",
-  "icon": "Minor_ShadowsCaress.png",
-  "stats": [],
-  "grantsPowers": [
-    {
-      "id": "stealth-regeneration",
-      "name": "Shadow's Caress",
-      "description": "Passive: Increase Health Regen in Stealth"
-    }
-  ],
-  "grantsSlot": [],
-  "grantsEquip": [],
-  "lore": "The shadows are said to wrap around those who frequent them like a soothing blanket, diminishing their wounds. Unless of course that blanket is a dagger. And that dagger is aimed at your heart."
+    "id": "shadows-caress",
+    "name": "Shadow's Caress",
+    "type": "minor",
+    "trait": {
+        "id": "trait-stealther",
+        "name": "Stealther"
+    },
+    "icon": "shadows-caress.png",
+    "stats": [],
+    "grantsPowers": [
+        {
+            "id": "stealth-regeneration",
+            "name": "Shadow's Caress",
+            "description": "Passive: Increase Health Regen in Stealth"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "The shadows are said to wrap around those who frequent them like a soothing blanket, diminishing their wounds. Unless of course that blanket is a dagger. And that dagger is aimed at your heart."
 }

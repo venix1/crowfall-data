@@ -3,7 +3,7 @@
     "name": "Armor Piercing",
     "class": "ranger",
     "description": "Armor Piercing improves Armor Penetration: Physical by 1% per point spent.",
-    "icon": "Skill_Icon_017_020.png",
+    "icon": "armor-piercing.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

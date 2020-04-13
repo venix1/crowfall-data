@@ -3,7 +3,7 @@
     "name": "Grace",
     "class": "templar",
     "description": "Grace enhances Retaliate powers to recover 35 Stamina over 7 seconds.",
-    "icon": "Skill_Icon_034_009.png",
+    "icon": "grace.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

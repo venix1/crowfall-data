@@ -3,7 +3,7 @@
     "name": "Unstoppable",
     "description": "maximizes your Resolve and triggers Crowd Control Immunity for a short time.\\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
     "shortDescription": "Gain Crowd Control Immunity",
-    "icon": "Graphic_Disc_Unstoppable.png",
+    "icon": "juggernaut-unstoppable.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

@@ -3,7 +3,7 @@
     "name": "Risk Management",
     "description": "increases your Additional Risk Difficulty Reduction by 5.",
     "shortDescription": "Passive: Reduces Experiment Additional Risk",
-    "icon": "Graphic_Disc_RiskManagement.png",
+    "icon": "risk-management.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

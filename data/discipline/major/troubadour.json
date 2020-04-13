@@ -2,16 +2,19 @@
     "id": "troubadour",
     "name": "Troubadour",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Troubadour.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "troubadour.png",
     "stats": [
         {
             "name": "Organic Resistance",
-            "value": 3
+            "value": "300"
         },
         {
             "name": "Critical Strike",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "A lyrical poet with a heavy output of vocal assault, the troubadour is one fierce vocalist. The importance of song and rhymes are what set the Troubadour apart from any other lyrical counterpart and can make a great addition to any party.",
     "lore": "The first Troubadour is said to have been a giant, boisterous fellow; o'er nine feet tall, clad in purple armor, lyre in hand, heart as black as midnight pitch."
 }

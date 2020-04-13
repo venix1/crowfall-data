@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-125",
+    "name": "Runemaking Experimentation Points",
+    "tree": "Runemaking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the amount of Experimentation Points available when experimenting on Runemaking items.",
+    "icon": "skill-generic-crafting-125.png",
+    "stats": [
+        {
+            "name": "Runemaking Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-123",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-127"
+    ]
+}

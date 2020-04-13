@@ -1,0 +1,20 @@
+{
+    "id": "trait-great-sword-mastery",
+    "name": "Great Sword Mastery",
+    "description": "These great swords were given the Arkon's blessing at Usolar, the holiest temple of flame.\\n\\nA large, two-handed melee weapon primarily used for slashing cuts.\\n\\nYou are a master at wielding this type of blade.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "vindicator",
+            "name": "Vindicator"
+        },
+        {
+            "id": "paladin",
+            "name": "Paladin"
+        },
+        {
+            "id": "fury",
+            "name": "Fury"
+        }
+    ]
+}

@@ -2,16 +2,19 @@
     "id": "rune-caster",
     "name": "Rune Caster",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_RuneCaster.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "rune-caster.png",
     "stats": [
         {
             "name": "Health",
-            "value": 500
+            "value": "500"
         },
         {
             "name": "Physical Resistance",
-            "value": 3
+            "value": "300"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Deciphering and utilizing the secret mysteries of runes is a tricky and sometimes dangerous endeavor. Rune Casters have been known to look to Illara as the creator and keeper of rune knowledge. Those who are in tune and can decipher the arcane runes are granted many advantages in the form of shields, fortifications, and sanctuary both in and out of combat.",
     "lore": "Runes hold mystical secrets only a few are able to understand."
 }

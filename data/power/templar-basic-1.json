@@ -2,7 +2,8 @@
     "id": "templar-basic-1",
     "name": "Great Swing",
     "description": "attacks for 72 - 108 + 90% Weapon Damage.",
-    "icon": "Graphic_Tmpr_BasicAttack1.png",
+    "shortDescription": "",
+    "icon": "templar-basic-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

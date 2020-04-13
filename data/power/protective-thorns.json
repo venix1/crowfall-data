@@ -3,7 +3,7 @@
     "name": "Protective Thorns",
     "description": "fortifies your Resist All for 20 seconds when activating Thorns and gain one percent Resist All for every 25 points Thorns and Bonus Thorns.",
     "shortDescription": "Passive: Thorns Grant Resistance Class Buff",
-    "icon": "Graphic_Disc_ProtectiveThorns.png",
+    "icon": "protective-thorns.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

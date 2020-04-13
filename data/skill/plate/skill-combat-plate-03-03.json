@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-plate-03-03",
+    "name": "Movement Control Defense",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Movement Control Defense while using Plate chest armor.",
+    "icon": "skill-combat-plate-03-03.png",
+    "stats": [
+        {
+            "name": "Movement Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-03-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-03-02",
+        "skill-combat-plate-03-04"
+    ]
+}

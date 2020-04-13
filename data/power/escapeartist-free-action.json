@@ -3,7 +3,7 @@
     "name": "Free Action",
     "description": "liberates group members and yourself gaining immunity to Crowd Control effects for 5 seconds.\\n\\nThis attack can be instantly Flash-Cast.",
     "shortDescription": "Group Crowd Control Immunity; Cleanse",
-    "icon": "Graphic_Disc_FreeAction.png",
+    "icon": "escapeartist-free-action.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

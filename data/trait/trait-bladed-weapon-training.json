@@ -1,0 +1,45 @@
+{
+    "id": "trait-bladed-weapon-training",
+    "name": "Bladed Weapon Training",
+    "description": "You have trained with many blades, slicing through those who would dare cross you.\\n\\nYou can equip Bladed Weapon Disciplines.",
+    "requiredBy": [
+        {
+            "id": "poisoner",
+            "name": "Poisoner"
+        },
+        {
+            "id": "knife-grinder",
+            "name": "Knife Grinder"
+        },
+        {
+            "id": "blade-master",
+            "name": "Blade Master"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        }
+    ]
+}

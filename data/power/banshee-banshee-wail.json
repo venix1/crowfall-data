@@ -3,7 +3,7 @@
     "name": "Banshee Wail",
     "description": "slows up to 5 enemies.",
     "shortDescription": "Attack: Reduce Movement Speed",
-    "icon": "Graphic_Disc_BansheeWail.png",
+    "icon": "banshee-banshee-wail.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

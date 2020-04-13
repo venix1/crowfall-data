@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-132",
+    "name": "Amazing Picks",
+    "tree": "Excavation",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Damage that Runestone Picks can deal when mining.",
+    "icon": "skill-generic-exploration-132.png",
+    "stats": [
+        {
+            "name": "Mining",
+            "amount": "2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-372",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

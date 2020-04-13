@@ -3,7 +3,7 @@
     "name": "Loved by the Sun",
     "class": "druid",
     "description": "Loved by the Sun improves Healing Bonus by 1% per point spent.",
-    "icon": "Skill_Icon_037_003.png",
+    "icon": "loved-by-the-sun.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -2,7 +2,8 @@
     "id": "cleric-hand-of-gods",
     "name": "Hand Of The Gods",
     "description": "unleashes a divine force holding enemies in place and inflicting 119 - 145 + 132% Weapon Damage.",
-    "icon": "Graphic_Cleric_HandOfTheGods.png",
+    "shortDescription": "",
+    "icon": "cleric-hand-of-gods.png",
     "stats": {
         "cast_time": "Ground Aimed",
         "target": "Area",

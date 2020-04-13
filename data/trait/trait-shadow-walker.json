@@ -1,0 +1,16 @@
+{
+    "id": "trait-shadow-walker",
+    "name": "Shadow Walker",
+    "description": "You were born of the shadows, molded by it. You have harnessed the ability to use the shadows to strike out at your foes.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "duelist",
+            "name": "Duelist"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-361",
+    "name": "Reaping Basics",
+    "tree": "Reaping",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Increases chance to harvest Ethereal Dust while harvesting Wood or Plants. Also increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning or logging.",
+    "icon": "skill-generic-exploration-361.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Wood",
+            "amount": "0.6%"
+        },
+        {
+            "name": "Plentiful Resources Animal: All",
+            "amount": "0.2"
+        },
+        {
+            "name": "Plentiful Resources Wood: All",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-exploration-059",
+        "skill-generic-exploration-060"
+    ]
+}

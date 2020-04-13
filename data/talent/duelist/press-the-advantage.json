@@ -3,7 +3,7 @@
     "name": "Press the Advantage",
     "class": "duelist",
     "description": "Press the Advantage enhances Redirect Pain to also apply a heal over time effect.",
-    "icon": "Skill_Icon_017_005.png",
+    "icon": "press-the-advantage.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-weapon-mastery",
+    "name": "Weapons Mastery",
+    "tree": "Weapons",
+    "pointRequirement": 90,
+    "pipAmount": 19440,
+    "description": "Increases Health, Attack Power, and Support Power while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-mastery.png",
+    "stats": [
+        {
+            "name": "Health",
+            "amount": "20"
+        },
+        {
+            "name": "Attack Power",
+            "amount": "10"
+        },
+        {
+            "name": "Support Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

@@ -3,7 +3,7 @@
     "name": "Promotion Class - Radical",
     "class": "cleric",
     "description": "Role: Ranged Damage\\n\\nUnpopular with members of their order for sacrificing healing for more potent throwing hammers.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Radical promotion class and prevents access to the Crusader and Arbiter promotion classes.",
-    "icon": "Skill_Icon_025_002.png",
+    "icon": "promotion-class-radical.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

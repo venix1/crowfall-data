@@ -3,7 +3,7 @@
     "name": "Divine Armor",
     "class": "confessor",
     "description": "Divine Armor improves Elemental Resistance by 200 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "divine-armor.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -13,7 +13,7 @@
             "point": 2
         },
         {
-            "skill": "arkon-s-fury",
+            "skill": "arkons-fury",
             "point": 1
         },
         {

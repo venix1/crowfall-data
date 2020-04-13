@@ -1,8 +1,9 @@
 {
     "id": "druid-z-aurora-emitter",
     "name": "Aurora Emitter",
-    "description": "strikes enemies with lightning in an area for 145 - 218 as Electricity Damage.\\n\\nEnemies damaged are left electrified, and will pulse an additional 63 to 94 + 78% Weapon Damage as Electricity Damage over 15 seconds to nearby friendlies.",
-    "icon": "Graphic_Drud_AuroraEmitter.png",
+    "description": "strikes enemies with lightning in an area for 145 - 218 as Electricity Damage.\\n\\nEnemies damaged are left electrified, and will pulse an additional 63 to 94 + 78% Weapon Damage as Electricity Damage over 15 to nearby friendlies.",
+    "shortDescription": "",
+    "icon": "druid-z-aurora-emitter.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

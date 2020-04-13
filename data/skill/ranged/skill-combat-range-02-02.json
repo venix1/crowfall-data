@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-02-02",
+    "name": "Armor Penetration: Elemental",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Armor Penetration: Elemental while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-02-02.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Elemental",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-02-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-02-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-02-03"
+    ]
+}

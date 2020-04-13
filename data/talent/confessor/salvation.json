@@ -3,7 +3,7 @@
     "name": "Salvation",
     "class": "confessor",
     "description": "Salvation enhances Condemnation to heal the caster each time it hits.",
-    "icon": "Skill_Icon_037_003.png",
+    "icon": "salvation.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

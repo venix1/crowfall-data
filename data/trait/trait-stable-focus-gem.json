@@ -1,0 +1,12 @@
+{
+    "id": "trait-stable-focus-gem",
+    "name": "Stable Focus Gem",
+    "description": "You are proficient with Stable Focus Gems.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "ice-weave",
+            "name": "Ice Weave"
+        }
+    ]
+}

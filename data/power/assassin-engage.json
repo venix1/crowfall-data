@@ -2,7 +2,8 @@
     "id": "assassin-engage",
     "name": "Engage",
     "description": "re-engages moving you 15m forward with an attack doing 71 - 107 + 89% Weapon Damage, generating a Pip and increasing your damage by 10% for 15 seconds.",
-    "icon": "Graphic_Assn_Dash.png",
+    "shortDescription": "",
+    "icon": "assassin-engage.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

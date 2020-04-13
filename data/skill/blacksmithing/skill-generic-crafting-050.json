@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-050",
+    "name": "Blacksmithing Experimentation Points",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the amount of Experimentation Points available when experimenting on Blacksmithing items.",
+    "icon": "skill-generic-crafting-050.png",
+    "stats": [
+        {
+            "name": "Blacksmithing Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-048",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-052"
+    ]
+}

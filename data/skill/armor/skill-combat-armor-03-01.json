@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-armor-03-01",
+    "name": "Anti-Critical Strike",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Anti-Critical Strike while wearing armor.",
+    "icon": "skill-combat-armor-03-01.png",
+    "stats": [
+        {
+            "name": "Anti-Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-armor-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-armor-03-02",
+        "skill-combat-armor-03-05"
+    ]
+}

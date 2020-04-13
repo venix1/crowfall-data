@@ -1,7 +1,7 @@
 {
     "name": "Discipline: Major",
     "id": "runecarving-discipline-002",
-    "icon": "runestoneMajorDisciplines.png",
+    "icon": "runecarving_discipline_002.png",
     "description": "Creates a Major Discipline. The type of Soul used will determine the type of Discipline created.",
     "outputQuantity": 1,
     "xp": 45,
@@ -11,7 +11,7 @@
         {
             "name": "Sigil: Binding",
             "id": "sigil-binding",
-            "icon": "sigil.png",
+            "icon": "Sigil: Binding.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Unmarked Stone Runestone",
             "id": "unmarked-stone-runestone",
-            "icon": "runestoneBlank.png",
+            "icon": "Unmarked Stone Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Aurelium Bar",
             "id": "aurelium-bar",
-            "icon": "metal.png",
+            "icon": "Aurelium Bar.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
@@ -47,7 +47,7 @@
         {
             "name": "Domination Dust",
             "id": "domination-dust",
-            "icon": "etherealDust.png",
+            "icon": "Domination Dust.png",
             "quantity": 4,
             "slotIndex": 4,
             "wildcard": false,
@@ -56,7 +56,7 @@
         {
             "name": "Aurelium Bar",
             "id": "aurelium-bar",
-            "icon": "metal.png",
+            "icon": "Aurelium Bar.png",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": false,

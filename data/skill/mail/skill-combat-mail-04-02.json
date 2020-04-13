@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-mail-04-02",
+    "name": "Fire Resistance",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Fire Resistance while using Mail chest armor.",
+    "icon": "skill-combat-mail-04-02.png",
+    "stats": [
+        {
+            "name": "Fire Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-04-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-04-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-04-03"
+    ]
+}

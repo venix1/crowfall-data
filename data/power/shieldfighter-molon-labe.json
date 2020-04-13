@@ -3,7 +3,7 @@
     "name": "Molon Labe",
     "description": "increases the Damage Bonus from blocking Big Hits by 5% - Knight only. Enemies that strike you with Elemental attacks take 100% Weapon Damage in return.",
     "shortDescription": "Passive: Blocks Reflect Elemental Damage",
-    "icon": "Graphic_Disc_MolonLabe.png",
+    "icon": "shieldfighter-molon-labe.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

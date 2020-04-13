@@ -2,8 +2,11 @@
     "id": "dig-in",
     "name": "Dig In!",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_DigIn.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "dig-in.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Stay strong and make them wonder how you're still standing."
 }

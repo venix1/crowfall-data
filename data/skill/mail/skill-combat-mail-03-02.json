@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-mail-03-02",
+    "name": "Disease Resistance",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Disease Resistance while using Mail chest armor.",
+    "icon": "skill-combat-mail-03-02.png",
+    "stats": [
+        {
+            "name": "Disease Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-03-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-03-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-03-03"
+    ]
+}

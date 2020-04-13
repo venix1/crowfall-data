@@ -1,0 +1,32 @@
+{
+    "id": "skill-generic-exploration-094",
+    "name": "Ore Specialization",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Reduces the amount of Decay that Runestone Picks suffer when mining.\\n\\nBeneficial Harvests from mining can now apply temporary Buff Effects to you.\\n\\nIncreases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Hunger Crystals.",
+    "icon": "skill-generic-exploration-094.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Picks",
+            "amount": "1%"
+        },
+        {
+            "name": "Beneficial Harvest Effects: Ore",
+            "amount": "0.2%"
+        },
+        {
+            "name": "Plentiful Resources Hunger Shards",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-exploration-095",
+        "skill-generic-exploration-096",
+        "skill-generic-exploration-097",
+        "skill-generic-exploration-098",
+        "skill-generic-exploration-366"
+    ]
+}

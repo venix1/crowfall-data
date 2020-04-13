@@ -2,7 +2,8 @@
     "id": "confessor-retaliate",
     "name": "Retaliate",
     "description": "returns you to your feet, dealing 107 - 160 + 133% Weapon Damage to nearby enemies.",
-    "icon": "Graphic_Conf_Retaliate.png",
+    "shortDescription": "",
+    "icon": "confessor-retaliate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

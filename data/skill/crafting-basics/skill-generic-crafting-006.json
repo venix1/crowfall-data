@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-crafting-006",
+    "name": "Necromancy Basics",
+    "tree": "Crafting Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Unlocks the Necromancy skill tree.",
+    "icon": "skill-generic-crafting-006.png",
+    "stats": [
+        {
+            "name": "Necromancy",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-004",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

@@ -1,0 +1,22 @@
+{
+    "id": "skill-combat-armor-center",
+    "name": "Armor Principles",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Health while wearing armor.",
+    "icon": "skill-combat-armor-center.png",
+    "stats": [
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-armor-01-01",
+        "skill-combat-armor-02-01",
+        "skill-combat-armor-03-01"
+    ]
+}

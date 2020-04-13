@@ -1,0 +1,28 @@
+{
+    "id": "skill-generic-exploration-220",
+    "name": "Wood Specialization",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Reduces the amount of Decay that Runestone Axes suffer when logging. Also Beneficial Harvests from logging can now apply temporary Buff Effects to you.",
+    "icon": "skill-generic-exploration-220.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Axes",
+            "amount": "1%"
+        },
+        {
+            "name": "Beneficial Harvest Effects: Wood",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-exploration-221",
+        "skill-generic-exploration-222",
+        "skill-generic-exploration-223",
+        "skill-generic-exploration-224",
+        "skill-generic-exploration-395"
+    ]
+}

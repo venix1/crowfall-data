@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Life",
     "id": "runecarving-runestone-sigil-005",
-    "icon": "sigilLife.png",
+    "icon": "runecarving_runestone_sigil_005.png",
     "description": "Crafting Component used in the assembly of a Runestone: Life.",
     "outputQuantity": 1,
     "xp": 15,
@@ -11,7 +11,7 @@
         {
             "name": "Parchment Paper",
             "id": "parchment-paper",
-            "icon": "parchmentPaper.png",
+            "icon": "Parchment Paper.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Ore",
             "id": "ore",
-            "icon": "ore.png",
+            "icon": "Ore.png",
             "quantity": 3,
             "slotIndex": 1,
             "wildcard": false,

@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-216",
+    "name": "Amazing Knives",
+    "tree": "Reaping",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Damage that Runestone Knives can deal when skinning.",
+    "icon": "skill-generic-exploration-216.png",
+    "stats": [
+        {
+            "name": "Skinning",
+            "amount": "2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-402",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

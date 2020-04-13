@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-149",
+    "name": "Harvest Tool Decay: Runestone Hammers",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Reduces the amount of Decay a Runestone Hammer suffers when quarrying.",
+    "icon": "skill-generic-exploration-149.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Hammers",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-148",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-155",
+        "skill-generic-exploration-163"
+    ]
+}

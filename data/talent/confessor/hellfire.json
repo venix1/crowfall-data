@@ -3,11 +3,14 @@
     "name": "Hellfire",
     "class": "confessor",
     "description": "This talent grants the Hellfire Shield power.",
-    "icon": "Skill_Icon_025_001.png",
+    "icon": "hellfire.png",
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [
-        "confessor-hellfire-1"
+        {
+            "id": "hellfire-shield",
+            "name": "Hellfire Shield"
+        }
     ],
     "unlockedFromSkill": [
         {

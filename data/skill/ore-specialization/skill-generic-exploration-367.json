@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-367",
+    "name": "Plethora of Dust: Copper Ore",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for bonus Ethereal Dust when mining Copper.",
+    "icon": "skill-generic-exploration-367.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Copper",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-078",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-368"
+    ]
+}

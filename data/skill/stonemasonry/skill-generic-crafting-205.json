@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-205",
+    "name": "Total Crafting Rerolls",
+    "tree": "Stonemasonry",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Decreases the cost of a Total Reroll after experimenting on an item.",
+    "icon": "skill-generic-crafting-205.png",
+    "stats": [
+        {
+            "name": "Total Reroll Cost Modifier",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-203",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-204",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-206"
+    ]
+}

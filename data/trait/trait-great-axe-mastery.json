@@ -1,0 +1,20 @@
+{
+    "id": "trait-great-axe-mastery",
+    "name": "Great Axe Mastery",
+    "description": "Tebuk, a pit fighter, was laughed at for bringing a great axe into the arena for the first time. When he was done, no one was laughing.\\n\\nA large, two-handed melee weapon primarily used for slashing cuts.\\n\\nYou are a master at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "alpha-warrior",
+            "name": "Alpha Warrior"
+        },
+        {
+            "id": "pit-fighter",
+            "name": "Pit Fighter"
+        },
+        {
+            "id": "barbarian",
+            "name": "Barbarian"
+        }
+    ]
+}

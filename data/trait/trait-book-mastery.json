@@ -1,0 +1,20 @@
+{
+    "id": "trait-book-mastery",
+    "name": "Book Mastery",
+    "description": "Valkyn wrote the secrets of the elements in books, believing no mortal creature would become literate in its arcane language. He was wrong.\\n\\nA medium, two-handed ranged weapon primarily used for dealing fire damage, however there are whispers amongst members of the clergy about books that hold the secrets of ice and electricity.\\n\\nYou are a master at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "fanatic",
+            "name": "Fanatic"
+        },
+        {
+            "id": "sanctifier",
+            "name": "Sanctifier"
+        },
+        {
+            "id": "inquisitor",
+            "name": "Inquisitor"
+        }
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "I Need This!",
     "description": "grants 16 Stamina when successfully hitting a Weak Point.",
     "shortDescription": "Passive: Weak Points Grant Stamina",
-    "icon": "Graphic_Disc_INeedThis.png",
+    "icon": "hoarder-need-this.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

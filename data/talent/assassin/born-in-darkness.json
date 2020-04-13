@@ -3,7 +3,7 @@
     "name": "Born in Darkness",
     "class": "assassin",
     "description": "Born in Darkness improves Maximum Health by 100 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "born-in-darkness.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

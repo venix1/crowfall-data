@@ -3,7 +3,7 @@
     "name": "Blazing Light",
     "class": "templar",
     "description": "Blazing Light enhances Divine Light to increase its damage but removes its healing properties.",
-    "icon": "Skill_Icon_018_010.png",
+    "icon": "blazing-light.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

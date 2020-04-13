@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-255",
+    "name": "Ash Specialization",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when logging Ash.",
+    "icon": "skill-generic-exploration-255.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Wood: Ash",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-249",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

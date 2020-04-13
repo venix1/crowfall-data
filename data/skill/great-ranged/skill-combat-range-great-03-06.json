@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-great-03-06",
+    "name": "Mystical Staff: Support Power",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Support Power while using a Mystical Staff.",
+    "icon": "skill-combat-range-great-03-06.png",
+    "stats": [
+        {
+            "name": "Support Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-03-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-03-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-03-05"
+    ]
+}

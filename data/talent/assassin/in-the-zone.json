@@ -3,11 +3,14 @@
     "name": "In the Zone",
     "class": "assassin",
     "description": "This talent grants the In The Zone power.",
-    "icon": "Skill_Icon_024_014.png",
+    "icon": "in-the-zone.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "assassin-in-zone"
+        {
+            "id": "in-the-zone",
+            "name": "In The Zone"
+        }
     ],
     "unlockedFromSkill": [
         {

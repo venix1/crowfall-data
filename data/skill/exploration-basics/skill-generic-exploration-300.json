@@ -1,0 +1,22 @@
+{
+    "id": "skill-generic-exploration-300",
+    "name": "Exploration Basics",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 2160,
+    "description": "Increases chance to harvest Apples when logging Trees.",
+    "icon": "skill-generic-exploration-300.png",
+    "stats": [
+        {
+            "name": "Harvest Chance: Apples",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-exploration-301",
+        "skill-generic-exploration-302",
+        "skill-generic-exploration-303"
+    ]
+}

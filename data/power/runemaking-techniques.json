@@ -3,7 +3,7 @@
     "name": "Symbol Sculpting",
     "description": "increases your Runemaking Cap by 15 and Runemaking Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Runemaking Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_RunemakingTechniques.png",
+    "icon": "runemaking-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

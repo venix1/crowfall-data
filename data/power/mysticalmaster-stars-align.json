@@ -3,7 +3,7 @@
     "name": "Kinetic Boost",
     "description": "empowers you briefly increasing your Damage Bonus by 20% and Power Efficiency by 20% for 20 seconds.",
     "shortDescription": "Gain Damage Bonus; Reduce Ability Cost",
-    "icon": "Graphic_Disc_StarsAlign.png",
+    "icon": "mysticalmaster-stars-align.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

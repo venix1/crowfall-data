@@ -2,16 +2,19 @@
     "id": "underdog",
     "name": "Underdog",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Underdog.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "underdog.png",
     "stats": [
         {
-            "name": "Max Stamina",
-            "value": 5
+            "name": "Stamina",
+            "value": "5"
         },
         {
             "name": "Critical Strike",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [
+    "grantsTrait": [
         "Retaliate Refund (35)"
     ],
     "description": "It has been said repeatedly throughout time that the outcome of a match can rarely be predicted. No matter how many times an underdog gets knocked down they are determined to get back up and back into the fray. Remember, it’s not the size of the dog in the fight!",

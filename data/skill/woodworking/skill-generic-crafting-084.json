@@ -1,0 +1,22 @@
+{
+    "id": "skill-generic-crafting-084",
+    "name": "Woodworking Novice",
+    "tree": "Woodworking",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Assembly Success when assembling Woodworking items.",
+    "icon": "skill-generic-crafting-084.png",
+    "stats": [
+        {
+            "name": "Woodworking",
+            "amount": "2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-crafting-085",
+        "skill-generic-crafting-092",
+        "skill-generic-crafting-099"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Marksmanship",
     "class": "duelist",
     "description": "Marksmanship improves Ranged Distance Bonus by 3 per point spent.",
-    "icon": "Skill_Icon_044_002.png",
+    "icon": "marksmanship.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

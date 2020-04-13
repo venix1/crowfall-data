@@ -2,7 +2,8 @@
     "id": "ranger-laceration",
     "name": "Laceration",
     "description": "slashes in front of you twice for 58 - 78 + 68% Weapon Damage. Applies a Weapon Break which reduces that target's damage by 20% for 15 seconds.",
-    "icon": "Graphic_Rngr_Laceration.png",
+    "shortDescription": "",
+    "icon": "ranger-laceration.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

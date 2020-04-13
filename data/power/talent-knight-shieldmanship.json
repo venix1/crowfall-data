@@ -2,7 +2,8 @@
     "id": "talent-knight-shieldmanship",
     "name": "Shieldmanship",
     "description": "increases the amount of base damage of Shield Bash by 50%.\\n\\nAll shield attacks that damage an enemy instantly enable the Shield Bash power.\\n\\nShield Bashing an enemy will not enable itself.",
-    "icon": "Graphic_Kngt_Shieldmanship.png",
+    "shortDescription": "",
+    "icon": "talent-knight-shieldmanship.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

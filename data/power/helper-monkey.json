@@ -3,7 +3,7 @@
     "name": "Helper Monkey",
     "description": "increases your Assembly Difficulty Reduction by 5 and Experiment Difficulty Reduction by 5.",
     "shortDescription": "Passive: Reduces Craft Assembly and Experiment Difficulty of Recipes",
-    "icon": "Graphic_Disc_HelperMonkey.png",
+    "icon": "helper-monkey.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -2,16 +2,19 @@
     "id": "skinner",
     "name": "Skinner",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_Skinner.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "skinner.png",
     "stats": [
         {
             "name": "Plentiful Resources Animal: All",
-            "value": 1
+            "value": "1"
         },
         {
             "name": "Harvest Power Pips Bonus",
-            "value": 0.5
+            "value": "0.5"
         }
     ],
     "grantsPowers": [
@@ -22,7 +25,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "A responsibility not to be taken lightly, the job of a skinner is one of the most important roles in the Dying Worlds. Taking down a wild creature and acquiring the necessary hides and meats from the carrion requires absolute finesse and a distinguished spirit.",
     "lore": "Not for the squeamish!"
 }

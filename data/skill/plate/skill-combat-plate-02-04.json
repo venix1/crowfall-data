@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-plate-02-04",
+    "name": "Crushing Resistance",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Crushing Resistance while using Plate chest armor.",
+    "icon": "skill-combat-plate-02-04.png",
+    "stats": [
+        {
+            "name": "Crushing Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-02-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-02-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-02-03",
+        "skill-combat-plate-02-05"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Executioner",
     "class": "templar",
     "description": "Executioner enhances Execute to remove its Pip cost.",
-    "icon": "Skill_Icon_017_016.png",
+    "icon": "executioner.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Potion Swirling",
     "description": "increases your Alchemy Cap by 15 and Alchemy Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Alchemy Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_AlchemyTechniques.png",
+    "icon": "alchemy-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

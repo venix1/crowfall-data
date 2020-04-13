@@ -2,7 +2,8 @@
     "id": "templar-passive-paladin",
     "name": "Paladin",
     "description": "increases your Critical Healing Chance by 2% for 15 seconds each time an ally is healed. \\n\\nThis effect stacks.",
-    "icon": "Graphic_Tmpr_Paladin.png",
+    "shortDescription": "",
+    "icon": "templar-passive-paladin.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

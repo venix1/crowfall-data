@@ -2,7 +2,8 @@
     "id": "assassin-passive-poison-2",
     "name": "Poison Toxin",
     "description": "poisons your weapon so attacks have a chance to afflict targets with Severe Poison.\\n\\nWhen used together with Diffusion, poisoned enemies have their movement slowed and take damage scaling with Pips spent:\\n\\n1 Pip: 64 - 95 + 79% Weapon Damage \\n2 Pips: 128 - 190 + 158% Weapon Damage \\n3 Pips: 192 - 285 + 237% Weapon Damage \\n4 Pips: 256 - 380 + 316% Weapon Damage \\n5 Pips: 318 - 476 + 397% Weapon Damage\\n\\nOnly 1 Toxin can be equipped at a time.",
-    "icon": "Graphic_Assn_ToxinPoison.png",
+    "shortDescription": "",
+    "icon": "assassin-passive-poison-2.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

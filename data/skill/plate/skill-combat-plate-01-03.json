@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-plate-01-03",
+    "name": "Hard Control Defense",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Hard Control Defense while using Plate chest armor.",
+    "icon": "skill-combat-plate-01-03.png",
+    "stats": [
+        {
+            "name": "Hard Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-01-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-01-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-01-02",
+        "skill-combat-plate-01-04"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Seasoned Hand",
     "description": "decreases your Decay Rate: All Tools by 50%.",
     "shortDescription": "Passive: Greatly Decreases Harvesting Tool Decay",
-    "icon": "Graphic_Disc_SeasonedHand.png",
+    "icon": "villein-seasoned-hand.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

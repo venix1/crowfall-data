@@ -2,7 +2,8 @@
     "id": "mysticalmaster-quick-burn",
     "name": "Quick Burn",
     "description": "tips the scales toward Death, increasing how fast you generate Essence by 50%.\\n\\nAlso increases your Healing Bonus by 5%.",
-    "icon": "Graphic_Disc_QuickBurn.png",
+    "shortDescription": "",
+    "icon": "mysticalmaster-quick-burn.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

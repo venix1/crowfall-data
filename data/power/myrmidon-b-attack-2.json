@@ -2,7 +2,8 @@
     "id": "myrmidon-b-attack-2",
     "name": "Savage Swings",
     "description": "attacks with your left weapon for 83 - 101 + 92% Weapon Damage.",
-    "icon": "Graphic_Myrm_Basic2.png",
+    "shortDescription": "",
+    "icon": "myrmidon-b-attack-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

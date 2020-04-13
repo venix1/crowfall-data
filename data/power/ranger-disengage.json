@@ -2,7 +2,8 @@
     "id": "ranger-disengage",
     "name": "Disengage",
     "description": "leaps you backwards 25m rooting your target, dealing 148 - 201 + 175% Weapon Damage and placing you into your Ranged tray.",
-    "icon": "Graphic_Rngr_Disengage.png",
+    "shortDescription": "",
+    "icon": "ranger-disengage.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

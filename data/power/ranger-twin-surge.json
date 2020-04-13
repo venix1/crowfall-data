@@ -2,7 +2,8 @@
     "id": "ranger-twin-surge",
     "name": "Twin Surge",
     "description": "slashes in front of you with both blades dealing 57 - 77 + 67% Weapon Damage twice.",
-    "icon": "Graphic_Rngr_TwinSurge.png",
+    "shortDescription": "",
+    "icon": "ranger-twin-surge.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-404",
+    "name": "Beneficial Harvest Lifetime: Animal",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the Duration of a Beneficial Harvest Effect applied when skinning Animals. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-404.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Lifetime: Animal",
+            "amount": "5%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-403",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-405"
+    ]
+}

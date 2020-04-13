@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-great-01-05",
+    "name": "Great Sword: Armor Penetration: Physical",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Armor Penetration: Physical while using a Great Sword.",
+    "icon": "skill-combat-melee-great-01-05.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-01-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-01-06",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-01-04",
+        "skill-combat-melee-great-01-06"
+    ]
+}

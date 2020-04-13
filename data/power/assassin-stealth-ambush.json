@@ -2,7 +2,8 @@
     "id": "assassin-stealth-ambush",
     "name": "Ambush",
     "description": "steps you from the shadows to deliver a lethal surprise attack causing 181 - 272 + 227% Weapon Damage and generating two Pips. This attack gains a 100% Critical Strike modifier and generates an additional Pip when used against exposed targets.",
-    "icon": "Graphic_Assn_Ambush.png",
+    "shortDescription": "",
+    "icon": "assassin-stealth-ambush.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

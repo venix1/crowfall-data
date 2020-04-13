@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-onehand-02-02",
+    "name": "Pistol: Critical Damage",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Damage while using a Pistol in your main hand.",
+    "icon": "skill-combat-range-onehand-02-02.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-02-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-02-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-02-03"
+    ]
+}

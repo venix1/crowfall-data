@@ -1,7 +1,7 @@
 {
     "name": "Runestone: Death",
     "id": "runecarving-runestone-002",
-    "icon": "runestoneDeath.png",
+    "icon": "runecarving_runestone_002.png",
     "description": "Creates a Death Runestone that is used in the assembly of a Mystical Staff. Adds increased Attack Power to Staff.",
     "outputQuantity": 1,
     "xp": 15,
@@ -11,7 +11,7 @@
         {
             "name": "Sigil: Death",
             "id": "sigil-death",
-            "icon": "sigil.png",
+            "icon": "Sigil: Death.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Unmarked Stone Runestone",
             "id": "unmarked-stone-runestone",
-            "icon": "runestoneBlank.png",
+            "icon": "Unmarked Stone Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Metal Bar",
             "id": "metal-bar",
-            "icon": "metal.png",
+            "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
@@ -38,7 +38,7 @@
         {
             "name": "Metal Bar",
             "id": "metal-bar",
-            "icon": "metal.png",
+            "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,

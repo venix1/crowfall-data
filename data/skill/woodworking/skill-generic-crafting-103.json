@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-103",
+    "name": "Woodworking Experimentation Points",
+    "tree": "Woodworking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the amount of Experimentation Points available when experimenting on Woodworking items.",
+    "icon": "skill-generic-crafting-103.png",
+    "stats": [
+        {
+            "name": "Woodworking Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-101",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-104"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-102",
+    "name": "Harvest Critical: Tin Ore",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when mining Tin.",
+    "icon": "skill-generic-exploration-102.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Tin",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-096",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-103"
+    ]
+}

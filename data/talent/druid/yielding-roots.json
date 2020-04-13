@@ -3,7 +3,7 @@
     "name": "Yielding Roots",
     "class": "druid",
     "description": "Yielding Roots improves Control Defense by 6% per point spent.",
-    "icon": "Skill_Icon_043_021.png",
+    "icon": "yielding-roots.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

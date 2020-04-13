@@ -1,19 +1,20 @@
 {
     "id": "knight-onslaught-2a",
     "name": "Brutal Strike",
-    "description": "attacks in front of you for 168 - 227 + 197% Weapon Damage.",
-    "icon": "Graphic_Kngt_BrutalStrike.png",
+    "description": "attacks for 168 - 227 + 197% Weapon Damage.",
+    "shortDescription": "",
+    "icon": "knight-onslaught-2a.png",
     "stats": {
-        "cast_time": "Instant",
-        "target": "Cone",
-        "cooldown": "9",
-        "max_targets": "1",
-        "range": "4",
-        "cost": "281",
-        "cost_type": "Energy",
-        "min_damage_1": "168",
+        "weapon_damage_value": "197",
         "max_damage_1": "227",
-        "weapon_damage_value": "197"
+        "min_damage_1": "168",
+        "cost_type": "Energy",
+        "cost": "281",
+        "range": "4",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Reticle",
+        "cast_time": "Instant"
     },
     "nextChain": [
         "knight-onslaught-3a",

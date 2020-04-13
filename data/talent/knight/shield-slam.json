@@ -3,11 +3,14 @@
     "name": "Shield Slam",
     "class": "knight",
     "description": "This talent grants the Shield Slam power.",
-    "icon": "Skill_Icon_001_028.png",
+    "icon": "shield-slam.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "knight-shield-slam"
+        {
+            "id": "shield-slam",
+            "name": "Shield Slam"
+        }
     ],
     "unlockedFromSkill": [
         {

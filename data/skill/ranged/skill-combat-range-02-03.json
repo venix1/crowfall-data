@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-02-03",
+    "name": "Armor Penetration: Organic",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Armor Penetration: Organic while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-02-03.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Organic",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-02-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-02-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-02-02",
+        "skill-combat-range-02-04"
+    ]
+}

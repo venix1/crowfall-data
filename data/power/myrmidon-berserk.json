@@ -2,7 +2,8 @@
     "id": "myrmidon-berserk",
     "name": "Berserk",
     "description": "recovers all lost Health continually for 8 seconds. \\n\\nWhen the effect ends you suffer Berserk Crash and all recovered Health is lost again. \\n\\nVarious mechanics can prevent or reduce Health lost from Berserk Crash.\\n\\nThis power's cooldown time cannot be modified.\\n\\nNote: This ability will replace the Bloodthirst Minotaur Racial power.\\n\\nThis attack can be instantly Flash-Cast.",
-    "icon": "Graphic_Myrm_Berserk.png",
+    "shortDescription": "",
+    "icon": "myrmidon-berserk.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

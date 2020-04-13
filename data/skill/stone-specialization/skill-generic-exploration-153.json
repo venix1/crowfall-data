@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-153",
+    "name": "Plentiful Resources: Limestone",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Limestone.",
+    "icon": "skill-generic-exploration-153.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Stone: Limestone",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-143",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

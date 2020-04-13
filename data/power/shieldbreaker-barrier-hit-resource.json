@@ -3,7 +3,7 @@
     "name": "Rupture Barrier",
     "description": "causes an additional 50% Weapon damage when striking a Barrier and restore your Resource.",
     "shortDescription": "Passive: Increase Damage vs Barriers; Gain Resource",
-    "icon": "Graphic_Disc_RuptureBarrier.png",
+    "icon": "shieldbreaker-barrier-hit-resource.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

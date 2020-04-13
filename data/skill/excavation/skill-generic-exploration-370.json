@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-370",
+    "name": "Beneficial Harvest Chance: Ore",
+    "tree": "Excavation",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases chance of a Beneficial Harvest when mining any type of Ore. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-370.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Chance: Ore",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-369",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-371"
+    ]
+}

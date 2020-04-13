@@ -2,16 +2,19 @@
     "id": "friar",
     "name": "Friar",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Friar.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "friar.png",
     "stats": [
         {
             "name": "Critical Healing Chance",
-            "value": 3
+            "value": "3%"
         },
         {
             "name": "Healing Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Friars of the Church of Arkon provide the community with a unique service that no other can provide. Friars willingly listen and pardon the sins of the people with an undaunting zeal; no sin is too great, for they have heard them all and they are eager to hear more. Their unyielding dedication to their trade provides many in their company with benefits in health and the avoidance of sin while also providing the Friars with a few extra perks.",
     "lore": "Share with me your sins and I will absolve you for a fair cost."
 }

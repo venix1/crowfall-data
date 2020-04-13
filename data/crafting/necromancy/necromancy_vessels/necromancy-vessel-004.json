@@ -1,0 +1,75 @@
+{
+    "name": "Wood-Elf Vessel",
+    "id": "necromancy-vessel-004",
+    "icon": "necromancy_vessel_004.png",
+    "description": "Creates a Wood-Elf Vessel.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "necromancy",
+    "subCategory": "necromancy_vessels",
+    "ingredients": [
+        {
+            "name": "Restored Elven Head",
+            "id": "restored-elven-head",
+            "icon": "Restored Elven Head.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Leg",
+            "id": "restored-elven-leg",
+            "icon": "Restored Elven Leg.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Leg",
+            "id": "restored-elven-leg",
+            "icon": "Restored Elven Leg.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Torso",
+            "id": "restored-elven-torso",
+            "icon": "Restored Elven Torso.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Arm",
+            "id": "restored-elven-arm",
+            "icon": "Restored Elven Arm.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Restored Elven Arm",
+            "id": "restored-elven-arm",
+            "icon": "Restored Elven Arm.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Philosopher's Stone",
+            "id": "philosopher-s-stone",
+            "icon": "Philosopher's Stone.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

@@ -3,11 +3,14 @@
     "name": "Massive Cleave",
     "class": "champion",
     "description": "This talent grants the Massive Cleave power.",
-    "icon": "Skill_Icon_002_002.png",
+    "icon": "massive-cleave.png",
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [
-        "champion-massive-cleave-no-combo"
+        {
+            "id": "massive-cleave",
+            "name": "Massive Cleave"
+        }
     ],
     "unlockedFromSkill": [
         {

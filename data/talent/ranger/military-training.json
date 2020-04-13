@@ -3,7 +3,7 @@
     "name": "Military Training",
     "class": "ranger",
     "description": "Military Training improves Ranged Power Damage Bonus by 3% per point spent.",
-    "icon": "Skill_Icon_018_009.png",
+    "icon": "military-training.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

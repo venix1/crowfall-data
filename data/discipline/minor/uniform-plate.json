@@ -2,8 +2,11 @@
     "id": "uniform-plate",
     "name": "Uniform Plate",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_UniformPlate.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "uniform-plate.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Some prefer to armor themselves in cloth and leather, but the more dignified and sturdy combatant prefers a bit more shine."
 }

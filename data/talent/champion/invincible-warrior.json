@@ -3,11 +3,14 @@
     "name": "Invincible Warrior",
     "class": "champion",
     "description": "This talent grants the Invincible Warrior power.",
-    "icon": "Skill_Icon_026_003.png",
+    "icon": "invincible-warrior.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "champion-invincible-warrior"
+        {
+            "id": "invincible-warrior",
+            "name": "Invincible Warrior"
+        }
     ],
     "unlockedFromSkill": [
         {

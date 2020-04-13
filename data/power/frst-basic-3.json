@@ -2,7 +2,8 @@
     "id": "frst-basic-3",
     "name": "Spiral Cast",
     "description": "casts ice at an enemy for 120 - 180 + 150% Weapon Damage.",
-    "icon": "Graphic_FrostWeaver_SpiralCast_01.png",
+    "shortDescription": "",
+    "icon": "frst-basic-3.png",
     "stats": {
         "weapon_damage_value": "150",
         "max_damage_1": "180",

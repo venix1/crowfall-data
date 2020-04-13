@@ -3,11 +3,14 @@
     "name": "Pack Avatar",
     "class": "druid",
     "description": "This talent grants the Pack Avatar power.",
-    "icon": "Skill_Icon_044_020.png",
+    "icon": "pack-avatar.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "druid-avatar-pack"
+        {
+            "id": "pack-avatar",
+            "name": "Pack Avatar"
+        }
     ],
     "unlockedFromSkill": [
         {

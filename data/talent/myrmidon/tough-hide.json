@@ -3,7 +3,7 @@
     "name": "Tough Hide",
     "class": "myrmidon",
     "description": "Tough Hide improves Resist All by 75 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "tough-hide.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Sentinel",
     "description": "increases your Critical Strike while standing still.",
     "shortDescription": "Increase Critical Chance when Standing Still",
-    "icon": "Graphic_Disc_CarefulAim.png",
+    "icon": "pistolmaster-careful-aim.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

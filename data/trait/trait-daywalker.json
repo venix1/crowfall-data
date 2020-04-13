@@ -1,0 +1,49 @@
+{
+    "id": "trait-daywalker",
+    "name": "Daywalker",
+    "description": "You are generally unaware of the noise you make as you walk through the world, from breathing to the clatter of gear. This locks you out of the shadows and into the light.\\n\\nYou can equip Daywalker Disciplines.",
+    "requiredBy": [
+        {
+            "id": "blood-pact",
+            "name": "Blood Pact"
+        },
+        {
+            "id": "eminently-punchable",
+            "name": "Eminently Punchable"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "confessor",
+            "name": "Confessor"
+        },
+        {
+            "id": "druid",
+            "name": "Druid"
+        },
+        {
+            "id": "frostweaver",
+            "name": "Frostweaver"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        }
+    ]
+}

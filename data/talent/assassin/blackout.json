@@ -3,7 +3,7 @@
     "name": "Blackout",
     "class": "assassin",
     "description": "Blackout enhances Backstab to Suppress a target from behind.",
-    "icon": "Skill_Icon_017_019.png",
+    "icon": "blackout.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

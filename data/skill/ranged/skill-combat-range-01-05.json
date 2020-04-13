@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-01-05",
+    "name": "Decay Rate: Weapon",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Decreases Decay Rate: Weapon Rate while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-01-05.png",
+    "stats": [
+        {
+            "name": "Decay Rate: Weapon",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-01-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-01-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-01-04"
+    ]
+}

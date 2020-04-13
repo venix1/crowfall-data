@@ -1,0 +1,22 @@
+{
+    "id": "skill-combat-range-center",
+    "name": "Ranged Combat Training",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Critical Strike while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-center.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-range-01-01",
+        "skill-combat-range-02-01",
+        "skill-combat-range-03-01"
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "name": "Upgrade Exploration Discipline",
     "id": "crafting-upgrade-discipline-explore-001",
-    "icon": "runestoneWeaponDiscipline.png",
+    "icon": "crafting_upgrade_discipline_explore_001.png",
     "description": "Combine identical Exploration Disciplines of the same quality to create a higher quality version of the same Exploration Discipline.\\n\\nDisciplines must be Uncommon quality or higher.",
     "outputQuantity": 1,
     "xp": 0,
@@ -11,7 +11,7 @@
         {
             "name": "Exploration Discipline",
             "id": "exploration-discipline",
-            "icon": "runestoneWeaponDiscipline.png",
+            "icon": "Exploration Discipline.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
@@ -20,7 +20,7 @@
         {
             "name": "Exploration Discipline",
             "id": "exploration-discipline",
-            "icon": "runestoneWeaponDiscipline.png",
+            "icon": "Exploration Discipline.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": true,
@@ -29,7 +29,7 @@
         {
             "name": "Exploration Discipline",
             "id": "exploration-discipline",
-            "icon": "runestoneWeaponDiscipline.png",
+            "icon": "Exploration Discipline.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": true,

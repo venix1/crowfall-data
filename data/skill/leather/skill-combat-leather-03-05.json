@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-leather-03-05",
+    "name": "Hard Control Defense",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 21960,
+    "description": "Increases Hard Control Defense while using Leather chest armor.",
+    "icon": "skill-combat-leather-03-05.png",
+    "stats": [
+        {
+            "name": "Hard Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-leather-03-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-leather-03-06",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-leather-03-04",
+        "skill-combat-leather-03-06"
+    ]
+}

@@ -2,7 +2,8 @@
     "id": "ranger-supression-shot",
     "name": "Suppression Shot",
     "description": "shoots at a ground location dealing 93 - 126 + 109% Weapon Damage. Applies a Suppression effect to all hit.\\n\\nThis power's Maximum Range cannot be modified.",
-    "icon": "Graphic_Rngr_SuppressionShot.png",
+    "shortDescription": "",
+    "icon": "ranger-supression-shot.png",
     "stats": {
         "cast_time": "Ground Aimed",
         "target": "Area",

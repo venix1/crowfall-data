@@ -3,7 +3,7 @@
     "name": "Dig In",
     "description": "buffs Anti-Critical Strike by 25% for 15 seconds when you are hit while under 25% Health.",
     "shortDescription": "Passive: Crit Defense on Low Health",
-    "icon": "Graphic_Disc_DigIn.png",
+    "icon": "dig-in.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

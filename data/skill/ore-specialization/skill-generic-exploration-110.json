@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-110",
+    "name": "Harvest Tool Decay: Runestone Picks",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Reduces the amount of Decay a Runestone Pick suffers when mining.",
+    "icon": "skill-generic-exploration-110.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Picks",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-109",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-114",
+        "skill-generic-exploration-124"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Benediction",
     "class": "cleric",
     "description": "Benediction improves Support Power by 175 per point spent.",
-    "icon": "Skill_Icon_017_013.png",
+    "icon": "benediction.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Minor Accompaniment",
     "description": "increases your Song Damage by 20%.",
     "shortDescription": "Passive: Increase Song Damage",
-    "icon": "Graphic_Disc_MinorAccompaniment.png",
+    "icon": "minor-accompaniment.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -1,0 +1,75 @@
+{
+    "name": "Cottage",
+    "id": "stonemasonry-arc-building-001",
+    "icon": "stonemasonry_arc_building_001.png",
+    "description": "Creates a Small Cottage Deed.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_architecture",
+    "ingredients": [
+        {
+            "name": "Architectural Wall",
+            "id": "architectural-wall",
+            "icon": "Architectural Wall.png",
+            "quantity": 8,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "Carpentry Nails.png",
+            "quantity": 4,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Roof Segment",
+            "id": "roof-segment",
+            "icon": "Roof Segment.png",
+            "quantity": 8,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "Architectural Arches.png",
+            "quantity": 8,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "Foundation Segment.png",
+            "quantity": 8,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Floor Tiles",
+            "id": "floor-tiles",
+            "icon": "Floor Tiles.png",
+            "quantity": 8,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Chaos Ember",
+            "id": "chaos-ember",
+            "icon": "Chaos Ember.png",
+            "quantity": 2,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

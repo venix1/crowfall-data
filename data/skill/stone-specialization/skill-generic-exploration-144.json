@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-144",
+    "name": "Harvest Critical: Travertine",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when quarrying Travertine.",
+    "icon": "skill-generic-exploration-144.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Travertine",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-138",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-145"
+    ]
+}

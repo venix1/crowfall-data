@@ -3,7 +3,7 @@
     "name": "Major Discipline Slot",
     "class": "champion",
     "description": "Unlock a Major Discipline slot.",
-    "icon": "Skill_Icon_011_011.png",
+    "icon": "champion-major-i.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

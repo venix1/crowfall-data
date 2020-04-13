@@ -2,7 +2,8 @@
     "id": "druid-basic-attack-1",
     "name": "Static Bolt",
     "description": "discharges an electrical bolt, causing 107 - 160 + 133% Weapon Damage.",
-    "icon": "Graphic_Drud_ArcingLightning.png",
+    "shortDescription": "",
+    "icon": "druid-basic-attack-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

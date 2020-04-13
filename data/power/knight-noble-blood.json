@@ -2,7 +2,8 @@
     "id": "knight-noble-blood",
     "name": "Noble Blood",
     "description": "deals 60 - 81 + 70% Weapon Damage to enemies in a cone. You gain a Barrier lasting up to 15 seconds.",
-    "icon": "Graphic_Kngt_OfNobleBlood.png",
+    "shortDescription": "",
+    "icon": "knight-noble-blood.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -3,7 +3,7 @@
     "name": "Bolster Siege Engine",
     "description": "empowers a targeted Siege Engine adding 100% Damage Bonus.",
     "shortDescription": "Channel: Increase Target Siege Engine Damage",
-    "icon": "Mount_BolsterSiegeEngine.png",
+    "icon": "siegeengineer-siege-damage-buff.png",
     "stats": {
         "cast_time": "Channeled",
         "target": "Reticle",

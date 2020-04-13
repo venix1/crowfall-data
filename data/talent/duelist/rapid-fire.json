@@ -3,12 +3,18 @@
     "name": "Rapid Fire",
     "class": "duelist",
     "description": "This talent grants the Rapid Fire and Snipe powers.",
-    "icon": "Skill_Icon_045_016.png",
+    "icon": "rapid-fire.png",
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [
-        "duelist-rapidfire",
-        "duelist-stealth-sniper-shot"
+        {
+            "id": "rapid-fire",
+            "name": "Rapid Fire"
+        },
+        {
+            "id": "snipe",
+            "name": "Snipe"
+        }
     ],
     "unlockedFromSkill": [
         {

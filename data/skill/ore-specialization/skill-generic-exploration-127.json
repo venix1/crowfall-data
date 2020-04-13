@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-127",
+    "name": "Iron Ore Specialization",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when mining Iron.",
+    "icon": "skill-generic-exploration-127.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Ore: Iron",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-117",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

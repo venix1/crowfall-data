@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-basic-02-06",
+    "name": "Attack Control Intensity",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Attack Control Intensity.",
+    "icon": "skill-combat-basic-02-06.png",
+    "stats": [
+        {
+            "name": "Attack Control Intensity",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-02-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

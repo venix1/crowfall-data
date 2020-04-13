@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-melee-great-01-06",
+    "name": "Great Sword: Hard Control Defense",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Hard Control Defense while using a Great Sword.",
+    "icon": "skill-combat-melee-great-01-06.png",
+    "stats": [
+        {
+            "name": "Hard Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-01-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-01-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-01-05"
+    ]
+}

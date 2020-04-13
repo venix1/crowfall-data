@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-exploration-422",
+    "name": "Combat Specialist",
+    "tree": "Command",
+    "pointRequirement": 0,
+    "pipAmount": 45360,
+    "description": "The passive power Way of the Leader, gains up to 25 additional Attack Rating and Support Rating for the entire group as long as you are the group leader.",
+    "icon": "skill-generic-exploration-422.png",
+    "stats": [
+        {
+            "name": "Group Leader Combat Specialist",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-416",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-exploration-417",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

@@ -2,7 +2,8 @@
     "id": "champion-retaliate",
     "name": "Retaliate",
     "description": "returns you to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.",
-    "icon": "Graphic_Chmp_Retaliate.png",
+    "shortDescription": "",
+    "icon": "champion-retaliate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

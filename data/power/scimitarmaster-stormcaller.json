@@ -3,7 +3,7 @@
     "name": "Electrogenesis",
     "description": "has a chance to spawn Coalesce Life orbs near you when damaging enemies.",
     "shortDescription": "Passive: Healing Orbs in Combat",
-    "icon": "Graphic_Disc_Stormcaller.png",
+    "icon": "scimitarmaster-stormcaller.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

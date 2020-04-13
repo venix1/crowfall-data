@@ -3,7 +3,7 @@
     "name": "Measure Twice Cut Once",
     "description": "increases your Woodworking Cap by 15 and Woodworking Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Woodworking Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_WoodworkingTechniques.png",
+    "icon": "woodworking-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

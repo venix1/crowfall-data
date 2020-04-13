@@ -3,7 +3,7 @@
     "name": "Chivalry",
     "class": "knight",
     "description": "Chivalry improves Movement Speed while mounted by 3% per point spent.",
-    "icon": "Skill_Icon_017_028.png",
+    "icon": "chivalry.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

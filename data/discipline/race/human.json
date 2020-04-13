@@ -1,33 +1,33 @@
 {
     "id": "human",
     "name": "Human",
-    "type": "racial",
-    "trait": "",
-    "icon": "Racial_Human.png",
+    "type": "race",
+    "trait": {},
+    "icon": "human.png",
     "stats": [
         {
             "name": "Strength Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Dexterity Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Intellect Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Spirit Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Constitution Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Strength",
-            "value": 30
+            "value": "30"
         }
     ],
     "grantsPowers": [
@@ -63,6 +63,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "The youngest children of Arkon, Prince of Light, and Gaea the Earth Mother."
 }

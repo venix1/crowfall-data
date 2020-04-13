@@ -3,7 +3,7 @@
     "name": "Hero's Blood",
     "description": "increases the amount of Power Bar Slots available to you by 1.",
     "shortDescription": "Passive: Increase the Number of Slots on Power Tray",
-    "icon": "Graphic_Disc_Racial_Human.png",
+    "icon": "racial-passive-extra-power-slot.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

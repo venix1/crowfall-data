@@ -2,8 +2,11 @@
     "id": "sturdy",
     "name": "Sturdy",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_Sturdy.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "sturdy.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "The only thing said to unsettle a Stoneborn is the sight of an immortal summoning a Runestone Hammer..."
 }

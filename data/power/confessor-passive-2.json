@@ -2,7 +2,8 @@
     "id": "confessor-passive-2",
     "name": "Righteousness",
     "description": "adds a chance to restore Mana when you deal damage.",
-    "icon": "Graphic_Conf_Righteousness.png",
+    "shortDescription": "",
+    "icon": "confessor-passive-2.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

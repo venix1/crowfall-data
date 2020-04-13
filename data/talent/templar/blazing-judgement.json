@@ -3,7 +3,7 @@
     "name": "Blazing Judgement",
     "class": "templar",
     "description": "Blazing Judgment improves Damage Bonus: Fire by 3% per point spent.",
-    "icon": "Skill_Icon_018_010.png",
+    "icon": "blazing-judgement.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

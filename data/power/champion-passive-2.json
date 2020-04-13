@@ -2,7 +2,8 @@
     "id": "champion-passive-2",
     "name": "Second Wind",
     "description": "recovers 25% of your Health over time after taking damage dropping you below 50% Health. \\n\\nThis can occur once every two minutes.",
-    "icon": "Graphic_Chmp_Hateful.png",
+    "shortDescription": "",
+    "icon": "champion-passive-2.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

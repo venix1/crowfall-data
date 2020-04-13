@@ -2,7 +2,8 @@
     "id": "knight-onslaught-3b",
     "name": "Obliterate",
     "description": "slashes three times around you for 67 - 90 + 79% Weapon Damage, applying a moderate Bleed to all hit.",
-    "icon": "Graphic_Kngt_Obliterate.png",
+    "shortDescription": "",
+    "icon": "knight-onslaught-3b.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-068",
+    "name": "Harvest Critical Amount: Carnivores",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the potential Maximum Amount of Hide when you score a Critical Harvest while skinning Carnivore Animals.",
+    "icon": "skill-generic-exploration-068.png",
+    "stats": [
+        {
+            "name": "Critical Amount: Carnivore",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-067",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-075"
+    ]
+}

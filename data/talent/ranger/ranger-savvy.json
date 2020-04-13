@@ -3,12 +3,18 @@
     "name": "Ranger Savvy",
     "class": "ranger",
     "description": "This talent grants the Explosive Trap power, and the Gleeful Strike passive power.",
-    "icon": "Skill_Icon_023_007.png",
+    "icon": "ranger-savvy.png",
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [
-        "ranger-passive-2",
-        "ranger-explosive-trap-melee"
+        {
+            "id": "gleeful-strike",
+            "name": "Gleeful Strike"
+        },
+        {
+            "id": "explosive-trap",
+            "name": "Explosive Trap"
+        }
     ],
     "unlockedFromSkill": [
         {

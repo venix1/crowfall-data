@@ -1,0 +1,22 @@
+{
+    "id": "skill-combat-weapon-center",
+    "name": "Weapons Training",
+    "tree": "Weapons",
+    "pointRequirement": 0,
+    "pipAmount": 4320,
+    "description": "Increases Attack Power while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-center.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-weapon-01-01",
+        "skill-combat-weapon-02-01",
+        "skill-combat-weapon-03-01"
+    ]
+}

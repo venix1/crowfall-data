@@ -3,7 +3,7 @@
     "name": "Relentless",
     "class": "myrmidon",
     "description": "Relentless improves Maximum Stamina by 3 per point spent and Power Efficiency by 5 per point spent.",
-    "icon": "Skill_Icon_034_002.png",
+    "icon": "relentless.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

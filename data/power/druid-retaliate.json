@@ -2,7 +2,8 @@
     "id": "druid-retaliate",
     "name": "Retaliate",
     "description": "returns you to your feet dealing 88 - 132 + 110% Weapon Damage to nearby enemies and healing you for 3% of your maximum Health over three seconds.",
-    "icon": "Graphic_Drud_Retaliate.png",
+    "shortDescription": "",
+    "icon": "druid-retaliate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

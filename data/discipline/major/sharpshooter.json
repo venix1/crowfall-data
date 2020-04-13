@@ -2,20 +2,23 @@
     "id": "sharpshooter",
     "name": "Sharpshooter",
     "type": "major",
-    "trait": "Archery Practice",
-    "icon": "Major_Sharpshooter.png",
+    "trait": {
+        "id": "trait-archery-practice",
+        "name": "Archery Practice"
+    },
+    "icon": "sharpshooter.png",
     "stats": [
         {
             "name": "Crushing Damage Bonus",
-            "value": 3
+            "value": "3%"
         },
         {
             "name": "Slashing Damage Bonus",
-            "value": 3
+            "value": "3%"
         },
         {
             "name": "Ranged Distance Bonus",
-            "value": 5
+            "value": "5(m)"
         }
     ],
     "grantsPowers": [
@@ -44,12 +47,31 @@
         "Ranged",
         "Ammo"
     ],
-    "grantsEquip": [
-        "Basic Bow Proficiency",
-        "High Tension Compound Bow Proficiency",
-        "Arrows",
-        "Exotic Arrows",
-        "Quiver Proficiency"
+    "grantsTrait": [
+        {
+            "id": "trait-arrows",
+            "name": "Arrows"
+        },
+        {
+            "id": "trait-basic-bow-proficiency",
+            "name": "Basic Bow Proficiency"
+        },
+        {
+            "id": "trait-executioner",
+            "name": "Executioner"
+        },
+        {
+            "id": "trait-exotic-arrows",
+            "name": "Exotic Arrows"
+        },
+        {
+            "id": "trait-high-tension-compound-bow-proficiency",
+            "name": "High Tension Compound Bow Proficiency"
+        },
+        {
+            "id": "trait-quiver-proficiency",
+            "name": "Quiver Proficiency"
+        }
     ],
     "description": "Many undervalue the beauty and simplicity of the arrow, but the truth is that a rapid firing archer is just as deadly as any other foe in combat. Long range shots allow for a quick and effective way to take an opponent down with minimal interaction.",
     "lore": "She sees her opportunity, and with a quick pull of the string the arrow speeds toward her mark. It is within seconds that he is immobilized."

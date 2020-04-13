@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-02-04",
+    "name": "Attack Control Intensity",
+    "tree": "Melee",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Attack Control Intensity while using a Melee Weapon in your main hand.",
+    "icon": "skill-combat-melee-02-04.png",
+    "stats": [
+        {
+            "name": "Attack Control Intensity",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-02-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-02-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-02-03",
+        "skill-combat-melee-02-05"
+    ]
+}

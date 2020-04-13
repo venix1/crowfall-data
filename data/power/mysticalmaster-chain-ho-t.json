@@ -3,7 +3,7 @@
     "name": "Soothing Winds",
     "description": "heals a targeted ally and another additional ally instantly for 8 - 9 + 3.36% Support with additional healing over time. \\n\\nThe Chain Healing Bonus Jumps statistic adds additional targets but healing is reduced by 30% per target, up to a maximum of a 60% reduction.",
     "shortDescription": "Target Heal Allies over Time",
-    "icon": "Graphic_Disc_SoothingWinds.png",
+    "icon": "mysticalmaster-chain-ho-t.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

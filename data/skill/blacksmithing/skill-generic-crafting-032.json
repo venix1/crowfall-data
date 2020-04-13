@@ -1,0 +1,22 @@
+{
+    "id": "skill-generic-crafting-032",
+    "name": "Blacksmithing Novice",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Assembly Success when assembling Blacksmithing items.",
+    "icon": "skill-generic-crafting-032.png",
+    "stats": [
+        {
+            "name": "Blacksmithing",
+            "amount": "2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-crafting-033",
+        "skill-generic-crafting-040",
+        "skill-generic-crafting-047"
+    ]
+}

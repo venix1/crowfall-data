@@ -1,7 +1,7 @@
 {
     "name": "Crafting Station: Leatherworking",
     "id": "crafting-station-leather-001",
-    "icon": "craftingstation_leatherworking.png",
+    "icon": "crafting_station_leather_001.png",
     "description": "Creates a deed for a Leatherworking crafting station.",
     "outputQuantity": 1,
     "xp": 15,
@@ -11,7 +11,7 @@
         {
             "name": "Ethereal Dust",
             "id": "ethereal-dust",
-            "icon": "etherealDust.png",
+            "icon": "Ethereal Dust.png",
             "quantity": 15,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Non-Basic Stone",
             "id": "non-basic-stone",
-            "icon": "stone.png",
+            "icon": "Non-Basic Stone.png",
             "quantity": 18,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Non-Basic Stone",
             "id": "non-basic-stone",
-            "icon": "stone.png",
+            "icon": "Non-Basic Stone.png",
             "quantity": 18,
             "slotIndex": 2,
             "wildcard": false,
@@ -38,7 +38,7 @@
         {
             "name": "Non-Basic Wood",
             "id": "non-basic-wood",
-            "icon": "wood.png",
+            "icon": "Non-Basic Wood.png",
             "quantity": 18,
             "slotIndex": 3,
             "wildcard": false,
@@ -47,7 +47,7 @@
         {
             "name": "Non-Basic Wood",
             "id": "non-basic-wood",
-            "icon": "wood.png",
+            "icon": "Non-Basic Wood.png",
             "quantity": 18,
             "slotIndex": 4,
             "wildcard": false,
@@ -56,7 +56,7 @@
         {
             "name": "Non-Basic Ore",
             "id": "non-basic-ore",
-            "icon": "ore.png",
+            "icon": "Non-Basic Ore.png",
             "quantity": 18,
             "slotIndex": 5,
             "wildcard": false,
@@ -65,7 +65,7 @@
         {
             "name": "Non-Basic Ore",
             "id": "non-basic-ore",
-            "icon": "ore.png",
+            "icon": "Non-Basic Ore.png",
             "quantity": 18,
             "slotIndex": 6,
             "wildcard": false,

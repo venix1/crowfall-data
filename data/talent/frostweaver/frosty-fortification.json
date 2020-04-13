@@ -3,10 +3,15 @@
     "name": "Frosty Fortification",
     "class": "frostweaver",
     "description": "Frosty Fortification improves Armor by 100 per point spent.\\n\\nTraits Granted:\\nCool Focus Gem",
-    "icon": "Skill_Icon_024_007.png",
+    "icon": "frosty-fortification.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-cooling-focus-gem",
+            "name": "Cooling Focus Gem"
+        }
+    ],
     "unlockedFromSkill": [
         {
             "skill": "icequake",

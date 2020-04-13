@@ -2,16 +2,20 @@
     "id": "expansive-mind",
     "name": "Expansive Mind",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_ExpansiveMind.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "expansive-mind.png",
     "stats": [
         {
             "name": "Power Bar Bonus Slots",
-            "value": 1
+            "value": "1"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "\"You are what you do. A man is defined by his actions, not his memory.\""
 }

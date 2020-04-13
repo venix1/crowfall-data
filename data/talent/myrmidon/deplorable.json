@@ -3,7 +3,7 @@
     "name": "Deplorable",
     "class": "myrmidon",
     "description": "Deplorable improves Hard Control Intensity by 7% per point spent.",
-    "icon": "Skill_Icon_045_014.png",
+    "icon": "deplorable.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

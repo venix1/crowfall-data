@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-crafting-160",
+    "name": "Jewelcrafting Craftsmanship Mastery",
+    "tree": "Jewelcrafting",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases the chance of Experimentation Success and the amount of Experimentation Points while experimenting on Jewelcrafting items.",
+    "icon": "skill-generic-crafting-160.png",
+    "stats": [
+        {
+            "name": "Jewelcrafting Experimentation",
+            "amount": "2"
+        },
+        {
+            "name": "Jewelcrafting Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-159",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

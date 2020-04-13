@@ -1,0 +1,12 @@
+{
+    "id": "trait-book-proficiency",
+    "name": "Book Proficiency",
+    "description": "Valkyn wrote the secrets of the elements in books, believing no mortal creature would become literate in its arcane language. He was wrong.\\n\\nA medium, two-handed ranged weapon primarily used for dealing fire damage, however there are whispers amongst members of the clergy about books that hold the secrets of ice and electricity.\\n\\nYou are proficient at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "confessor",
+            "name": "Confessor"
+        }
+    ]
+}

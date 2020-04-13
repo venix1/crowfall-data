@@ -3,7 +3,7 @@
     "name": "Damnation",
     "class": "confessor",
     "description": "Damnation enhances Condemnation to apply a Slow effect.",
-    "icon": "Skill_Icon_019_002.png",
+    "icon": "damnation.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

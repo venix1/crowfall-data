@@ -3,7 +3,7 @@
     "name": "Haunt",
     "description": "haunts 3 enemies, reflecting 35% their attack damage as Nature damage and healing you for 35% of damage taken.",
     "shortDescription": "Attack: Reflect Enemy Damage; Healing",
-    "icon": "Graphic_Disc_Haunt.png",
+    "icon": "banshee-haunt.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

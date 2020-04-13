@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-341",
+    "name": "Plentiful Resources: Stoneborn Grave",
+    "tree": "Grave Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when digging Stoneborn Graves.",
+    "icon": "skill-generic-exploration-341.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Grave: Stoneborn",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-335",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

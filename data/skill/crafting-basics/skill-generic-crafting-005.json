@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-crafting-005",
+    "name": "Runemaking Basics",
+    "tree": "Crafting Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Unlocks the Runemaking skill tree.",
+    "icon": "skill-generic-crafting-005.png",
+    "stats": [
+        {
+            "name": "Runemaking",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-004",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

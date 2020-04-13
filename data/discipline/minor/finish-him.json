@@ -2,8 +2,11 @@
     "id": "finish-him",
     "name": "Finish Him!",
     "type": "minor",
-    "trait": "Templar",
-    "icon": "Minor_FinishHim.png",
+    "trait": {
+        "id": "trait-executioner",
+        "name": "Executioner"
+    },
+    "icon": "finish-him.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "The Church of Arkon is said to have flawless methods of finishing their enemies."
 }

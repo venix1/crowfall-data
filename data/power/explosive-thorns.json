@@ -3,7 +3,7 @@
     "name": "Explosive Thorns",
     "description": "stretches the effectiveness of Thorns with a chance to cause additional damage to up to five nearby enemies whenever you are damaged while a Thorns effect is active.",
     "shortDescription": "Passive: Thorns Cause Bonus Area Damage",
-    "icon": "Graphic_Disc_ExplosiveThorns.png",
+    "icon": "explosive-thorns.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

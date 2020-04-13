@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-369",
+    "name": "Ore Mother Lode: Gem Chance",
+    "tree": "Excavation",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Grants the ability to harvest Gems from Mother Lodes of Ore.",
+    "icon": "skill-generic-exploration-369.png",
+    "stats": [
+        {
+            "name": "Gem Harvest Chance: All",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-057",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-370"
+    ]
+}

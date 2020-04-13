@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-crafting-197",
+    "name": "Research Mastery",
+    "tree": "Alchemy",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases the chance of Assembly Success and Experimentation Success while crafting Alchemy items.",
+    "icon": "skill-generic-crafting-197.png",
+    "stats": [
+        {
+            "name": "Alchemy",
+            "amount": "2"
+        },
+        {
+            "name": "Alchemy Experimentation",
+            "amount": "2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-196",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

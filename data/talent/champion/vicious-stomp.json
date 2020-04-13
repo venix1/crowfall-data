@@ -3,11 +3,14 @@
     "name": "Vicious Stomp",
     "class": "champion",
     "description": "This talent grants the Vicious Stomp power.",
-    "icon": "Skill_Icon_017_019.png",
+    "icon": "vicious-stomp.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "champion-vicious-stomp"
+        {
+            "id": "vicious-stomp",
+            "name": "Vicious Stomp"
+        }
     ],
     "unlockedFromSkill": [
         {

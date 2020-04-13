@@ -1,0 +1,21 @@
+{
+    "id": "trait-disciple-of-flame",
+    "name": "Disciple of Flame",
+    "description": "A follower of Mother Church, the sins of your enemies become their weakness in the face of your powers.\\n\\nYou can equip Disciple of Flame Disciplines.",
+    "requiredBy": [
+        {
+            "id": "mortal-sin",
+            "name": "Mortal Sin"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "confessor",
+            "name": "Confessor"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        }
+    ]
+}

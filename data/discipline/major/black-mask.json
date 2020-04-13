@@ -2,16 +2,19 @@
     "id": "black-mask",
     "name": "Black Mask",
     "type": "major",
-    "trait": "Stealther",
-    "icon": "Major_BlackMask.png",
+    "trait": {
+        "id": "trait-stealther",
+        "name": "Stealther"
+    },
+    "icon": "black-mask.png",
     "stats": [
         {
             "name": "Stealth",
-            "value": 5
+            "value": "5"
         },
         {
             "name": "Piercing Damage Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Black Masks are masters of disguise. Despite the rumors, they are not a group of heartless and evil killers, but rather cunning and sly assassins. They are employed by all that request their blade, even those who seek revenge from previous errands.",
     "lore": "We are the Hands of Fate. Our blades carve the channels which shape the river of Time. We are the true voice of Justice."
 }

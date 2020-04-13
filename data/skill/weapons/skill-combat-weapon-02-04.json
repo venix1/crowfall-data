@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-weapon-02-04",
+    "name": "Decay Rate: Weapon",
+    "tree": "Weapons",
+    "pointRequirement": 0,
+    "pipAmount": 16200,
+    "description": "Decreases Decay Rate: Weapon Rate while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-02-04.png",
+    "stats": [
+        {
+            "name": "Decay Rate: Weapon",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-weapon-02-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

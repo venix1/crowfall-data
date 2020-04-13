@@ -3,7 +3,7 @@
     "name": "Faerie Fire",
     "description": "lines an enemy in Faerie Fire decreasing their Anti-Critical Strike by 8% for 30 seconds. The target cannot stealth while affected.",
     "shortDescription": "Target Debuff Anti-Critical Strike",
-    "icon": "Graphic_Disc_FaerieFire.png",
+    "icon": "fae-faerie-fire.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

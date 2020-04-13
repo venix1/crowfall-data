@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-great-02-06",
+    "name": "Long Bow: Movement Control Defense",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Movement Control Defense while using a Long Bow.",
+    "icon": "skill-combat-range-great-02-06.png",
+    "stats": [
+        {
+            "name": "Movement Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-02-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-02-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-02-05"
+    ]
+}

@@ -3,11 +3,14 @@
     "name": "Reproach",
     "class": "templar",
     "description": "This talent grants the Reproach power.",
-    "icon": "Skill_Icon_017_030.png",
+    "icon": "reproach.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "templar-reproach-1"
+        {
+            "id": "reproach",
+            "name": "Reproach"
+        }
     ],
     "unlockedFromSkill": [
         {

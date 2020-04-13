@@ -2,8 +2,11 @@
     "id": "explosive-thorns",
     "name": "Explosive Thorns",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_ExplosiveThorns.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "explosive-thorns.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "There are very few problems that cannot be solved through a suitable application of explosive thorns."
 }

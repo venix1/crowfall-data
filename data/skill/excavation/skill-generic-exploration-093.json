@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-exploration-093",
+    "name": "Excavation Basics Mastery",
+    "tree": "Excavation",
+    "pointRequirement": 95,
+    "pipAmount": 15120,
+    "description": "Increases the Chance to obtain Gems, Minerals, Grave Goods, and Hunger Shard Additiveswhen Excavating the appropriate node type.",
+    "icon": "skill-generic-exploration-093.png",
+    "stats": [
+        {
+            "name": "Gem Harvest Chance: All",
+            "amount": "1%"
+        },
+        {
+            "name": "Mineral Harvest Chance: All",
+            "amount": "1%"
+        },
+        {
+            "name": "Grave Goods Harvest Chance: All",
+            "amount": "1%"
+        },
+        {
+            "name": "Harvest Chance: Hunger Shard Additives",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

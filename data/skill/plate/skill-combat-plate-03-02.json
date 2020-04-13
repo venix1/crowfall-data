@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-plate-03-02",
+    "name": "Slashing Resistance",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Slashing Resistance while using Plate chest armor.",
+    "icon": "skill-combat-plate-03-02.png",
+    "stats": [
+        {
+            "name": "Slashing Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-03-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-03-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-03-03",
+        "skill-combat-plate-03-05"
+    ]
+}

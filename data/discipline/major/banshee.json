@@ -2,16 +2,19 @@
     "id": "banshee",
     "name": "Banshee",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Banshee.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "banshee.png",
     "stats": [
         {
             "name": "Armor Penetration: Elemental",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Critical Strike",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "An ambassador of death, The Banshee is most known for a distinguished wail that can induce fear and paralysis. A haunting presence and the ability to conjure a ghostly army combine to make the Banshee a truy terrifying angel of death.",
     "lore": "The keening cry of a Banshee cannot be ignored as it signals impending death."
 }

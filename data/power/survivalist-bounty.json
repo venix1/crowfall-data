@@ -3,7 +3,7 @@
     "name": "Bounty Of The Land",
     "description": "increases your chance to Harvest Apples, Pine Nuts, Wood Grubs by 5% and grants the chance to Harvest Bloodworms by 3%, when Harvesting Trees or Animals.",
     "shortDescription": "Passive: Increase Chance to Harvest Foraged Food Ingredients",
-    "icon": "Graphic_Disc_BountyOfTheLand.png",
+    "icon": "survivalist-bounty.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

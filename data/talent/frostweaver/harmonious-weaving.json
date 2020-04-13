@@ -3,7 +3,7 @@
     "name": "Harmonious Weaving",
     "class": "frostweaver",
     "description": "Harmonious Weaving enhances Cool Ice to also restore Health in addition to its existing effect.",
-    "icon": "Skill_Icon_040_017.png",
+    "icon": "harmonious-weaving.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

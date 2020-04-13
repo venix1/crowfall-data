@@ -1,0 +1,12 @@
+{
+    "id": "trait-disease-toxin-training",
+    "name": "Disease Toxin Training",
+    "description": "You are adept at the handling of Disease Toxins.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "disease-toxin",
+            "name": "Disease Toxin"
+        }
+    ]
+}

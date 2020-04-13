@@ -3,7 +3,7 @@
     "name": "Horrific Trauma",
     "class": "myrmidon",
     "description": "Horrific Trauma improves Movement Control Intensity by 7% per point spent.",
-    "icon": "Skill_Icon_045_014.png",
+    "icon": "horrific-trauma.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Form Life",
     "description": "manifests an Orb at your targeted location that allies or you may use to heal 39 to 48 + 17.3% Support Power.",
     "shortDescription": "Heal: Place Healing Orbs",
-    "icon": "Graphic_Disc_FormLife_A.png",
+    "icon": "dryad-healing-orb-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

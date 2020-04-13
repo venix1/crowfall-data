@@ -3,11 +3,14 @@
     "name": "Cross Slash",
     "class": "ranger",
     "description": "This talent grants the Cross Slash power.",
-    "icon": "Skill_Icon_018_017.png",
+    "icon": "cross-slash.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "ranger-cross-slash"
+        {
+            "id": "cross-slash",
+            "name": "Cross Slash"
+        }
     ],
     "unlockedFromSkill": [
         {

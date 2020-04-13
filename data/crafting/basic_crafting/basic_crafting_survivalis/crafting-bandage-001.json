@@ -1,7 +1,7 @@
 {
     "name": "Bandage",
     "id": "crafting-bandage-001",
-    "icon": "bandage.png",
+    "icon": "crafting_bandage_001.png",
     "description": "Creates a Bandage used for healing out of combat. The type of wood used will determine the type of bandage created.",
     "outputQuantity": 1,
     "xp": 3.75,
@@ -11,7 +11,7 @@
         {
             "name": "Wood",
             "id": "wood",
-            "icon": "wood.png",
+            "icon": "Wood.png",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": true,
@@ -20,7 +20,7 @@
         {
             "name": "Cloth",
             "id": "cloth",
-            "icon": "hide.png",
+            "icon": "Cloth.png",
             "quantity": 2,
             "slotIndex": 1,
             "wildcard": true,

@@ -1,0 +1,29 @@
+{
+    "id": "trait-shield-familiarity",
+    "name": "Shield Familiarity",
+    "description": "You raise your shield, holding your enemy at bay.\\n\\nYou can equip Shield Disciplines.",
+    "requiredBy": [
+        {
+            "id": "shield-whiz",
+            "name": "Shield Whiz"
+        },
+        {
+            "id": "shield-fighter",
+            "name": "Shield Fighter"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "druid",
+            "name": "Druid"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        }
+    ]
+}

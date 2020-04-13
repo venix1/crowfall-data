@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-181",
+    "name": "Herbivore Basics",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Hide when skinning Herbivore Animals.",
+    "icon": "skill-generic-exploration-181.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Herbivore",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Herbivore",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-178",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-189"
+    ]
+}

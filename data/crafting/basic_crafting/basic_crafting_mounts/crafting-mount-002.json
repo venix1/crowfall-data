@@ -1,7 +1,7 @@
 {
     "name": "Saddle: Swift Pack Pig",
     "id": "crafting-mount-002",
-    "icon": "blueprint.png",
+    "icon": "crafting_mount_002.png",
     "description": "Creates a Saddle: Swift Pack Pig, which grants the Summon Swift Pack Pig Power.",
     "outputQuantity": 1,
     "xp": 45,
@@ -11,7 +11,7 @@
         {
             "name": "Hide",
             "id": "hide",
-            "icon": "hide.png",
+            "icon": "Hide.png",
             "quantity": 45,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Hide",
             "id": "hide",
-            "icon": "hide.png",
+            "icon": "Hide.png",
             "quantity": 45,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Hide",
             "id": "hide",
-            "icon": "hide.png",
+            "icon": "Hide.png",
             "quantity": 45,
             "slotIndex": 2,
             "wildcard": false,
@@ -38,7 +38,7 @@
         {
             "name": "Chaos Ember",
             "id": "chaos-ember",
-            "icon": "etherealDust.png",
+            "icon": "Chaos Ember.png",
             "quantity": 3,
             "slotIndex": 3,
             "wildcard": false,

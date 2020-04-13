@@ -1,0 +1,20 @@
+{
+    "id": "trait-longsword-mastery",
+    "name": "Longsword Mastery",
+    "description": "Hero, the first Crow, used a longsword as his weapon of choice. He will be proud to find you as his equal.\\n\\nA medium, one-handed melee weapon primarily used for slashing cuts.\\n\\nYou are a master at wielding this type of blade.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "swordsman",
+            "name": "Swordsman"
+        },
+        {
+            "id": "secutor",
+            "name": "Secutor"
+        },
+        {
+            "id": "sentinel",
+            "name": "Sentinel"
+        }
+    ]
+}

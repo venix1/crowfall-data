@@ -2,8 +2,11 @@
     "id": "resolution",
     "name": "Resolution",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_Resolution.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "resolution.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Only fools dream of immortality. To feel the death of every body, the pain of every new form. There must be some way to break this never ending cycle! Or does that miserable statue which towers over every rebirth only serve to remind all Crows that if Hero couldn't break the cycle, no one can?"
 }

@@ -3,7 +3,7 @@
     "name": "Repair Siege Engine",
     "description": "repairs a targeted Siege Engine.",
     "shortDescription": "Channel: Repair Target Siege Engine",
-    "icon": "Mount_RepairSiegeEngine.png",
+    "icon": "siegeengineer-siege-repair.png",
     "stats": {
         "cast_time": "Channeled",
         "target": "Reticle",

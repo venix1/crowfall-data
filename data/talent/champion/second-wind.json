@@ -3,11 +3,14 @@
     "name": "Second Wind",
     "class": "champion",
     "description": "This talent grants the Second Wind passive power.",
-    "icon": "Skill_Icon_024_001.png",
+    "icon": "second-wind.png",
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [
-        "champion-passive-2"
+        {
+            "id": "second-wind",
+            "name": "Second Wind"
+        }
     ],
     "unlockedFromSkill": [
         {

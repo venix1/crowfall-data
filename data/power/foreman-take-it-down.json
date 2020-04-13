@@ -3,7 +3,7 @@
     "name": "Take It Down!",
     "description": "reduces Ore Mitigation and Stone Mitigation of Ore and Stone Mother Lodes by  45% for 8 seconds.",
     "shortDescription": "Reduced Armor on Mother Load Resource Nodes",
-    "icon": "Graphic_Disc_TakeItDown.png",
+    "icon": "foreman-take-it-down.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

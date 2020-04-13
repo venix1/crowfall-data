@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-242",
+    "name": "Plethora of Dust: Birch",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for bonus Ethereal Dust when logging Birch.",
+    "icon": "skill-generic-exploration-242.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Birch",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-241",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-243"
+    ]
+}

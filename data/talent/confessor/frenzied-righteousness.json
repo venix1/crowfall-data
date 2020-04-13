@@ -3,7 +3,7 @@
     "name": "Frenzied Righteousness",
     "class": "confessor",
     "description": "Righteousness grants an 8% Damage Bonus for 8 seconds.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "frenzied-righteousness.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

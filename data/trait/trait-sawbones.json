@@ -1,0 +1,12 @@
+{
+    "id": "trait-sawbones",
+    "name": "Sawbones",
+    "description": "You are an expert Necromancer, effortlessly crafting the perfect vessels.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "sawbones",
+            "name": "Sawbones"
+        }
+    ]
+}

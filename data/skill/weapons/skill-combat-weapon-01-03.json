@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-weapon-01-03",
+    "name": "Armor Penetration: Physical",
+    "tree": "Weapons",
+    "pointRequirement": 0,
+    "pipAmount": 11520,
+    "description": "Increases Armor Penetration: Physical while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-01-03.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-weapon-01-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-weapon-01-02",
+        "skill-combat-weapon-01-04"
+    ]
+}

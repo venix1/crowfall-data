@@ -1,0 +1,16 @@
+{
+    "id": "trait-mystical-staff-proficiency",
+    "name": "Mystical Staff Proficiency",
+    "description": "These staves were found as dead branches of the Trees of Life, but became reimbued with Gaea's divinity.\\n\\nA large, two-handed ranged weapon primarily used for focusing and unleashing Druidic elemental magic.\\n\\nYou are proficient at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "promotion-class-archdruid",
+            "name": "Promotion Class - Archdruid"
+        },
+        {
+            "id": "promotion-class-earthkeeper",
+            "name": "Promotion Class - Earthkeeper"
+        }
+    ]
+}

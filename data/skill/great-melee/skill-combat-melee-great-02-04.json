@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-great-02-04",
+    "name": "Great Axe: Movement Control Defense",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Movement Control Defense while using a Great Axe.",
+    "icon": "skill-combat-melee-great-02-04.png",
+    "stats": [
+        {
+            "name": "Movement Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-02-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-02-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-02-03",
+        "skill-combat-melee-great-02-05"
+    ]
+}

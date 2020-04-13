@@ -1,0 +1,25 @@
+{
+    "id": "skill-combat-armor-03-02",
+    "name": "Crushing Resistance",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Crushing Resistance while wearing armor.",
+    "icon": "skill-combat-armor-03-02.png",
+    "stats": [
+        {
+            "name": "Crushing Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-armor-03-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-armor-03-03"
+    ]
+}

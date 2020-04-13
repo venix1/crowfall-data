@@ -3,7 +3,7 @@
     "name": "Caravan Master",
     "description": "increases your Plentiful Haul statistic by 1.",
     "shortDescription": "Passive: Increased Chance For More and Higher Quality Materials From Caravans",
-    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "icon": "racial-passive-plentiful-haul.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

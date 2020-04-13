@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-036",
+    "name": "Blacksmithing Experimentation Cap",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the maximum potential value of Blacksmithing Experimentation.",
+    "icon": "skill-generic-crafting-036.png",
+    "stats": [
+        {
+            "name": "Blacksmithing Experimentation Cap",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-034",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-038"
+    ]
+}

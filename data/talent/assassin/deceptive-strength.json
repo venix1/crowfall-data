@@ -3,7 +3,7 @@
     "name": "Deceptive Strength",
     "class": "assassin",
     "description": "Deceptive Strength improves High Health Damage Bonus by 2% per point spent.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "deceptive-strength.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

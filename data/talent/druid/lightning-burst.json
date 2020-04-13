@@ -3,11 +3,14 @@
     "name": "Lightning Burst",
     "class": "druid",
     "description": "This talent grants the Lightning Burst power.",
-    "icon": "Skill_Icon_044_017.png",
+    "icon": "lightning-burst.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "druid-z-lightning-burst"
+        {
+            "id": "lightning-burst",
+            "name": "Lightning Burst"
+        }
     ],
     "unlockedFromSkill": [
         {

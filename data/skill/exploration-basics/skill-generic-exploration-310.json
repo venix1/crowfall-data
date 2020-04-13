@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-310",
+    "name": "Plentiful Resources: Knotwood",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Increases chance to harvest Knotwood when logging Knotwood Trees.",
+    "icon": "skill-generic-exploration-310.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Wood: Knot",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-302",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-311"
+    ]
+}

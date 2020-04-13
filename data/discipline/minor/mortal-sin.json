@@ -2,8 +2,11 @@
     "id": "mortal-sin",
     "name": "Mortal Sin",
     "type": "minor",
-    "trait": "Disciple of Flame",
-    "icon": "Minor_MortalSin.png",
+    "trait": {
+        "id": "trait-disciple-of-flame",
+        "name": "Disciple of Flame"
+    },
+    "icon": "mortal-sin.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Peccata mortalia. Without remorse a sinner will continue to burn with punishment."
 }

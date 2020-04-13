@@ -2,7 +2,8 @@
     "id": "assassin-disengage",
     "name": "Disengage",
     "description": "dashes you backward 16m with an attack generating a Pip and causing 86 - 129 + 108% Weapon Damage.",
-    "icon": "Graphic_Assn_Disengage.png",
+    "shortDescription": "",
+    "icon": "assassin-disengage.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

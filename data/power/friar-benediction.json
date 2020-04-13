@@ -3,7 +3,7 @@
     "name": "Benediction",
     "description": "blesses group members and you increasing Bleed Resistance by 50 for 30 seconds.",
     "shortDescription": "Group increase Bleed Resistance",
-    "icon": "Graphic_Disc_Benediction.png",
+    "icon": "friar-benediction.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-074",
+    "name": "Thrall Presence",
+    "tree": "Leatherworking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Enhances the power of Buffs that Leatherworking Stations grant when they have a Thrall inhabiting them.",
+    "icon": "skill-generic-crafting-074.png",
+    "stats": [
+        {
+            "name": "Leatherworking Thrall Power",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-072",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-073",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-075"
+    ]
+}

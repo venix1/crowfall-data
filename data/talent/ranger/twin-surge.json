@@ -3,11 +3,14 @@
     "name": "Twin Surge",
     "class": "ranger",
     "description": "This talent grants the Twin Surge power.",
-    "icon": "Skill_Icon_009_006.png",
+    "icon": "twin-surge.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "ranger-twin-surge"
+        {
+            "id": "twin-surge",
+            "name": "Twin Surge"
+        }
     ],
     "unlockedFromSkill": [
         {

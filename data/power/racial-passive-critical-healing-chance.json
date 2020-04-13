@@ -3,7 +3,7 @@
     "name": "Reflection of Nature",
     "description": "increases your Critical Healing Chance statistic by 3%.",
     "shortDescription": "Passive: Increase Critical Healing Chance",
-    "icon": "Graphic_Disc_Racial_WoodElf.png",
+    "icon": "racial-passive-critical-healing-chance.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

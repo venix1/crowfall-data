@@ -2,26 +2,32 @@
     "id": "alchemist",
     "name": "Alchemist",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Alchemy.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "alchemist.png",
     "stats": [
         {
             "name": "Alchemy",
-            "value": 5
+            "value": "10"
         },
         {
             "name": "Alchemy Experimentation",
-            "value": 15
+            "value": "35"
         },
         {
             "name": "Alchemy Experimentation Points",
-            "value": 3
+            "value": "4"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Alchemist"
+    "grantsTrait": [
+        {
+            "id": "trait-alchemist",
+            "name": "Alchemist"
+        }
     ],
     "description": "Recipes Granted:\\nAll Potions\\nAdvanced Toxins\\nGrind Resource: Bulk\\nPhilosopher's Solution & Stone\\nTransmutations\\n\\nReduced Recipe Resource Costs:\\nAmbrosia\\nEmpty Flask",
     "lore": "The Alchemist Handbook clearly states the differences between vegetable, mineral, and animal. Use with caution and don't imbide anything without testing on an unwilling subject first."

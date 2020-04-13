@@ -2,7 +2,8 @@
     "id": "ranger-mb-attack-3",
     "name": "Vile Slash",
     "description": "slashes in front of you twice for 69 - 93 + 81% Weapon Damage and gain the Spot Weakness buff increasing your Physical Armor Penetration by 5%.",
-    "icon": "Graphic_Rngr_BasicMelee3.png",
+    "shortDescription": "",
+    "icon": "ranger-mb-attack-3.png",
     "stats": {
         "weapon_damage_value": "81",
         "max_damage_1": "93",

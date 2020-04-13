@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-066",
+    "name": "Leatherworking Experimentation Cap",
+    "tree": "Leatherworking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the maximum potential value of Leatherworking Experimentation.",
+    "icon": "skill-generic-crafting-066.png",
+    "stats": [
+        {
+            "name": "Leatherworking Experimentation Cap",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-064",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-067"
+    ]
+}

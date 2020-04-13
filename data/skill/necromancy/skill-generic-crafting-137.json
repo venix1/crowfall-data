@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-crafting-137",
+    "name": "Necromancy Craftsmanship Mastery",
+    "tree": "Necromancy",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases the chance of Experimentation Success and the amount of Experimentation Points while experimenting on Necromancy items.",
+    "icon": "skill-generic-crafting-137.png",
+    "stats": [
+        {
+            "name": "Necromancy Experimentation",
+            "amount": "2"
+        },
+        {
+            "name": "Necromancy Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-136",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

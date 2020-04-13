@@ -3,7 +3,7 @@
     "name": "Head Butt",
     "description": "charges you forward 20m knocking down enemies and causing 82 - 100 + 91% Weapon Damage.",
     "shortDescription": "Charge Forward, Targets Suffer Knockdown",
-    "icon": "Graphic_Disc_HeadButt.png",
+    "icon": "elken-headbutt.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Rectangle",

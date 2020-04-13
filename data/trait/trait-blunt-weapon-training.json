@@ -1,0 +1,37 @@
+{
+    "id": "trait-blunt-weapon-training",
+    "name": "Blunt Weapon Training",
+    "description": "You aren't picky on what kind of club it is, so long as you can smash'em with it.\\n\\nYou can equip Blunt Weapon Disciplines.",
+    "requiredBy": [
+        {
+            "id": "adjudicator",
+            "name": "Adjudicator"
+        },
+        {
+            "id": "holy-avenger",
+            "name": "Holy Avenger"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        }
+    ]
+}

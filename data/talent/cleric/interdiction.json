@@ -3,7 +3,7 @@
     "name": "Interdiction",
     "class": "cleric",
     "description": "Interdiction improves Attack Control Intensity by 5% per point spent.",
-    "icon": "Skill_Icon_045_014.png",
+    "icon": "interdiction.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-exploration-303",
+    "name": "Movement",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 4320,
+    "description": "Increases your Movement Speed when Mounted.\\n\\nTraits Granted:\\nStandard Saddles",
+    "icon": "skill-generic-exploration-303.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Mounted",
+            "amount": "0.4%"
+        }
+    ],
+    "grants": [
+        "equip_saddle_standard"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-300",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-428"
+    ]
+}

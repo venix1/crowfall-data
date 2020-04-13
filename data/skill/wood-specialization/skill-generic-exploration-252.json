@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-252",
+    "name": "Beneficial Harvest Chance: Wood",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for a Beneficial Harvest when logging Trees. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-252.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Chance: Wood",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-251",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-256"
+    ]
+}

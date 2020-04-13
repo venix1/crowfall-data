@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-419",
+    "name": "Group Leader Inspired Beneficial Harvest Power: All",
+    "tree": "Command",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "The passive power Way of the Leader, gains up to 3% additional  Beneficial Harvest Effect applied when harvesting all Resource types as long as you are the group leader. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-419.png",
+    "stats": [
+        {
+            "name": "Group Leader Inspired Harvest Power: All",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-413",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-423"
+    ]
+}

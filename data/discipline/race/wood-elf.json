@@ -1,33 +1,33 @@
 {
     "id": "wood-elf",
     "name": "Wood-Elf",
-    "type": "racial",
-    "trait": "",
-    "icon": "Racial_WoodElf.png",
+    "type": "race",
+    "trait": {},
+    "icon": "wood-elf.png",
     "stats": [
         {
             "name": "Strength Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Dexterity Cap",
-            "value": 300
+            "value": "300"
         },
         {
             "name": "Intellect Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Spirit Cap",
-            "value": 300
+            "value": "300"
         },
         {
             "name": "Constitution Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Spirit",
-            "value": 30
+            "value": "30"
         }
     ],
     "grantsPowers": [
@@ -63,6 +63,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Mysterious and savage, they differ from their more civilized brethren; they have given up the elegant life of Elven society and prefer the isolated solitude of nature."
 }

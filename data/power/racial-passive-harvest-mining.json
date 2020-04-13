@@ -3,7 +3,7 @@
     "name": "Lay of The Land",
     "description": "increases your Mining statistic by 15.",
     "shortDescription": "Passive: Increase Mining",
-    "icon": "Graphic_Disc_Mining.png",
+    "icon": "racial-passive-harvest-mining.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

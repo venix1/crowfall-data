@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-072",
+    "name": "Plentiful Resources: Oak",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when logging Oak.",
+    "icon": "skill-generic-exploration-072.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Wood: Oak",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-076",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

@@ -3,10 +3,15 @@
     "name": "Tranquility",
     "class": "frostweaver",
     "description": "Tranquility improves Healing Modifier by 1% per point spent.\\n\\nTraits Granted:\\nCool Focus Gem",
-    "icon": "Skill_Icon_037_003.png",
+    "icon": "tranquility.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-cooling-focus-gem",
+            "name": "Cooling Focus Gem"
+        }
+    ],
     "unlockedFromSkill": [
         {
             "skill": "clutch-chill",
@@ -17,7 +22,7 @@
             "point": 1
         },
         {
-            "skill": "frost-armory",
+            "skill": "frost-armory-ii",
             "point": 1
         }
     ],

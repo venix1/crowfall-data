@@ -3,11 +3,14 @@
     "name": "Shield Block",
     "class": "cleric",
     "description": "This talent grants the Shield Block power.",
-    "icon": "Skill_Icon_015_014.png",
+    "icon": "shield-block.png",
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [
-        "cleric-block"
+        {
+            "id": "shield-block",
+            "name": "Shield Block"
+        }
     ],
     "unlockedFromSkill": [
         {

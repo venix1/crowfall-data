@@ -3,11 +3,14 @@
     "name": "Onslaught",
     "class": "knight",
     "description": "This talent grants the Onslaught power.",
-    "icon": "Skill_Icon_014_016.png",
+    "icon": "onslaught.png",
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [
-        "knight-onslaught-1"
+        {
+            "id": "onslaught",
+            "name": "Onslaught"
+        }
     ],
     "unlockedFromSkill": [
         {

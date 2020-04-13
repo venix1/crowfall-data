@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-mail-center",
+    "name": "Anti-Critical Strike",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 20160,
+    "description": "Increases Anti-Critical Strike while using Mail chest armor.",
+    "icon": "skill-combat-mail-center.png",
+    "stats": [
+        {
+            "name": "Anti-Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-mail-01-01",
+        "skill-combat-mail-02-01",
+        "skill-combat-mail-03-01",
+        "skill-combat-mail-04-01"
+    ]
+}

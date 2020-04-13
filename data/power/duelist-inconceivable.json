@@ -2,7 +2,8 @@
     "id": "duelist-inconceivable",
     "name": "Inconceivable!",
     "description": "tests your luck gaining between one and six buffs! Buff durations and your luck scale with Pips spent.\\n\\nHumiliations Galore: Every Pip generator earns an additional Pip \\nBonetti's Defense: Adds 25 In Combat Health Regeneration \\nCapo Ferro: Gain a chance to attack twice with Saber Attack and Pistol Shot \\nPrepare to Die: Increase damage by 9% \\nAgrippa: Increase Critical Strike by 9% \\nThibault: Increase Critical Amount by 19%",
-    "icon": "Graphic_Duel_Inconceivable.png",
+    "shortDescription": "",
+    "icon": "duelist-inconceivable.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

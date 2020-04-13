@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-great-01-04",
+    "name": "Great Sword: Slashing Damage Bonus",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Slashing Damage Bonus while using a Great Sword.",
+    "icon": "skill-combat-melee-great-01-04.png",
+    "stats": [
+        {
+            "name": "Slashing Damage Bonus",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-01-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-01-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-01-03",
+        "skill-combat-melee-great-01-05"
+    ]
+}

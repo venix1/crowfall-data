@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-01-02",
+    "name": "Critical Healing Chance",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Critical Healing Chance while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-01-02.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-01-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-01-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-01-03"
+    ]
+}

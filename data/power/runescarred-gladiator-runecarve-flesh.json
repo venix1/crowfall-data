@@ -3,7 +3,7 @@
     "name": "Reprisal",
     "description": "absorbs 10% of damage taken for 15 and then explodes to inflicting 35% of total damage taken (max 1050) to nearby enemies as Fire damage.",
     "shortDescription": "Reduce Damage; Reflect Damage Taken",
-    "icon": "Graphic_Disc_RunecarveFlesh.png",
+    "icon": "runescarred-gladiator-runecarve-flesh.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

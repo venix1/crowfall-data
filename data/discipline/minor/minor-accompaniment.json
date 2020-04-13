@@ -2,8 +2,11 @@
     "id": "minor-accompaniment",
     "name": "Minor Accompaniment",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_MinorAccompaniment.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "minor-accompaniment.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Bach up and compose yourself!"
 }

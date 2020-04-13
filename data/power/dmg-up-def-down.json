@@ -3,7 +3,7 @@
     "name": "Glass Cannon",
     "description": "increases your Damage Bonus by 10% while also increasing the damage you take by 10%.",
     "shortDescription": "Passive: Increase Damage; Increase Damage Taken",
-    "icon": "Graphic_Disc_GlassCannon.png",
+    "icon": "dmg-up-def-down.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

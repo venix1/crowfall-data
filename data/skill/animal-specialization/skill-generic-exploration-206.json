@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-206",
+    "name": "Plethora of Meat: Herbivores",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for bonus Animal Meat when skinning Herbivore Animals.",
+    "icon": "skill-generic-exploration-206.png",
+    "stats": [
+        {
+            "name": "Plethora of Meat: Herbivore",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-205",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-207"
+    ]
+}

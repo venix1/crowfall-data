@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-crafting-015",
+    "name": "Basic Crafting Assembly",
+    "tree": "Crafting Basics",
+    "pointRequirement": 0,
+    "pipAmount": 2160,
+    "description": "Increases the chance of Assembly Success when assembling Basic Crafting items.",
+    "icon": "skill-generic-crafting-015.png",
+    "stats": [
+        {
+            "name": "General Crafting",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-014",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-016",
+        "skill-generic-crafting-017",
+        "skill-generic-crafting-018"
+    ]
+}

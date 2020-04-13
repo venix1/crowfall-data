@@ -3,7 +3,7 @@
     "name": "Inhuman Strength",
     "class": "myrmidon",
     "description": "Titan improves Armor Penetration: Physical by 1% per point spent.",
-    "icon": "Skill_Icon_017_020.png",
+    "icon": "inhuman-strength.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

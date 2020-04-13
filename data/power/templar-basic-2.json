@@ -2,7 +2,8 @@
     "id": "templar-basic-2",
     "name": "Divine Overhead",
     "description": "attacks for 94 - 141 + 117% Weapon Damage.",
-    "icon": "Graphic_Tmpr_BasicAttack2.png",
+    "shortDescription": "",
+    "icon": "templar-basic-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

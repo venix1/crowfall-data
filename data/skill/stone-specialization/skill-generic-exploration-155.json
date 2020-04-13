@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-155",
+    "name": "Plentiful Resources: Slate",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Slate.",
+    "icon": "skill-generic-exploration-155.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Stone: Slate",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-149",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

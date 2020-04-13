@@ -2,7 +2,8 @@
     "id": "duelist-pistol-combo-2",
     "name": "Precise Shot",
     "description": "shoots an enemy for 45 - 68 + 57% Weapon Damage while generating a Pip.",
-    "icon": "Graphic_Disc_PistolShot_A.png",
+    "shortDescription": "",
+    "icon": "duelist-pistol-combo-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

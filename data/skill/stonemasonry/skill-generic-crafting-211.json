@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-211",
+    "name": "Stonemasonry Assembly Cap",
+    "tree": "Stonemasonry",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the maximum potential value of Stonemasonry Assembly.",
+    "icon": "skill-generic-crafting-211.png",
+    "stats": [
+        {
+            "name": "Stonemasonry Cap",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-209",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-212"
+    ]
+}

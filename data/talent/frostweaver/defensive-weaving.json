@@ -3,10 +3,15 @@
     "name": "Defensive Weaving",
     "class": "frostweaver",
     "description": "Defensive Weaving improves Personal Damage Modifier 1.5% per point spent.\\n\\nTraits Granted:\\nFrigid Focus Gem.",
-    "icon": "Skill_Icon_043_018.png",
+    "icon": "defensive-weaving.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-frigid-focus-gem",
+            "name": "Frigid Focus Gem"
+        }
+    ],
     "unlockedFromSkill": [
         {
             "skill": "promotion-class-frostguard",
@@ -15,7 +20,7 @@
     ],
     "unlocksSkill": [
         "iced-over",
-        "frost-armory"
+        "frost-armory-i"
     ],
     "locksSkill": []
 }

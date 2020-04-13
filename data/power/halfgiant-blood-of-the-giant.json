@@ -3,7 +3,7 @@
     "name": "Blood Of The Giant",
     "description": "embraces your Giant heritage increasing size, Damage Bonus and Healing Bonus by 5%. \\n\\nThis effect can stack twice.",
     "shortDescription": "Harness Hatred, Increasing Damage and Size",
-    "icon": "Graphic_Disc_BloodOfTheGiant.png",
+    "icon": "halfgiant-blood-of-the-giant.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

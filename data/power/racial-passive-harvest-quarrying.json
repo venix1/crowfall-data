@@ -3,7 +3,7 @@
     "name": "Sticks and Stones",
     "description": "increases your Logging and Quarrying statistics by 10.",
     "shortDescription": "Passive: Increase Logging and Quarrying",
-    "icon": "Graphic_Disc_Quarrying.png",
+    "icon": "racial-passive-harvest-quarrying.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

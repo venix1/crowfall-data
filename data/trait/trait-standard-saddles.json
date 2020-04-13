@@ -1,0 +1,12 @@
+{
+    "id": "trait-standard-saddles",
+    "name": "Standard Saddles",
+    "description": "You have the ability to equip standard mounts.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-303",
+            "name": "Movement"
+        }
+    ]
+}

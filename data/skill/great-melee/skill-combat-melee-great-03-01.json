@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-melee-great-03-01",
+    "name": "Great Mace: Power Efficiency",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Power Efficiency while using a Great Mace.",
+    "icon": "skill-combat-melee-great-03-01.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-03-02",
+        "skill-combat-melee-great-03-06"
+    ]
+}

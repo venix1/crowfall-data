@@ -3,11 +3,14 @@
     "name": "Pulverize",
     "class": "myrmidon",
     "description": "This talent grants the Pulverize power.",
-    "icon": "Skill_Icon_041_020.png",
+    "icon": "pulverize.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "myrmidon-pulverize"
+        {
+            "id": "pulverize",
+            "name": "Pulverize"
+        }
     ],
     "unlockedFromSkill": [
         {

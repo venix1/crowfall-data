@@ -2,7 +2,8 @@
     "id": "cleric-illuminate",
     "name": "Illuminate",
     "description": "empowers group members and you restoring some of their native Resource over five seconds.",
-    "icon": "Graphic_Cleric_Illuminate.png",
+    "shortDescription": "",
+    "icon": "cleric-illuminate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

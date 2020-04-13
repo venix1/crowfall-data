@@ -1,0 +1,12 @@
+{
+    "id": "trait-refreshing-focus-gem",
+    "name": "Refreshing Focus Gem",
+    "description": "You are proficient with Refreshing Focus Gems.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "refreshing-breeze",
+            "name": "Refreshing Breeze"
+        }
+    ]
+}

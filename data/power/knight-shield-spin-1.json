@@ -2,7 +2,8 @@
     "id": "knight-shield-spin-1",
     "name": "Shield Swipe",
     "description": "attacks in front of you for 113 - 153 + 133% Crushing Weapon Damage.",
-    "icon": "Graphic_Kngt_ShieldSwipe.png",
+    "shortDescription": "",
+    "icon": "knight-shield-spin-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

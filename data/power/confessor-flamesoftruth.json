@@ -2,7 +2,8 @@
     "id": "confessor-flamesoftruth",
     "name": "Flames Of Truth",
     "description": "applies Flames of Truth to your target, damaging them for 17 - 26 instantly. After 10 seconds, Flames Of Truth explodes in a 4m radius for 93 - 140 + 117% Fire Weapon Damage.",
-    "icon": "Graphic_Conf_FlamesOfTruth.png",
+    "shortDescription": "",
+    "icon": "confessor-flamesoftruth.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

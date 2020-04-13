@@ -2,7 +2,8 @@
     "id": "druid-hb-attack-3",
     "name": "Coalesce Nature",
     "description": "manifests an Orb at your targeted location that allies or you may use to heal 72 to 88 + 32% Support Power as well as restoring resources for allies.",
-    "icon": "Graphic_Drud_Basic3.png",
+    "shortDescription": "",
+    "icon": "druid-hb-attack-3.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

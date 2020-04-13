@@ -2,16 +2,19 @@
     "id": "holy-avenger",
     "name": "Holy Avenger",
     "type": "major",
-    "trait": "Blunt Weapon Training",
-    "icon": "Major_HolyAvenger.png",
+    "trait": {
+        "id": "trait-blunt-weapon-training",
+        "name": "Blunt Weapon Training"
+    },
+    "icon": "holy-avenger.png",
     "stats": [
         {
             "name": "Armor Penetration: Crushing",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Crushing Damage Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Tapping into your motivation and channeling it into your current situation is key; no one else is as in tune with their surroundings as that of the Holy Avenger. The opposition may consider you a scene-stealing hack but you know your methods are superior to others. Always remember the battle chant of your brethren: never give up, never surrender!",
     "lore": "Crows often discover new cultures and combat techniques as they travel the galaxies."
 }

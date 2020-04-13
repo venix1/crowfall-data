@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-exploration-423",
+    "name": "Harvesting Specialist",
+    "tree": "Command",
+    "pointRequirement": 0,
+    "pipAmount": 45360,
+    "description": "The passive power Way of the Leader, gains increased Chance for a successful harvest as well as the Potential for higher Quality Resources when harvesting all Resource types as long as you are the group leader.",
+    "icon": "skill-generic-exploration-423.png",
+    "stats": [
+        {
+            "name": "Group Leader Harvesting Specialist",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-418",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-exploration-419",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

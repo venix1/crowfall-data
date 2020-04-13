@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-armor-02-03",
+    "name": "Disease Resistance",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Disease Resistance while wearing armor.",
+    "icon": "skill-combat-armor-02-03.png",
+    "stats": [
+        {
+            "name": "Disease Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-armor-02-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

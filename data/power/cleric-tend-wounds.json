@@ -2,7 +2,8 @@
     "id": "cleric-tend-wounds",
     "name": "Tend Wounds",
     "description": "aids the ally under your target reticle, healing them and you for 16 - 19 + 7.1% Support Power per second over eight seconds.",
-    "icon": "Graphic_Cleric_TendWounds.png",
+    "shortDescription": "",
+    "icon": "cleric-tend-wounds.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

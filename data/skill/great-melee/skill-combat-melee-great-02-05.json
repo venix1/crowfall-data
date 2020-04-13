@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-great-02-05",
+    "name": "Great Axe: Slashing Damage Bonus",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Slashing Damage Bonus while using a Great Axe.",
+    "icon": "skill-combat-melee-great-02-05.png",
+    "stats": [
+        {
+            "name": "Slashing Damage Bonus",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-02-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-02-06",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-02-04",
+        "skill-combat-melee-great-02-06"
+    ]
+}

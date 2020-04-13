@@ -2,7 +2,8 @@
     "id": "templar-subjugate",
     "name": "Subjugate",
     "description": "slices an enemy for 113 - 169 + 141% Weapon Damage and roots them in place.",
-    "icon": "Graphic_Tmpr_Subjugate.png",
+    "shortDescription": "",
+    "icon": "templar-subjugate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

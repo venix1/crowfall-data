@@ -1,0 +1,39 @@
+{
+    "name": "Diamond Cutting Blade",
+    "id": "stonemasonry-component-diamond-blade-003",
+    "icon": "stonemasonry_component_diamond_blade_003.png",
+    "description": "Creates a Cutting Blade strong enough to cut gems.",
+    "outputQuantity": 1,
+    "xp": 3.75,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_components",
+    "ingredients": [
+        {
+            "name": "Ore",
+            "id": "ore",
+            "icon": "Ore.png",
+            "quantity": 3,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Cutting Grit",
+            "id": "cutting-grit",
+            "icon": "Cutting Grit.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Chaos Ember",
+            "id": "chaos-ember",
+            "icon": "Chaos Ember.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

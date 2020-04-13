@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-158",
+    "name": "Jewelcrafting Experimentation Cap",
+    "tree": "Jewelcrafting",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the maximum potential value of Jewelcrafting Experimentation.",
+    "icon": "skill-generic-crafting-158.png",
+    "stats": [
+        {
+            "name": "Jewelcrafting Experimentation Cap",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-156",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-159"
+    ]
+}

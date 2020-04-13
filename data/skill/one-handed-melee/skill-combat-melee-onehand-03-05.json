@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-onehand-03-05",
+    "name": "Axe: Armor Penetration: Physical",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Armor Penetration: Physical while using an Axe in your main hand.",
+    "icon": "skill-combat-melee-onehand-03-05.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-03-06",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-onehand-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-03-04",
+        "skill-combat-melee-onehand-03-06"
+    ]
+}

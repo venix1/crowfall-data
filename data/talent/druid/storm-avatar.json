@@ -3,11 +3,14 @@
     "name": "Storm Avatar",
     "class": "druid",
     "description": "This talent grants the Storm Avatar power.",
-    "icon": "Skill_Icon_044_020.png",
+    "icon": "storm-avatar.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "druid-avatar-storm"
+        {
+            "id": "storm-avatar",
+            "name": "Storm Avatar"
+        }
     ],
     "unlockedFromSkill": [
         {

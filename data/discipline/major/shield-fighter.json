@@ -2,16 +2,19 @@
     "id": "shield-fighter",
     "name": "Shield Fighter",
     "type": "major",
-    "trait": "Shield Familiarity",
-    "icon": "Major_ShieldFighter.png",
+    "trait": {
+        "id": "trait-shield-familiarity",
+        "name": "Shield Familiarity"
+    },
+    "icon": "shield-fighter.png",
     "stats": [
         {
             "name": "Armor Penetration: Crushing",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Physical Resistance",
-            "value": 3
+            "value": "300"
         }
     ],
     "grantsPowers": [
@@ -39,8 +42,11 @@
     "grantsSlot": [
         "Shield"
     ],
-    "grantsEquip": [
-        "Buckler Proficiency"
+    "grantsTrait": [
+        {
+            "id": "trait-buckler-proficiency",
+            "name": "Buckler Proficiency"
+        }
     ],
     "description": "Strength is not the only deciding factor in the heat of battle. Endurance, stamina, and tenacious spirit are necessary aspects of combat survival, and the addition of a shield can help increase the heartiness of the fighter. Shield Fighters are quick to utilize their armament by blocking blows, ricocheting strikes, and the avoidance of massive damage. Fortitude, patience, and a defensive stance are what define a true Shield Fighter.",
     "lore": "With each step you take, bear courage in mind and hold your shield firmly."

@@ -1,7 +1,7 @@
 {
     "name": "Enbarri Artifact Reconstruction",
     "id": "crafting-runebind-005",
-    "icon": "runebind.png",
+    "icon": "crafting_runebind_005.png",
     "description": "Combines like-quality pieces of Enbarri artifacts to produce an artifact of a higher quality and value.",
     "outputQuantity": 1,
     "xp": 0,

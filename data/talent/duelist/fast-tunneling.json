@@ -3,7 +3,7 @@
     "name": "Fast Tunneling",
     "class": "duelist",
     "description": "Fast Tunneling enhances Tunnel reducing its cooldown to 12 seconds.",
-    "icon": "Skill_Icon_042_014.png",
+    "icon": "fast-tunneling.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

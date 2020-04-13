@@ -3,10 +3,15 @@
     "name": "Nature Toxin",
     "class": "assassin",
     "description": "You can now equip Toxins that grant the Nature Toxin passive power.",
-    "icon": "Skill_Icon_018_013.png",
+    "icon": "nature-toxin.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-nature-toxin-training",
+            "name": "Nature Toxin Training"
+        }
+    ],
     "unlockedFromSkill": [
         {
             "skill": "vigor",

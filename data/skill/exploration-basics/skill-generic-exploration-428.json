@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-428",
+    "name": "Herding",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Increases the Movement Speed of your Caravan Animals.",
+    "icon": "skill-generic-exploration-428.png",
+    "stats": [
+        {
+            "name": "Animal Speed",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-303",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-313"
+    ]
+}

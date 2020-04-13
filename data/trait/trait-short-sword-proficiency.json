@@ -1,0 +1,16 @@
+{
+    "id": "trait-short-sword-proficiency",
+    "name": "Short Sword Proficiency",
+    "description": "The first shortsword was crafted by D'Orion after taking the tooth from the great wyvern, Vipera, and then proceeding to slay her with it.\\n\\nA small, one-handed melee weapon primarily used for slashing cuts.\\n\\nYou are proficient at wielding this type of blade.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        }
+    ]
+}

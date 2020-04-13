@@ -1,7 +1,7 @@
 {
     "name": "Specialty Seal",
     "id": "runecarving-seal-11",
-    "icon": "craftingSeal.png",
+    "icon": "runecarving_seal_11.png",
     "description": "Creates a Specialty Seal used to add harvesting or crafting statistics to armor.",
     "outputQuantity": 1,
     "xp": 15,
@@ -11,7 +11,7 @@
         {
             "name": "Non-Basic Stone",
             "id": "non-basic-stone",
-            "icon": "stone.png",
+            "icon": "Non-Basic Stone.png",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": true,
@@ -20,7 +20,7 @@
         {
             "name": "Non-Basic Ore",
             "id": "non-basic-ore",
-            "icon": "ore.png",
+            "icon": "Non-Basic Ore.png",
             "quantity": 10,
             "slotIndex": 1,
             "wildcard": true,
@@ -29,7 +29,7 @@
         {
             "name": "Ethereal Dust",
             "id": "ethereal-dust",
-            "icon": "etherealDust.png",
+            "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 2,
             "wildcard": false,

@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-097",
+    "name": "Silver Ore Basics",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Silver Ore when mining Silver.",
+    "icon": "skill-generic-exploration-097.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Silver",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Silver",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-094",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-105"
+    ]
+}

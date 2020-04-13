@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-melee-great-02-06",
+    "name": "Great Axe: Armor Penetration: Physical",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Armor Penetration: Physical while using a Great Axe.",
+    "icon": "skill-combat-melee-great-02-06.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-02-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-02-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-02-05"
+    ]
+}

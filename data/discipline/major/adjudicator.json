@@ -2,16 +2,19 @@
     "id": "adjudicator",
     "name": "Adjudicator",
     "type": "major",
-    "trait": "Blunt Weapon Training",
-    "icon": "Major_Adjudicator.png",
+    "trait": {
+        "id": "trait-blunt-weapon-training",
+        "name": "Blunt Weapon Training"
+    },
+    "icon": "adjudicator.png",
     "stats": [
         {
             "name": "Armor Penetration: Crushing",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Crushing Damage Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "An Adjudicator is often synonymous with a mediator or judge and most associated with the Church of Arkon. The importance of banishing sin with fire is the truest form of retribution against the guilty and can only be performed by the most devote of disciples.",
     "lore": "I am a servant to the light who will cast those who wallow in sin out of the darkness. I am judge, jury, and executioner."
 }

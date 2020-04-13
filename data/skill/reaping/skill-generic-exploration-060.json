@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-060",
+    "name": "Wood Reaping Basics",
+    "tree": "Reaping",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Increases the Damage that Runestone Axes can deal when logging.",
+    "icon": "skill-generic-exploration-060.png",
+    "stats": [
+        {
+            "name": "Logging",
+            "amount": "0.6"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-361",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-391"
+    ]
+}

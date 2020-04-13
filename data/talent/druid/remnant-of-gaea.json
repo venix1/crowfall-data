@@ -3,11 +3,14 @@
     "name": "Remnant of Gaea",
     "class": "druid",
     "description": "This talent grants the Sacrifice power.",
-    "icon": "Skill_Icon_037_003.png",
+    "icon": "remnant-of-gaea.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "druid-z-sacrifice-basic"
+        {
+            "id": "sacrifice",
+            "name": "Sacrifice"
+        }
     ],
     "unlockedFromSkill": [
         {

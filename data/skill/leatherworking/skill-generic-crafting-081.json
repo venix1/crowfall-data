@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-081",
+    "name": "Partial Crafting Rerolls",
+    "tree": "Leatherworking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Decreases the cost of a Partial Reroll after experimenting on an item.",
+    "icon": "skill-generic-crafting-081.png",
+    "stats": [
+        {
+            "name": "Partial Re-roll Cost Modifier",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-079",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-080",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-082"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Water Spirits",
     "description": "summons and launch a Water Spirit forward which heals allies within 5 of the Water Spirit. \\n\\nWater Spirits last 20 seconds or 30 heals. \\n\\nWater Spirits only heals each player a maximum of 5 times. \\n\\nEnemies hit by the water spirit suffer a 30% to Damage Bonus: Fire for 20 seconds.",
     "shortDescription": "Attack: Heal Allies; Reduce Enemy Fire Damage",
-    "icon": "Graphic_Disc_WaterSpirits.png",
+    "icon": "naiad-water-spirits.png",
     "stats": {
         "cast_time": "Charged",
         "target": "Area",

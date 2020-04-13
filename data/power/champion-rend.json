@@ -2,7 +2,8 @@
     "id": "champion-rend",
     "name": "Rend",
     "description": "deals 187 - 253 + 220% Weapon Damage. Rend applies a Severe Bleed to all hit.",
-    "icon": "Graphic_Chmp_Rend.png",
+    "shortDescription": "",
+    "icon": "champion-rend.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

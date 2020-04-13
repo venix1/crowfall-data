@@ -3,11 +3,14 @@
     "name": "Fervor",
     "class": "confessor",
     "description": "This talent grants the Fervor power.",
-    "icon": "Skill_Icon_017_016.png",
+    "icon": "fervor.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "confessor-fervor"
+        {
+            "id": "fervor",
+            "name": "Fervor"
+        }
     ],
     "unlockedFromSkill": [
         {

@@ -3,7 +3,7 @@
     "name": "Cutthroat",
     "class": "champion",
     "description": "Cutthroat improves Critical Strike by 1 per point spent.",
-    "icon": "Skill_Icon_023_007.png",
+    "icon": "cutthroat.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

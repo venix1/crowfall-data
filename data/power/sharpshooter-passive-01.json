@@ -3,7 +3,7 @@
     "name": "All Clear",
     "description": "increases Damage Bonus when there are no enemies within 30m.",
     "shortDescription": "Passive: Increase Damage when apart from enemies",
-    "icon": "Graphic_Disc_AllClear.png",
+    "icon": "sharpshooter-passive-01.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

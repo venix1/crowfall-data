@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-139",
+    "name": "Necromancy Assembly",
+    "tree": "Necromancy",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increase the chance of Assembly Success when assembling Necromancy items.",
+    "icon": "skill-generic-crafting-139.png",
+    "stats": [
+        {
+            "name": "Necromancy",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-138",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-141"
+    ]
+}

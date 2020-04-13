@@ -2,7 +2,8 @@
     "id": "cleric-basic-attack-1",
     "name": "Blessed Hammer",
     "description": "hurls a spirit hammer at your reticle target for 54 - 66 + 60% Weapon Damage.",
-    "icon": "Graphic_Cleric_SpiritHammer.png",
+    "shortDescription": "",
+    "icon": "cleric-basic-attack-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

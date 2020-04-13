@@ -3,7 +3,7 @@
     "name": "Numbing Cold",
     "class": "frostweaver",
     "description": "Numbing Cold improves Armor by 100 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "numbing-cold.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

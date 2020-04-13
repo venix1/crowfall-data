@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-135",
+    "name": "Ore Specialization Mastery",
+    "tree": "Ore Specialization",
+    "pointRequirement": 95,
+    "pipAmount": 20160,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Ore when a Critical Harvest happens while mining any Ore. Also increases the Chance for a Weak Spot when mining any Ore.",
+    "icon": "skill-generic-exploration-135.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Mining",
+            "amount": "2%"
+        },
+        {
+            "name": "Critical Amount: Mining",
+            "amount": "0.2"
+        },
+        {
+            "name": "Spot Weakness: Ore",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

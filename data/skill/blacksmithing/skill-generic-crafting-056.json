@@ -1,0 +1,13 @@
+{
+    "id": "skill-generic-crafting-056",
+    "name": "Salvage Familiarity",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the amount of Experimentation Points available when experimenting on Blacksmithing items.",
+    "icon": "skill-generic-crafting-056.png",
+    "stats": [],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

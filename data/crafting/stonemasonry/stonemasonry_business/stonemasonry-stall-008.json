@@ -1,0 +1,66 @@
+{
+    "name": "Jewelry Themed Stall",
+    "id": "stonemasonry-stall-008",
+    "icon": "stonemasonry_stall_008.png",
+    "description": "Creates a Jewelry Themed Vendor Stall you can place in your EK which you will place your vendor in to sell your wares.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_business",
+    "ingredients": [
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "Architectural Arches.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Non-Basic Wood",
+            "id": "non-basic-wood",
+            "icon": "Non-Basic Wood.png",
+            "quantity": 15,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 10,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Frame",
+            "id": "frame",
+            "icon": "Frame.png",
+            "quantity": 2,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "Foundation Segment.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Rough Gem",
+            "id": "rough-gem",
+            "icon": "Rough Gem.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

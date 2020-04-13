@@ -2,7 +2,8 @@
     "id": "champion-leap-2",
     "name": "Leap",
     "description": "launches you forward 16m, dealing 95 - 129 + 112% Weapon Damage as Crushing Damage as you land.",
-    "icon": "Graphic_Chmp_Leap.png",
+    "shortDescription": "",
+    "icon": "champion-leap-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

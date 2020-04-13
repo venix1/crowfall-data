@@ -3,7 +3,7 @@
     "name": "Invincible Storm",
     "class": "myrmidon",
     "description": "Invincible Storm enhances Whirlwind so you ignore all Berserk Crash damage while channeling.",
-    "icon": "Skill_Icon_041_020.png",
+    "icon": "invincible-storm.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

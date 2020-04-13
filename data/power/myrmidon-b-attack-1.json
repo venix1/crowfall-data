@@ -2,7 +2,8 @@
     "id": "myrmidon-b-attack-1",
     "name": "Ferocious Cuts",
     "description": "attacks with your right weapon for 35 - 42 + 38% Weapon Damage.",
-    "icon": "Graphic_Myrm_Basic1.png",
+    "shortDescription": "",
+    "icon": "myrmidon-b-attack-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

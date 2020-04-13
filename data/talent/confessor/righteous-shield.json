@@ -3,7 +3,7 @@
     "name": "Righteous Shield",
     "class": "confessor",
     "description": "Righteous Shield enhances Righteousness to apply a Barrier that is 50% more resistant against Physical Damage for 8 seconds.\\n\\nThis effect can only trigger once every 24 seconds.",
-    "icon": "Skill_Icon_017_005.png",
+    "icon": "righteous-shield.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

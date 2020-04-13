@@ -3,7 +3,7 @@
     "name": "Indulgence",
     "description": "cleanses you and become immune to Sin for 30 seconds.",
     "shortDescription": "Gain Sin immunity",
-    "icon": "Graphic_Disc_Indulgence.png",
+    "icon": "friar-indulgence.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

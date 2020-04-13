@@ -1,0 +1,42 @@
+{
+    "id": "skill-generic-exploration-056",
+    "name": "Excavation Basics",
+    "tree": "Excavation",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Increases chance to harvest Ethereal Dust while harvesting Ore, Stone or Hunger Crystals. Also increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when excavating Ore, Stone or Graves.",
+    "icon": "skill-generic-exploration-056.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Ore",
+            "amount": "0.6%"
+        },
+        {
+            "name": "Plethora of Dust: Stone",
+            "amount": "0.6%"
+        },
+        {
+            "name": "Plethora of Dust: Hunger",
+            "amount": "0.6"
+        },
+        {
+            "name": "Plentiful Resources Ore: All",
+            "amount": "0.2"
+        },
+        {
+            "name": "Plentiful Resources Stone: All",
+            "amount": "0.2"
+        },
+        {
+            "name": "Plentiful Resources Grave: All",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-exploration-057",
+        "skill-generic-exploration-058",
+        "skill-generic-exploration-320"
+    ]
+}

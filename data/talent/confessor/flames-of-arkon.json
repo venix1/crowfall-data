@@ -3,7 +3,7 @@
     "name": "Flames of Arkon",
     "class": "confessor",
     "description": "Forced Confession no longer consumes Flames Of Truth when cast.",
-    "icon": "Skill_Icon_045_013.png",
+    "icon": "flames-of-arkon.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

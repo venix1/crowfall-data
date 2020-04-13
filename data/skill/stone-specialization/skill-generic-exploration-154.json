@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-154",
+    "name": "Plentiful Resources: Travertine",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Travertine.",
+    "icon": "skill-generic-exploration-154.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Stone: Travertine",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-146",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

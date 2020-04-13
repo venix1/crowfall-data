@@ -3,11 +3,14 @@
     "name": "Berserk",
     "class": "myrmidon",
     "description": "This talent grants the Berserk power.",
-    "icon": "Skill_Icon_017_026.png",
+    "icon": "berserk.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "myrmidon-berserk"
+        {
+            "id": "berserk",
+            "name": "Berserk"
+        }
     ],
     "unlockedFromSkill": [
         {

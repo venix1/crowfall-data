@@ -3,7 +3,7 @@
     "name": "Stop!",
     "class": "knight",
     "description": "Stop! enhances Pursuit to Stun the nearest enemy.",
-    "icon": "Skill_Icon_045_013.png",
+    "icon": "stop.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

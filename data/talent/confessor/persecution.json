@@ -3,7 +3,7 @@
     "name": "Persecution",
     "class": "confessor",
     "description": "Persecution improves Basic Attack Damage by 2% per point spent.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "persecution.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

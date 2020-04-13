@@ -1,7 +1,7 @@
 {
     "name": "Discipline: Exploration",
     "id": "runecarving-discipline-001",
-    "icon": "runestoneWeaponDiscipline.png",
+    "icon": "runecarving_discipline_001.png",
     "description": "Creates a Major Discipline. The type of Soul used will determine the type of Discipline created.",
     "outputQuantity": 1,
     "xp": 45,
@@ -20,7 +20,7 @@
         {
             "name": "Unmarked Stone Runestone",
             "id": "unmarked-stone-runestone",
-            "icon": "runestoneBlank.png",
+            "icon": "Unmarked Stone Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Animal Blood",
             "id": "animal-blood",
-            "icon": "blood.png",
+            "icon": "Animal Blood.png",
             "quantity": 2,
             "slotIndex": 2,
             "wildcard": false,
@@ -47,7 +47,7 @@
         {
             "name": "Domination Dust",
             "id": "domination-dust",
-            "icon": "etherealDust.png",
+            "icon": "Domination Dust.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,

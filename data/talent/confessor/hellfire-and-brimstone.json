@@ -3,7 +3,7 @@
     "name": "Hellfire and Brimstone",
     "class": "confessor",
     "description": "Hellfire and Brimstone enhances Hellfire Shield and Hellfire Aura so they are no longer consumed by Hellfire combo powers.",
-    "icon": "Skill_Icon_025_001.png",
+    "icon": "hellfire-and-brimstone.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

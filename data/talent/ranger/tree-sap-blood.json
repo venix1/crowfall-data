@@ -3,7 +3,7 @@
     "name": "Tree Sap Blood",
     "class": "ranger",
     "description": "Tree Sap Blood improves Bleed Resistance by 1000 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "tree-sap-blood.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -17,7 +17,7 @@
             "point": 1
         },
         {
-            "skill": "tracker-s-kit",
+            "skill": "trackers-kit",
             "point": 1
         }
     ],

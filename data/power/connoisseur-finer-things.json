@@ -3,7 +3,7 @@
     "name": "Finer Things",
     "description": "increases your Gem Harvest Chance, Mineral Harvest Chance, Heartwood Harvest Chance, Grave Goods Harvest Chance, and Hunger Shard Chance by 5% for 8 seconds.",
     "shortDescription": "Increase Chance to Harvest Node Exotic Items",
-    "icon": "Graphic_Disc_FinerThings.png",
+    "icon": "connoisseur-finer-things.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

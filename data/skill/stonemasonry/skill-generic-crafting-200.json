@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-crafting-200",
+    "name": "Stonemasonry Craftsmanship",
+    "tree": "Stonemasonry",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Experimentation Success and the amount of Experimentation Points while experimenting on Stonemasonry items.",
+    "icon": "skill-generic-crafting-200.png",
+    "stats": [
+        {
+            "name": "Stonemasonry Experimentation",
+            "amount": "1"
+        },
+        {
+            "name": "Stonemasonry Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-199",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-201",
+        "skill-generic-crafting-202"
+    ]
+}

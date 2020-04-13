@@ -2,7 +2,8 @@
     "id": "druid-z-faerie-fire",
     "name": "Faerie Flames",
     "description": "engulfs an enemy in Faerie Flames decreasing Physical Mitigations by 20 for 30 seconds.\\n\\nWhile affected, the target cannot stealth.",
-    "icon": "Graphic_Drud_FaerieFire.png",
+    "shortDescription": "",
+    "icon": "druid-z-faerie-fire.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

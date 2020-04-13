@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-314",
+    "name": "Enhanced Defense: Slow",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Decreases the Duration of any Movement Speed reductions applied to you.",
+    "icon": "skill-generic-exploration-314.png",
+    "stats": [
+        {
+            "name": "Slow Defense",
+            "amount": "0.16(s)"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-313",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-315",
+        "skill-generic-exploration-433"
+    ]
+}

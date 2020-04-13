@@ -1,0 +1,17 @@
+{
+    "id": "trait-necromancer",
+    "name": "Necromancer",
+    "description": "You are adept at working spare body parts into complete vessels.\\n\\nYou can equip Necromancer Disciplines.",
+    "requiredBy": [
+        {
+            "id": "sawbones",
+            "name": "Sawbones"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "necromancer",
+            "name": "Necromancer"
+        }
+    ]
+}

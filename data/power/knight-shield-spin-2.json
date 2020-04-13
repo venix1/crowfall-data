@@ -2,7 +2,8 @@
     "id": "knight-shield-spin-2",
     "name": "Shield Stun",
     "description": "attacks in front of you for 115 - 156 + 136% Crushing Weapon Damage, Stunning your target.",
-    "icon": "Graphic_Kngt_ShieldBash.png",
+    "shortDescription": "",
+    "icon": "knight-shield-spin-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

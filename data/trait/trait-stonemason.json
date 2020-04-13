@@ -1,0 +1,17 @@
+{
+    "id": "trait-stonemason",
+    "name": "Stonemason",
+    "description": "You are adept at working stone into the building blocks of structures. You craft various structures such as buildings, parcels, defenses, vendors and crafting stations.\\n\\nYou can equip Stonemason Disciplines.",
+    "requiredBy": [
+        {
+            "id": "builder",
+            "name": "Builder"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "stonemason",
+            "name": "Stonemason"
+        }
+    ]
+}

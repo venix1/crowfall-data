@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-great-03-04",
+    "name": "Great Mace: Attack Control Defense",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Attack Control Defense while using a Great Mace.",
+    "icon": "skill-combat-melee-great-03-04.png",
+    "stats": [
+        {
+            "name": "Attack Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-03-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-03-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-03-03",
+        "skill-combat-melee-great-03-05"
+    ]
+}

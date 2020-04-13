@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-crafting-091",
+    "name": "Woodworking Craftsmanship Mastery",
+    "tree": "Woodworking",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases the chance of Experimentation Success and the amount of Experimentation Points while experimenting on Woodworking items.",
+    "icon": "skill-generic-crafting-091.png",
+    "stats": [
+        {
+            "name": "Woodworking Experimentation",
+            "amount": "2"
+        },
+        {
+            "name": "Woodworking Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-090",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

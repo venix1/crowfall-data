@@ -3,7 +3,7 @@
     "name": "Reanimation Rites",
     "description": "increases your Necromancy Cap by 15 and Necromancy Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Necromancy Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_NecromancyTechniques.png",
+    "icon": "necromancy-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

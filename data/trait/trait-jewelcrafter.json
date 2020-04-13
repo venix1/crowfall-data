@@ -1,0 +1,17 @@
+{
+    "id": "trait-jewelcrafter",
+    "name": "Jewelcrafter",
+    "description": "You are adept at working uncut gems into polished gemstones and jewelry.\\n\\nYou can equip Jewelcrafter Disciplines.",
+    "requiredBy": [
+        {
+            "id": "gemologist",
+            "name": "Gemologist"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "jewelcrafter",
+            "name": "Jewelcrafter"
+        }
+    ]
+}

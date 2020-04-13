@@ -3,7 +3,7 @@
     "name": "Deep Cuts",
     "class": "assassin",
     "description": "In the Zone increases your Armor Penetration: Piercing by 10% while active.",
-    "icon": "Skill_Icon_017_020.png",
+    "icon": "deep-cuts.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -14,7 +14,7 @@
         }
     ],
     "unlocksSkill": [
-        "killer-s-gift"
+        "killers-gift"
     ],
     "locksSkill": []
 }

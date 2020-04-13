@@ -2,8 +2,11 @@
     "id": "song-twisting",
     "name": "Song Twisting",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_Twisting.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "song-twisting.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Not for the faint of wrist."
 }

@@ -1,0 +1,25 @@
+{
+    "id": "skill-combat-armor-01-02",
+    "name": "Electricity Resistance",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Electricity Resistance while wearing armor.",
+    "icon": "skill-combat-armor-01-02.png",
+    "stats": [
+        {
+            "name": "Electricity Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-armor-01-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-armor-01-03"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-basic-01-05",
+    "name": "Critical Healing Amount",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Critical Healing Amount.",
+    "icon": "skill-combat-basic-01-05.png",
+    "stats": [
+        {
+            "name": "Critical Healing Amount",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-01-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

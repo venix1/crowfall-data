@@ -3,7 +3,7 @@
     "name": "Magnificent Purpose",
     "class": "templar",
     "description": "Magnificent Purpose improves Critical Healing Chance by 2% per point spent.",
-    "icon": "Skill_Icon_017_012.png",
+    "icon": "magnificent-purpose.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

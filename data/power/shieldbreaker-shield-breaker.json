@@ -3,7 +3,7 @@
     "name": "Shield Breaker",
     "description": "crushes an enemy who is actively using Block or Parry causing a Knockdown and dealing 91 - 123 + 107% Weapon Damage.",
     "shortDescription": "Attack: Cancel and Punish Block and Parry",
-    "icon": "Graphic_Disc_ShieldBreaker.png",
+    "icon": "shieldbreaker-shield-breaker.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

@@ -2,8 +2,11 @@
     "id": "leather-armourer",
     "name": "Leather Armourer",
     "type": "minor",
-    "trait": "",
-    "icon": "Minor_Leatherworking.png",
+    "trait": {
+        "id": "trait-leatherworker",
+        "name": "Leatherworker"
+    },
+    "icon": "leather-armourer.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,8 +16,11 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Leather Armourer"
+    "grantsTrait": [
+        {
+            "id": "trait-leather-armourer",
+            "name": "Leather Armourer"
+        }
     ],
     "description": "Temporary Additive Slots:\\nGrants Specialty Seal additive slot for Armor recipes.\\n\\nReduced Recipe Resource Costs:\\nLeather Square\\nHardened Leather Square\\nStitched Leather",
     "lore": "The progress of finishing a hide isn't always an easy thing to seek, but once it's been cut and stamped the outcome will leave you riveted."

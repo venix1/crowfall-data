@@ -3,11 +3,14 @@
     "name": "Righteousness",
     "class": "confessor",
     "description": "This talent grants the Righteousness passive power.",
-    "icon": "Skill_Icon_017_016.png",
+    "icon": "righteousness.png",
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [
-        "confessor-passive-2"
+        {
+            "id": "righteousness",
+            "name": "Righteousness"
+        }
     ],
     "unlockedFromSkill": [
         {

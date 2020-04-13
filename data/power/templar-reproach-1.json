@@ -2,7 +2,8 @@
     "id": "templar-reproach-1",
     "name": "Reproach",
     "description": "slashes multiple enemies, dealing 54 - 81 + 67% Weapon Damage.",
-    "icon": "Graphic_Tmpr_Reproach.png",
+    "shortDescription": "",
+    "icon": "templar-reproach-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

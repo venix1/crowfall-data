@@ -3,11 +3,14 @@
     "name": "Faerie Trap",
     "class": "ranger",
     "description": "This talent grants the Faerie Trap power.",
-    "icon": "Skill_Icon_033_018.png",
+    "icon": "faerie-trap.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "ranger-trap-faerie-melee"
+        {
+            "id": "faerie-trap",
+            "name": "Faerie Trap"
+        }
     ],
     "unlockedFromSkill": [
         {

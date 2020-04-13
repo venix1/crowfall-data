@@ -3,7 +3,7 @@
     "name": "Matching Mail",
     "description": "increases your Support Power by 100 when wearing a full set of non-basic Mail armor.",
     "shortDescription": "Passive: Gain Support Power with a Full Set of Mail Equipped",
-    "icon": "Graphic_Disc_MatchingScale.png",
+    "icon": "matching-support-mail.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -2,16 +2,20 @@
     "id": "elven-eyes",
     "name": "Elven Eyes",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_ElvenEyes.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "elven-eyes.png",
     "stats": [
         {
             "name": "Far-sight",
-            "value": 20
+            "value": "20(m)"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Why do I feel like I'm being watched?"
 }

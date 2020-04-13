@@ -1,0 +1,57 @@
+{
+    "name": "Sickle",
+    "id": "blacksmithing-weapon-sickle-001",
+    "icon": "blacksmithing_weapon_sickle_001.png",
+    "description": "Creates a One Handed Sickle, usable by those who are proficient with Mystical Sickles.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "weapons",
+    "ingredients": [
+        {
+            "name": "Weapon Hilt",
+            "id": "weapon-hilt",
+            "icon": "Weapon Hilt.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Blade: Curved",
+            "id": "weapon-blade-curved",
+            "icon": "Weapon Blade: Curved.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Blade Rivets",
+            "id": "blade-rivets",
+            "icon": "Blade Rivets.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

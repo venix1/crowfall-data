@@ -3,7 +3,7 @@
     "name": "Lambs Become Lions",
     "class": "ranger",
     "description": "Lambs Become Lions improves Attack Power by 75 per point spent.",
-    "icon": "Skill_Icon_002_014.png",
+    "icon": "lambs-become-lions.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

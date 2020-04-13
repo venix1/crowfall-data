@@ -2,7 +2,8 @@
     "id": "confessor-b-attack-2",
     "name": "Cleansing Flame",
     "description": "shoots a fireball, causing 69 - 104 + 86%  Fire Weapon Damage and applying Sin to your target.",
-    "icon": "Graphic_Conf_Basic2.png",
+    "shortDescription": "",
+    "icon": "confessor-b-attack-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

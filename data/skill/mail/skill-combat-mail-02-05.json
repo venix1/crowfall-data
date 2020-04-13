@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-mail-02-05",
+    "name": "Decay Rate: Mail",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Decay Rate: Mail while using Mail chest armor.",
+    "icon": "skill-combat-mail-02-05.png",
+    "stats": [
+        {
+            "name": "Decay Rate: Mail",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-02-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-02-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-02-04"
+    ]
+}

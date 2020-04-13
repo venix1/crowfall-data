@@ -3,7 +3,7 @@
     "name": "Uniform Plate",
     "description": "increases your Attack Power by 100 when wearing a full set of non-basic Plate armor.",
     "shortDescription": "Passive: Gain Attack Power with a Full Set of Plate Equipped",
-    "icon": "Graphic_Disc_UniformPlate.png",
+    "icon": "matching-offense-plate.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

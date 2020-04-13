@@ -3,7 +3,7 @@
     "name": "Resolve",
     "description": "heals 4% of your maximum Health, 20 Stamina, and 25 Energy every second for 4 seconds when your Health drops below 20%.\\n\\nThis can happen once every 90 seconds.",
     "shortDescription": "Passive: Heal on low Health",
-    "icon": "Graphic_Kngt_Constitution.png",
+    "icon": "second-wind-passive-01.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

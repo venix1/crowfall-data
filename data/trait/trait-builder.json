@@ -1,0 +1,12 @@
+{
+    "id": "trait-builder",
+    "name": "Builder",
+    "description": "You are an expert Stonemason, leaving no stone unturned in your quest for crafting the perfect structure.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "builder",
+            "name": "Builder"
+        }
+    ]
+}

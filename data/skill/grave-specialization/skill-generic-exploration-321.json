@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-321",
+    "name": "Human Grave Basics",
+    "tree": "Grave Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when digging a Human Grave. Critical harvests produce Necromancy Additives.",
+    "icon": "skill-generic-exploration-321.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Human Grave",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-327",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-385"
+    ]
+}

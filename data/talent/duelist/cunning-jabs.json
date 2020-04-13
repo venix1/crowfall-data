@@ -3,7 +3,7 @@
     "name": "Cunning Jabs",
     "class": "duelist",
     "description": "Cunning Jabs improves Armor Penetration: Physical by 1% per point spent.",
-    "icon": "Skill_Icon_017_020.png",
+    "icon": "cunning-jabs.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

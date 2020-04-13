@@ -3,7 +3,7 @@
     "name": "Cold Dopping",
     "description": "increases your Jewelcrafting Cap by 15 and Jewelcrafting Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Jewelcrafting Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_JewelcraftingTechniques.png",
+    "icon": "jewelcrafting-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -2,7 +2,8 @@
     "id": "ranger-b-attack-charged-3",
     "name": "Multi-Purpose Shot",
     "description": "shoots an arrow toward your reticle dealing 227 - 307 + 267% Weapon Damage and applying additional effects with fully charged shots while using exotic arrows. Check your arrow's description for details on additional effects.",
-    "icon": "Graphic_Rngr_BasicAttackRanged3.png",
+    "shortDescription": "",
+    "icon": "ranger-b-attack-charged-3.png",
     "stats": {
         "cast_time": "Charged",
         "target": "Reticle",

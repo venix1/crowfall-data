@@ -3,7 +3,7 @@
     "name": "Exceptional Weaponry",
     "class": "ranger",
     "description": "Exceptional Weaponry improves Weapon Damage by 3 per point spent.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "exceptional-weaponry.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

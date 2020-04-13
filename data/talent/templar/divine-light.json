@@ -3,11 +3,14 @@
     "name": "Divine Light",
     "class": "templar",
     "description": "This talent grants the Divine Light power.",
-    "icon": "Skill_Icon_043_019.png",
+    "icon": "divine-light.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "templar-divine-light"
+        {
+            "id": "divine-light",
+            "name": "Divine Light"
+        }
     ],
     "unlockedFromSkill": [
         {

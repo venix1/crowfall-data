@@ -2,7 +2,8 @@
     "id": "ranger-retaliate",
     "name": "Retaliate",
     "description": "returns you to your feet, dealing 113 - 153 + 133% Weapon Damage to nearby enemies.",
-    "icon": "Graphic_Rngr_Retaliate.png",
+    "shortDescription": "",
+    "icon": "ranger-retaliate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",
@@ -25,6 +26,7 @@
     "isBuff": false,
     "tags": [
         "anyone",
-        "harvest"
+        "harvest",
+        "stealth"
     ]
 }

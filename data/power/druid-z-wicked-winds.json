@@ -2,7 +2,8 @@
     "id": "druid-z-wicked-winds",
     "name": "Wicked Winds",
     "description": "launches a swirling maelstrom to fling enemies around and causing 193 - 290 + 242% Weapon Damage as Nature Damage.",
-    "icon": "Graphic_Drud_WickedWins.png",
+    "shortDescription": "",
+    "icon": "druid-z-wicked-winds.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

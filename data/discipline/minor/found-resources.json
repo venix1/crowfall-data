@@ -2,8 +2,11 @@
     "id": "found-resources",
     "name": "Found Resources",
     "type": "minor",
-    "trait": "Stealther",
-    "icon": "Minor_FoundResources.png",
+    "trait": {
+        "id": "trait-stealther",
+        "name": "Stealther"
+    },
+    "icon": "found-resources.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Many experience bad luck that is associated with enormous winnings; this is oft to be thought of as the law of found resources at work."
 }

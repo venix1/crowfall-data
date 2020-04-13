@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-basic-01-07",
+    "name": "Movement Control Defense",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Movement Control Defense.",
+    "icon": "skill-combat-basic-01-07.png",
+    "stats": [
+        {
+            "name": "Movement Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-01-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

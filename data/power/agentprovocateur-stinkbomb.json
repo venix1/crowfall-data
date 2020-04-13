@@ -3,7 +3,7 @@
     "name": "Stink Bomb",
     "description": "torments enemies with a noxious targeted area attack Stunning and afflicting them with Moderate Corruption while maintaining Stealth.",
     "shortDescription": "Stealth: Target Area Stun; Moderate Corruption",
-    "icon": "Graphic_Disc_StinkBomb.png",
+    "icon": "agentprovocateur-stinkbomb.png",
     "stats": {
         "cast_time": "Ground Aimed",
         "target": "Area",

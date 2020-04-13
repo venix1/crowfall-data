@@ -1,0 +1,12 @@
+{
+    "id": "trait-poison-toxin-training",
+    "name": "Poison Toxin Training",
+    "description": "You are adept at the handling of Poison Toxins.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "tools-of-the-trade",
+            "name": "Tools of the Trade"
+        }
+    ]
+}

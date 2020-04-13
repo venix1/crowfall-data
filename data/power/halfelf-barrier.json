@@ -1,9 +1,9 @@
 {
     "id": "halfelf-barrier",
     "name": "Bandit's Armor",
-    "description": "protects you with a Barrier preventing up to 1000 Piercing damage or 500 damage of other types for 15 seconds.",
+    "description": "protects you with a Barrier preventing up to 1000 Piercing damage or 500 damage of other types for 15.",
     "shortDescription": "Gain a Barrier, and Piercing Barrier Resistance",
-    "icon": "Graphic_Disc_BasicBlock.png",
+    "icon": "halfelf-barrier.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

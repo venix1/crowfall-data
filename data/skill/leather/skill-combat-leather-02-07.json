@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-leather-02-07",
+    "name": "Sprint Movement Modifier",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 21960,
+    "description": "Decreases Sprint Movement Modifier while using Leather chest armor.",
+    "icon": "skill-combat-leather-02-07.png",
+    "stats": [
+        {
+            "name": "Sprint Movement Modifier",
+            "amount": "0.01"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-leather-02-06",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-leather-02-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-leather-02-06"
+    ]
+}

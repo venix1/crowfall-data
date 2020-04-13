@@ -2,7 +2,8 @@
     "id": "templar-judgement-2",
     "name": "Execute",
     "description": "slashes without remorse, dealing 135 - 202 + 168% Weapon Damage. Enemies under 35% health are hit for 202 - 303 + 167% Weapon Damage, and this attack gains a 100% Critical Strike modifier.",
-    "icon": "Graphic_Tmpr_Execute.png",
+    "shortDescription": "",
+    "icon": "templar-judgement-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

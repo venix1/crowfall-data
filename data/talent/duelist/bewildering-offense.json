@@ -3,7 +3,7 @@
     "name": "Bewildering Offense",
     "class": "duelist",
     "description": "Bewildering Offense improves Armor Penetration: Physical by 2% per point spent.",
-    "icon": "Skill_Icon_017_020.png",
+    "icon": "bewildering-offense.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Hymn Of Restoration",
     "description": "increases your group's In Combat Health Regen by 24 and Out of Combat Health Regen by 32 for 12 seconds.\\n\\nType 3 Song.",
     "shortDescription": "Song: Increase Group Health Regen",
-    "icon": "Graphic_Disc_HymnOfRestoration.png",
+    "icon": "bard-hymn-of-restoration.png",
     "stats": {
         "cast_time": "2 Seconds",
         "target": "Group",

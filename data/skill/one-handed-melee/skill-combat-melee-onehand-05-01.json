@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-melee-onehand-05-01",
+    "name": "Sword: Armor Penetration: Physical",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Armor Penetration: Physical while using a Sword in your main hand.",
+    "icon": "skill-combat-melee-onehand-05-01.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-05-02",
+        "skill-combat-melee-onehand-05-06"
+    ]
+}

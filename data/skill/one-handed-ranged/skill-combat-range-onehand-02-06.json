@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-onehand-02-06",
+    "name": "Pistol: Crushing Damage Bonus",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Crushing Damage Bonus while using a Pistol in your main hand.",
+    "icon": "skill-combat-range-onehand-02-06.png",
+    "stats": [
+        {
+            "name": "Crushing Damage Bonus",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-02-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-02-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-02-05"
+    ]
+}

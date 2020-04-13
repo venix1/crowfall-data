@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-crafting-017",
+    "name": "Leatherworking Basics",
+    "tree": "Crafting Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Unlocks the Leatherworking skill tree.",
+    "icon": "skill-generic-crafting-017.png",
+    "stats": [
+        {
+            "name": "Leatherworking",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-015",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

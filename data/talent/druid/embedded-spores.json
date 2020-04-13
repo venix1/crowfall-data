@@ -3,7 +3,7 @@
     "name": "Embedded Spores",
     "class": "druid",
     "description": "Embedded Spores improves Anti-Critical Strike by 1% per point spent.",
-    "icon": "Skill_Icon_041_016.png",
+    "icon": "embedded-spores.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

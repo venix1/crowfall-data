@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-leather-master",
+    "name": "Leather Mastery",
+    "tree": "Leather",
+    "pointRequirement": 90,
+    "pipAmount": 28080,
+    "description": "Increases Health, decreases Sprint Cost, and decreases Decay Rate: Armor while using Leather chest armor.",
+    "icon": "skill-combat-leather-master.png",
+    "stats": [
+        {
+            "name": "Decay Rate: Leather",
+            "amount": "2%"
+        },
+        {
+            "name": "Sprint Efficiency",
+            "amount": "-0.1"
+        },
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

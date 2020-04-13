@@ -3,7 +3,7 @@
     "name": "Phantom Feints",
     "description": "tricks enemies with a slow debuff to see illusory attacks causing your true attacks to inflict 20% more damage.",
     "shortDescription": "Passive: Increase Damage vs Slowed enemies",
-    "icon": "Graphic_Disc_WeakestLink.png",
+    "icon": "weakest-link.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

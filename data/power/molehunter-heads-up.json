@@ -3,7 +3,7 @@
     "name": "Heads Up",
     "description": "increases the Perception of group members and you by 25 and removes the Exposed state.",
     "shortDescription": "Group increase Perception; Remove Expose",
-    "icon": "Graphic_Disc_HeadsUp.png",
+    "icon": "molehunter-heads-up.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

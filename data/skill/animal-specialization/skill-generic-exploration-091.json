@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-091",
+    "name": "Carnivore Basics",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning Carnivore Animals.",
+    "icon": "skill-generic-exploration-091.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Carnivore",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Carnivore",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-178",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-067"
+    ]
+}

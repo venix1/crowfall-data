@@ -3,7 +3,7 @@
     "name": "Crisp Casting",
     "class": "frostweaver",
     "description": "Crisp Casting improves Basic Attack Damage by 2% and Mana Regen In Combat by 3 per point spent.",
-    "icon": "Skill_Icon_033_006.png",
+    "icon": "crisp-casting.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

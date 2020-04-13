@@ -3,11 +3,14 @@
     "name": "Censure",
     "class": "templar",
     "description": "This talent grants the Censure power.",
-    "icon": "Skill_Icon_045_013.png",
+    "icon": "censure.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "templar-censure"
+        {
+            "id": "censure",
+            "name": "Censure"
+        }
     ],
     "unlockedFromSkill": [
         {

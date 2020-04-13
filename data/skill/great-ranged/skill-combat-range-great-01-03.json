@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-great-01-03",
+    "name": "Book: Attack Control Defense",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Attack Control Defense while using a Book.",
+    "icon": "skill-combat-range-great-01-03.png",
+    "stats": [
+        {
+            "name": "Attack Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-01-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-01-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-01-02",
+        "skill-combat-range-great-01-04"
+    ]
+}

@@ -2,7 +2,8 @@
     "id": "ranger-rapid-shot",
     "name": "Rapid Fire",
     "description": "shoots up to eight arrows dealing 49 - 66 + 57% Weapon Damage per arrow while you hold down the power key.",
-    "icon": "Graphic_Rngr_RapidShot.png",
+    "shortDescription": "",
+    "icon": "ranger-rapid-shot.png",
     "stats": {
         "weapon_damage_value": "57",
         "max_damage_1": "66",

@@ -3,11 +3,14 @@
     "name": "Flames of Truth",
     "class": "confessor",
     "description": "This talent grants the Flames Of Truth power.",
-    "icon": "Skill_Icon_045_013.png",
+    "icon": "flames-of-truth.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "confessor-flamesoftruth"
+        {
+            "id": "flames-of-truth",
+            "name": "Flames Of Truth"
+        }
     ],
     "unlockedFromSkill": [],
     "unlocksSkill": [

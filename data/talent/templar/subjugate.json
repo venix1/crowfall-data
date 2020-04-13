@@ -3,11 +3,14 @@
     "name": "Subjugate",
     "class": "templar",
     "description": "This talent grants the Subjugate power as an additional combo following Judgement.",
-    "icon": "Skill_Icon_019_002.png",
+    "icon": "subjugate.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "templar-judgement-1-talent"
+        {
+            "id": "judgement",
+            "name": "Judgement"
+        }
     ],
     "unlockedFromSkill": [
         {

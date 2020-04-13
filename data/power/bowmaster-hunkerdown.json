@@ -3,7 +3,7 @@
     "name": "Hunker Down",
     "description": "deploys a small point-blank field increasing your Damage Bonus and Resist All.",
     "shortDescription": "Field increases Damage; Resist All",
-    "icon": "Graphic_Disc_HunkerDown.png",
+    "icon": "bowmaster-hunkerdown.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

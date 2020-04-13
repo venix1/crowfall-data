@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-mail-04-03",
+    "name": "Attack Control Defense",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Attack Control Defense while using Mail chest armor.",
+    "icon": "skill-combat-mail-04-03.png",
+    "stats": [
+        {
+            "name": "Attack Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-04-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-04-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-04-02",
+        "skill-combat-mail-04-04"
+    ]
+}

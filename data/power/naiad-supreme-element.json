@@ -3,7 +3,7 @@
     "name": "Supreme Element",
     "description": "grants various effects based on elemental damage taken.\\n\\nFire damage heals you for 20% of the damage taken.\\n\\nElectricity damage deals 10% of the damage back to the caster.\\n\\nIce damage applies a stack of Phase Transition granting Healing Modifier by 6% per stack, up to three stacks.",
     "shortDescription": "Passive: Elemental Damage Grants Buffs",
-    "icon": "Graphic_Disc_WaterBeatsFire.png",
+    "icon": "naiad-supreme-element.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

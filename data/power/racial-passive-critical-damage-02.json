@@ -3,7 +3,7 @@
     "name": "Brawny",
     "description": "increases your Critical Damage statistic by 10%.",
     "shortDescription": "Passive: Increase Critical Damage Amount",
-    "icon": "Graphic_Disc_Racial_HalfGiant.png",
+    "icon": "racial-passive-critical-damage-02.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -3,11 +3,14 @@
     "name": "Backstab",
     "class": "assassin",
     "description": "This talent grants the Backstab power.",
-    "icon": "Skill_Icon_003_011.png",
+    "icon": "backstab.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "assassin-backstab"
+        {
+            "id": "backstab",
+            "name": "Backstab"
+        }
     ],
     "unlockedFromSkill": [
         {

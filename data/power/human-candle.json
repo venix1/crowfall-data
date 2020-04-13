@@ -3,7 +3,7 @@
     "name": "Candle That Burns",
     "description": "increases your Damage Bonus by 10% while also making your powers more costly by 5% for 12 seconds.",
     "shortDescription": "Increase Damage, Increase Resource Cost",
-    "icon": "Graphic_Disc_CandleThatBurns.png",
+    "icon": "human-candle.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

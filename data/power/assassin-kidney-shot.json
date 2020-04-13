@@ -2,7 +2,8 @@
     "id": "assassin-kidney-shot",
     "name": "Kidney Shot",
     "description": "stabs an enemy with a crippling blow to the vitals causing 80 - 120 + 100% Weapon Damage and stunning for a duration scaling by Pips spent.\\n\\n1 Pip: 3.25 seconds \\n2 Pips: 4 seconds \\n3 Pips: 4.75 seconds \\n4 Pips: 5.5 seconds \\n5 Pips: 6.25 seconds",
-    "icon": "Graphic_Assn_KidneyShot.png",
+    "shortDescription": "",
+    "icon": "assassin-kidney-shot.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

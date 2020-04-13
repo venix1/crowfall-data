@@ -2,7 +2,8 @@
     "id": "holyavenger-hammer-2",
     "name": "Grabthar's Hammer",
     "description": "smashes an enemy, stunning them for 106 - 143 + 124% Weapon Damage.",
-    "icon": "Graphic_Disc_GrabtharsHammer_B.png",
+    "shortDescription": "",
+    "icon": "holyavenger-hammer-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

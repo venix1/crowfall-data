@@ -2,16 +2,19 @@
     "id": "siege-engineer",
     "name": "Siege Engineer",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_SiegeEngineer.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "siege-engineer.png",
     "stats": [
         {
             "name": "Health",
-            "value": 500
+            "value": "500"
         },
         {
             "name": "Physical Resistance",
-            "value": 3
+            "value": "300"
         }
     ],
     "grantsPowers": [
@@ -32,8 +35,11 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Siege Engineer"
+    "grantsTrait": [
+        {
+            "id": "trait-siege-engineer",
+            "name": "Siege Engineer"
+        }
     ],
     "description": "Recipes Granted:\\nBallista\\nCatapult\\nTrebuchet",
     "lore": "When you absolutely, positively, have to destroy every wall on the Keep; accept no substitutes."

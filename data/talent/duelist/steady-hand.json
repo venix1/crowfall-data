@@ -3,7 +3,7 @@
     "name": "Steady Hand",
     "class": "duelist",
     "description": "Steady Hand improves Attack Power by 45 per point spent.",
-    "icon": "Skill_Icon_002_014.png",
+    "icon": "steady-hand.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

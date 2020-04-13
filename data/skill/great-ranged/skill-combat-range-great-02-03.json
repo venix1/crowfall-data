@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-great-02-03",
+    "name": "Long Bow: Power Efficiency",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Power Efficiency while using a Long Bow.",
+    "icon": "skill-combat-range-great-02-03.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-02-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-02-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-02-02",
+        "skill-combat-range-great-02-04"
+    ]
+}

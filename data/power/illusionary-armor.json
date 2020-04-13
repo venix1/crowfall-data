@@ -1,9 +1,9 @@
 {
     "id": "illusionary-armor",
     "name": "Illusionary Armor",
-    "description": "conjures an illusion effective enough to reduce incoming damage by 7% for 15 seconds.",
+    "description": "conjures an illusion effective enough to reduce incoming damage by 7% for 15.",
     "shortDescription": "Reduce Health Loss",
-    "icon": "Graphic_Disc_IllusionaryArmor.png",
+    "icon": "illusionary-armor.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

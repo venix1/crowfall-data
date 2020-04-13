@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-02-04",
+    "name": "Pistol: Critical Strike",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Strike while using a Pistol in your main hand.",
+    "icon": "skill-combat-range-onehand-02-04.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-02-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-02-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-02-03",
+        "skill-combat-range-onehand-02-05"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Wildkin's Retort",
     "description": "heals 6% of your maximum Health over 4 seconds whenever you are the victim of a Knockdown, Stun, Root, or Snare.",
     "shortDescription": "Passive: Heal Over Time when any Knockdown, Stun, Root, or Snare is Applied",
-    "icon": "Graphic_Disc_Racial_HalfElf.png",
+    "icon": "racial-passive-was-just-c-cd.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

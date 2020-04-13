@@ -3,7 +3,7 @@
     "name": "Spite",
     "class": "champion",
     "description": "Spite improves Attack Control Intensity by 7% per point spent.",
-    "icon": "Skill_Icon_045_014.png",
+    "icon": "spite.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

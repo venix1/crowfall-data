@@ -3,11 +3,14 @@
     "name": "Brutal Warrior",
     "class": "champion",
     "description": "This talent grants the Brutal Warrior power.",
-    "icon": "Skill_Icon_017_026.png",
+    "icon": "brutal-warrior.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "champion-brutal-warrior"
+        {
+            "id": "brutal-warrior",
+            "name": "Brutal Warrior"
+        }
     ],
     "unlockedFromSkill": [
         {

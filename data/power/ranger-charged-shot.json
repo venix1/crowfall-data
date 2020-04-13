@@ -1,8 +1,9 @@
 {
     "id": "ranger-charged-shot",
     "name": "Ricochet Shot",
-    "description": "charges an arrow and shoot it towards your reticle dealing 158 - 213 + 186% Weapon Damage. The arrow will ricochet to a second target within 6m and then ricochet to a third target. If you hit 3 targets with this power, you gain the Hot Shot buff which applies 10 Critical Damage for 15 seconds.",
-    "icon": "Graphic_Rngr_RicochetShot.png",
+    "description": "charges an arrow and shoot it towards your reticle dealing 158 - 213 + 186% Weapon Damage. The arrow will ricochet to a second target within 6m and then ricochet to a third target. If you hit 3 targets with this power, you gain the Hot Shot buff which applies 10 Critical Damage for 15.",
+    "shortDescription": "",
+    "icon": "ranger-charged-shot.png",
     "stats": {
         "cast_time": "Charged",
         "target": "Reticle",

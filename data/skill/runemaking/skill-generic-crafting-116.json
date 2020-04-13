@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-116",
+    "name": "Runemaking Assembly",
+    "tree": "Runemaking",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increase the chance of Assembly Success when assembling Runemaking items.",
+    "icon": "skill-generic-crafting-116.png",
+    "stats": [
+        {
+            "name": "Runemaking",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-115",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-118"
+    ]
+}

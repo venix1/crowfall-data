@@ -3,11 +3,26 @@
     "name": "Radical",
     "class": "cleric",
     "description": "This talent grants the Radical passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nFire Damage Cap\\n\\nTraits Granted:\\nMystical Throwing Hammer Mastery\\nBuckler Mastery\\nMedium Shield Mastery",
-    "icon": "Skill_Icon_025_002.png",
+    "icon": "radical.png",
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [
-        "cleric-passive-radical"
+        {
+            "id": "radical",
+            "name": "Radical"
+        },
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
+        },
+        {
+            "id": "trait-medium-shield-mastery",
+            "name": "Medium Shield Mastery"
+        },
+        {
+            "id": "trait-hammer-mastery",
+            "name": "Hammer Mastery"
+        }
     ],
     "unlockedFromSkill": [
         {

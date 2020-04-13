@@ -3,7 +3,7 @@
     "name": "Shadows Linger",
     "description": "increases your Critical Damage by 25% for 6 seconds after being removed from Stealth.",
     "shortDescription": "Passive: Increase Critical Damage Amount after losing Stealth",
-    "icon": "Graphic_Disc_ShadowsLinger.png",
+    "icon": "blackmask-shadows-linger.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

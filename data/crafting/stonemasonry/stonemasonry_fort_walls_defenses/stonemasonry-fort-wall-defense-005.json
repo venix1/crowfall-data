@@ -1,0 +1,75 @@
+{
+    "name": "Sentry Tower",
+    "id": "stonemasonry-fort-wall-defense-005",
+    "icon": "stonemasonry_fort_wall_defense_005.png",
+    "description": "Creates a Wood Sentry Tower Deed.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_fort_walls_defenses",
+    "ingredients": [
+        {
+            "name": "Wood Wall Section",
+            "id": "wood-wall-section",
+            "icon": "Wood Wall Section.png",
+            "quantity": 2,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "Carpentry Nails.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Roof Segment",
+            "id": "roof-segment",
+            "icon": "Roof Segment.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "Architectural Arches.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "Foundation Segment.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Floor Tiles",
+            "id": "floor-tiles",
+            "icon": "Floor Tiles.png",
+            "quantity": 4,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 5,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

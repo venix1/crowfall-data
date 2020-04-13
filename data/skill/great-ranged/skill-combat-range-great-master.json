@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-great-master",
+    "name": "Great Range Mastery",
+    "tree": "Great Ranged",
+    "pointRequirement": 30,
+    "pipAmount": 45360,
+    "description": "Increases Armor Penetration: All, Power Efficiency and Health while using a Great Range Weapon.",
+    "icon": "skill-combat-range-great-master.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: All",
+            "amount": "0.6%"
+        },
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        },
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

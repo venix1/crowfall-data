@@ -3,7 +3,7 @@
     "name": "Dodge",
     "description": "swoops you 13 meters in your WASD direction.",
     "shortDescription": "Dash in a WASD direction",
-    "icon": "Graphic_Assn_Dash.png",
+    "icon": "assassin-dodge.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

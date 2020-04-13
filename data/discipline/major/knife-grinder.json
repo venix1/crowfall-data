@@ -2,16 +2,19 @@
     "id": "knife-grinder",
     "name": "Knife Grinder",
     "type": "major",
-    "trait": "Bladed Weapon Training",
-    "icon": "Major_KnifeGrinder.png",
+    "trait": {
+        "id": "trait-bladed-weapon-training",
+        "name": "Bladed Weapon Training"
+    },
+    "icon": "knife-grinder.png",
     "stats": [
         {
             "name": "Armor Penetration: Slashing",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Slashing Damage Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "The art of bleeding a target is one that only a few can accomplish proficiently. Followers of Maeve have known for years how important the blade is in combat. With proper training and practice knife grinding can be the determining factor in a victory or a loss.",
     "lore": "\"Is it not obvious to you, my dear, that I am here to make you bleed and bleed again?\"\\n-Fae Assassin"
 }

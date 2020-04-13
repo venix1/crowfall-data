@@ -3,7 +3,7 @@
     "name": "Uniform Mail",
     "description": "increases your Attack Power by 100 when wearing a full set of non-basic Mail armor.",
     "shortDescription": "Passive: Gain Attack Power with a Full Set of Mail Equipped",
-    "icon": "Graphic_Disc_UniformScale.png",
+    "icon": "matching-offense-mail.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

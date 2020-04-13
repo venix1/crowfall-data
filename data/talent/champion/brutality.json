@@ -3,7 +3,7 @@
     "name": "Brutality",
     "class": "champion",
     "description": "Brutality improves Armor Penetration: Physical by 1% per point spent.",
-    "icon": "Skill_Icon_017_020.png",
+    "icon": "brutality.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

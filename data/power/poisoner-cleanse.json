@@ -3,7 +3,7 @@
     "name": "Mithridatism",
     "description": "removes all Poison effects.",
     "shortDescription": "Buff: Remove poison debuff from yourself.",
-    "icon": "Graphic_Disc_Mithridatism.png",
+    "icon": "poisoner-cleanse.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

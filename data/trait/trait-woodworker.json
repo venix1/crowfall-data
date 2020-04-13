@@ -1,0 +1,17 @@
+{
+    "id": "trait-woodworker",
+    "name": "Woodworker",
+    "description": "You are adept at working wood into usable components.\\n\\nYou can equip Woodworker Disciplines.",
+    "requiredBy": [
+        {
+            "id": "wood-carver",
+            "name": "Wood Carver"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "woodworker",
+            "name": "Woodworker"
+        }
+    ]
+}

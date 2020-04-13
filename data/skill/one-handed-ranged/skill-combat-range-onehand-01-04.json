@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-01-04",
+    "name": "Hammer: Power Efficiency",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Power Efficiency while using a Hammer in your main hand.",
+    "icon": "skill-combat-range-onehand-01-04.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-01-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-01-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-01-03",
+        "skill-combat-range-onehand-01-05"
+    ]
+}

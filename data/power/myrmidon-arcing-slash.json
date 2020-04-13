@@ -2,7 +2,8 @@
     "id": "myrmidon-arcing-slash",
     "name": "Arcing Slash",
     "description": "slashes upward violently inflicting 50 - 62 + 56% Weapon Damage.",
-    "icon": "Graphic_Myrm_ArcingSlash.png",
+    "shortDescription": "",
+    "icon": "myrmidon-arcing-slash.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

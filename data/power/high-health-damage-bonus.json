@@ -3,7 +3,7 @@
     "name": "Pound Of Flesh",
     "description": "When your target's Health is above 90%, your Damage Bonus is increased against that target by 15%.",
     "shortDescription": "Passive: Damage Bonus versus High Health",
-    "icon": "Graphic_Disc_PoundOfFlesh.png",
+    "icon": "high-health-damage-bonus.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

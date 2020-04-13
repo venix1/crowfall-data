@@ -1,0 +1,60 @@
+{
+    "id": "trait-mail-armor-proficiency",
+    "name": "Mail Armor Proficiency",
+    "description": "Made of interlocking metal rings into a chain sheet, or overlapping pieces of metal like fish scales, Mail Armor offers modest protection as well as modest benefits to damage and healing.\\n\\nYou are proficient with this type of armor.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        },
+        {
+            "id": "promotion-class-blackguard",
+            "name": "Promotion Class - Blackguard"
+        },
+        {
+            "id": "promotion-class-sanctifier",
+            "name": "Promotion Class - Sanctifier"
+        },
+        {
+            "id": "promotion-class-archdruid",
+            "name": "Promotion Class - Archdruid"
+        },
+        {
+            "id": "promotion-class-earthkeeper",
+            "name": "Promotion Class - Earthkeeper"
+        },
+        {
+            "id": "promotion-class-dirge",
+            "name": "Promotion Class - Dirge"
+        },
+        {
+            "id": "promotion-class-warden",
+            "name": "Promotion Class - Warden"
+        },
+        {
+            "id": "promotion-class-frostguard",
+            "name": "Promotion Class - Frostguard"
+        },
+        {
+            "id": "promotion-class-icecaller",
+            "name": "Promotion Class - Icecaller"
+        }
+    ]
+}

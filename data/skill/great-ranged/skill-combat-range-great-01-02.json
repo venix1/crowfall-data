@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-great-01-02",
+    "name": "Book: Critical Strike",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Strike while using a Book.",
+    "icon": "skill-combat-range-great-01-02.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-01-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-01-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-01-03"
+    ]
+}

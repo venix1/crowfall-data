@@ -3,7 +3,7 @@
     "name": "Acrobatics",
     "description": "has a chance to instantly restore 1 Dodge Power when performing a right-click Dive Roll.",
     "shortDescription": "Passive: Chance for Extra Dodge Power when Dodging",
-    "icon": "Graphic_Disc_Racial_HighElf.png",
+    "icon": "racial-passive-dodge-restore.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

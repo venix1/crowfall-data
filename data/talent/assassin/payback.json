@@ -3,7 +3,7 @@
     "name": "Payback",
     "class": "assassin",
     "description": "Payback enhances Kidney Shot to apply a Barrier when Stunning an enemy.",
-    "icon": "Skill_Icon_017_005.png",
+    "icon": "payback.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -15,7 +15,7 @@
     ],
     "unlocksSkill": [
         "spirit-dart",
-        "assassin-s-point"
+        "assassins-point"
     ],
     "locksSkill": []
 }

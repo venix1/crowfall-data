@@ -3,7 +3,7 @@
     "name": "Reactive Barrier",
     "description": "grants a chance for attacks to generate a Force Shield giving you a Barrier and increasing Attack Power by 100.",
     "shortDescription": "Passive: Attacks randomly add Barrier; Attack Power",
-    "icon": "Graphic_Disc_PowerRuneShield.png",
+    "icon": "axemaster-berserker.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

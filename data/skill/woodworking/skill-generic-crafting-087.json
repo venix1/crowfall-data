@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-087",
+    "name": "Woodworking Experimentation",
+    "tree": "Woodworking",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance of Experimentation Success when experimenting on Woodworking items.",
+    "icon": "skill-generic-crafting-087.png",
+    "stats": [
+        {
+            "name": "Woodworking Experimentation",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-085",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-089"
+    ]
+}

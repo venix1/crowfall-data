@@ -3,7 +3,7 @@
     "name": "Get 'Em",
     "description": "stops an enemy in its tracks causing 85 - 115 + 100% Weapon Damage and Rooting them. \\n\\nIf Get 'Em hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
     "shortDescription": "Attack: Root; Expose Punish",
-    "icon": "Graphic_Disc_GetEm.png",
+    "icon": "molehunter-getem.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Haste",
     "id": "runecarving-runestone-sigil-010",
-    "icon": "sigil.png",
+    "icon": "runecarving_runestone_sigil_010.png",
     "description": "Crafting Component used in the assembly of a Runestone: Haste.",
     "outputQuantity": 1,
     "xp": 15,
@@ -11,7 +11,7 @@
         {
             "name": "Parchment Paper",
             "id": "parchment-paper",
-            "icon": "parchmentPaper.png",
+            "icon": "Parchment Paper.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Aurelium",
             "id": "aurelium",
-            "icon": "ore.png",
+            "icon": "Aurelium.png",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Animal Blood",
             "id": "animal-blood",
-            "icon": "blood.png",
+            "icon": "Animal Blood.png",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
@@ -47,7 +47,7 @@
         {
             "name": "Ground Sulphur",
             "id": "ground-sulphur",
-            "icon": "powderedAnimalBone.png",
+            "icon": "Ground Sulphur.png",
             "quantity": 8,
             "slotIndex": 4,
             "wildcard": false,

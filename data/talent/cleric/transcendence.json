@@ -3,7 +3,7 @@
     "name": "Transcendence",
     "class": "cleric",
     "description": "Transcendence improves Ranged Distance Bonus by 2 per point spent.",
-    "icon": "Skill_Icon_044_002.png",
+    "icon": "transcendence.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

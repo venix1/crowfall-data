@@ -3,7 +3,7 @@
     "name": "Blood Pact",
     "description": "grants a Blood Pact for 15 converting ability Resource costs to Health.",
     "shortDescription": "Change Power Cost to Health",
-    "icon": "Graphic_Disc_BloodPact.png",
+    "icon": "blood-pact.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

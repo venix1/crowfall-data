@@ -3,7 +3,7 @@
     "name": "Rescue",
     "description": "averts an ally's imminent death for 10 seconds preventing them from dropping below 1 Health and healing them for 189 - 231 + 84% Support Power. \\n\\nRecently Rescued allies may not be affected by Rescue.",
     "shortDescription": "Target Ally Avoids Death",
-    "icon": "Graphic_Disc_Rescue.png",
+    "icon": "fieldsurgeon-rescue.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

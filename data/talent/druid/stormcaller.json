@@ -3,11 +3,22 @@
     "name": "Stormcaller",
     "class": "druid",
     "description": "This talent grants the Capacitor passive power.\\n\\nIncreases by 10%:\\nElectricity Damage Bonus\\nElectricity Damage Bonus Cap\\n\\nTraits Granted:\\nSickle Mastery\\nBuckler Mastery",
-    "icon": "Skill_Icon_025_020.png",
+    "icon": "stormcaller.png",
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [
-        "druid-talent-capacitor"
+        {
+            "id": "capacitor",
+            "name": "Capacitor"
+        },
+        {
+            "id": "trait-mystical-sickle-mastery",
+            "name": "Mystical Sickle Mastery"
+        },
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
+        }
     ],
     "unlockedFromSkill": [
         {

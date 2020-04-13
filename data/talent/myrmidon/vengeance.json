@@ -3,11 +3,14 @@
     "name": "Vengeance",
     "class": "myrmidon",
     "description": "This talent grants the Vengeance power.",
-    "icon": "Skill_Icon_017_026.png",
+    "icon": "vengeance.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "myrmidon-hatred"
+        {
+            "id": "vengeance",
+            "name": "Vengeance"
+        }
     ],
     "unlockedFromSkill": [
         {

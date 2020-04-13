@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-158",
+    "name": "Plethora of Dust: Limestone",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for bonus Ethereal Dust when quarrying Limestone.",
+    "icon": "skill-generic-exploration-158.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Limestone",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-157",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-159"
+    ]
+}

@@ -3,11 +3,14 @@
     "name": "Cheap Shots",
     "class": "duelist",
     "description": "This talent grants the Cheap Shots power.",
-    "icon": "Skill_Icon_032_008.png",
+    "icon": "cheap-shots.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "duelist-stealth-cheap-shots"
+        {
+            "id": "cheap-shots",
+            "name": "Cheap Shots"
+        }
     ],
     "unlockedFromSkill": [
         {

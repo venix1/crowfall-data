@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-03-03",
+    "name": "Critical Healing Chance",
+    "tree": "Melee",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Critical Healing Chance while using a Melee Weapon in your main hand.",
+    "icon": "skill-combat-melee-03-03.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-03-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-03-02",
+        "skill-combat-melee-03-04"
+    ]
+}

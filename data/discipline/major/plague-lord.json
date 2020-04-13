@@ -2,16 +2,19 @@
     "id": "plague-lord",
     "name": "Plague Lord",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_PlagueLord.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "plague-lord.png",
     "stats": [
         {
             "name": "Attack Power",
-            "value": 100
+            "value": "100"
         },
         {
             "name": "Organic Resistance",
-            "value": 5
+            "value": "500"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "As a host of the most noxious of contaminants, your popularity may ebb and flow as you infect your enemies. The odors and muck you may leave behind will help remind those of your legacy as a plague bearer and a master of the rank and foul, making you one highly feared adversary.",
     "lore": "The pandemic: a silent killer that has no prejudice and does not discriminate."
 }

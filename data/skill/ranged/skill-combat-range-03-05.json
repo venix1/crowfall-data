@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-03-05",
+    "name": "Critical Damage",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Critical Damage while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-03-05.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-03-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-03-04"
+    ]
+}

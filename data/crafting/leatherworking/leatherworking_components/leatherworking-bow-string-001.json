@@ -1,0 +1,30 @@
+{
+    "name": "Bow String",
+    "id": "leatherworking-bow-string-001",
+    "icon": "leatherworking_bow_string_001.png",
+    "description": "Creates a Bow String that is used to create a Bow.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "leatherworking",
+    "subCategory": "leatherworking_components",
+    "ingredients": [
+        {
+            "name": "Stitched Leather",
+            "id": "stitched-leather",
+            "icon": "Stitched Leather.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Stitched Leather",
+            "id": "stitched-leather",
+            "icon": "Stitched Leather.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

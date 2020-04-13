@@ -3,7 +3,7 @@
     "name": "Nature Resistance",
     "description": "increases your Nature Resistance statistic by 1000.",
     "shortDescription": "Passive: Increase Nature Resistance",
-    "icon": "Graphic_Disc_Racial_WoodElf.png",
+    "icon": "racial-passive-earth-mitigation.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

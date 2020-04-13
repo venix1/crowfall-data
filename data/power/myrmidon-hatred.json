@@ -2,7 +2,8 @@
     "id": "myrmidon-hatred",
     "name": "Vengeance",
     "description": "heals back Health equal to the damage you cause but without the ability to recover more Health than you had when Vengeance was activated.\\n\\nThis power's cooldown time cannot be modified.\\n\\nThis attack can be instantly Flash-Cast.",
-    "icon": "Graphic_Myrm_Vengeance.png",
+    "shortDescription": "",
+    "icon": "myrmidon-hatred.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

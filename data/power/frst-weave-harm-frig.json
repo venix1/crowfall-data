@@ -2,7 +2,8 @@
     "id": "frst-weave-harm-frig",
     "name": "Frigid Ice Weave",
     "description": "uses Weaving to create Frigid Ice. Adds the Weaving: Frigid Ice effect allowing you to use Ice Weave to continue creating Frigid Ice.",
-    "icon": "Graphic_FrostWeaver_FrigidIceWeave_01.png",
+    "shortDescription": "",
+    "icon": "frst-weave-harm-frig.png",
     "stats": {
         "weapon_damage_3_value": "251",
         "max_damage_3": "301",

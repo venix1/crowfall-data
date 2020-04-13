@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-armor-master",
+    "name": "Armor Principles Mastery",
+    "tree": "Armor",
+    "pointRequirement": 90,
+    "pipAmount": 14400,
+    "description": "Increases Resist All, increases Health, and decreases Decay Rate: Armor while wearing armor.",
+    "icon": "skill-combat-armor-master.png",
+    "stats": [
+        {
+            "name": "Resist All",
+            "amount": "20"
+        },
+        {
+            "name": "Health",
+            "amount": "20"
+        },
+        {
+            "name": "Decay Rate: Armor",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

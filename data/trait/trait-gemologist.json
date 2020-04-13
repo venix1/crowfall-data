@@ -1,0 +1,12 @@
+{
+    "id": "trait-gemologist",
+    "name": "Gemologist",
+    "description": "You are an expert Jewelcrafter, working rough uncut gems effortlessly into beautiful pieces of jewelry.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "gemologist",
+            "name": "Gemologist"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-crafting-115",
+    "name": "Runemaking Techniques",
+    "tree": "Runemaking",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Assembly Success and the amount of Experimentation Points when assembling Runemaking items.",
+    "icon": "skill-generic-crafting-115.png",
+    "stats": [
+        {
+            "name": "Runemaking",
+            "amount": "1"
+        },
+        {
+            "name": "Runemaking Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-107",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-116",
+        "skill-generic-crafting-117"
+    ]
+}

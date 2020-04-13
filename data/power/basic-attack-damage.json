@@ -3,7 +3,7 @@
     "name": "Sparring",
     "description": "increases your basic attack damage 10.",
     "shortDescription": "Passive: Increase Basic Attack Damage",
-    "icon": "Graphic_Disc_Sparring.png",
+    "icon": "basic-attack-damage.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

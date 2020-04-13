@@ -3,7 +3,7 @@
     "name": "Ferocity",
     "class": "myrmidon",
     "description": "Ferocity improves Attack Power by 85 per point spent.",
-    "icon": "Skill_Icon_002_014.png",
+    "icon": "ferocity.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

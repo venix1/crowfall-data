@@ -3,7 +3,7 @@
     "name": "Escapology",
     "description": "increases your Resolve by 33% reducing Crowd Control durations and making it more likely that Crowd Control immunity triggers after being the victim of multiple Control effects.",
     "shortDescription": "Passive: Gain Resolve Reducing Control Effects",
-    "icon": "Graphic_Disc_Escapology.png",
+    "icon": "escapeartist-escapology.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -3,7 +3,7 @@
     "name": "Icequake",
     "class": "frostweaver",
     "description": "Icequake enhances Volatile Ice to inflict Knockdown.",
-    "icon": "Skill_Icon_041_014.png",
+    "icon": "icequake.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

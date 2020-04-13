@@ -3,7 +3,7 @@
     "name": "Dominant Smashing",
     "class": "champion",
     "description": "Dominant Smashing enhances your basic Strong Swing attacks to add a point of Dominance when they critically hit.",
-    "icon": "Skill_Icon_042_020.png",
+    "icon": "dominant-smashing.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Adjudicate",
     "description": "smashes an enemy for 113 - 153 + 133% Weapon Damage.",
     "shortDescription": "Attack: Inflict Holy damage",
-    "icon": "Graphic_Disc_Adjudicate_A.png",
+    "icon": "adjudicator-adjudicate-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

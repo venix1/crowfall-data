@@ -3,11 +3,14 @@
     "name": "Chain Attack",
     "class": "knight",
     "description": "This talent grants the Chain Attack power.",
-    "icon": "Skill_Icon_012_019.png",
+    "icon": "chain-attack.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "knight-chain-pull"
+        {
+            "id": "chain-attack",
+            "name": "Chain Attack"
+        }
     ],
     "unlockedFromSkill": [
         {

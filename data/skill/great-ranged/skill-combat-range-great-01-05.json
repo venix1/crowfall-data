@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-great-01-05",
+    "name": "Book: Power Efficiency",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Power Efficiency while using a Book.",
+    "icon": "skill-combat-range-great-01-05.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-01-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-01-06",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-01-04",
+        "skill-combat-range-great-01-06"
+    ]
+}

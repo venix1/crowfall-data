@@ -3,7 +3,7 @@
     "name": "Guardian Rhythms",
     "description": "reduces the group's Damage Taken by 5% for 12 seconds.\\n\\nType 2 Song.",
     "shortDescription": "Song: Increase Group Mitigation",
-    "icon": "Graphic_Disc_GuardianRythmns.png",
+    "icon": "bard-guardian-rhythms.png",
     "stats": {
         "cast_time": "2 Seconds",
         "target": "Group",

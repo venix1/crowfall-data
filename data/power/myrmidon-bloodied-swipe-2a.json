@@ -2,7 +2,8 @@
     "id": "myrmidon-bloodied-swipe-2a",
     "name": "Gore",
     "description": "strikes overhead with both axes before continuing the carnage with a second bloody slice, inflicting 118 - 144 + 131% Weapon Damage for each hit. If you connect, recover 5 Fury per second for 21 seconds.",
-    "icon": "Graphic_Myrm_Gore.png",
+    "shortDescription": "",
+    "icon": "myrmidon-bloodied-swipe-2a.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

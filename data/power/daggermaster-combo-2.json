@@ -1,8 +1,9 @@
 {
     "id": "daggermaster-combo-2",
     "name": "Cripple",
-    "description": "attacks an enemy with a quick strike reducing their Melee Power Damage by -20% for 15 seconds and causing 117 - 176 + 147% Weapon Damage.",
-    "icon": "Graphic_Disc_CripplingStab_B.png",
+    "description": "attacks an enemy with a quick strike reducing their Melee Power Damage by -20% for 15 and causing 117 - 176 + 147% Weapon Damage.",
+    "shortDescription": "",
+    "icon": "daggermaster-combo-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -1,0 +1,48 @@
+{
+    "name": "Frostcasting Enclosure",
+    "id": "blacksmithing-weapon-frostcaster-body-001",
+    "icon": "blacksmithing_weapon_frostcaster_body_001.png",
+    "description": "Creates a Frostcasting Enclosure that is used to create a Frostcaster",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "blacksmithing",
+    "subCategory": "ranged_weapon_components",
+    "ingredients": [
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "Weapon Grip.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Mana Impeller",
+            "id": "mana-impeller",
+            "icon": "Mana Impeller.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Arcane Actuator",
+            "id": "arcane-actuator",
+            "icon": "Arcane Actuator.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "Polished Spherical Gemstone.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

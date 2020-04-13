@@ -2,8 +2,11 @@
     "id": "matching-mail",
     "name": "Matching Mail",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_MatchingMail.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "matching-mail.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "You've got mail!"
 }

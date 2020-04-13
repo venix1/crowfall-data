@@ -2,7 +2,8 @@
     "id": "adjudicator-adjudicate-2",
     "name": "Adjudicate",
     "description": "judges an enemy inflicting 136 - 184 + 160% Holy Weapon Damage and cannot be mitigated normally.",
-    "icon": "Graphic_Disc_Adjudicate_B.png",
+    "shortDescription": "",
+    "icon": "adjudicator-adjudicate-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

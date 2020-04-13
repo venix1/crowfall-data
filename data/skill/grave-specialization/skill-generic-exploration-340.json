@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-340",
+    "name": "Plentiful Resources: Elven Grave",
+    "tree": "Grave Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when digging Elven Graves.",
+    "icon": "skill-generic-exploration-340.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Grave: Elven",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-333",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

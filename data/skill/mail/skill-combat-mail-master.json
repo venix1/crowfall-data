@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-mail-master",
+    "name": "Mail Mastery",
+    "tree": "Mail",
+    "pointRequirement": 90,
+    "pipAmount": 28080,
+    "description": "Increases Health, decreases Sprint Cost, and decreases Decay Rate: Armor while using Mail chest armor.",
+    "icon": "skill-combat-mail-master.png",
+    "stats": [
+        {
+            "name": "Health",
+            "amount": "20"
+        },
+        {
+            "name": "Sprint Movement Modifier",
+            "amount": "0.01"
+        },
+        {
+            "name": "Decay Rate: Mail",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

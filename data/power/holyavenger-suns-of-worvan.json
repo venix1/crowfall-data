@@ -1,9 +1,9 @@
 {
     "id": "holyavenger-suns-of-worvan",
     "name": "Suns Of Worvan",
-    "description": "applies a Fire damage immune Barrier for 15 seconds.",
+    "description": "applies a Fire damage immune Barrier for 15.",
     "shortDescription": "Barrier negates Fire damage",
-    "icon": "Graphic_Disc_SunsOfWorvan.png",
+    "icon": "holyavenger-suns-of-worvan.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

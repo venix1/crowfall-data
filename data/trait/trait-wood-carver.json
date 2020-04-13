@@ -1,0 +1,12 @@
+{
+    "id": "trait-wood-carver",
+    "name": "Wood Carver",
+    "description": "You are an expert Woodworker, having specialized in the art of wood carving and the creation of wooden weapons.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "wood-carver",
+            "name": "Wood Carver"
+        }
+    ]
+}

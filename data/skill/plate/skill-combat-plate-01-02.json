@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-plate-01-02",
+    "name": "Fire Resistance",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Fire Resistance while using Plate chest armor.",
+    "icon": "skill-combat-plate-01-02.png",
+    "stats": [
+        {
+            "name": "Fire Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-01-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-01-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-01-03"
+    ]
+}

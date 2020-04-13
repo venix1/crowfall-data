@@ -3,7 +3,7 @@
     "name": "Dissipate",
     "description": "teleports you 20 meters in your WASD direction.",
     "shortDescription": "Blink in a WASD direction",
-    "icon": "Graphic_Drud_Dissipate.png",
+    "icon": "druid-dissipate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

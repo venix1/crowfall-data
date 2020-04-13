@@ -2,7 +2,8 @@
     "id": "templar-basic-3",
     "name": "Smiting Spin",
     "description": "attacks for 129 - 194 + 162% Weapon Damage and generate a pip of Righteousness.",
-    "icon": "Graphic_Tmpr_BasicAttack3.png",
+    "shortDescription": "",
+    "icon": "templar-basic-3.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

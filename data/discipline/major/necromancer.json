@@ -2,26 +2,32 @@
     "id": "necromancer",
     "name": "Necromancer",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Necromancy.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "necromancer.png",
     "stats": [
         {
             "name": "Necromancy",
-            "value": 5
+            "value": "10"
         },
         {
             "name": "Necromancy Experimentation",
-            "value": 15
+            "value": "35"
         },
         {
             "name": "Necromancy Experimentation Points",
-            "value": 3
+            "value": "4"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Necromancer"
+    "grantsTrait": [
+        {
+            "id": "trait-necromancer",
+            "name": "Necromancer"
+        }
     ],
     "description": "Recipes Granted:\\nAll Vessel Types\\nBody Part Restorations",
     "lore": "The Book of the Dead. Bound in human flesh and inked in blood, this ancient text contains all you need to know to create the perfect vessel."

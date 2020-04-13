@@ -2,7 +2,8 @@
     "id": "common-resurrection-group",
     "name": "Circle Of Life",
     "description": "targets a large area and revives up to five unconscious vessels.",
-    "icon": "Graphic_Rez_Cleric.png",
+    "shortDescription": "",
+    "icon": "common-resurrection-group.png",
     "stats": {
         "cast_time": "15 Seconds",
         "target": "Area",

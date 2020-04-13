@@ -3,7 +3,7 @@
     "name": "Gigantism",
     "description": "large physical size requires you to eat more often, reducing your Food Regen Rate by 10 seconds.",
     "shortDescription": "Passive: Large Body Size Causes Faster Food Pool Decay",
-    "icon": "Graphic_Disc_Racial_Minotaur.png",
+    "icon": "racial-passive-gigantism.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

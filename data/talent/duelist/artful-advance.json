@@ -3,7 +3,7 @@
     "name": "Artful Advance",
     "class": "duelist",
     "description": "Artful Advance improves Critical Damage by 5% per point spent.",
-    "icon": "Skill_Icon_023_006.png",
+    "icon": "artful-advance.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

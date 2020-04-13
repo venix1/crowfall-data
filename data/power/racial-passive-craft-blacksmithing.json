@@ -3,7 +3,7 @@
     "name": "High Forge Apprentice",
     "description": "increases your Blacksmithing and Blacksmithing Experimentation statistics by 10.",
     "shortDescription": "Passive: Increase Blacksmithing Crafting Statistics",
-    "icon": "Graphic_Disc_BlacksmithingTechniques.png",
+    "icon": "racial-passive-craft-blacksmithing.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

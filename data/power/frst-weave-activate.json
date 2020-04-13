@@ -2,7 +2,8 @@
     "id": "frst-weave-activate",
     "name": "Free Weaving",
     "description": "begins with graceful somatic gestures tapping into arcane power to restore 50 mana.",
-    "icon": "Graphic_FrostWeaver_FreeWeaving_01.png",
+    "shortDescription": "",
+    "icon": "frst-weave-activate.png",
     "stats": {
         "target": "Self",
         "cast_time": "Instant"

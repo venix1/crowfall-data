@@ -1,0 +1,17 @@
+{
+    "id": "trait-mark-of-faith",
+    "name": "Mark of Faith",
+    "description": "Your devotion is unwavering even when facing the greatest of odds. Sometimes you just gotta have faith.\\n\\nYou can equip Mark of Faith Disciplines.",
+    "requiredBy": [
+        {
+            "id": "careless-whisper",
+            "name": "Careless Whisper"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "skill-combat-basic-mastery",
+            "name": "Basic Combat Mastery"
+        }
+    ]
+}

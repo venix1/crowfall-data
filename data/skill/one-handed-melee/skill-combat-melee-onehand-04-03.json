@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-onehand-04-03",
+    "name": "Fencing: Attack Power",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Attack Power while using a Rapier in your main hand.",
+    "icon": "skill-combat-melee-onehand-04-03.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-04-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-onehand-04-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-04-02",
+        "skill-combat-melee-onehand-04-04"
+    ]
+}

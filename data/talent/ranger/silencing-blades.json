@@ -3,7 +3,7 @@
     "name": "Silencing Blades",
     "class": "ranger",
     "description": "Silencing Blades enhances Dagger Spin to embed Silencing Blades on each target hit. Anytime a target reaches 3 Silencing Blades, that target becomes suppressed.",
-    "icon": "Skill_Icon_017_019.png",
+    "icon": "silencing-blades.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -14,7 +14,7 @@
         }
     ],
     "unlocksSkill": [
-        "tracker-s-kit",
+        "trackers-kit",
         "triumphant-cry"
     ],
     "locksSkill": []

@@ -2,7 +2,8 @@
     "id": "duelist-b-attack-3",
     "name": "Swift Swings",
     "description": "attacks for 65 - 97 + 81% Weapon Damage.",
-    "icon": "Graphic_Duel_Basic3.png",
+    "shortDescription": "",
+    "icon": "duelist-b-attack-3.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

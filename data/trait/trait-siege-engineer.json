@@ -1,0 +1,12 @@
+{
+    "id": "trait-siege-engineer",
+    "name": "Siege Engineer",
+    "description": "Your are an expert at the Art of the Siege. You have the expertise to create large scale weapons and manage them during the battle.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "siege-engineer",
+            "name": "Siege Engineer"
+        }
+    ]
+}

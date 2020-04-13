@@ -2,7 +2,8 @@
     "id": "druid-hb-attack-2",
     "name": "Coalesce Forestry",
     "description": "manifests an Orb at your targeted location that allies or you may use to heal 32 to 40 + 14.4% Support Power.",
-    "icon": "Graphic_Drud_Basic2.png",
+    "shortDescription": "",
+    "icon": "druid-hb-attack-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

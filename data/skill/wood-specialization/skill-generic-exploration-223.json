@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-223",
+    "name": "Ash Basics",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Ash Wood when logging Ash.",
+    "icon": "skill-generic-exploration-223.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Ash",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Ash",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-220",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-231"
+    ]
+}

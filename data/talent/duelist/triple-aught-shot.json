@@ -3,7 +3,7 @@
     "name": "Triple-Aught Shot",
     "class": "duelist",
     "description": "Triple-Aught Shot enhances Pepperbox Shot to cause 50% more damage.",
-    "icon": "Skill_Icon_045_013.png",
+    "icon": "triple-aught-shot.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

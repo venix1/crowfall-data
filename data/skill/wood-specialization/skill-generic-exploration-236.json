@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-236",
+    "name": "Harvest Tool Decay: Runestone Axes",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Reduces the amount of Decay a Runestone Axe suffers when logging.",
+    "icon": "skill-generic-exploration-236.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Axes",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-235",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-240",
+        "skill-generic-exploration-250"
+    ]
+}

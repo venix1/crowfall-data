@@ -2,7 +2,8 @@
     "id": "druid-z-sacrifice",
     "name": "Ritual Sacrifice",
     "description": "instantly sacrifices 8% of your maximum Health to restore 20% of your maximum Essence.\\n\\n(Restores up to 79% of your maximum Essence once you unlock the Life tray)",
-    "icon": "Graphic_Drud_Sacrifice.png",
+    "shortDescription": "",
+    "icon": "druid-z-sacrifice.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

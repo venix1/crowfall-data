@@ -3,11 +3,14 @@
     "name": "Meteor Purge",
     "class": "confessor",
     "description": "This talent grants the Meteor Purge power.",
-    "icon": "Skill_Icon_013_018.png",
+    "icon": "meteor-purge.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "confessor-meteor-purge"
+        {
+            "id": "meteor-purge",
+            "name": "Meteor Purge"
+        }
     ],
     "unlockedFromSkill": [
         {

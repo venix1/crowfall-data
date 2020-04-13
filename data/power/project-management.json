@@ -3,7 +3,7 @@
     "name": "Project Management",
     "description": "increases your Partial Re-roll Cost Modifier by 25%.",
     "shortDescription": "Passive: Reduce cost of Low Stat Re-Rolls",
-    "icon": "Graphic_Disc_ProjectManagement.png",
+    "icon": "project-management.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

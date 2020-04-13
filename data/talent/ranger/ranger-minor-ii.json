@@ -3,7 +3,7 @@
     "name": "Minor Discipline Slot",
     "class": "ranger",
     "description": "Unlock a Minor Discipline slot.",
-    "icon": "Skill_Icon_011_012.png",
+    "icon": "ranger-minor-ii.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

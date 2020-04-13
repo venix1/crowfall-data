@@ -1,33 +1,33 @@
 {
     "id": "centaur",
     "name": "Centaur",
-    "type": "racial",
-    "trait": "",
-    "icon": "Racial_Centaur.png",
+    "type": "race",
+    "trait": {},
+    "icon": "centaur.png",
     "stats": [
         {
             "name": "Strength Cap",
-            "value": 300
+            "value": "300"
         },
         {
             "name": "Dexterity Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Intellect Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Spirit Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Constitution Cap",
-            "value": 350
+            "value": "350"
         },
         {
             "name": "Constitution",
-            "value": 30
+            "value": "30"
         }
     ],
     "grantsPowers": [
@@ -70,6 +70,7 @@
     "grantsSlot": [
         "Horseshoes"
     ],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Valkyn took the best of talents – language, wit, elegance, strength, agility – and he vested them in a single creature. He called this noble creature the Centaur and placed it above the lesser beasts, to use or rule as he might see fit."
 }

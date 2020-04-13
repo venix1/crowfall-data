@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-141",
+    "name": "Necromancy Assembly Cap",
+    "tree": "Necromancy",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the maximum potential value of Necromancy Assembly.",
+    "icon": "skill-generic-crafting-141.png",
+    "stats": [
+        {
+            "name": "Necromancy Cap",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-139",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-143"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Overwhelming Odds",
     "description": "increases your Resist All by 7% when three or more enemies are within 10m.\\n\\nThis does not increase Bleed Mitigation Bonus.",
     "shortDescription": "Passive: Gain Mitigation when Enemies Near",
-    "icon": "Graphic_Disc_OverwhelmingOdds.png",
+    "icon": "enemies-near-mitigation.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -3,7 +3,7 @@
     "name": "Thick Skin",
     "description": "increases your Resist All statistic by 300.",
     "shortDescription": "Passive: Increase Resist All",
-    "icon": "Graphic_Disc_Racial_Minotaur.png",
+    "icon": "racial-passive-all-mitigations.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

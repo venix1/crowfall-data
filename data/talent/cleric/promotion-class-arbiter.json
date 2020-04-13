@@ -3,10 +3,15 @@
     "name": "Promotion Class - Arbiter",
     "class": "cleric",
     "description": "Role: Ranged Control\\n\\nSacrificing damage and healing potential, this maven of battle excels at controlling enemies.\\n\\nIncreases by 15%:\\nFinal Mitigation Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Arbiter promotion class and prevents access to the Crusader and Radical promotion classes.",
-    "icon": "Skill_Icon_041_012.png",
+    "icon": "promotion-class-arbiter.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-plate-armor-proficiency",
+            "name": "Plate Armor Proficiency"
+        }
+    ],
     "unlockedFromSkill": [
         {
             "skill": "circle-of-life",

@@ -3,7 +3,7 @@
     "name": "Thwart the Wicked",
     "class": "cleric",
     "description": "Thwart the Wicked enhances Retaliate powers to recover 35 Stamina over 7 seconds.",
-    "icon": "Skill_Icon_034_009.png",
+    "icon": "thwart-the-wicked.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

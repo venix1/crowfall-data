@@ -2,12 +2,15 @@
     "id": "lookout",
     "name": "Lookout",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_Lookout.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "lookout.png",
     "stats": [
         {
             "name": "Beneficial Harvest Chance: All",
-            "value": 10
+            "value": "10%"
         }
     ],
     "grantsPowers": [
@@ -23,7 +26,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Razor-focus and a quickness to react at the first sign of change can be the turning point for a harvester. Reaction to even the slightest change in weakness can lead to greater wealth and riches while harvesting, giving a clear edge to those with a keen eye.",
     "lore": "Enhanced vision!"
 }

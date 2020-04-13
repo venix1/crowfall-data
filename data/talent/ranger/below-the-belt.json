@@ -3,7 +3,7 @@
     "name": "Below the Belt",
     "class": "ranger",
     "description": "Below the Belt increases Power Damage Bonus: Behind by 5% per point spent.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "below-the-belt.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

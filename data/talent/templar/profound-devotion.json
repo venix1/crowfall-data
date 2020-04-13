@@ -3,7 +3,7 @@
     "name": "Profound Devotion",
     "class": "templar",
     "description": "Profound Devotion enhances Devotion to scale with Support Power.",
-    "icon": "Skill_Icon_037_003.png",
+    "icon": "profound-devotion.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Prickly Skin",
     "description": "increases your Bonus Thorns 10.",
     "shortDescription": "Passive: Increase Bonus Thorns",
-    "icon": "Graphic_Disc_PricklySkin.png",
+    "icon": "bonus-thorns.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

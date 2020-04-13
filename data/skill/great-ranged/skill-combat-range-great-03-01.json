@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-great-03-01",
+    "name": "Mystical Staff: Critical Strike",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Strike while using a Mystical Staff.",
+    "icon": "skill-combat-range-great-03-01.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-03-02",
+        "skill-combat-range-great-03-06"
+    ]
+}

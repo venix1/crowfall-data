@@ -3,7 +3,7 @@
     "name": "Reverberating Blow",
     "description": "afflicts an enemy with an aura causing other nearby enemies to suffer 26 - 35 + 30% Weapon Damage.",
     "shortDescription": "Attack: Target enemy pulses damaging aura",
-    "icon": "Graphic_Disc_ReverberatingBlow.png",
+    "icon": "macemaster-stun-reverberating-blow.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

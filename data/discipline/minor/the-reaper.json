@@ -2,16 +2,20 @@
     "id": "the-reaper",
     "name": "The Reaper",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_Reaper.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "the-reaper.png",
     "stats": [
         {
             "name": "Harvest Power Pips Bonus",
-            "value": 0.5
+            "value": "0.5"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "When you hear the ringing of a cowbell in the distance, it is time to put on some pants, and get to the harvest."
 }

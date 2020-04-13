@@ -1,33 +1,33 @@
 {
     "id": "nethari",
     "name": "Nethari",
-    "type": "racial",
-    "trait": "",
-    "icon": "Racial_Nethari.png",
+    "type": "race",
+    "trait": {},
+    "icon": "nethari.png",
     "stats": [
         {
             "name": "Strength Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Dexterity Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Intellect Cap",
-            "value": 300
+            "value": "300"
         },
         {
             "name": "Spirit Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Constitution Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Intellect",
-            "value": 30
+            "value": "30"
         }
     ],
     "grantsPowers": [
@@ -63,6 +63,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "It is said that Arkon, Lord of the Sun, chose one particular tribe of humans to rule all the others and, as proof of this, ensorcelled the blood of his chosen people with fiery breath stolen from Lyessa the Mother Dragon."
 }

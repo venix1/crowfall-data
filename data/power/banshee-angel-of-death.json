@@ -3,7 +3,7 @@
     "name": "Angel Of Death",
     "description": "deals 20% more Damage to enemies below 30% Health.",
     "shortDescription": "Passive: Increase Enemy Damage at Low Health",
-    "icon": "Graphic_Disc_AngelOfDeath.png",
+    "icon": "banshee-angel-of-death.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -3,11 +3,14 @@
     "name": "Neck Slash",
     "class": "myrmidon",
     "description": "This talent grants the Neck Slash power.",
-    "icon": "Skill_Icon_018_002.png",
+    "icon": "neck-slash.png",
     "pointRequirement": 24,
     "levelRequirement": 0,
     "grants": [
-        "myrmidon-neck-slice"
+        {
+            "id": "neck-slash",
+            "name": "Neck Slash"
+        }
     ],
     "unlockedFromSkill": [
         {

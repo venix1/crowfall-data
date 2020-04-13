@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-222",
+    "name": "Spruce Basics",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Spruce Wood when logging Spruce.",
+    "icon": "skill-generic-exploration-222.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Spruce",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Spruce",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-220",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-228"
+    ]
+}

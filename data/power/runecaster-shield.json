@@ -3,7 +3,7 @@
     "name": "Rune Shield",
     "description": "protects you increasing Elemental Resistance by 20.",
     "shortDescription": "Increase Elemental Resistances",
-    "icon": "Graphic_Disc_PowerRuneShield.png",
+    "icon": "runecaster-shield.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

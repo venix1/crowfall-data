@@ -1,0 +1,25 @@
+{
+    "id": "skill-combat-weapon-02-01",
+    "name": "Power Efficiency",
+    "tree": "Weapons",
+    "pointRequirement": 0,
+    "pipAmount": 10800,
+    "description": "Increases Power Efficiency while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-02-01.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-weapon-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-weapon-02-03"
+    ]
+}

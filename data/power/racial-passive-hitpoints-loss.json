@@ -3,7 +3,7 @@
     "name": "Pain Tolerance",
     "description": "reduces damage taken by 3%.",
     "shortDescription": "Passive: Reduce All Damage You Take",
-    "icon": "Graphic_Disc_Racial_Human.png",
+    "icon": "racial-passive-hitpoints-loss.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

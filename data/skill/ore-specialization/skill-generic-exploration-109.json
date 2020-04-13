@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-109",
+    "name": "Harvest Critical Amount: Aurelium Ore",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the potential Maximum Amount of Aurelium Ore when you score a Critical Harvest while mining Aurelium.",
+    "icon": "skill-generic-exploration-109.png",
+    "stats": [
+        {
+            "name": "Critical Amount: Aurelium",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-108",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-110"
+    ]
+}

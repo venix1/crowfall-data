@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-basic-01-06",
+    "name": "Attack Control Defense",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Attack Control Defense.",
+    "icon": "skill-combat-basic-01-06.png",
+    "stats": [
+        {
+            "name": "Attack Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-01-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

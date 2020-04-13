@@ -3,7 +3,7 @@
     "name": "Exquisite Detail",
     "class": "frostweaver",
     "description": "Exquisite Detail improves Critical Healing Amount by 4% per point spent.",
-    "icon": "Skill_Icon_017_025.png",
+    "icon": "exquisite-detail.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

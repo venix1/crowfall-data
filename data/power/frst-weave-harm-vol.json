@@ -2,7 +2,8 @@
     "id": "frst-weave-harm-vol",
     "name": "Volatile Ice Weave",
     "description": "uses Weaving to create Volatile Ice and adds the Weaving: Volatile Ice effect allowing you to use Ice Weave to continue creating Volatile Ice.",
-    "icon": "Graphic_FrostWeaver_VolatileIceWeave_01.png",
+    "shortDescription": "",
+    "icon": "frst-weave-harm-vol.png",
     "stats": {
         "weapon_damage_2_value": "273",
         "max_damage_2": "328",

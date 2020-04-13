@@ -3,11 +3,14 @@
     "name": "Hand of the Gods",
     "class": "cleric",
     "description": "This talent grants the Hand Of The Gods power.",
-    "icon": "Skill_Icon_019_002.png",
+    "icon": "hand-of-the-gods.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "cleric-hand-of-gods"
+        {
+            "id": "hand-of-the-gods",
+            "name": "Hand Of The Gods"
+        }
     ],
     "unlockedFromSkill": [],
     "unlocksSkill": [

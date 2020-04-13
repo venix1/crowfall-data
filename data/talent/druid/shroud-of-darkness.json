@@ -3,11 +3,14 @@
     "name": "Shroud of Darkness",
     "class": "druid",
     "description": "This talent grants the Shroud Of Darkness power.",
-    "icon": "Skill_Icon_045_013.png",
+    "icon": "shroud-of-darkness.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "druid-z-shroud-darkness"
+        {
+            "id": "shroud-of-darkness",
+            "name": "Shroud Of Darkness"
+        }
     ],
     "unlockedFromSkill": [
         {

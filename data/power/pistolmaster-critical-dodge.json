@@ -3,7 +3,7 @@
     "name": "Critical Dodge",
     "description": "recovers one Dodge when hitting critically. \\n\\nThis effect can occur once per 30 seconds.",
     "shortDescription": "Passive: Critical Strikes Restore Dodge",
-    "icon": "Graphic_Disc_CriticalDodge.png",
+    "icon": "pistolmaster-critical-dodge.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

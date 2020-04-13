@@ -1,0 +1,22 @@
+{
+    "id": "skill-generic-crafting-019",
+    "name": "Basic Crafting Mastery",
+    "tree": "Crafting Basics",
+    "pointRequirement": 90,
+    "pipAmount": 25200,
+    "description": "Increases the chance of Assembly Success when assembling Basic Crafting items. Also enhances the power of Buffs that Crafting Stations grant when they have a Thrall inhabiting them.",
+    "icon": "skill-generic-crafting-019.png",
+    "stats": [
+        {
+            "name": "General Crafting",
+            "amount": "5"
+        },
+        {
+            "name": "Thrall Power: All",
+            "amount": "0.5%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

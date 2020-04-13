@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-leather-01-07",
+    "name": "Stamina",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 21960,
+    "description": "Increases Stamina while using Leather chest armor.",
+    "icon": "skill-combat-leather-01-07.png",
+    "stats": [
+        {
+            "name": "Stamina",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-leather-01-06",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-leather-01-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-leather-01-06"
+    ]
+}

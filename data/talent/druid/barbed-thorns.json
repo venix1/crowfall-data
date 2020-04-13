@@ -3,7 +3,7 @@
     "name": "Barbed Thorns",
     "class": "druid",
     "description": "Barbed Thorns enhances Bark Skin increasing Thorns by 200%.",
-    "icon": "Skill_Icon_023_008.png",
+    "icon": "barbed-thorns.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

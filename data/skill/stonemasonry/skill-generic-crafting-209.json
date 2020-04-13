@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-209",
+    "name": "Stonemasonry Assembly",
+    "tree": "Stonemasonry",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance of Assembly Success when assembling Stonemasonry items.",
+    "icon": "skill-generic-crafting-209.png",
+    "stats": [
+        {
+            "name": "Stonemasonry",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-207",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-211"
+    ]
+}

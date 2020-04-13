@@ -2,16 +2,19 @@
     "id": "mole-hunter",
     "name": "Mole Hunter",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_MoleHunter.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "mole-hunter.png",
     "stats": [
         {
             "name": "Perception",
-            "value": 20
+            "value": "20"
         },
         {
             "name": "Dodge Regen Rate",
-            "value": -1
+            "value": "-1(s)"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "A heightened sense of awareness has often been compared to paranoia, but on the battlefield it is the ultimate key to fending off unexpected attacks. Those who are cloaked in the shadows are more exposed and more vulnerable when a Mole Hunter is present. Whacking moles and stealthers eventually becomes an easy game of Hide and Seek.",
     "lore": "Perception is the ability to sense a lurking and harmful presence."
 }

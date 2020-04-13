@@ -3,7 +3,7 @@
     "name": "Mortal Sin",
     "description": "applies Mortal Sin instead of Sin decreasing the enemy's Anti-Critical Strike by 2% per stack. \\n\\nAll powers requiring Sin benefit from Mortal Sin.",
     "shortDescription": "Passive: Targets Debuff Anti-Critical Strike",
-    "icon": "Graphic_Disc_MortalSin.png",
+    "icon": "mortal-sin.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

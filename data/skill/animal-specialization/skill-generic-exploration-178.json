@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-178",
+    "name": "Animal Specialization",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Reduces the amount of Decay that Runestone Knives suffer when skinning. Also Beneficial Harvests from skinning can now apply temporary Buff Effects to you.",
+    "icon": "skill-generic-exploration-178.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Knives",
+            "amount": "1%"
+        },
+        {
+            "name": "Beneficial Harvest Effects: Animal",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-exploration-091",
+        "skill-generic-exploration-181",
+        "skill-generic-exploration-182"
+    ]
+}

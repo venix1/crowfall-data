@@ -1,7 +1,7 @@
 {
     "name": "Sigil: Binding",
     "id": "runecarving-runestone-sigil-009",
-    "icon": "sigil.png",
+    "icon": "runecarving_runestone_sigil_009.png",
     "description": "Crafting Component used in the assembly of a Major Disciplines.",
     "outputQuantity": 1,
     "xp": 15,
@@ -11,7 +11,7 @@
         {
             "name": "Parchment Paper",
             "id": "parchment-paper",
-            "icon": "parchmentPaper.png",
+            "icon": "Parchment Paper.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Silver",
             "id": "silver",
-            "icon": "ore.png",
+            "icon": "Silver.png",
             "quantity": 2,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Animal Blood",
             "id": "animal-blood",
-            "icon": "blood.png",
+            "icon": "Animal Blood.png",
             "quantity": 2,
             "slotIndex": 2,
             "wildcard": false,
@@ -47,7 +47,7 @@
         {
             "name": "Ethereal Dust",
             "id": "ethereal-dust",
-            "icon": "etherealDust.png",
+            "icon": "Ethereal Dust.png",
             "quantity": 5,
             "slotIndex": 4,
             "wildcard": false,

@@ -3,7 +3,7 @@
     "name": "Infinite Angles",
     "description": "applies a slow to all targets hit by Shield Throws.",
     "shortDescription": "Passive: Shield Throw Applies Snare",
-    "icon": "Graphic_Disc_InfiniteAngles.png",
+    "icon": "infinite-angles.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

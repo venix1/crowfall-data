@@ -1,0 +1,12 @@
+{
+    "id": "trait-tower-shield-proficiency",
+    "name": "Tower Shield Proficiency",
+    "description": "A massive shield resembling a portable wall. While the incredible size makes it difficult to use, it provides great protection against damage.\\n\\nYou are proficient at wielding this type of shield.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "secutor",
+            "name": "Secutor"
+        }
+    ]
+}

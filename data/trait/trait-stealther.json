@@ -1,0 +1,37 @@
+{
+    "id": "trait-stealther",
+    "name": "Stealther",
+    "description": "You are adept at blending in with your surroundings, making yourself invisible to others.\\n\\nYou can equip Stealth Disciplines.",
+    "requiredBy": [
+        {
+            "id": "shadows-caress",
+            "name": "Shadow's Caress"
+        },
+        {
+            "id": "found-resources",
+            "name": "Found Resources"
+        },
+        {
+            "id": "black-mask",
+            "name": "Black Mask"
+        },
+        {
+            "id": "agent-provocateur",
+            "name": "Agent Provocateur"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "duelist",
+            "name": "Duelist"
+        },
+        {
+            "id": "robbery",
+            "name": "Robbery"
+        }
+    ]
+}

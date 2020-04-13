@@ -1,7 +1,7 @@
 {
     "name": "Basic Mystical Staff",
     "id": "crafting-weapon-staff-001",
-    "icon": "staff.png",
+    "icon": "crafting_weapon_staff_001.png",
     "description": "Creates a Mystical Staff, usable by those who are proficient with Mystical Staves.",
     "outputQuantity": 1,
     "xp": 7.5,
@@ -11,7 +11,7 @@
         {
             "name": "Wood",
             "id": "wood",
-            "icon": "wood.png",
+            "icon": "Wood.png",
             "quantity": 6,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Stone",
             "id": "stone",
-            "icon": "stone.png",
+            "icon": "Stone.png",
             "quantity": 6,
             "slotIndex": 1,
             "wildcard": false,

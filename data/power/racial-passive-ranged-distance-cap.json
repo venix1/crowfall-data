@@ -3,7 +3,7 @@
     "name": "Follow-Through",
     "description": "increases your Ranged Distance Bonus Cap by 5.",
     "shortDescription": "Passive: Increase Ranged Distance Bonus Cap",
-    "icon": "Graphic_Disc_Racial_Elken.png",
+    "icon": "racial-passive-ranged-distance-cap.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

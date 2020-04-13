@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-crafting-092",
+    "name": "Woodworking Techniques",
+    "tree": "Woodworking",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Assembly Success and the amount of Experimentation Points when assembling Woodworking items.",
+    "icon": "skill-generic-crafting-092.png",
+    "stats": [
+        {
+            "name": "Woodworking",
+            "amount": "1"
+        },
+        {
+            "name": "Woodworking Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-084",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-093",
+        "skill-generic-crafting-094"
+    ]
+}

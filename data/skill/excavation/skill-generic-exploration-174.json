@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-174",
+    "name": "Amazing Hammers",
+    "tree": "Excavation",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Damage that Runestone Hammers can deal when mining.",
+    "icon": "skill-generic-exploration-174.png",
+    "stats": [
+        {
+            "name": "Quarrying",
+            "amount": "2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-379",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Gatehouse",
+    "id": "stonemasonry-wall-defense-006",
+    "icon": "stonemasonry_wall_defense_006.png",
+    "description": "Creates a Stone Gatehouse.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_keep_walls_defenses",
+    "ingredients": [
+        {
+            "name": "Stone Wall Section",
+            "id": "stone-wall-section",
+            "icon": "Stone Wall Section.png",
+            "quantity": 12,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "Carpentry Nails.png",
+            "quantity": 6,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Roof Segment",
+            "id": "roof-segment",
+            "icon": "Roof Segment.png",
+            "quantity": 6,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "Architectural Arches.png",
+            "quantity": 6,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Foundation Segment",
+            "id": "foundation-segment",
+            "icon": "Foundation Segment.png",
+            "quantity": 6,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Floor Tiles",
+            "id": "floor-tiles",
+            "icon": "Floor Tiles.png",
+            "quantity": 8,
+            "slotIndex": 5,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Quality Assurance Control Kit",
+            "id": "quality-assurance-control-kit",
+            "icon": "Quality Assurance Control Kit.png",
+            "quantity": 1,
+            "slotIndex": 6,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 5,
+            "slotIndex": 7,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

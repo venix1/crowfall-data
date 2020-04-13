@@ -3,7 +3,7 @@
     "name": "Drawing and Drafting",
     "description": "increases your Stonemasonry Cap by 15 and Stonemasonry Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Stonemasonry Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_StonemasonryTechniques.png",
+    "icon": "stonemasonry-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

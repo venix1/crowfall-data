@@ -3,7 +3,7 @@
     "name": "Force Wave",
     "description": "pushes enemies away from you inflicting 107 - 160 + 133% Weapon Damage and leaves their movement slowed.",
     "shortDescription": "Attack: Push Enemies Away",
-    "icon": "Graphic_Disc_Nova.png",
+    "icon": "focusmaster-nova.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

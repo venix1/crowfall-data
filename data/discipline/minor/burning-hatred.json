@@ -2,8 +2,11 @@
     "id": "burning-hatred",
     "name": "Burning Hatred",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_BurningHatred.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "burning-hatred.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "For generations the Fae have purged males of their species in the service of the greater good. Mothers cling to this belief as they administer The Farewell Kiss, and yet there are those who don't believe. Some other reason compels them."
 }

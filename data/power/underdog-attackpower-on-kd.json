@@ -3,7 +3,7 @@
     "name": "Underdog",
     "description": "comes back even stronger after suffering a Knockdown or Stun with your Attack Power increasing by 100 for 30 seconds. \\n\\nThis effect can stack with itself.",
     "shortDescription": "Passive: Gain Attack Power when Stunned; Knocked Down",
-    "icon": "Graphic_Disc_Underdog.png",
+    "icon": "underdog-attackpower-on-kd.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

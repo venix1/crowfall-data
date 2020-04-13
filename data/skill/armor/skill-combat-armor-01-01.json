@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-armor-01-01",
+    "name": "Decay Rate: Armor",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Decay Rate: Armor while wearing armor.",
+    "icon": "skill-combat-armor-01-01.png",
+    "stats": [
+        {
+            "name": "Decay Rate: Armor",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-armor-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-armor-01-02",
+        "skill-combat-armor-01-05"
+    ]
+}

@@ -2,7 +2,8 @@
     "id": "druid-z-shroud-darkness",
     "name": "Shroud Of Darkness",
     "description": "protects you with darkness giving enemies who strike you a chance to be Stunned.",
-    "icon": "Graphic_Drud_ShroudOfDarkness.png",
+    "shortDescription": "",
+    "icon": "druid-z-shroud-darkness.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

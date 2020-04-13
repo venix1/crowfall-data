@@ -2,7 +2,8 @@
     "id": "duelist-b-attack-1",
     "name": "Skillful Stab",
     "description": "attacks for 56 - 84 + 70% Weapon Damage.",
-    "icon": "Graphic_Duel_Basic1.png",
+    "shortDescription": "",
+    "icon": "duelist-b-attack-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -3,10 +3,15 @@
     "name": "Promotion Class - Icecaller",
     "class": "frostweaver",
     "description": "Role: Healing\\n\\nSo versed in magic they can coalesce it into powerful healing and defensive creations.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 450:\\nSupport Power\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent prevents access to the Archmage and Frostguard promotion classes.",
-    "icon": "Skill_Icon_024_002.png",
+    "icon": "promotion-class-icecaller.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        }
+    ],
     "unlockedFromSkill": [
         {
             "skill": "resurrection",

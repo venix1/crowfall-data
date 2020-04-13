@@ -1,0 +1,41 @@
+{
+    "id": "trait-martial-weapons-principles",
+    "name": "Martial Weapons Principles",
+    "description": "You are studied in the art of combat, besting those who mean you harm.\\n\\nYou can equip Martial Weapons Disciplines.",
+    "requiredBy": [
+        {
+            "id": "spirit-whip",
+            "name": "Spirit Whip"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "duelist",
+            "name": "Duelist"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        }
+    ]
+}

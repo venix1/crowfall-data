@@ -1,0 +1,25 @@
+{
+    "id": "trait-executioner",
+    "name": "Executioner",
+    "description": "You are very adept at delivering lethal blows.\\n\\nYou can equip Executioner Disciplines.",
+    "requiredBy": [
+        {
+            "id": "finish-him",
+            "name": "Finish Him!"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "sharpshooter",
+            "name": "Sharpshooter"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        },
+        {
+            "id": "frostweaver",
+            "name": "Frostweaver"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-melee-onehand-04-01",
+    "name": "Fencing: Piercing Damage Bonus",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Piercing Damage Bonus while using a Rapier in your main hand.",
+    "icon": "skill-combat-melee-onehand-04-01.png",
+    "stats": [
+        {
+            "name": "Piercing Damage Bonus",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-04-02",
+        "skill-combat-melee-onehand-04-06"
+    ]
+}

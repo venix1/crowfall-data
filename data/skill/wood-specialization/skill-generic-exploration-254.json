@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-254",
+    "name": "Spruce Specialization",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when logging Spruce.",
+    "icon": "skill-generic-exploration-254.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Wood: Spruce",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-246",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

@@ -2,7 +2,8 @@
     "id": "confessor-b-attack-1",
     "name": "Holy Fire",
     "description": "shoots a fireball, causing 60 - 90 + 75%  Fire Weapon Damage and applying Sin to your target.",
-    "icon": "Graphic_Conf_Basic1.png",
+    "shortDescription": "",
+    "icon": "confessor-b-attack-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

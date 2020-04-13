@@ -2,7 +2,8 @@
     "id": "templar-brilliance",
     "name": "Brilliance",
     "description": "blinds nearby enemies and damages them for 107 - 160 + 133% Fire Weapon Damage. \\n\\nYour maximum Health increases for 20 seconds.\\n\\nYou gain a damage preventing barrier and your Expose statuses are removed. \\n\\nThis power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast.",
-    "icon": "Graphic_Tmpr_Brilliance.png",
+    "shortDescription": "",
+    "icon": "templar-brilliance.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

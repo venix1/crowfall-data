@@ -3,7 +3,7 @@
     "name": "Triumphant Cry",
     "class": "ranger",
     "description": "Triumphant Cry enhances Sweep to apply the Damage Bonus effect to all group members except you.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "triumphant-cry.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

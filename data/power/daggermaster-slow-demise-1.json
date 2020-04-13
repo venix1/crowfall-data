@@ -3,7 +3,7 @@
     "name": "Slow Demise",
     "description": "hits an enemy for 103 - 155 + 129% Weapon Damage.",
     "shortDescription": "Attack: Reduces the amount an enemy can be healed and inflicts a large amount of damage.",
-    "icon": "Graphic_Disc_SlowDemise_A.png",
+    "icon": "daggermaster-slow-demise-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

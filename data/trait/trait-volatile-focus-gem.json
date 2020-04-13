@@ -1,0 +1,12 @@
+{
+    "id": "trait-volatile-focus-gem",
+    "name": "Volatile Focus Gem",
+    "description": "You are proficient with Volatile Focus Gems.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "shatter-storm",
+            "name": "Shatter Storm"
+        }
+    ]
+}

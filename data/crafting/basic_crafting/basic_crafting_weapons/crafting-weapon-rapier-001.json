@@ -1,7 +1,7 @@
 {
     "name": "Basic Rapier",
     "id": "crafting-weapon-rapier-001",
-    "icon": "oneHandedRapier.png",
+    "icon": "crafting_weapon_rapier_001.png",
     "description": "Creates a Basic Rapier, usable by those who are proficient with Rapiers.",
     "outputQuantity": 1,
     "xp": 7.5,
@@ -11,7 +11,7 @@
         {
             "name": "Stone",
             "id": "stone",
-            "icon": "stone.png",
+            "icon": "Stone.png",
             "quantity": 6,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Wood",
             "id": "wood",
-            "icon": "wood.png",
+            "icon": "Wood.png",
             "quantity": 6,
             "slotIndex": 1,
             "wildcard": false,

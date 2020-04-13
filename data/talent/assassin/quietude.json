@@ -3,7 +3,7 @@
     "name": "Quietude",
     "class": "assassin",
     "description": "Quietude improves In and Out of Combat Health Regeneration by 5 per point spent.",
-    "icon": "Skill_Icon_043_018.png",
+    "icon": "quietude.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,0 +1,24 @@
+{
+    "id": "trait-mace-proficiency",
+    "name": "Mace Proficiency",
+    "description": "There's just something more satisying about using a mace rather than a sword, isn't there?\\n\\nA small, one-handed melee weapon primarily used for crushing blows.\\n\\nYou are proficient at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        }
+    ]
+}

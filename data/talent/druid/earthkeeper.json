@@ -3,12 +3,22 @@
     "name": "Earthkeeper",
     "class": "druid",
     "description": "This talent grants Soothing Winds and the Commune With Nature passive power.\\n\\nIncreases by 5%:\\nHealing Bonus\\nHealing Bonus Cap\\n\\nTraits Granted:\\nMystical Staff Mastery",
-    "icon": "Skill_Icon_025_021.png",
+    "icon": "earthkeeper.png",
     "pointRequirement": 0,
     "levelRequirement": 25,
     "grants": [
-        "druid-talent-commune-nature",
-        "mysticalmaster-chain-ho-t"
+        {
+            "id": "commune-with-nature",
+            "name": "Commune With Nature"
+        },
+        {
+            "id": "soothing-winds",
+            "name": "Soothing Winds"
+        },
+        {
+            "id": "trait-mystical-staff-mastery",
+            "name": "Mystical Staff Mastery"
+        }
     ],
     "unlockedFromSkill": [
         {

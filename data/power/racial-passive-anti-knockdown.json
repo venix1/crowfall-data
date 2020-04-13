@@ -3,7 +3,7 @@
     "name": "I Get Knocked Down",
     "description": "reduces the length of Knockdowns you suffer by two seconds and increases Damage Bonus and Healing Bonus statistics by 5% for 12 seconds after suffering a Knockdown.",
     "shortDescription": "Passive: Knockdown Reduction; Increase Damage and Healing after being Knocked Down",
-    "icon": "Graphic_Disc_Racial_Stoneborn.png",
+    "icon": "racial-passive-anti-knockdown.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

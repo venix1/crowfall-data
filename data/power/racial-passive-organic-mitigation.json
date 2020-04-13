@@ -3,7 +3,7 @@
     "name": "Toxic Tolerance",
     "description": "increases your Organic Resistance statistic by 500.",
     "shortDescription": "Passive: Increase Organic Resistance",
-    "icon": "Graphic_Disc_Racial_Fae.png",
+    "icon": "racial-passive-organic-mitigation.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

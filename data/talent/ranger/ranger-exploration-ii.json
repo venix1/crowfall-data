@@ -3,7 +3,7 @@
     "name": "Exploration Discipline Slot",
     "class": "ranger",
     "description": "Unlock a Exploration Discipline slot.",
-    "icon": "Skill_Icon_036_018.png",
+    "icon": "ranger-exploration-ii.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

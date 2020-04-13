@@ -1,0 +1,32 @@
+{
+    "id": "trait-medium-shield-mastery",
+    "name": "Medium Shield Mastery",
+    "description": "A medium shield held by a loop and handle on the forearm. Provides good protection against damage.\\n\\nYou are a master at wielding this type of shield.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "radical",
+            "name": "Radical"
+        },
+        {
+            "id": "crusader",
+            "name": "Crusader"
+        },
+        {
+            "id": "arbiter",
+            "name": "Arbiter"
+        },
+        {
+            "id": "swordsman",
+            "name": "Swordsman"
+        },
+        {
+            "id": "secutor",
+            "name": "Secutor"
+        },
+        {
+            "id": "sentinel",
+            "name": "Sentinel"
+        }
+    ]
+}

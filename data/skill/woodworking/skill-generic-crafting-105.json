@@ -1,0 +1,27 @@
+{
+    "id": "skill-generic-crafting-105",
+    "name": "Research Mastery",
+    "tree": "Woodworking",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases the chance of Assembly Success and Experimentation Success while crafting Woodworking items.",
+    "icon": "skill-generic-crafting-105.png",
+    "stats": [
+        {
+            "name": "Woodworking",
+            "amount": "2"
+        },
+        {
+            "name": "Woodworking Experimentation",
+            "amount": "2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-104",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

@@ -3,7 +3,7 @@
     "name": "Verses Of Victory",
     "description": "increases your group's Attack Power by 75 and Support Power by 75 for 12 seconds.\\n\\nType 4 Song.",
     "shortDescription": "Song: Increase Group Attack, Support Power",
-    "icon": "Graphic_Disc_VersesOfVictory.png",
+    "icon": "bard-verses-of-victory.png",
     "stats": {
         "cast_time": "2 Seconds",
         "target": "Group",

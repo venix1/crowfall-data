@@ -2,7 +2,8 @@
     "id": "confessor-flamesoftruth-2",
     "name": "Forced Confession",
     "description": "consumes the Flames of Truth applied to your target, causing an explosion that deals 47 - 71 + 59% Weapon Damage and leaves your target Stunned.",
-    "icon": "Graphic_Conf_ForcedConfession.png",
+    "shortDescription": "",
+    "icon": "confessor-flamesoftruth-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

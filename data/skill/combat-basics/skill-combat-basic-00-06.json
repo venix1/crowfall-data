@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-basic-00-06",
+    "name": "Armor Penetration: Physical",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Armor Penetration: Physical.",
+    "icon": "skill-combat-basic-00-06.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-00-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

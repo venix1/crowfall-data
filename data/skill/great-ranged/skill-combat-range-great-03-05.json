@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-great-03-05",
+    "name": "Mystical Staff: Critical Healing Chance",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Healing Chance while using a Mystical Staff.",
+    "icon": "skill-combat-range-great-03-05.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-03-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-03-06",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-03-04",
+        "skill-combat-range-great-03-06"
+    ]
+}

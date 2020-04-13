@@ -2,8 +2,11 @@
     "id": "foreman",
     "name": "Foreman",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_Foreman.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "foreman.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -28,7 +31,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Organizing and leading a group can be a tricky duty, but when all the members fall into place a truly efficient unit is formed. The more forces engaged in the effort can expose weakness more frequently and at a faster pace.",
     "lore": "Progress is attained quicker with all hands contributing."
 }

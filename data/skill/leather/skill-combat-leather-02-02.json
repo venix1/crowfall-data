@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-leather-02-02",
+    "name": "Fire Resistance",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 21960,
+    "description": "Increases Fire Resistance while using Leather chest armor.",
+    "icon": "skill-combat-leather-02-02.png",
+    "stats": [
+        {
+            "name": "Fire Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-leather-02-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-leather-02-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-leather-02-03"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Vigor",
     "class": "assassin",
     "description": "Vigor improves Maximum Stamina by 3 per point spent and Attack Power by 30 per point spent.",
-    "icon": "Skill_Icon_034_002.png",
+    "icon": "vigor.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

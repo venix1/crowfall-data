@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-373",
+    "name": "Granite Basics",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Granitewhen quarrying Granite.",
+    "icon": "skill-generic-exploration-373.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Granite",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Granite",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-136",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-064"
+    ]
+}

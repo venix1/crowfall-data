@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-193",
+    "name": "Alchemy Study",
+    "tree": "Alchemy",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance of Assembly Success and Experimentation Success while crafting Alchemy items.",
+    "icon": "skill-generic-crafting-193.png",
+    "stats": [
+        {
+            "name": "Alchemy",
+            "amount": "1"
+        },
+        {
+            "name": "Alchemy Experimentation",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-191",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-195"
+    ]
+}

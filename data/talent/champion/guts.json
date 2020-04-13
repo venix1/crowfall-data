@@ -3,7 +3,7 @@
     "name": "Guts",
     "class": "champion",
     "description": "Guts improves Critical Strike by 1% per point spent.",
-    "icon": "Skill_Icon_023_007.png",
+    "icon": "guts.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,0 +1,66 @@
+{
+    "name": "Weapon Hilt: Great",
+    "id": "blacksmithing-weapon-hilt-002",
+    "icon": "blacksmithing_weapon_hilt_002.png",
+    "description": "Creates a Great Weapon Hilt that is used to create Advanced Weapons.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "blacksmithing",
+    "subCategory": "twohand_weapon_components",
+    "ingredients": [
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "Weapon Grip.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "Weapon Grip.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Great Weapon Pommel",
+            "id": "great-weapon-pommel",
+            "icon": "Great Weapon Pommel.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Great Weapon Crossguard",
+            "id": "great-weapon-crossguard",
+            "icon": "Great Weapon Crossguard.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "Polished Spherical Gemstone.png",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": true,
+            "optional": true
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "Polished Spherical Gemstone.png",
+            "quantity": 1,
+            "slotIndex": 5,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

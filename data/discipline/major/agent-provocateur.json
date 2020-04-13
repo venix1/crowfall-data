@@ -2,16 +2,19 @@
     "id": "agent-provocateur",
     "name": "Agent Provocateur",
     "type": "major",
-    "trait": "Stealther",
-    "icon": "Major_AgentProvocateur.png",
+    "trait": {
+        "id": "trait-stealther",
+        "name": "Stealther"
+    },
+    "icon": "agent-provocateur.png",
     "stats": [
         {
             "name": "Stealth",
-            "value": 5
+            "value": "5"
         },
         {
             "name": "Piercing Damage Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
     "lore": "A slimy, double-crossing, no-good swindler!"
 }

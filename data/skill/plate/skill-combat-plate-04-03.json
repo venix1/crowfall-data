@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-plate-04-03",
+    "name": "Decay Rate: Plate",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Decay Rate: Plate while using Plate chest armor.",
+    "icon": "skill-combat-plate-04-03.png",
+    "stats": [
+        {
+            "name": "Decay Rate: Plate",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-04-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-04-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-04-02"
+    ]
+}

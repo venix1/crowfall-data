@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-crafting-011",
+    "name": "Stonemasonry Basics",
+    "tree": "Crafting Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Unlocks the Stonemasonry skill tree.",
+    "icon": "skill-generic-crafting-011.png",
+    "stats": [
+        {
+            "name": "Stonemasonry",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-009",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

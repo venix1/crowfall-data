@@ -1,0 +1,17 @@
+{
+    "id": "trait-leatherworker",
+    "name": "Leatherworker",
+    "description": "You are adept at working raw leather into weapon and armor components.\\n\\nYou can equip Leatherworker Disciplines.",
+    "requiredBy": [
+        {
+            "id": "leather-armourer",
+            "name": "Leather Armourer"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "leatherworker",
+            "name": "Leatherworker"
+        }
+    ]
+}

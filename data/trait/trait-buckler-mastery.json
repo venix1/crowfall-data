@@ -1,0 +1,36 @@
+{
+    "id": "trait-buckler-mastery",
+    "name": "Buckler Mastery",
+    "description": "An unnamed Fae once was forced to defend her home. She killed the intruder with a kitchen knife and a soup pot lid. All she had to say was, \"Hey, that worked better than expected.\"\\n\\nA small round shield held in a fist grip. Offers some protection against damage.\\n\\nYou are a master at wielding this type of shield.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "radical",
+            "name": "Radical"
+        },
+        {
+            "id": "crusader",
+            "name": "Crusader"
+        },
+        {
+            "id": "arbiter",
+            "name": "Arbiter"
+        },
+        {
+            "id": "stormcaller",
+            "name": "Stormcaller"
+        },
+        {
+            "id": "swordsman",
+            "name": "Swordsman"
+        },
+        {
+            "id": "secutor",
+            "name": "Secutor"
+        },
+        {
+            "id": "sentinel",
+            "name": "Sentinel"
+        }
+    ]
+}

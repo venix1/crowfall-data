@@ -2,26 +2,32 @@
     "id": "woodworker",
     "name": "Woodworker",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Woodworking.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "woodworker.png",
     "stats": [
         {
             "name": "Woodworking",
-            "value": 5
+            "value": "10"
         },
         {
             "name": "Woodworking Experimentation",
-            "value": 15
+            "value": "35"
         },
         {
             "name": "Woodworking Experimentation Points",
-            "value": 3
+            "value": "4"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Woodworker"
+    "grantsTrait": [
+        {
+            "id": "trait-woodworker",
+            "name": "Woodworker"
+        }
     ],
     "description": "Recipes Granted:\\nAdvanced Wooden Weapons\\nAdvanced Wooden Weapon Components\\n\\nReduced Recipe Resource Costs:\\nComposite Wood Plank",
     "lore": "There are no mistakes in woodworking until you run out of wood."

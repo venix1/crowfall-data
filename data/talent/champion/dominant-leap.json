@@ -3,7 +3,7 @@
     "name": "Dominant Leap",
     "class": "champion",
     "description": "Dominant Leap enhances Leap powers to add a point of Dominance.",
-    "icon": "Skill_Icon_042_020.png",
+    "icon": "dominant-leap.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

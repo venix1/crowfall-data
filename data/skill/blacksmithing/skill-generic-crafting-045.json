@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-045",
+    "name": "Thrall Presence",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Enhances the power of Buffs that Blacksmithing Stations grant when they have a Thrall inhabiting them.",
+    "icon": "skill-generic-crafting-045.png",
+    "stats": [
+        {
+            "name": "Blacksmithing Thrall Power",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-043",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-044",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-046"
+    ]
+}

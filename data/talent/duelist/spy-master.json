@@ -3,7 +3,7 @@
     "name": "Spy Master",
     "class": "duelist",
     "description": "Spy Master enhances Recon to reduce an enemy's Anti-Critical Strike and reduce its cooldown.",
-    "icon": "Skill_Icon_023_007.png",
+    "icon": "spy-master.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

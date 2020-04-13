@@ -2,7 +2,8 @@
     "id": "knight-shield-slam",
     "name": "Shield Slam",
     "description": "charges you forward 7m and slams up to three enemies in front of you for 82 - 111 + 97% Crushing Weapon Damage.\\n\\nIf charged more than 66%, this attack has a 100% Critical Strike modifier and pushes your targets back.",
-    "icon": "Graphic_Kngt_ShieldSlam.png",
+    "shortDescription": "",
+    "icon": "knight-shield-slam.png",
     "stats": {
         "cast_time": "Charged",
         "target": "Cone",

@@ -1,0 +1,16 @@
+{
+    "id": "trait-recurve-bow-mastery",
+    "name": "Recurve Bow Mastery",
+    "description": "A large, two-handed ranged weapon primarily used for unleashing various types of arrows.\\n\\nYou are a master at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "archer",
+            "name": "Archer"
+        },
+        {
+            "id": "warden",
+            "name": "Warden"
+        }
+    ]
+}

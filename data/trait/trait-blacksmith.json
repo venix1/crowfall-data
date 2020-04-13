@@ -1,0 +1,21 @@
+{
+    "id": "trait-blacksmith",
+    "name": "Blacksmith",
+    "description": "You are adept at refining raw materials into weapons and armor.\\n\\nYou can equip Blacksmith Disciplines.",
+    "requiredBy": [
+        {
+            "id": "armorsmith",
+            "name": "Armorsmith"
+        },
+        {
+            "id": "weaponsmith",
+            "name": "Weaponsmith"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "blacksmith",
+            "name": "Blacksmith"
+        }
+    ]
+}

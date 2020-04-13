@@ -1,0 +1,12 @@
+{
+    "id": "trait-great-axe-proficiency",
+    "name": "Great Axe Proficiency",
+    "description": "Tebuk, a pit fighter, was laughed at for bringing a great axe into the arena for the first time. When he was done, no one was laughing.\\n\\nA large, two-handed melee weapon primarily used for slashing cuts.\\n\\nYou are proficient at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "champion",
+            "name": "Champion"
+        }
+    ]
+}

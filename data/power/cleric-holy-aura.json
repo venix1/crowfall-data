@@ -2,7 +2,8 @@
     "id": "cleric-holy-aura",
     "name": "Holy Aura",
     "description": "imbues group members and you with sanctified power increasing their maximum Health by 1250 while you maintain the effect.",
-    "icon": "Graphic_Cleric_HolyAura.png",
+    "shortDescription": "",
+    "icon": "cleric-holy-aura.png",
     "stats": {
         "cast_time": "Toggle",
         "target": "Group",

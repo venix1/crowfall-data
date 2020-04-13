@@ -1,0 +1,57 @@
+{
+    "name": "Wall Panel: Door",
+    "id": "stonemasonry-wall-defense-009",
+    "icon": "stonemasonry_wall_defense_009.png",
+    "description": "Creates a Stone Wall Panel: Door Deed.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "stonemasonry",
+    "subCategory": "stonemasonry_keep_walls_defenses",
+    "ingredients": [
+        {
+            "name": "Stone Wall Section",
+            "id": "stone-wall-section",
+            "icon": "Stone Wall Section.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Carpentry Nails",
+            "id": "carpentry-nails",
+            "icon": "Carpentry Nails.png",
+            "quantity": 2,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Architectural Arches",
+            "id": "architectural-arches",
+            "icon": "Architectural Arches.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Quality Assurance Control Kit",
+            "id": "quality-assurance-control-kit",
+            "icon": "Quality Assurance Control Kit.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": true
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 5,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

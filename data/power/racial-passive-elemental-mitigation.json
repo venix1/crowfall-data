@@ -3,7 +3,7 @@
     "name": "Vanity",
     "description": "increases your Elemental Resistance statistic by 500.",
     "shortDescription": "Passive: Increase Elemental Resistance",
-    "icon": "Graphic_Disc_Racial_HighElf.png",
+    "icon": "racial-passive-elemental-mitigation.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -2,7 +2,8 @@
     "id": "frst-crystal-lance-2",
     "name": "Piercing Lance",
     "description": "puncture an enemy with ice inflicting 228 - 341 + 284% Weapon Damage. Enemies under 35% Health suffer execution scale damage taking 341 - 512 + 427% Weapon Damage.",
-    "icon": "Graphic_Frst_PiercingLance.png",
+    "shortDescription": "",
+    "icon": "frst-crystal-lance-2.png",
     "stats": {
         "weapon_damage_2_value": "427",
         "max_damage_2": "512",

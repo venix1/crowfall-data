@@ -2,16 +2,19 @@
     "id": "field-surgeon",
     "name": "Field Surgeon",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_FieldSurgeon.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "field-surgeon.png",
     "stats": [
         {
             "name": "Critical Healing Chance",
-            "value": 3
+            "value": "3%"
         },
         {
             "name": "Healing Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Field Surgeons are the first to act in the event of a combat disaster. Quick to rescue, triage, and rehabilitate, these selfless Field Surgeons are your one-stop shop for quick remedies to get you back into the action. Disclaimer, use as directed and be sure to follow up with a real physician. Satisfaction is not guaranteed and once payment has been processed there are no refunds.",
     "lore": "Your onsite go-to for quick and easy clinical care!"
 }

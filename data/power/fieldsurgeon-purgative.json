@@ -3,7 +3,7 @@
     "name": "Purgative",
     "description": "cleanses your group and yourself of damage over time effects healing for 13 - 15 + 5.6% Support Power for each effect removed.",
     "shortDescription": "Group Cleanse Damage Over Time with Healing",
-    "icon": "Graphic_Disc_Purgative.png",
+    "icon": "fieldsurgeon-purgative.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

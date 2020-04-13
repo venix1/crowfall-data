@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-215",
+    "name": "Stonemasonry Study",
+    "tree": "Stonemasonry",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance of Assembly Success and Experimentation Success while crafting Stonemasonry items.",
+    "icon": "skill-generic-crafting-215.png",
+    "stats": [
+        {
+            "name": "Stonemasonry",
+            "amount": "1"
+        },
+        {
+            "name": "Stonemasonry Experimentation",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-214",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-217"
+    ]
+}

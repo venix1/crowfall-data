@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-03-04",
+    "name": "Sickle: Movement Control Defense",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Movement Control Defense while using a Sickle in your main hand.",
+    "icon": "skill-combat-range-onehand-03-04.png",
+    "stats": [
+        {
+            "name": "Movement Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-03-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-03-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-03-03",
+        "skill-combat-range-onehand-03-05"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Executioner",
     "description": "increases the damage of Execution abilities",
     "shortDescription": "Passive: Increase Execute Power Damage",
-    "icon": "Graphic_Disc_Executioner.png",
+    "icon": "execute-bonus-damage.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

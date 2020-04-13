@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-mail-02-01",
+    "name": "Health",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Health while using Mail chest armor.",
+    "icon": "skill-combat-mail-02-01.png",
+    "stats": [
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-02-02",
+        "skill-combat-mail-02-05"
+    ]
+}

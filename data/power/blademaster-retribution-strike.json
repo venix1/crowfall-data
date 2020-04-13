@@ -1,9 +1,9 @@
 {
     "id": "blademaster-retribution-strike",
     "name": "Retribution Slash",
-    "description": "turns the tables on an enemy with a strike granting 20% Retribution for 15 seconds and causing 113 - 153 + 133% Weapon Damage.",
+    "description": "turns the tables on an enemy with a strike granting 20% Retribution for 15 and causing 113 - 153 + 133% Weapon Damage.",
     "shortDescription": "Attack: Gain Retribution",
-    "icon": "Graphic_Disc_RetributionSlash.png",
+    "icon": "blademaster-retribution-strike.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

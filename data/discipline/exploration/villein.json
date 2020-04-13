@@ -2,8 +2,11 @@
     "id": "villein",
     "name": "Villein",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_Villein.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "villein.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -15,11 +18,10 @@
             "id": "villein-seasoned-hand",
             "name": "Seasoned Hand",
             "description": "Passive: Greatly Decreases Harvesting Tool Decay"
-        },
-        "mechanic_grant_harvest_pips_ui"
+        }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "A little bit of elbow grease can go a long way when it comes to harvesting. A bit more practice and patience can make one more adept and experienced while also prolonging the life of the harvesting tools used.",
     "lore": "It is practice and wisdom that creates a knowledgeable hand."
 }

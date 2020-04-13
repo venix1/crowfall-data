@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-090",
+    "name": "Granite Specialization",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when quarrying Granite.",
+    "icon": "skill-generic-exploration-090.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Stone: Granite",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-375",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

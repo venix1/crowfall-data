@@ -3,7 +3,7 @@
     "name": "Dreadful Silencing",
     "class": "myrmidon",
     "description": "Dreadful Silencing enhances Neck Slash to also inflict Suppression.",
-    "icon": "Skill_Icon_018_002.png",
+    "icon": "dreadful-silencing.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,7 +3,7 @@
     "name": "Ironwood Body",
     "description": "reduces all damage taken by 50% for 10 seconds when your Health drops below 35%. \\n\\nThis cannot occur more than once every 45 seconds.",
     "shortDescription": "Passive: Reduce Damage when Low Health",
-    "icon": "Graphic_Drud_IronwoodBody.png",
+    "icon": "scimitarmaster-ironwood-body.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

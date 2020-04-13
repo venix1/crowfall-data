@@ -3,11 +3,14 @@
     "name": "Ambush",
     "class": "duelist",
     "description": "This talent grants the Ambush power.",
-    "icon": "Skill_Icon_034_014.png",
+    "icon": "ambush.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "duelist-stealth-ambush"
+        {
+            "id": "ambush",
+            "name": "Ambush"
+        }
     ],
     "unlockedFromSkill": [
         {

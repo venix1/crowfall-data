@@ -3,7 +3,7 @@
     "name": "Martyrdom",
     "class": "templar",
     "description": "Martyrdom improves Control Defense by 10% and Support Power by 200 per point spent.",
-    "icon": "Skill_Icon_043_021.png",
+    "icon": "martyrdom.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

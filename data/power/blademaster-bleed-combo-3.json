@@ -2,7 +2,8 @@
     "id": "blademaster-bleed-combo-3",
     "name": "Blood Strike",
     "description": "attacks multiple enemies for 117 - 158 + 138% Weapon Damage and causing them to Bleed for 50 - 75 + 6% Weapon Damage per tick.",
-    "icon": "Graphic_Disc_BloodStrike_B.png",
+    "shortDescription": "",
+    "icon": "blademaster-bleed-combo-3.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -2,7 +2,8 @@
     "id": "knight-block",
     "name": "Shield Block",
     "description": "reduces damage by 50% and prevents crowd control effects.\\n\\nYour damage increases by 15% for 5 seconds for each 150 damage taken while Blocking.\\n\\nTaking more than 150 damage while Blocking increases damage by 15% for 5 seconds for each 150 damage taken while Blocking and activates Shield Bash.\\n\\nThis attack can be instantly Flash-Cast.",
-    "icon": "Graphic_Kngt_Block.png",
+    "shortDescription": "",
+    "icon": "knight-block.png",
     "stats": {
         "cast_time": "Hold Channeled",
         "target": "Self",

@@ -1,0 +1,13 @@
+{
+    "id": "skill-generic-crafting-057",
+    "name": "Salvage Competency",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases the Yield from Salvage. Allows Salvage on higher tier items. Currently TBD.",
+    "icon": "skill-generic-crafting-057.png",
+    "stats": [],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

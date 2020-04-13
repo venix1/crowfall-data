@@ -2,8 +2,11 @@
     "id": "spirit-whip",
     "name": "Spirit Whip",
     "type": "minor",
-    "trait": "Martial Weapons Principles",
-    "icon": "Minor_SpiritWhip.png",
+    "trait": {
+        "id": "trait-martial-weapons-principles",
+        "name": "Martial Weapons Principles"
+    },
+    "icon": "spirit-whip.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Crack that whip and give the past the slip. It's not too late... To spirit whip it!"
 }

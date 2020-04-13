@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-melee-great-01-02",
+    "name": "Great Sword: Critical Damage",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Damage while using a Great Sword.",
+    "icon": "skill-combat-melee-great-01-02.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-01-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-01-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-01-03"
+    ]
+}

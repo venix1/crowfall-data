@@ -3,7 +3,7 @@
     "name": "Toughness",
     "description": "strengthens group members and you increasing their Maximum Health by 20% for 45 seconds.",
     "shortDescription": "Group Increase Maximum Health",
-    "icon": "Graphic_Disc_Toughness.png",
+    "icon": "juggernaut-toughness.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

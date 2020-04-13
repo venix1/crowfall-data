@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-armor-02-01",
+    "name": "Movement Control Defense",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Movement Control Defense while wearing armor.",
+    "icon": "skill-combat-armor-02-01.png",
+    "stats": [
+        {
+            "name": "Movement Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-armor-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-armor-02-02",
+        "skill-combat-armor-02-05"
+    ]
+}

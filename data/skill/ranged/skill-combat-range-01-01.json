@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-01-01",
+    "name": "Power Efficiency",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Power Efficiency while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-01-01.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-01-02",
+        "skill-combat-range-01-05"
+    ]
+}

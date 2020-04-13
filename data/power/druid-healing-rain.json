@@ -2,7 +2,8 @@
     "id": "druid-healing-rain",
     "name": "Healing Rain",
     "description": "blankets the targeted area with Life energy, instantly healing 11 to 13 + 4.8% Support Power up to 10 times.\\n\\nThis Power generates a High amount of Essence.",
-    "icon": "Graphic_Drud_HealingRain.png",
+    "shortDescription": "",
+    "icon": "druid-healing-rain.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

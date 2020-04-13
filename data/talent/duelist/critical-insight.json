@@ -3,7 +3,7 @@
     "name": "Critical Insight",
     "class": "duelist",
     "description": "Critical Insight improves Critical Strike by 1% per point spent.",
-    "icon": "Skill_Icon_023_007.png",
+    "icon": "critical-insight.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

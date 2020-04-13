@@ -3,7 +3,7 @@
     "name": "Brutal Slam",
     "description": "strikes with your shield for 113 - 153 + 133% Weapon Damage and lower their Physical Resistance by 20.",
     "shortDescription": "Attack: Reduce enemy Physical Mitigation",
-    "icon": "Graphic_Disc_BrutalSlam.png",
+    "icon": "shieldfighter-brutal-slam.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -3,7 +3,7 @@
     "name": "Into the Shadows",
     "class": "ranger",
     "description": "Into the Shadows improves Melee Power Damage Bonus by 3% per point spent.",
-    "icon": "Skill_Icon_018_021.png",
+    "icon": "into-the-shadows.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

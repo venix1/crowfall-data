@@ -3,7 +3,7 @@
     "name": "Matching Plate",
     "description": "increases your Support Power by 100 when wearing a full set of non-basic Plate armor.",
     "shortDescription": "Passive: Gain Support Power with a Full Set of Plate Equipped",
-    "icon": "Graphic_Disc_MatchingPlate.png",
+    "icon": "matching-support-plate.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

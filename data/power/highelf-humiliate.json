@@ -3,7 +3,7 @@
     "name": "Humiliate",
     "description": "mocks an enemy increasing their Power Cost Multiplier by 15% for 30 seconds.",
     "shortDescription": "Increases Power Cost Multiplier",
-    "icon": "Graphic_Disc_Humiliate.png",
+    "icon": "highelf-humiliate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

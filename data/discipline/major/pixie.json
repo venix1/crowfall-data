@@ -2,16 +2,19 @@
     "id": "pixie",
     "name": "Pixie",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Pixie.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "pixie.png",
     "stats": [
         {
             "name": "Critical Healing Chance",
-            "value": 3
+            "value": "3%"
         },
         {
             "name": "Healing Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Mischievious, energetic, and jovial in nature, Pixies are known to be an asset to their allies and a pesky nuisance to their enemies. A bit of the essence of Cybele emerges in each Pixie as they offer an ally a quick fix, use their magic dust to assist in healing, and use their conjury to alter the size of a foe with ease.",
     "lore": "Ever see a monster the size of a house turned into something no bigger than a mouse?"
 }

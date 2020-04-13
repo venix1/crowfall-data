@@ -3,11 +3,14 @@
     "name": "Arcing Slash",
     "class": "myrmidon",
     "description": "This talent grants the Arcing Slash power.",
-    "icon": "Skill_Icon_002_028.png",
+    "icon": "arcing-slash.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "myrmidon-arcing-slash"
+        {
+            "id": "arcing-slash",
+            "name": "Arcing Slash"
+        }
     ],
     "unlockedFromSkill": [
         {

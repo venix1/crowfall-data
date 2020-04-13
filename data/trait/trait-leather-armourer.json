@@ -1,0 +1,12 @@
+{
+    "id": "trait-leather-armourer",
+    "name": "Leather Armourer",
+    "description": "You are an expert Leatherworker, specialized in the crafting of leather armor.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "leather-armourer",
+            "name": "Leather Armourer"
+        }
+    ]
+}

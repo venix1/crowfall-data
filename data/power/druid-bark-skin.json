@@ -2,7 +2,8 @@
     "id": "druid-bark-skin",
     "name": "Bark Skin",
     "description": "toughens the hide of group members and you applying a Barrier for 15 seconds preventing 280 to 520 damage.",
-    "icon": "Graphic_Drud_BarkSkin.png",
+    "shortDescription": "",
+    "icon": "druid-bark-skin.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

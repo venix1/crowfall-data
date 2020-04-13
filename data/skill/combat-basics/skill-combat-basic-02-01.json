@@ -1,0 +1,25 @@
+{
+    "id": "skill-combat-basic-02-01",
+    "name": "Resist All",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Resist All.",
+    "icon": "skill-combat-basic-02-01.png",
+    "stats": [
+        {
+            "name": "Resist All",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-basic-02-02"
+    ]
+}

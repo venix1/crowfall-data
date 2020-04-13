@@ -2,7 +2,8 @@
     "id": "myrmidon-whirlwind",
     "name": "Whirlwind",
     "description": "spins you around rapidly hitting nearby enemies multiple times for 24 - 30 + 27% Weapon Damage and causing them to Bleed for 18 - 24 damage.",
-    "icon": "Graphic_Myrm_Whirlwind.png",
+    "shortDescription": "",
+    "icon": "myrmidon-whirlwind.png",
     "stats": {
         "cast_time": "Channeled",
         "target": "Sphere",

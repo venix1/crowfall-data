@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-range-onehand-center",
+    "name": "One-Handed Range Training",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases Attack Power while using a One-Handed Range Weapon in your main hand.",
+    "icon": "skill-combat-range-onehand-center.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-01-01",
+        "skill-combat-range-onehand-02-01",
+        "skill-combat-range-onehand-03-01",
+        "skill-combat-range-onehand-04-01"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Fortification",
     "description": "aids group members and you increasing Health by 1000.",
     "shortDescription": "Group Increase Health Max",
-    "icon": "Graphic_Disc_PowerRuneFortification.png",
+    "icon": "runecaster-fortification.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Group",

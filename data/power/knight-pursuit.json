@@ -2,7 +2,8 @@
     "id": "knight-pursuit",
     "name": "Pursuit",
     "description": "charges you forward 20m. When the charge ends, deal 119 - 161 + 140% Crushing Weapon Damage to enemies in front of you.",
-    "icon": "Graphic_Kngt_Pursuit.png",
+    "shortDescription": "",
+    "icon": "knight-pursuit.png",
     "stats": {
         "weapon_damage_type": "Crushing",
         "weapon_damage_value": "140",

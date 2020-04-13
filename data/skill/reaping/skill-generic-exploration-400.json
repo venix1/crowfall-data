@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-400",
+    "name": "Harvest Blood",
+    "tree": "Reaping",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases chance to harvest Blood when skinning an Animal.",
+    "icon": "skill-generic-exploration-400.png",
+    "stats": [
+        {
+            "name": "Harvest Chance: Blood",
+            "amount": "0.5%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-083",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-401"
+    ]
+}

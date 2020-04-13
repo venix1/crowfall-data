@@ -2,7 +2,8 @@
     "id": "ranger-mb-attack-1",
     "name": "Sinister Slash",
     "description": "slashes in front of you twice for 38 - 52 + 45% Weapon Damage.",
-    "icon": "Graphic_Rngr_BasicMelee1.png",
+    "shortDescription": "",
+    "icon": "ranger-mb-attack-1.png",
     "stats": {
         "weapon_damage_value": "45",
         "max_damage_1": "52",

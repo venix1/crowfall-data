@@ -2,7 +2,8 @@
     "id": "knight-onslaught-3a",
     "name": "Shockwave",
     "description": "attacks enemies in front of you, dealing 171 - 232 + 202% Crushing Weapon Damage and leaving them Knocked Down.",
-    "icon": "Graphic_Kngt_Shockwave.png",
+    "shortDescription": "",
+    "icon": "knight-onslaught-3a.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

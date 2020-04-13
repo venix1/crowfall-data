@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-mail-01-03",
+    "name": "Stamina",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Stamina while using Mail chest armor.",
+    "icon": "skill-combat-mail-01-03.png",
+    "stats": [
+        {
+            "name": "Stamina",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-01-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-01-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-01-02",
+        "skill-combat-mail-01-04"
+    ]
+}

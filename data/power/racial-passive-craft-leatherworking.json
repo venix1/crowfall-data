@@ -3,7 +3,7 @@
     "name": "Tannin Techniques",
     "description": "increases your Leatherworking and Leatherworking Experimentation statistics by 10.",
     "shortDescription": "Passive: Increase Leatherworking Crafting Statistics",
-    "icon": "Graphic_Disc_LeatherworkingTechniques.png",
+    "icon": "racial-passive-craft-leatherworking.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-great-01-04",
+    "name": "Book: Critical Damage",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Damage while using a Book.",
+    "icon": "skill-combat-range-great-01-04.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-01-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-01-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-01-03",
+        "skill-combat-range-great-01-05"
+    ]
+}

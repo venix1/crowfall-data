@@ -1,0 +1,28 @@
+{
+    "id": "trait-short-sword-mastery",
+    "name": "Short Sword Mastery",
+    "description": "The first shortsword was crafted by D'Orion after taking the tooth from the great wyvern, Vipera, and then proceeding to slay her with it.\\n\\nA small, one-handed melee weapon primarily used for slashing cuts.\\n\\nYou are a master at wielding this type of blade.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "swordsman",
+            "name": "Swordsman"
+        },
+        {
+            "id": "secutor",
+            "name": "Secutor"
+        },
+        {
+            "id": "sentinel",
+            "name": "Sentinel"
+        },
+        {
+            "id": "warden",
+            "name": "Warden"
+        },
+        {
+            "id": "brigand",
+            "name": "Brigand"
+        }
+    ]
+}

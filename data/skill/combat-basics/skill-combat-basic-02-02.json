@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-basic-02-02",
+    "name": "Hard Control Defense",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Hard Control Defense.",
+    "icon": "skill-combat-basic-02-02.png",
+    "stats": [
+        {
+            "name": "Hard Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-02-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-basic-02-03",
+        "skill-combat-basic-02-04",
+        "skill-combat-basic-02-05",
+        "skill-combat-basic-02-06",
+        "skill-combat-basic-02-07"
+    ]
+}

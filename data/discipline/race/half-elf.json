@@ -1,41 +1,41 @@
 {
     "id": "half-elf",
     "name": "Half-Elf",
-    "type": "racial",
-    "trait": "",
-    "icon": "Racial_HalfElf.png",
+    "type": "race",
+    "trait": {},
+    "icon": "half-elf.png",
     "stats": [
         {
             "name": "Strength Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Dexterity Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Intellect Cap",
-            "value": 300
+            "value": "300"
         },
         {
             "name": "Spirit Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Constitution Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Dexterity",
-            "value": 60
+            "value": "60"
         },
         {
             "name": "Intellect",
-            "value": 30
+            "value": "30"
         },
         {
             "name": "Spirit",
-            "value": 30
+            "value": "30"
         }
     ],
     "grantsPowers": [
@@ -71,6 +71,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "A loose-knit collection of outcasts bound together by their mixed blood and their exclusion from pure-blood society."
 }

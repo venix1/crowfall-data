@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-421",
+    "name": "Group Leader Inspired Experimentation",
+    "tree": "Command",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "The passive power Way of the Leader, gains up to 5 additional Crafting Basics Experimentation for the entire group as long as you are the group leader.",
+    "icon": "skill-generic-exploration-421.png",
+    "stats": [
+        {
+            "name": "Group Leader Inspired Experimentation",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-415",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-424"
+    ]
+}

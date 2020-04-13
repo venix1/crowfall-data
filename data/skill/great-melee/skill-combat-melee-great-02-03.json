@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-great-02-03",
+    "name": "Great Axe: Power Efficiency",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Power Efficiency while using a Great Axe.",
+    "icon": "skill-combat-melee-great-02-03.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-02-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-02-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-02-02",
+        "skill-combat-melee-great-02-04"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Cauterize",
     "description": "removes Bleeding effects.",
     "shortDescription": "Buff: Removes the bleeding debuff from yourself.",
-    "icon": "Graphic_Disc_Cauterize.png",
+    "icon": "knifegrinder-cauterize.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

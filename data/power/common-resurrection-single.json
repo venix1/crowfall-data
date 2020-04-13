@@ -2,7 +2,8 @@
     "id": "common-resurrection-single",
     "name": "Resurrection",
     "description": "targets a small area and revives one unconscious vessel.",
-    "icon": "Graphic_Rez_Templar.png",
+    "shortDescription": "",
+    "icon": "common-resurrection-single.png",
     "stats": {
         "cast_time": "15 Seconds",
         "target": "Area",

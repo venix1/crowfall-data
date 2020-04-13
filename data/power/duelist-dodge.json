@@ -3,7 +3,7 @@
     "name": "Leap Roll",
     "description": "launches you 20 meters in your WASD direction.",
     "shortDescription": "Leap Roll in a WASD direction",
-    "icon": "Graphic_Duel_Dodge.png",
+    "icon": "duelist-dodge.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

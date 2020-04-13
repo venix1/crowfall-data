@@ -2,7 +2,8 @@
     "id": "druid-leaching-seed",
     "name": "Leeching Seed",
     "description": "slows and reduces Melee Power Damage Bonus by 20% for 15 seconds.",
-    "icon": "Graphic_Drud_LeechingSeed.png",
+    "shortDescription": "",
+    "icon": "druid-leaching-seed.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

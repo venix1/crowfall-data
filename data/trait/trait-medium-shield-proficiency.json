@@ -1,0 +1,16 @@
+{
+    "id": "trait-medium-shield-proficiency",
+    "name": "Medium Shield Proficiency",
+    "description": "A medium shield held by a loop and handle on the forearm. Provides good protection against damage.\\n\\nYou are proficient at wielding this type of shield.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        }
+    ]
+}

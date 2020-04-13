@@ -1,0 +1,24 @@
+{
+    "id": "skill-generic-exploration-319",
+    "name": "Exploration Mastery",
+    "tree": "Exploration Basics",
+    "pointRequirement": 95,
+    "pipAmount": 20160,
+    "description": "Increases chance to harvest Apples when logging Trees, and Campfires now restore more Hitpoints while Resting.\\n\\nPower Granted:\\nEnergetic Harvesting",
+    "icon": "skill-generic-exploration-319.png",
+    "stats": [
+        {
+            "name": "Harvest Chance: Apples",
+            "amount": "1%"
+        },
+        {
+            "name": "Campfire Healing Bonus",
+            "amount": "0"
+        }
+    ],
+    "grants": [
+        "power_ultimate_energetic_harvesting"
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-097",
+    "name": "Thrall Presence",
+    "tree": "Woodworking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Enhances the power of Buffs that Woodworking Stations grant when they have a Thrall inhabiting them.",
+    "icon": "skill-generic-crafting-097.png",
+    "stats": [
+        {
+            "name": "Woodworking Thrall Power",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-095",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-096",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-098"
+    ]
+}

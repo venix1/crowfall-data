@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-311",
+    "name": "Plentiful Resources: Cobblestone",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Increases chance to harvest Cobblestone when quarrying Cobblestone.",
+    "icon": "skill-generic-exploration-311.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Stone: Cobble",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-310",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-312"
+    ]
+}

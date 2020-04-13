@@ -3,7 +3,7 @@
     "name": "Walk Without Rhythm",
     "description": "increases your Movement Speed: Stealth statistic by 20%.",
     "shortDescription": "Passive: Increase Movement Speed while Stealthed",
-    "icon": "Graphic_Disc_Racial_Nethari.png",
+    "icon": "racial-passive-stealth-speed.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

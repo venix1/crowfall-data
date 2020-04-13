@@ -2,7 +2,8 @@
     "id": "druid-natures-grace-2",
     "name": "Nature's Grace",
     "description": "graces you for 12 seconds, healing you for 2% of your maximum health each time you damage an enemy with a Basic Attack.",
-    "icon": "Graphic_Drud_NaturesGrace.png",
+    "shortDescription": "",
+    "icon": "druid-natures-grace-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

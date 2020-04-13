@@ -2,7 +2,8 @@
     "id": "blademaster-bleed-combo-2",
     "name": "Blood Strike",
     "description": "slashes enemies for 62 - 83 + 72% Weapon Damage.",
-    "icon": "Graphic_Disc_BloodStrike_A.png",
+    "shortDescription": "",
+    "icon": "blademaster-bleed-combo-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

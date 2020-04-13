@@ -2,7 +2,8 @@
     "id": "ranger-dagger-spin-2",
     "name": "Dagger Spin",
     "description": "spins you in place and deal 46 - 62 + 54% Weapon Damage around you.",
-    "icon": "Graphic_Rngr_DaggerSpin.png",
+    "shortDescription": "",
+    "icon": "ranger-dagger-spin-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

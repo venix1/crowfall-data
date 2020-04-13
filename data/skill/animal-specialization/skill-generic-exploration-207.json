@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-207",
+    "name": "Beneficial Harvest Power: Animal",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the intensity of the Beneficial Harvest Effect applied when skinning Animals. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-207.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Power: Animal",
+            "amount": "4.8%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-206",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-213"
+    ]
+}

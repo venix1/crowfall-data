@@ -2,26 +2,32 @@
     "id": "jewelcrafter",
     "name": "Jewelcrafter",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Jewelcrafting.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "jewelcrafter.png",
     "stats": [
         {
             "name": "Jewelcrafting",
-            "value": 5
+            "value": "10"
         },
         {
             "name": "Jewelcrafting Experimentation",
-            "value": 15
+            "value": "35"
         },
         {
             "name": "Jewelcrafting Experimentation Points",
-            "value": 3
+            "value": "4"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Jewelcrafter"
+    "grantsTrait": [
+        {
+            "id": "trait-jewelcrafter",
+            "name": "Jewelcrafter"
+        }
     ],
     "description": "Recipes Granted:\\nGem Cuts\\nGem Grinds\\nGem Polishes\\nJewelry Components\\nNecklaces\\nRings",
     "lore": "Jewels, gems, and shiny metals combine to make useful and sometimes bloody trinkets."

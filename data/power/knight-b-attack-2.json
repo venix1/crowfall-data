@@ -2,7 +2,8 @@
     "id": "knight-b-attack-2",
     "name": "Sharp Uppercut",
     "description": "slashes in front of you for 86 - 117 + 101% Weapon Damage. Scoring three or more consecutive basic attacks will activate Shield Bash.",
-    "icon": "Graphic_Kngt_Basic2.png",
+    "shortDescription": "",
+    "icon": "knight-b-attack-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

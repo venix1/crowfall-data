@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-plate-01-05",
+    "name": "Resist All",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Resist All while using Plate chest armor.",
+    "icon": "skill-combat-plate-01-05.png",
+    "stats": [
+        {
+            "name": "Resist All",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-01-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-plate-01-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-01-04"
+    ]
+}

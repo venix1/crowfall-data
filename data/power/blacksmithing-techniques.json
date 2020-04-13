@@ -3,7 +3,7 @@
     "name": "Metal Maneuvers",
     "description": "increases your Blacksmithing Cap by 15 and Blacksmithing Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Blacksmithing Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_BlacksmithingTechniques.png",
+    "icon": "blacksmithing-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -1,0 +1,57 @@
+{
+    "name": "Bow: Composite Recurve",
+    "id": "woodworking-weapon-bow-001",
+    "icon": "woodworking_weapon_bow_001.png",
+    "description": "Creates a Two Handed Composite Recurve Bow, usable by those who are proficient with Recurve Bows.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "woodworking",
+    "subCategory": "woodworking_weapons",
+    "ingredients": [
+        {
+            "name": "Limbs: Bow",
+            "id": "limbs-bow",
+            "icon": "Limbs: Bow.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Bow Riser",
+            "id": "bow-riser",
+            "icon": "Bow Riser.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Bow String",
+            "id": "bow-string",
+            "icon": "Bow String.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

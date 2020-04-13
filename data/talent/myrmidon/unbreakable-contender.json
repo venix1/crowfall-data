@@ -3,7 +3,7 @@
     "name": "Unbreakable Contender",
     "class": "myrmidon",
     "description": "Unbreakable Contender improves Armor Bonus by 1% per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "unbreakable-contender.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

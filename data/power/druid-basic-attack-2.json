@@ -2,7 +2,8 @@
     "id": "druid-basic-attack-2",
     "name": "Shock Bolt",
     "description": "discharges an electrical bolt, causing 135 - 203 + 169% Weapon Damage.",
-    "icon": "Graphic_Drud_ArcingLightning.png",
+    "shortDescription": "",
+    "icon": "druid-basic-attack-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

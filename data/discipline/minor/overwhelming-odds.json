@@ -2,8 +2,11 @@
     "id": "overwhelming-odds",
     "name": "Overwhelming Odds",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_OverwhelmingOdds.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "overwhelming-odds.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "For an immortal there is no surrender, no mercy asked, none given. With the rules of battle as such, they fight no matter the odds."
 }

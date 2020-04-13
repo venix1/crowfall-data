@@ -2,19 +2,22 @@
     "id": "fashion-statement",
     "name": "Fashion Statement",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_FashionStatement.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "fashion-statement.png",
     "stats": [
         {
             "name": "Stealth",
-            "value": -25
+            "value": "-25"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [
         "Amulet"
     ],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Does not stack with any other bonus Amulet slot.",
     "lore": "\"I pity the fool.\""
 }

@@ -1,0 +1,17 @@
+{
+    "id": "trait-runemaker",
+    "name": "Runemaker",
+    "description": "You are adept at the creation of discipline runes.\\n\\nYou can equip Runemaker Disciplines.",
+    "requiredBy": [
+        {
+            "id": "runewright",
+            "name": "Runewright"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "runemaker",
+            "name": "Runemaker"
+        }
+    ]
+}

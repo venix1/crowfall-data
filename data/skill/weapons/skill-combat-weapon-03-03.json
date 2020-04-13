@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-weapon-03-03",
+    "name": "Support Power",
+    "tree": "Weapons",
+    "pointRequirement": 0,
+    "pipAmount": 11520,
+    "description": "Increases Support Power while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-03-03.png",
+    "stats": [
+        {
+            "name": "Support Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-weapon-03-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-weapon-03-02",
+        "skill-combat-weapon-03-04"
+    ]
+}

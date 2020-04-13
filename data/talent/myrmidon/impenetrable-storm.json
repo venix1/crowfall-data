@@ -3,7 +3,7 @@
     "name": "Impenetrable Storm",
     "class": "myrmidon",
     "description": "Impenetrable Storm enhances Whirlwind so that you are immune to Control Effects while channeling.",
-    "icon": "Skill_Icon_041_020.png",
+    "icon": "impenetrable-storm.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

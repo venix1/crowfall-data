@@ -1,7 +1,7 @@
 {
     "name": "Town Parcel",
     "id": "stonemasonry-parcel-110",
-    "icon": "parcel1.png",
+    "icon": "stonemasonry_parcel_110.png",
     "description": "Creates a Rank 1 Backer Reward Town Parcel.",
     "outputQuantity": 1,
     "xp": 0,
@@ -11,7 +11,7 @@
         {
             "name": "Backer Village Parcel",
             "id": "backer-village-parcel",
-            "icon": "parcel1.png",
+            "icon": "Backer Village Parcel.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Backer Hamlet Parcel",
             "id": "backer-hamlet-parcel",
-            "icon": "parcel1.png",
+            "icon": "Backer Hamlet Parcel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,

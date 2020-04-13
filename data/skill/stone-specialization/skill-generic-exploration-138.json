@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-138",
+    "name": "Travertine Basics",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Travertinewhen quarrying Travertine.",
+    "icon": "skill-generic-exploration-138.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Travertine",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Travertine",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-136",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-144"
+    ]
+}

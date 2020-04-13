@@ -3,7 +3,7 @@
     "name": "Shield Siege Engine",
     "description": "reduces damage taken by Siege Engines in the area by 90%.",
     "shortDescription": "Channel: Shield Nearby Siege Engines From Damage",
-    "icon": "Mount_ShieldSiegeEngine.png",
+    "icon": "siegeengineer-siege-shield.png",
     "stats": {
         "cast_time": "Instant",
         "max_targets": "3"

@@ -3,11 +3,14 @@
     "name": "Cheap Shot",
     "class": "assassin",
     "description": "This talent grants the Cheap Shot power.",
-    "icon": "Skill_Icon_008_019.png",
+    "icon": "cheap-shot.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "assassin-stealth-cheap-shot"
+        {
+            "id": "cheap-shot",
+            "name": "Cheap Shot"
+        }
     ],
     "unlockedFromSkill": [
         {

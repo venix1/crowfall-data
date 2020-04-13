@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-armor-02-04",
+    "name": "Nature Resistance",
+    "tree": "Armor",
+    "pointRequirement": 0,
+    "pipAmount": 10440,
+    "description": "Increases Nature Resistance while wearing armor.",
+    "icon": "skill-combat-armor-02-04.png",
+    "stats": [
+        {
+            "name": "Nature Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-armor-02-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

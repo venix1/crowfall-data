@@ -3,7 +3,7 @@
     "name": "Backhand",
     "description": "backhands the target in front of you, stunning and dealing 113 - 153 + 133% Crushing Weapon Damage.",
     "shortDescription": "Attack: Stun target",
-    "icon": "Graphic_Disc_Backhand.png",
+    "icon": "halfgiant-backhand.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Melee",

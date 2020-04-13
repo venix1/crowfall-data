@@ -3,7 +3,7 @@
     "name": "Sanctuary",
     "description": "defends an area with a runic symbol increasing allies' Resist All by 20%",
     "shortDescription": "Field Increase Allies Resistances",
-    "icon": "Graphic_Disc_PowerRuneSanctuary.png",
+    "icon": "runecaster-sanctuary.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

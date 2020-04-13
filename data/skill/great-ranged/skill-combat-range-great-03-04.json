@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-great-03-04",
+    "name": "Mystical Staff: Decay Rate: Weapon",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Decreases Decay Rate: Weapon while using a Mystical Staff.",
+    "icon": "skill-combat-range-great-03-04.png",
+    "stats": [
+        {
+            "name": "Decay Rate: Weapon",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-03-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-03-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-03-03",
+        "skill-combat-range-great-03-05"
+    ]
+}

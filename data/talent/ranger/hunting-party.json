@@ -3,7 +3,7 @@
     "name": "Hunting Party",
     "class": "ranger",
     "description": "Hunting Party improves Critical Strike by 1% per point spent.",
-    "icon": "Skill_Icon_023_007.png",
+    "icon": "hunting-party.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -14,7 +14,7 @@
         }
     ],
     "unlocksSkill": [
-        "archer-s-stake"
+        "archers-stake"
     ],
     "locksSkill": []
 }

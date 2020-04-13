@@ -1,8 +1,9 @@
 {
     "id": "knifegrinder-bleed-debuff-2",
     "name": "Tenderize",
-    "description": "cuts an enemy for 136 - 184 + 160% Weapon Damage and reduces their Bleed Mitigation for 15 seconds.",
-    "icon": "Graphic_Disc_Tenderize_B.png",
+    "description": "cuts an enemy for 136 - 184 + 160% Weapon Damage and reduces their Bleed Mitigation for 15.",
+    "shortDescription": "",
+    "icon": "knifegrinder-bleed-debuff-2.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -3,7 +3,7 @@
     "name": "Oaken Guard",
     "class": "druid",
     "description": "Oaken Guard enhances Bark Skin to only apply to you, and to heal you for 450 +35% Weapon Damage over 8 seconds if the Barrier is broken.",
-    "icon": "Skill_Icon_017_005.png",
+    "icon": "oaken-guard.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

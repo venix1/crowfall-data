@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-335",
+    "name": "Harvest Tool Decay: Runestone Shovels",
+    "tree": "Grave Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Reduces the amount of Decay a Runestone Shovel suffers when digging.",
+    "icon": "skill-generic-exploration-335.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Shovels",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-334",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-341",
+        "skill-generic-exploration-346"
+    ]
+}

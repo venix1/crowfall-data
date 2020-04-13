@@ -1,0 +1,12 @@
+{
+    "id": "trait-longsword-proficiency",
+    "name": "Longsword Proficiency",
+    "description": "Hero, the first Crow, used a longsword as his weapon of choice. Perhaps one day you'll master it, just as he has.\\n\\nA medium, one-handed melee weapon primarily used for slashing cuts.\\n\\nYou are proficient at wielding this type of blade.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "knight",
+            "name": "Knight"
+        }
+    ]
+}

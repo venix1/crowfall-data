@@ -1,9 +1,9 @@
 {
     "id": "naiad-fountain",
     "name": "Fountain Of Life",
-    "description": "creates a Fountain of Life at the targeted location chaining heals to nearby allies and lasting 15 seconds or 30 heals.",
+    "description": "creates a Fountain of Life at the targeted location chaining heals to nearby allies and lasting 15 or 30 heals.",
     "shortDescription": "Ground Target Area: Healing",
-    "icon": "Graphic_Disc_FountainOfLife.png",
+    "icon": "naiad-fountain.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

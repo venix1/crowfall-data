@@ -3,7 +3,7 @@
     "name": "Superior Weapons",
     "description": "increases your Weapon Damage statistic by 8.",
     "shortDescription": "Passive: Increase Weapon Damage",
-    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "icon": "racial-passive-weapon-damage.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

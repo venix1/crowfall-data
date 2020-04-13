@@ -3,7 +3,7 @@
     "name": "Mission of Mercy",
     "class": "cleric",
     "description": "Mission of Mercy improves Support Power by 15 per point spent.",
-    "icon": "Skill_Icon_017_013.png",
+    "icon": "mission-of-mercy.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

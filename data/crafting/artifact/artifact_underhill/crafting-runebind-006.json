@@ -1,7 +1,7 @@
 {
     "name": "Underhill Artifact Reconstruction",
     "id": "crafting-runebind-006",
-    "icon": "runebind.png",
+    "icon": "crafting_runebind_006.png",
     "description": "Combines like-quality pieces of Underhill artifacts to produce an artifact of a higher quality and value.",
     "outputQuantity": 1,
     "xp": 0,

@@ -3,7 +3,7 @@
     "name": "Sure Footed",
     "description": "prevents damage from removing you from a mounted state.",
     "shortDescription": "Passive: Prevents the Player from Being Dismounted via Damage",
-    "icon": "Graphic_Disc_Racial_Centaur.png",
+    "icon": "racial-passive-no-dismount.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

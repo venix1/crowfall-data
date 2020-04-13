@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-great-03-03",
+    "name": "Mystical Staff: Power Efficiency",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Power Efficiency while using a Mystical Staff.",
+    "icon": "skill-combat-range-great-03-03.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-03-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-great-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-03-02",
+        "skill-combat-range-great-03-04"
+    ]
+}

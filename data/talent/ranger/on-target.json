@@ -3,7 +3,7 @@
     "name": "On Target",
     "class": "ranger",
     "description": "On Target improves Critical Damage by 5% per point spent.",
-    "icon": "Skill_Icon_023_006.png",
+    "icon": "on-target.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

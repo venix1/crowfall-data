@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-354",
+    "name": "Guinecean Grave Specialization",
+    "tree": "Grave Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when digging Guinecean Graves.",
+    "icon": "skill-generic-exploration-354.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Grave: Guinecean",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-349",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

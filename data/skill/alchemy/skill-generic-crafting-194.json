@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-crafting-194",
+    "name": "Alchemy Experimentation Points",
+    "tree": "Alchemy",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the amount of Experimentation Points available when experimenting on Alchemy items.",
+    "icon": "skill-generic-crafting-194.png",
+    "stats": [
+        {
+            "name": "Alchemy Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-192",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-196"
+    ]
+}

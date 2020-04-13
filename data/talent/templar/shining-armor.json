@@ -3,7 +3,7 @@
     "name": "Shining Armor",
     "class": "templar",
     "description": "Shining Armor improves Resist All by 100 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "shining-armor.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

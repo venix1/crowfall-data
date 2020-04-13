@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-onehand-04-05",
+    "name": "Fencing: Critical Strike",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Strike while using a Rapier in your main hand.",
+    "icon": "skill-combat-melee-onehand-04-05.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-04-06",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-onehand-04-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-04-04",
+        "skill-combat-melee-onehand-04-06"
+    ]
+}

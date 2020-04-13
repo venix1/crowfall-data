@@ -2,8 +2,11 @@
     "id": "armorsmith",
     "name": "Armorsmith",
     "type": "minor",
-    "trait": "",
-    "icon": "Minor_Blacksmithing.png",
+    "trait": {
+        "id": "trait-blacksmith",
+        "name": "Blacksmith"
+    },
+    "icon": "armorsmith.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,8 +16,11 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Armorsmith"
+    "grantsTrait": [
+        {
+            "id": "trait-armorsmith",
+            "name": "Armorsmith"
+        }
     ],
     "description": "Temporary Additive Slots:\\nGrants Specialty Seal additive slot for Armor recipes.\\n\\nReduced Recipe Resource Costs:\\nMetal Plates\\nMetal Rings\\nMetal Scales\\nMetal Sheet",
     "lore": "\"Listen up laddie! I have some words for ye.\\nAcross the eons of time, Champions give dere weapons glorious names; Lifetaker, Big Beater, World Breaker...da list goes on and on.\\n\\nGuess how many have named dere armor? Ya know the thing that protects dem from certain death, and the reason we work dis forge!\\n\\nZero, Nought, Nichts!!\\n\\nJokes on dem though! Fer every weapon dey need ta replace, dey also be needen four pieces o armor! FOUR!!!!\\nBleed dem where it really hurts! Da coin purse!\"\\n-Ancient Forgemaster"

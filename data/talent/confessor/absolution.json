@@ -3,11 +3,14 @@
     "name": "Absolution",
     "class": "confessor",
     "description": "This talent grants the Absolution power.",
-    "icon": "Skill_Icon_019_002.png",
+    "icon": "absolution.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "confessor-absolution"
+        {
+            "id": "absolution",
+            "name": "Absolution"
+        }
     ],
     "unlockedFromSkill": [
         {

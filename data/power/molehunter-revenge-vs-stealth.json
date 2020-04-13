@@ -3,7 +3,7 @@
     "name": "Revenge",
     "description": "increases your Critical Strike and Critical Damage by 10 for 30 seconds when damaged by a Stealth attack.",
     "shortDescription": "Passive: Increase Critical % after Stealth Attacked",
-    "icon": "Graphic_Disc_Revenge.png",
+    "icon": "molehunter-revenge-vs-stealth.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

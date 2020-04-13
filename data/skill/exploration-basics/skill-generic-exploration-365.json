@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-365",
+    "name": "Harvest Soulgem",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Grants the ability to harvest Soulgems when mining Ore.",
+    "icon": "skill-generic-exploration-365.png",
+    "stats": [
+        {
+            "name": "Harvest Chance: Soulgems",
+            "amount": "0.8%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-309",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-317"
+    ]
+}

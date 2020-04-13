@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-166",
+    "name": "Thrall Presence",
+    "tree": "Jewelcrafting",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Enhances the power of Buffs that Jewelcrafting Stations grant when they have a Thrall inhabiting them.",
+    "icon": "skill-generic-crafting-166.png",
+    "stats": [
+        {
+            "name": "JewelCraft Thrall Power",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-164",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-165",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-167"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Uniform Leather",
     "description": "increases your Attack Power by 100 when wearing a full set of non-basic Leather armor.",
     "shortDescription": "Passive: Gain Attack Power with a Full Set of Leather Equipped",
-    "icon": "Graphic_Disc_UniformLeather.png",
+    "icon": "matching-offense-leather.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

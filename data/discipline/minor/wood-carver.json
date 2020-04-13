@@ -2,8 +2,11 @@
     "id": "wood-carver",
     "name": "Wood Carver",
     "type": "minor",
-    "trait": "",
-    "icon": "Minor_Woodworking.png",
+    "trait": {
+        "id": "trait-woodworker",
+        "name": "Woodworker"
+    },
+    "icon": "wood-carver.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,8 +16,11 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Wood Carver"
+    "grantsTrait": [
+        {
+            "id": "trait-wood-carver",
+            "name": "Wood Carver"
+        }
     ],
     "description": "Reduced Recipe Resource Costs:\\nComposite Wood Plank",
     "lore": "There is no secret to woodworking that you cannot master. Follow the grain and your work will flourish."

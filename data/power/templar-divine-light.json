@@ -2,7 +2,8 @@
     "id": "templar-divine-light",
     "name": "Divine Light",
     "description": "drains you of Righteousness to purify the area. \\n\\nEnemies within this field periodically suffer 70 - 105 + 88% Fire Weapon Damage, and each enemy gives you Righteousness every four seconds. \\n\\nYou and your allies are healed for 168 - 252 + 21% Support Power while you have Righteousness remaining.",
-    "icon": "Graphic_Tmpr_DivineLight.png",
+    "shortDescription": "",
+    "icon": "templar-divine-light.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

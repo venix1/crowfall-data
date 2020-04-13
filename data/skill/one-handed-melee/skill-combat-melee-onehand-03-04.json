@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-onehand-03-04",
+    "name": "Axe: Movement Control Defense",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Movement Control Defense while using an Axe in your main hand.",
+    "icon": "skill-combat-melee-onehand-03-04.png",
+    "stats": [
+        {
+            "name": "Movement Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-03-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-onehand-03-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-03-03",
+        "skill-combat-melee-onehand-03-05"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-198",
+    "name": "Plentiful Resources: Omnivores",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when skinning Omnivore Animals.",
+    "icon": "skill-generic-exploration-198.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Animal: Omnivores",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-194",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

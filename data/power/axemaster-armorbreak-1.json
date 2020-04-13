@@ -3,7 +3,7 @@
     "name": "Demolish Armor",
     "description": "demolishes an enemy's Physical Mitigations causing 120 - 163 + 142% Weapon Damage.",
     "shortDescription": "Attack: Inflict stacking Armor Break",
-    "icon": "Graphic_Disc_DemolishArmor.png",
+    "icon": "axemaster-armorbreak-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

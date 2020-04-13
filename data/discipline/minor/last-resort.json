@@ -2,8 +2,11 @@
     "id": "last-resort",
     "name": "Last Resort",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_LastResort.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "last-resort.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "\"Let's test your threshold of pain and let's see how long you last.\"\\n-Nethari Master Torturer"
 }

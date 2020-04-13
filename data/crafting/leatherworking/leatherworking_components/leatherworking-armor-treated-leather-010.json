@@ -1,0 +1,39 @@
+{
+    "name": "Treated Leather",
+    "id": "leatherworking-armor-treated-leather-010",
+    "icon": "leatherworking_armor_treated_leather_010.png",
+    "description": "Creates Treated Leather that use used in various Leatherworking recipes.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "leatherworking",
+    "subCategory": "leatherworking_components",
+    "ingredients": [
+        {
+            "name": "Tough Hide",
+            "id": "tough-hide",
+            "icon": "Tough Hide.png",
+            "quantity": 8,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Durable Hide",
+            "id": "durable-hide",
+            "icon": "Durable Hide.png",
+            "quantity": 8,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Lacing Sinew",
+            "id": "lacing-sinew",
+            "icon": "Lacing Sinew.png",
+            "quantity": 2,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

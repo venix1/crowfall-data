@@ -1,0 +1,25 @@
+{
+    "id": "skill-combat-basic-00-01",
+    "name": "Attack Power",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Attack Power.",
+    "icon": "skill-combat-basic-00-01.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "amount": "10"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-basic-00-02"
+    ]
+}

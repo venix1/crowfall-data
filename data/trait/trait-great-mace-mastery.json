@@ -1,0 +1,20 @@
+{
+    "id": "trait-great-mace-mastery",
+    "name": "Great Mace Mastery",
+    "description": "Inscribed on the handle of every great mace is a message from Kane. It says, \"Do not let my regret become your own.\"\\n\\nA large, two-handed melee weapon primarily used for crushing blows.\\n\\nYou are a master at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "alpha-warrior",
+            "name": "Alpha Warrior"
+        },
+        {
+            "id": "pit-fighter",
+            "name": "Pit Fighter"
+        },
+        {
+            "id": "barbarian",
+            "name": "Barbarian"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-mail-03-04",
+    "name": "Nature Resistance",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Nature Resistance while using Mail chest armor.",
+    "icon": "skill-combat-mail-03-04.png",
+    "stats": [
+        {
+            "name": "Nature Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-03-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-03-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-03-03",
+        "skill-combat-mail-03-05"
+    ]
+}

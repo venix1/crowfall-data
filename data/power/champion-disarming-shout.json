@@ -2,7 +2,8 @@
     "id": "champion-disarming-shout",
     "name": "Disarming Shout",
     "description": "suppresses an enemy, disabling their powers for 6 seconds. Disarming Shout deals 154 - 208 + 181% Weapon Damage.",
-    "icon": "Graphic_Chmp_DisarmingShout.png",
+    "shortDescription": "",
+    "icon": "champion-disarming-shout.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

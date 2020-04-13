@@ -2,26 +2,32 @@
     "id": "blacksmith",
     "name": "Blacksmith",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Blacksmithing.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "blacksmith.png",
     "stats": [
         {
             "name": "Blacksmithing",
-            "value": 5
+            "value": "10"
         },
         {
             "name": "Blacksmithing Experimentation",
-            "value": 15
+            "value": "35"
         },
         {
             "name": "Blacksmithing Experimentation Points",
-            "value": 3
+            "value": "4"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [
-        "Blacksmith"
+    "grantsTrait": [
+        {
+            "id": "trait-blacksmith",
+            "name": "Blacksmith"
+        }
     ],
     "description": "Recipes Granted:\\nAdvanced Armor Componets\\nAdvanced Mail Armor\\nAdvanced Plate Armor\\nAdvanced Weapons\\nAdvanced Weapon Components\\n\\nReduced Recipe Resource Costs:\\nMetal Bar",
     "lore": "Keep Forging Ahead!"

@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-01-03",
+    "name": "Hammer: Critical Healing Chance",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Healing Chance while using a Hammer in your main hand.",
+    "icon": "skill-combat-range-onehand-01-03.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-01-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-01-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-01-02",
+        "skill-combat-range-onehand-01-04"
+    ]
+}

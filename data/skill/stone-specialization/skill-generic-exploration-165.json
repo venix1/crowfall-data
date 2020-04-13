@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-165",
+    "name": "Beneficial Harvest Power: Stone",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the intensity of the Beneficial Harvest Effect applied when quarrying Stone. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-165.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Power: Stone",
+            "amount": "2.4%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-164",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-171"
+    ]
+}

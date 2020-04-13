@@ -1,0 +1,13 @@
+{
+    "id": "skill-generic-crafting-055",
+    "name": "Salvage Basics",
+    "tree": "Blacksmithing",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increase the chance of Assembly Success when assembling Blacksmithing items.",
+    "icon": "skill-generic-crafting-055.png",
+    "stats": [],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

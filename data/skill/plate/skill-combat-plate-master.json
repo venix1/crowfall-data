@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-plate-master",
+    "name": "Plate Mastery",
+    "tree": "Plate",
+    "pointRequirement": 90,
+    "pipAmount": 28080,
+    "description": "Increases Health, decreases Sprint Cost, and decreases Decay Rate: Armor while using Plate chest armor.",
+    "icon": "skill-combat-plate-master.png",
+    "stats": [
+        {
+            "name": "Health",
+            "amount": "20"
+        },
+        {
+            "name": "Sprint Movement Modifier",
+            "amount": "0.01"
+        },
+        {
+            "name": "Decay Rate: Plate",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

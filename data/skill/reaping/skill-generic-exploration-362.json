@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-362",
+    "name": "Reaping Basics Mastery",
+    "tree": "Reaping",
+    "pointRequirement": 95,
+    "pipAmount": 15120,
+    "description": "Increases the Duration and Power of any Beneficial Harvest effect. Also increases the size of Bonus Harvesting Inventories when you have an Inventory Bag of that type equipped.",
+    "icon": "skill-generic-exploration-362.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Power: Harvesting",
+            "amount": "2%"
+        },
+        {
+            "name": "Beneficial Harvest Lifetime: Harvesting",
+            "amount": "3%"
+        },
+        {
+            "name": "Inventory Bonus Slots: Harvesting",
+            "amount": "0.8"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

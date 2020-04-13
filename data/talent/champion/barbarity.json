@@ -3,7 +3,7 @@
     "name": "Barbarity",
     "class": "champion",
     "description": "Barbarity improves Armor Penetration: Physical by 1% per point spent.",
-    "icon": "Skill_Icon_017_020.png",
+    "icon": "barbarity.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

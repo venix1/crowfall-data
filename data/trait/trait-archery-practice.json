@@ -1,0 +1,37 @@
+{
+    "id": "trait-archery-practice",
+    "name": "Archery Practice",
+    "description": "You are steady in your aim, ensuring your shots are true.\\n\\nYou can equip Archery Disciplines.",
+    "requiredBy": [
+        {
+            "id": "sharpshooter",
+            "name": "Sharpshooter"
+        },
+        {
+            "id": "arcane-archer",
+            "name": "Arcane Archer"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        }
+    ]
+}

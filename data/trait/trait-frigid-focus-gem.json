@@ -1,0 +1,16 @@
+{
+    "id": "trait-frigid-focus-gem",
+    "name": "Frigid Focus Gem",
+    "description": "You are proficient with Frigid Focus Gems.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "piercing-cold",
+            "name": "Piercing Cold"
+        },
+        {
+            "id": "defensive-weaving",
+            "name": "Defensive Weaving"
+        }
+    ]
+}

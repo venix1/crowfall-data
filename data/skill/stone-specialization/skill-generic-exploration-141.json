@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-141",
+    "name": "Harvest Critical: Limestone",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when quarrying Limestone.",
+    "icon": "skill-generic-exploration-141.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Limestone",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-137",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-142"
+    ]
+}

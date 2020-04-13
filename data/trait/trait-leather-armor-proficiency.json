@@ -1,0 +1,52 @@
+{
+    "id": "trait-leather-armor-proficiency",
+    "name": "Leather Armor Proficiency",
+    "description": "Leather Armor is generally made of soft and flexible resources that sacrifice protection in favour of additional damage and healing.\\n\\nYou are proficient with this type of armor.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "confessor",
+            "name": "Confessor"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "druid",
+            "name": "Druid"
+        },
+        {
+            "id": "frostweaver",
+            "name": "Frostweaver"
+        },
+        {
+            "id": "duelist",
+            "name": "Duelist"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        }
+    ]
+}

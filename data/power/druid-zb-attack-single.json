@@ -2,7 +2,8 @@
     "id": "druid-zb-attack-single",
     "name": "Focused Spark",
     "description": "channels lightning at your target for 64 - 96 + 80% Weapon Damage as Electricity Damage.",
-    "icon": "Graphic_Drud_ArcingLightning.png",
+    "shortDescription": "",
+    "icon": "druid-zb-attack-single.png",
     "stats": {
         "cast_time": "Channeled",
         "target": "Reticle",

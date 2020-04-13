@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-crafting-168",
+    "name": "Jewelcrafting Research",
+    "tree": "Jewelcrafting",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Assembly Success and Experimentation Success while crafting Jewelcrafting items.",
+    "icon": "skill-generic-crafting-168.png",
+    "stats": [
+        {
+            "name": "Jewelcrafting",
+            "amount": "1"
+        },
+        {
+            "name": "Jewelcrafting Experimentation",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-153",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-169",
+        "skill-generic-crafting-170"
+    ]
+}

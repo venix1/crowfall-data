@@ -1,0 +1,52 @@
+{
+    "id": "trait-plate-armor-proficiency",
+    "name": "Plate Armor Proficiency",
+    "description": "Plate Armor consists of shaped, interlocking metal plates which cover the entire surface of the body. Thick layers of padding lay underneath the armor, and buckles and straps distribute the weight over the body. This weighty ensemble provides maximum protection but very little else.\\n\\nYou are proficient with this type of armor.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "promotion-class-pit-fighter",
+            "name": "Promotion Class - Pit Fighter"
+        },
+        {
+            "id": "promotion-class-crusader",
+            "name": "Promotion Class - Crusader"
+        },
+        {
+            "id": "promotion-class-arbiter",
+            "name": "Promotion Class - Arbiter"
+        },
+        {
+            "id": "promotion-class-sanctifier",
+            "name": "Promotion Class - Sanctifier"
+        },
+        {
+            "id": "promotion-class-dirge",
+            "name": "Promotion Class - Dirge"
+        },
+        {
+            "id": "promotion-class-secutor",
+            "name": "Promotion Class - Secutor"
+        },
+        {
+            "id": "promotion-class-sentinel",
+            "name": "Promotion Class - Sentinel"
+        },
+        {
+            "id": "promotion-class-battle-rager",
+            "name": "Promotion Class - Battle Rager"
+        },
+        {
+            "id": "promotion-class-paladin",
+            "name": "Promotion Class - Paladin"
+        },
+        {
+            "id": "promotion-class-fury",
+            "name": "Promotion Class - Fury"
+        },
+        {
+            "id": "promotion-class-frostguard",
+            "name": "Promotion Class - Frostguard"
+        }
+    ]
+}

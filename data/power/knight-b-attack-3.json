@@ -2,7 +2,8 @@
     "id": "knight-b-attack-3",
     "name": "Deep Gash",
     "description": "slashes in front of you for 88 - 119 + 103% Weapon Damage. Scoring three or more consecutive basic attacks will activate Shield Bash.",
-    "icon": "Graphic_Kngt_Basic3.png",
+    "shortDescription": "",
+    "icon": "knight-b-attack-3.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

@@ -3,7 +3,7 @@
     "name": "Call Storm",
     "description": "calls lightning to strike a target, stunning them and causing 128 - 192 + 160% Electricity Weapon Damage.",
     "shortDescription": "Attack: Electrocute; Stun enemy",
-    "icon": "Graphic_Disc_CallStorms.png",
+    "icon": "scimitarmaster-call-storm.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Ray",

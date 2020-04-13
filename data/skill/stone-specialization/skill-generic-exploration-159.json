@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-159",
+    "name": "Beneficial Harvest Chance: Stone",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for a Beneficial Harvest when quarrying Stone. Beneficial Harvests can only happen when the node is destroyed.",
+    "icon": "skill-generic-exploration-159.png",
+    "stats": [
+        {
+            "name": "Beneficial Harvest Chance: Stone",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-158",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-169"
+    ]
+}

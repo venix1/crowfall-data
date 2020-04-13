@@ -3,7 +3,7 @@
     "name": "Ruthless Force",
     "class": "myrmidon",
     "description": "Ruthless Force improves Critical Strike by 1.5% per point spent.",
-    "icon": "Skill_Icon_023_007.png",
+    "icon": "ruthless-force.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

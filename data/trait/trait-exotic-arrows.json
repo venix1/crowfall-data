@@ -1,0 +1,12 @@
+{
+    "id": "trait-exotic-arrows",
+    "name": "Exotic Arrows",
+    "description": "Sturdy, advanced ammunition used with Bows to perfom ranged slashing or crushing attacks.\\n\\n\\Each shot with a bow will expend one arrow.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "sharpshooter",
+            "name": "Sharpshooter"
+        }
+    ]
+}

@@ -2,8 +2,11 @@
     "id": "eminently-punchable",
     "name": "Eminently Punchable",
     "type": "minor",
-    "trait": "Daywalker",
-    "icon": "Minor_EminentlyPunchable.png",
+    "trait": {
+        "id": "trait-daywalker",
+        "name": "Daywalker"
+    },
+    "icon": "eminently-punchable.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Minotaurs demonstrate combat prowess through headbutting each other with enough force to knock each other off their feet. This of course enrages them, which leads to more headbutting, which enrages them even further, and so on."
 }

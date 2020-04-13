@@ -1,0 +1,22 @@
+{
+    "id": "skill-combat-leather-center",
+    "name": "Anti-Critical Strike",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 19800,
+    "description": "Increases Anti-Critical Strike while using Leather chest armor.",
+    "icon": "skill-combat-leather-center.png",
+    "stats": [
+        {
+            "name": "Anti-Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-leather-01-01",
+        "skill-combat-leather-02-01",
+        "skill-combat-leather-03-01"
+    ]
+}

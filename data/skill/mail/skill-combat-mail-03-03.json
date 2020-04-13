@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-mail-03-03",
+    "name": "Resist All",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Resist All while using Mail chest armor.",
+    "icon": "skill-combat-mail-03-03.png",
+    "stats": [
+        {
+            "name": "Resist All",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-03-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-03-02",
+        "skill-combat-mail-03-04"
+    ]
+}

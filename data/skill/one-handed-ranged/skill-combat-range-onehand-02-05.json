@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-02-05",
+    "name": "Pistol: Hard Control Defense",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Hard Control Defense while using a Pistol in your main hand.",
+    "icon": "skill-combat-range-onehand-02-05.png",
+    "stats": [
+        {
+            "name": "Hard Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-02-06",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-02-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-02-04",
+        "skill-combat-range-onehand-02-06"
+    ]
+}

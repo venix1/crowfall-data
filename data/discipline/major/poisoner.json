@@ -2,16 +2,19 @@
     "id": "poisoner",
     "name": "Poisoner",
     "type": "major",
-    "trait": "Bladed Weapon Training",
-    "icon": "Major_Poisoner.png",
+    "trait": {
+        "id": "trait-bladed-weapon-training",
+        "name": "Bladed Weapon Training"
+    },
+    "icon": "poisoner.png",
     "stats": [
         {
             "name": "Armor Penetration: Poison",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Slashing Damage Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Poison is one of the most inconspicuous and often underappreciated forms of punishment. From the depths of the shadows to the dining halls of kings and queens, poison takes many forms with the intention to finish off a target swiftly and with minimal retaliation.",
     "lore": "You have no idea how close I am to ending your life with the flick of a poisoned blade or just a dash of liquid from a small vial."
 }

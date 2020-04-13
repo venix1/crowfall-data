@@ -3,7 +3,7 @@
     "name": "Spite",
     "description": "recovers 4 - 6% of your maximum Health over 5 seconds each time you suffer a Knockdown or Stun.",
     "shortDescription": "Passive: Regenerate when Stunned; Knocked Down",
-    "icon": "Graphic_Disc_Spite.png",
+    "icon": "juggernaut-spite.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

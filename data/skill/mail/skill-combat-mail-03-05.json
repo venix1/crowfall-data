@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-mail-03-05",
+    "name": "Hard Control Defense",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Hard Control Defense while using Mail chest armor.",
+    "icon": "skill-combat-mail-03-05.png",
+    "stats": [
+        {
+            "name": "Hard Control Defense",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-03-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-03-04"
+    ]
+}

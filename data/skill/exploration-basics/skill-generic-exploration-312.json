@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-exploration-312",
+    "name": "Plentiful Resources: Slag",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 5040,
+    "description": "Increases chance to harvest Slag Ore when mining Slag.\\n\\nAlso grants the ability to harvest Cutting Grit when mining Slag.",
+    "icon": "skill-generic-exploration-312.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Ore: Slag",
+            "amount": "0.2"
+        },
+        {
+            "name": "Harvest Chance: Cutting Grit",
+            "amount": "3%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-311",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-398",
+        "skill-generic-exploration-426"
+    ]
+}

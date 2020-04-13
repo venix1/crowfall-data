@@ -3,7 +3,7 @@
     "name": "Legion's Strength",
     "description": "increases all nearby group members Attack Power and Support Power statistics by 75.",
     "shortDescription": "Passive: Increase Groups Attack Power and Support Power",
-    "icon": "Graphic_Disc_Racial_Centaur.png",
+    "icon": "racial-passive-centaur-aura.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

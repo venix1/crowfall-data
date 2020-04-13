@@ -3,7 +3,7 @@
     "name": "Matching Leather",
     "description": "increases your Support Power by 100 when wearing a full set of non-basic Leather armor.",
     "shortDescription": "Passive: Gain Support Power with a Full Set of Leather Equipped",
-    "icon": "Graphic_Disc_MatchingLeather.png",
+    "icon": "matching-support-leather.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -1,0 +1,20 @@
+{
+    "id": "trait-arrows",
+    "name": "Arrows",
+    "description": "Flimsy, simple ammunition used with Bows to perform ranged piercing attacks.\\n\\nEach shot with a bow will expend one arrow.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "sharpshooter",
+            "name": "Sharpshooter"
+        },
+        {
+            "id": "arcane-archer",
+            "name": "Arcane Archer"
+        },
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        }
+    ]
+}

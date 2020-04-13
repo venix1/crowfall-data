@@ -1,0 +1,34 @@
+{
+    "id": "skill-generic-crafting-129",
+    "name": "Runemaking Mastery",
+    "tree": "Runemaking",
+    "pointRequirement": 95,
+    "pipAmount": 40320,
+    "description": "Increases the chance of Experimentation Success, the maximum potential value of Runemaking Assembly, Runemaking Experimentation, and Experimentation Points available  while crafting Runemaking items. Also enhances the power of Buffs that Runemaking Stations grant when they have a Thrall inhabiting them.",
+    "icon": "skill-generic-crafting-129.png",
+    "stats": [
+        {
+            "name": "Runemaking Experimentation",
+            "amount": "2"
+        },
+        {
+            "name": "Runemaking Cap",
+            "amount": "1"
+        },
+        {
+            "name": "Runemaking Experimentation Cap",
+            "amount": "1"
+        },
+        {
+            "name": "Runemaking Experimentation Points Cap",
+            "amount": "0.2"
+        },
+        {
+            "name": "Runemaking Thrall Power",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

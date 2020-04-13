@@ -2,7 +2,8 @@
     "id": "assassin-stealth-recon",
     "name": "Recon",
     "description": "applies the Exposed debuff to reveal weaknesses you may capitalize on.",
-    "icon": "Graphic_Assn_Recon.png",
+    "shortDescription": "",
+    "icon": "assassin-stealth-recon.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-basic-02-05",
+    "name": "Physical Armor",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Physical Resistance.",
+    "icon": "skill-combat-basic-02-05.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-02-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

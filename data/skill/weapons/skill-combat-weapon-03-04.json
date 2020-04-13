@@ -1,0 +1,23 @@
+{
+    "id": "skill-combat-weapon-03-04",
+    "name": "Critical Healing Amount",
+    "tree": "Weapons",
+    "pointRequirement": 0,
+    "pipAmount": 16200,
+    "description": "Increases Critical Healing Amount while using a Main Hand Weapon.",
+    "icon": "skill-combat-weapon-03-04.png",
+    "stats": [
+        {
+            "name": "Critical Healing Amount",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-weapon-03-03",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

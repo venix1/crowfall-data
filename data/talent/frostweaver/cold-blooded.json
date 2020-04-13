@@ -3,7 +3,7 @@
     "name": "Cold Blooded",
     "class": "frostweaver",
     "description": "Cold Blooded enhances Frigid Ice doubling its damage tick rate.",
-    "icon": "Skill_Icon_018_011.png",
+    "icon": "cold-blooded.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

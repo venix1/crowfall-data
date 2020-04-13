@@ -3,11 +3,14 @@
     "name": "Dynamite",
     "class": "duelist",
     "description": "This talent grants the Dynamite power.",
-    "icon": "Skill_Icon_026_003.png",
+    "icon": "dynamite.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "duelist-dynamite"
+        {
+            "id": "dynamite",
+            "name": "Dynamite"
+        }
     ],
     "unlockedFromSkill": [
         {

@@ -3,11 +3,14 @@
     "name": "Impale",
     "class": "duelist",
     "description": "This talent grants the Impale power.",
-    "icon": "Skill_Icon_018_017.png",
+    "icon": "impale.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "duelist-impale"
+        {
+            "id": "impale",
+            "name": "Impale"
+        }
     ],
     "unlockedFromSkill": [
         {

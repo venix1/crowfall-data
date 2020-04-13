@@ -2,7 +2,8 @@
     "id": "frst-weave-well-cool",
     "name": "Cool Ice Weave",
     "description": "uses Weaving to create Cool Ice and adds the Weaving: Cool Ice effect allowing you to use Ice Weave to continue creating Cool Ice.",
-    "icon": "Graphic_FrostWeaver_CoolIceWeave_01.png",
+    "shortDescription": "",
+    "icon": "frst-weave-well-cool.png",
     "stats": {
         "cost_type": "Weaving",
         "target": "Reticle",

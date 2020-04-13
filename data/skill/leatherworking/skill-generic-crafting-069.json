@@ -1,0 +1,30 @@
+{
+    "id": "skill-generic-crafting-069",
+    "name": "Leatherworking Techniques",
+    "tree": "Leatherworking",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance of Assembly Success and the amount of Experimentation Points when assembling Leatherworking items.",
+    "icon": "skill-generic-crafting-069.png",
+    "stats": [
+        {
+            "name": "Leatherworking",
+            "amount": "1"
+        },
+        {
+            "name": "Leatherworking Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-061",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-070",
+        "skill-generic-crafting-071"
+    ]
+}

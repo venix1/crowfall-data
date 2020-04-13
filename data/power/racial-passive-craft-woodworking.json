@@ -3,7 +3,7 @@
     "name": "Shaper of Wood",
     "description": "increases your Woodworking and Woodworking Experimentation statistics by 10.",
     "shortDescription": "Passive: Increase Woodworking Crafting Statistics",
-    "icon": "Graphic_Disc_WoodworkingTechniques.png",
+    "icon": "racial-passive-craft-woodworking.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

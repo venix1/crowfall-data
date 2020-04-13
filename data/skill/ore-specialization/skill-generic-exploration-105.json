@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-105",
+    "name": "Harvest Critical: Silver Ore",
+    "tree": "Ore Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when mining Silver.",
+    "icon": "skill-generic-exploration-105.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Silver",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-097",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-106"
+    ]
+}

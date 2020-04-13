@@ -3,7 +3,7 @@
     "name": "Hauteur",
     "description": "increases your Critical Damage statistic by 5%.",
     "shortDescription": "Passive: Increase Critical Damage Amount",
-    "icon": "Graphic_Disc_Racial_HighElf.png",
+    "icon": "racial-passive-critical-damage.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

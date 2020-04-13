@@ -3,7 +3,7 @@
     "name": "Pix Fix",
     "description": "gains one additional target for all chain type healing abilities and reduce the amount of healing falloff per target by 50%.",
     "shortDescription": "Passive: Increase Chain Heal Jumps; Falloff Reduction",
-    "icon": "Graphic_Disc_PixFix.png",
+    "icon": "pixie-pix-fix.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

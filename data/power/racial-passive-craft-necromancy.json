@@ -3,7 +3,7 @@
     "name": "Subcuticular Suturing",
     "description": "increases your Necromancy and Necromancy Experimentation statistics by 10.",
     "shortDescription": "Passive: Increase Necromancy Crafting Statistics",
-    "icon": "Graphic_Disc_NecromancyTechniques.png",
+    "icon": "racial-passive-craft-necromancy.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

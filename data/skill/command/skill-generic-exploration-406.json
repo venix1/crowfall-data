@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-406",
+    "name": "Command",
+    "tree": "Command",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Increases the Range that Way of the Leader effects apply to group memebers, up to an additional 25m.\\n\\nPassive Power Granted:\\nWay of the Leader",
+    "icon": "skill-generic-exploration-406.png",
+    "stats": [
+        {
+            "name": "Group Leader Basics",
+            "amount": "20"
+        }
+    ],
+    "grants": [
+        "power_skills_groupleader_passive",
+        "power_skills_groupleader_passive_activate"
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-generic-exploration-407",
+        "skill-generic-exploration-408",
+        "skill-generic-exploration-409"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Unbreakable",
     "description": "grants immunity to all Stun effects that hit you from the front.",
     "shortDescription": "Passive: Frontal Stun Immunity",
-    "icon": "Graphic_Disc_Racial_Minotaur.png",
+    "icon": "racial-passive-frontal-stun-immunity.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

@@ -1,0 +1,16 @@
+{
+    "id": "trait-mystical-staff-mastery",
+    "name": "Mystical Staff Mastery",
+    "description": "These staves were found as dead branches of the Trees of Life, but became reimbued with Gaea's divinity.\\n\\nA large, two-handed ranged weapon primarily used for focusing and unleashing Druidic elemental magic.\\n\\nYou are a master at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "archdruid",
+            "name": "Archdruid"
+        },
+        {
+            "id": "earthkeeper",
+            "name": "Earthkeeper"
+        }
+    ]
+}

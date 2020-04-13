@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-plate-02-01",
+    "name": "Health",
+    "tree": "Plate",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Health while using Plate chest armor.",
+    "icon": "skill-combat-plate-02-01.png",
+    "stats": [
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-plate-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-plate-02-02",
+        "skill-combat-plate-02-05"
+    ]
+}

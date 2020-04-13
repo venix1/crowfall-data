@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-01-03",
+    "name": "Critical Healing Amount",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Critical Healing Amount while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-01-03.png",
+    "stats": [
+        {
+            "name": "Critical Healing Amount",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-01-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-01-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-01-02",
+        "skill-combat-range-01-04"
+    ]
+}

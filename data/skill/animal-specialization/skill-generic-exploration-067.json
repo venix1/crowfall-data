@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-067",
+    "name": "Harvest Critical: Carnivores",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when skinning Carnivore Animals.",
+    "icon": "skill-generic-exploration-067.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Carnivore",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-091",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-068"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-basic-01-02",
+    "name": "Stamina",
+    "tree": "Combat Basics",
+    "pointRequirement": 0,
+    "pipAmount": 6840,
+    "description": "Increases Stamina.",
+    "icon": "skill-combat-basic-01-02.png",
+    "stats": [
+        {
+            "name": "Stamina",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-basic-01-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-basic-01-03",
+        "skill-combat-basic-01-04",
+        "skill-combat-basic-01-05",
+        "skill-combat-basic-01-06",
+        "skill-combat-basic-01-07"
+    ]
+}

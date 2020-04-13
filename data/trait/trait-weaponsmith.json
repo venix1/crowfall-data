@@ -1,0 +1,12 @@
+{
+    "id": "trait-weaponsmith",
+    "name": "Weaponsmith",
+    "description": "You are an expert Blacksmith, specialized in the crafting of metal weapons.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "weaponsmith",
+            "name": "Weaponsmith"
+        }
+    ]
+}

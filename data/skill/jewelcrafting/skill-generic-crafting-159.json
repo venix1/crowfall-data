@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-159",
+    "name": "Total Crafting Rerolls",
+    "tree": "Jewelcrafting",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Decreases the cost of a Total Reroll after experimenting on an item.",
+    "icon": "skill-generic-crafting-159.png",
+    "stats": [
+        {
+            "name": "Total Reroll Cost Modifier",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-157",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-158",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-160"
+    ]
+}

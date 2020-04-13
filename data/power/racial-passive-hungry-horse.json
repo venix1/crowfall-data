@@ -3,7 +3,7 @@
     "name": "Hungry as a Horse",
     "description": "large physical size requires you to eat more often, reducing your Food Regen Rate by 20 seconds.",
     "shortDescription": "Passive: Large Body Size Causes Faster Food Pool Decay",
-    "icon": "Graphic_Disc_Racial_Centaur.png",
+    "icon": "racial-passive-hungry-horse.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

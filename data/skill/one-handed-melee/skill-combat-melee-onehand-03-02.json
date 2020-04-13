@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-melee-onehand-03-02",
+    "name": "Axe: Critical Strike",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Strike while using an Axe in your main hand.",
+    "icon": "skill-combat-melee-onehand-03-02.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-03-03",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-onehand-03-01",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-03-03"
+    ]
+}

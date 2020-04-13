@@ -3,11 +3,14 @@
     "name": "Kidney Shot",
     "class": "assassin",
     "description": "This talent grants the Kidney Shot power.",
-    "icon": "Skill_Icon_045_013.png",
+    "icon": "kidney-shot.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "assassin-kidney-shot"
+        {
+            "id": "kidney-shot",
+            "name": "Kidney Shot"
+        }
     ],
     "unlockedFromSkill": [],
     "unlocksSkill": [

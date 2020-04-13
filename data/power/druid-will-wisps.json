@@ -2,7 +2,8 @@
     "id": "druid-will-wisps",
     "name": "Will O' Wisps",
     "description": "charges up and flings a Will o' Wisp to heal allies in an 8m area for 108 - 132 + 48% Support Power.",
-    "icon": "Graphic_Drud_WillOWisp.png",
+    "shortDescription": "",
+    "icon": "druid-will-wisps.png",
     "stats": {
         "cast_time": "Charged",
         "target": "Area",

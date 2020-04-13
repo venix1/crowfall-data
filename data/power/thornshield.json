@@ -1,9 +1,9 @@
 {
     "id": "thornshield",
     "name": "Thornshield",
-    "description": "envelopes you with dangerous Thorns for 15 seconds, causing any who strike you to take damage.",
+    "description": "envelopes you with dangerous Thorns for 15, causing any who strike you to take damage.",
     "shortDescription": "Activate Thorns",
-    "icon": "Graphic_Disc_Thornshield.png",
+    "icon": "thornshield.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

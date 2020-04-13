@@ -3,7 +3,7 @@
     "name": "Whirling Shield",
     "class": "champion",
     "description": "Whirling Shield enhances Whirling Pain to also activate a damage preventing Barrier.",
-    "icon": "Skill_Icon_017_005.png",
+    "icon": "whirling-shield.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

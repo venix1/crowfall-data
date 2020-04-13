@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-great-03-03",
+    "name": "Great Mace: Critical Strike",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Strike while using a Great Mace.",
+    "icon": "skill-combat-melee-great-03-03.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-great-03-02",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-great-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-great-03-02",
+        "skill-combat-melee-great-03-04"
+    ]
+}

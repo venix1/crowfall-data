@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-onehand-master",
+    "name": "One-Handed Ranged Mastery",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 20,
+    "pipAmount": 45360,
+    "description": "Increases Critical Strike, Power Efficiency and Health while using a One-Handed Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-onehand-master.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        },
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        },
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

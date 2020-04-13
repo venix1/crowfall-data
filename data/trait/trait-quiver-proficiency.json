@@ -1,0 +1,28 @@
+{
+    "id": "trait-quiver-proficiency",
+    "name": "Quiver Proficiency",
+    "description": "Quivers truly are wonderous! No one really knows how they work, but when an arrow is removed, another one magically appears in its place moments later.\\n\\nYou are proficient at using this type of container.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "elken",
+            "name": "Elken"
+        },
+        {
+            "id": "sharpshooter",
+            "name": "Sharpshooter"
+        },
+        {
+            "id": "arcane-archer",
+            "name": "Arcane Archer"
+        },
+        {
+            "id": "promotion-class-archer",
+            "name": "Promotion Class - Archer"
+        },
+        {
+            "id": "promotion-class-warden",
+            "name": "Promotion Class - Warden"
+        }
+    ]
+}

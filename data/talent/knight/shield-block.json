@@ -3,11 +3,14 @@
     "name": "Shield Block",
     "class": "knight",
     "description": "This talent grants the Shield Block power.",
-    "icon": "Skill_Icon_015_014.png",
+    "icon": "shield-block.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "knight-block"
+        {
+            "id": "shield-block",
+            "name": "Shield Block"
+        }
     ],
     "unlockedFromSkill": [
         {

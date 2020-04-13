@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-leather-01-06",
+    "name": "Ice Resistance",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 21960,
+    "description": "Increases Ice Resistance while using Leather chest armor.",
+    "icon": "skill-combat-leather-01-06.png",
+    "stats": [
+        {
+            "name": "Ice Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-leather-01-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-leather-01-07",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-leather-01-05",
+        "skill-combat-leather-01-07"
+    ]
+}

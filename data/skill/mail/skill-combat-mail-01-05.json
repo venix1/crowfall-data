@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-mail-01-05",
+    "name": "Electricity Resistance",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Increases Electricity Resistance while using Mail chest armor.",
+    "icon": "skill-combat-mail-01-05.png",
+    "stats": [
+        {
+            "name": "Electricity Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-01-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-01-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-01-04"
+    ]
+}

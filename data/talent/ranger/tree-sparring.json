@@ -3,7 +3,7 @@
     "name": "Tree Sparring",
     "class": "ranger",
     "description": "Tree Sparring improves Maximum Health by 150 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "tree-sparring.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -14,7 +14,7 @@
         }
     ],
     "unlocksSkill": [
-        "archer-s-stake"
+        "archers-stake"
     ],
     "locksSkill": []
 }

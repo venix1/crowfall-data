@@ -1,0 +1,12 @@
+{
+    "id": "trait-rapier-proficiency",
+    "name": "Rapier Proficiency",
+    "description": "The great Guinecean Duelist, Inigo, once slayed his father's killer with a weapon such as this.\\n\\nA small, one-handed melee weapon primarily used for piercing jabs.\\n\\nYou are proficient at wielding this type of weapon.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "duelist",
+            "name": "Duelist"
+        }
+    ]
+}

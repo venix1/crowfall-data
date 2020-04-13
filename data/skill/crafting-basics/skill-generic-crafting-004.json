@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-crafting-004",
+    "name": "Basic Crafting Experimentation",
+    "tree": "Crafting Basics",
+    "pointRequirement": 0,
+    "pipAmount": 2160,
+    "description": "Increases the chance of Experimentation Success when experimenting on Basic Crafting items.",
+    "icon": "skill-generic-crafting-004.png",
+    "stats": [
+        {
+            "name": "General Crafting Experimentation",
+            "amount": "1"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-003",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-005",
+        "skill-generic-crafting-006"
+    ]
+}

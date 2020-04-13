@@ -3,7 +3,7 @@
     "name": "Rallying Banner",
     "description": "fortifies nearby group members with a banner increasing Attack Power by 100, healing those under 35% Health for 38 - 46 + 16.8% Support Power per second and removing Slow effects.",
     "shortDescription": "Group Attack Power; Rescue Healing; Slow Cleanse",
-    "icon": "Graphic_Disc_RallyingBanner.png",
+    "icon": "standardbearer-misc-buff.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

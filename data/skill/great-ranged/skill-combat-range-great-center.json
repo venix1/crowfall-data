@@ -1,0 +1,22 @@
+{
+    "id": "skill-combat-range-great-center",
+    "name": "Great Range Training",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases Attack Power while using a Great Range Weapon.",
+    "icon": "skill-combat-range-great-center.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-range-great-01-01",
+        "skill-combat-range-great-02-01",
+        "skill-combat-range-great-03-01"
+    ]
+}

@@ -2,16 +2,19 @@
     "id": "blade-master",
     "name": "Blade Master",
     "type": "major",
-    "trait": "Bladed Weapon Training",
-    "icon": "Major_BladeMaster.png",
+    "trait": {
+        "id": "trait-bladed-weapon-training",
+        "name": "Bladed Weapon Training"
+    },
+    "icon": "blade-master.png",
     "stats": [
         {
             "name": "Armor Penetration: Slashing",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Slashing Damage Bonus",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "The blade takes shape in many forms - swords, daggers, and knives - all of which are quite lethal. Blade Masters often seek prayer with Maeve, The Goddess of War, and are quick to force their enemies to pay a toll with their blood. Whether it is a backstab, a sword fight, or the toss of a knife, the blade craves the blood of the enemy as much as the wielder craves victory.",
     "lore": "The blade demands respect and payment in the form of bloodshed."
 }

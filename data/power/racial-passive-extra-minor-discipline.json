@@ -3,7 +3,7 @@
     "name": "Past Lives",
     "description": "grants and unlocks a Minor Discipline Slot.",
     "shortDescription": "Passive: Unlock a Minor Discipline Slot",
-    "icon": "Graphic_Disc_Racial_Human.png",
+    "icon": "racial-passive-extra-minor-discipline.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

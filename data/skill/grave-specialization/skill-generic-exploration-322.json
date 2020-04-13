@@ -1,0 +1,23 @@
+{
+    "id": "skill-generic-exploration-322",
+    "name": "Plentiful Resources: Human Grave",
+    "tree": "Grave Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Chance for a successful harvest as well as the Potential for higher Quality Resources when digging a Human Grave.",
+    "icon": "skill-generic-exploration-322.png",
+    "stats": [
+        {
+            "name": "Plentiful Resources Grave: Human",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-323",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

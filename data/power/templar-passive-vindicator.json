@@ -2,7 +2,8 @@
     "id": "templar-passive-vindicator",
     "name": "Vindicator",
     "description": "modifies your Slashing Damage Bonus by the value of your Fire Damage Bonus.",
-    "icon": "Graphic_Tmpr_Vindicator.png",
+    "shortDescription": "",
+    "icon": "templar-passive-vindicator.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

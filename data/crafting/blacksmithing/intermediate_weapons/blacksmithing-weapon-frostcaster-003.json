@@ -1,0 +1,39 @@
+{
+    "name": "Frostcaster",
+    "id": "blacksmithing-weapon-frostcaster-003",
+    "icon": "blacksmithing_weapon_frostcaster_003.png",
+    "description": "Creates a Frostcaster, usable by those who are proficient with Frostcasters.",
+    "outputQuantity": 1,
+    "xp": 15,
+    "category": "blacksmithing",
+    "subCategory": "intermediate_weapons",
+    "ingredients": [
+        {
+            "name": "Metal Billet",
+            "id": "metal-billet",
+            "icon": "Metal Billet.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Basic Frostcaster",
+            "id": "basic-frostcaster",
+            "icon": "Basic Frostcaster.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 10,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        }
+    ]
+}

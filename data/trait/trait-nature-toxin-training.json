@@ -1,0 +1,12 @@
+{
+    "id": "trait-nature-toxin-training",
+    "name": "Nature Toxin Training",
+    "description": "You are adept at the handling of Nature Toxins.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "nature-toxin",
+            "name": "Nature Toxin"
+        }
+    ]
+}

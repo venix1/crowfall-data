@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-03-05",
+    "name": "Sickle: Critical Strike",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Critical Strike while using a Sickle in your main hand.",
+    "icon": "skill-combat-range-onehand-03-05.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-03-06",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-03-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-03-04",
+        "skill-combat-range-onehand-03-06"
+    ]
+}

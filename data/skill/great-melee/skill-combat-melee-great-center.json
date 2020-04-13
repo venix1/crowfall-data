@@ -1,0 +1,22 @@
+{
+    "id": "skill-combat-melee-great-center",
+    "name": "Great Melee Training",
+    "tree": "Great Melee",
+    "pointRequirement": 0,
+    "pipAmount": 35280,
+    "description": "Increases Attack Power while using a Melee Great Weapon.",
+    "icon": "skill-combat-melee-great-center.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "skill-combat-melee-great-01-01",
+        "skill-combat-melee-great-02-01",
+        "skill-combat-melee-great-03-01"
+    ]
+}

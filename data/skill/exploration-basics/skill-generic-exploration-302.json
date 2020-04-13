@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-302",
+    "name": "Gathering",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 4320,
+    "description": "Reduces the amount of Decay that some Basic Tools suffer when harvesting.",
+    "icon": "skill-generic-exploration-302.png",
+    "stats": [
+        {
+            "name": "Decay Reduction: Basic Picks",
+            "amount": "2%"
+        },
+        {
+            "name": "Decay Reduction: Basic Hammers",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-300",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-310"
+    ]
+}

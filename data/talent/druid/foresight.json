@@ -3,7 +3,7 @@
     "name": "Foresight",
     "class": "druid",
     "description": "Foresight improves Critical Healing Chance by 1% per point spent.",
-    "icon": "Skill_Icon_017_012.png",
+    "icon": "foresight.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

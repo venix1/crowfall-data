@@ -3,7 +3,7 @@
     "name": "Careless Whisper",
     "description": "grants stack of Whispers when you execute a Basic attack that damages an enemy.\\n\\nEmpowered Whispers is applied to you if you gain 5 Whispers in 12 seconds.\\n\\nEmpowered Whispers increases your Critical Strike by 10% and your Critical Damage by 10% for 7 seconds.",
     "shortDescription": "Passive: Basic Attacks Buff Crit Stats",
-    "icon": "Graphic_Disc_CarelessWhisper.png",
+    "icon": "careless-whisper.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

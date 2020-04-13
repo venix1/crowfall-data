@@ -2,16 +2,20 @@
     "id": "sustaining-note",
     "name": "Sustaining Note",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_SustainingNote.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "sustaining-note.png",
     "stats": [
         {
             "name": "Song Duration",
-            "value": 6
+            "value": "6"
         }
     ],
     "grantsPowers": [],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "Sometimes the wrists just need a break."
 }

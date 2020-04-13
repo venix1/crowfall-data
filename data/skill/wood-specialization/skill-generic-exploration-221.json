@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-221",
+    "name": "Birch Basics",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Birch Wood when logging Birch.",
+    "icon": "skill-generic-exploration-221.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Birch",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Birch",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-220",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-225"
+    ]
+}

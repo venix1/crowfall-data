@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-range-02-05",
+    "name": "Cooldown Reduction: Short",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Decreases Cooldown Reduction: Short while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-02-05.png",
+    "stats": [
+        {
+            "name": "Cooldown Reduction: Short",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-02-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-02-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-02-04"
+    ]
+}

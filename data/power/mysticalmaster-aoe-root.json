@@ -3,7 +3,7 @@
     "name": "Grasping Roots",
     "description": "commands nature to envelope enemies in the targeted area rooting them in place and inflicting 50 - 75 + 63% Nature Weapon Damage.",
     "shortDescription": "Attack: Ground Target Area Root",
-    "icon": "Graphic_Disc_GraspingRoots.png",
+    "icon": "mysticalmaster-aoe-root.png",
     "stats": {
         "cast_time": "Ground Aimed",
         "target": "Area",

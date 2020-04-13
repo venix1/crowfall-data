@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-melee-onehand-04-06",
+    "name": "Fencing: Armor Penetration: Physical",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Armor Penetration: Physical while using a Rapier in your main hand.",
+    "icon": "skill-combat-melee-onehand-04-06.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-04-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-onehand-04-05",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-04-05"
+    ]
+}

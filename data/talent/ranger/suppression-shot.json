@@ -3,11 +3,14 @@
     "name": "Suppression Shot",
     "class": "ranger",
     "description": "This talent grants the Suppression Shot power.",
-    "icon": "Skill_Icon_017_019.png",
+    "icon": "suppression-shot.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "ranger-supression-shot"
+        {
+            "id": "suppression-shot",
+            "name": "Suppression Shot"
+        }
     ],
     "unlockedFromSkill": [
         {

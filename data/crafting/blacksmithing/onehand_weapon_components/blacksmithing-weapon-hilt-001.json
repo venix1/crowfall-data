@@ -1,0 +1,48 @@
+{
+    "name": "Weapon Hilt",
+    "id": "blacksmithing-weapon-hilt-001",
+    "icon": "blacksmithing_weapon_hilt_001.png",
+    "description": "Creates a Weapon Hilt that is used to create Advanced Weapons.",
+    "outputQuantity": 1,
+    "xp": 30,
+    "category": "blacksmithing",
+    "subCategory": "onehand_weapon_components",
+    "ingredients": [
+        {
+            "name": "Weapon Grip",
+            "id": "weapon-grip",
+            "icon": "Weapon Grip.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Pommel",
+            "id": "weapon-pommel",
+            "icon": "Weapon Pommel.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Weapon Crossguard",
+            "id": "weapon-crossguard",
+            "icon": "Weapon Crossguard.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Polished Spherical Gemstone",
+            "id": "polished-spherical-gemstone",
+            "icon": "Polished Spherical Gemstone.png",
+            "quantity": 1,
+            "slotIndex": 3,
+            "wildcard": true,
+            "optional": true
+        }
+    ]
+}

@@ -2,7 +2,8 @@
     "id": "cleric-retaliate",
     "name": "Retaliate",
     "description": "recovers you from Knockdown or Stun effects and returns you to your feet with a barrier preventing up to 500 damage for six seconds.",
-    "icon": "Graphic_Cleric_Retaliate.png",
+    "shortDescription": "",
+    "icon": "cleric-retaliate.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

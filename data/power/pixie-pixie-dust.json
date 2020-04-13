@@ -3,7 +3,7 @@
     "name": "Pixie Dust",
     "description": "blankets the targeted area with Pixie Dust, increasing Incoming Healing by 25% for 25 seconds.",
     "shortDescription": "Ground Target Area Increase Incoming Heals",
-    "icon": "Graphic_Disc_PixieDust.png",
+    "icon": "pixie-pixie-dust.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Area",

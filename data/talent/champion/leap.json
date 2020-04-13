@@ -3,11 +3,14 @@
     "name": "Leap",
     "class": "champion",
     "description": "This talent grants the Leap power.",
-    "icon": "Skill_Icon_017_016.png",
+    "icon": "leap.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "champion-reverse-chain"
+        {
+            "id": "leap",
+            "name": "Leap"
+        }
     ],
     "unlockedFromSkill": [
         {

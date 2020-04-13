@@ -1,37 +1,37 @@
 {
     "id": "guinecean",
     "name": "Guinecean",
-    "type": "racial",
-    "trait": "",
-    "icon": "Racial_Guinecean.png",
+    "type": "race",
+    "trait": {},
+    "icon": "guinecean.png",
     "stats": [
         {
             "name": "Strength Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Dexterity Cap",
-            "value": 350
+            "value": "350"
         },
         {
             "name": "Intellect Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Spirit Cap",
-            "value": 250
+            "value": "250"
         },
         {
             "name": "Constitution Cap",
-            "value": 200
+            "value": "200"
         },
         {
             "name": "Dexterity",
-            "value": 60
+            "value": "60"
         },
         {
             "name": "Intellect",
-            "value": 30
+            "value": "30"
         }
     ],
     "grantsPowers": [
@@ -57,8 +57,8 @@
         },
         {
             "id": "guinecean-burrow-tooltip-passive",
-            "name": "Guinecean_Burrow_Tooltip_Passive_name",
-            "description": "Toggle: Stealths Player, only for Non-Stealth Classes"
+            "name": "Burrow",
+            "description": "Tray Swap: Limited Stealth, only for Non-Stealth Classes"
         },
         {
             "id": "guinecean-saltpeter-rounds",
@@ -74,6 +74,7 @@
     "grantsSlot": [
         "Ring"
     ],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "By legend, the Guineceans were transformed from their animal forefathers into sentient creatures by Gaea, the Earth Mother, at her moment death."
 }

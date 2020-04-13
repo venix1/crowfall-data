@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-melee-onehand-02-03",
+    "name": "Mace: Power Efficiency",
+    "tree": "One-Handed Melee",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Power Efficiency while using a Mace in your main hand.",
+    "icon": "skill-combat-melee-onehand-02-03.png",
+    "stats": [
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-melee-onehand-02-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-melee-onehand-02-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-melee-onehand-02-02",
+        "skill-combat-melee-onehand-02-04"
+    ]
+}

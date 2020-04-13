@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-02-03",
+    "name": "Pistol: Hard Control Intensity",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Hard Control Intensity while using a Pistol in your main hand.",
+    "icon": "skill-combat-range-onehand-02-03.png",
+    "stats": [
+        {
+            "name": "Hard Control Intensity",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-02-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-02-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-02-02",
+        "skill-combat-range-onehand-02-04"
+    ]
+}

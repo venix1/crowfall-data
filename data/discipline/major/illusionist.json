@@ -2,16 +2,19 @@
     "id": "illusionist",
     "name": "Illusionist",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_Illusionist.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "illusionist.png",
     "stats": [
         {
             "name": "Stealth",
-            "value": 5
+            "value": "5"
         },
         {
             "name": "Critical Strike",
-            "value": 3
+            "value": "3%"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "An Illusionist alters the perception of those within their proximity, which allows for easier deception and confusion. With the assistance of a magic weapon and the finest of accoutrements, an Illusionist maintains a dapper appearance while also being a worthy adversary in combat.",
     "lore": "The difference between reality and an illusion lies with the observer."
 }

@@ -2,7 +2,8 @@
     "id": "templar-reproach-3a",
     "name": "Radiant Sweep",
     "description": "slashes multiple enemies, dealing 72 - 108 + 90% Weapon Damage and leaving them Knocked Down.",
-    "icon": "Graphic_Tmpr_RadiantSweep.png",
+    "shortDescription": "",
+    "icon": "templar-reproach-3a.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

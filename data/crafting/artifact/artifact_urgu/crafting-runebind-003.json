@@ -1,7 +1,7 @@
 {
     "name": "Urgu Artifact Reconstruction",
     "id": "crafting-runebind-003",
-    "icon": "runebind.png",
+    "icon": "crafting_runebind_003.png",
     "description": "Combines like-quality pieces of Urgu artifacts to produce an artifact of a higher quality and value.",
     "outputQuantity": 1,
     "xp": 0,

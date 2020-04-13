@@ -2,7 +2,8 @@
     "id": "champion-throw-hurlbat",
     "name": "Throw Hurlbat",
     "description": "launches a projectile forward slowing and dealing 125 - 169 + 147% Weapon Damage as Piercing Damage.",
-    "icon": "Graphic_Chmp_ThrowHurlbat.png",
+    "shortDescription": "",
+    "icon": "champion-throw-hurlbat.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

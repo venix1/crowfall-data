@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-234",
+    "name": "Harvest Critical: Yew",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when logging Yew.",
+    "icon": "skill-generic-exploration-234.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Yew",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-224",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-235"
+    ]
+}

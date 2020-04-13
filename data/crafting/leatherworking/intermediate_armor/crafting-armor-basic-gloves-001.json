@@ -1,7 +1,7 @@
 {
     "name": "Intermediate Gloves",
     "id": "crafting-armor-basic-gloves-001",
-    "icon": "gloves.png",
+    "icon": "crafting_armor_basic_gloves_001.png",
     "description": "Creates a Intermediate Armor Cloth Gloves, usable by all.",
     "outputQuantity": 1,
     "xp": 7.5,
@@ -11,7 +11,7 @@
         {
             "name": "Ore",
             "id": "ore",
-            "icon": "ore.png",
+            "icon": "Ore.png",
             "quantity": 3,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Ethereal Dust",
             "id": "ethereal-dust",
-            "icon": "etherealDust.png",
+            "icon": "Ethereal Dust.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Leather Sheet",
             "id": "leather-sheet",
-            "icon": "leatherBand.png",
+            "icon": "Leather Sheet.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,

@@ -2,8 +2,11 @@
     "id": "survivalist",
     "name": "Survivalist",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_Survivalist.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "survivalist.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -23,7 +26,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "The art of survival often has more to do with resourcefulness and strength rather than luck. Perseverance, motivation, and drive are key factors in surviving in the Dying Worlds.",
     "lore": "Extinction is the rule while survival is the absolute exception."
 }

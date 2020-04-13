@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-177",
+    "name": "Stone Specialization Mastery",
+    "tree": "Stone Specialization",
+    "pointRequirement": 95,
+    "pipAmount": 20160,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of  Stone when a Critical Harvest happens while quarrying any Stone. Also increases the Chance for a Weak Spot when quarrying any Stone.",
+    "icon": "skill-generic-exploration-177.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Quarrying",
+            "amount": "2%"
+        },
+        {
+            "name": "Critical Amount: Quarrying",
+            "amount": "0.2"
+        },
+        {
+            "name": "Spot Weakness: Stone",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

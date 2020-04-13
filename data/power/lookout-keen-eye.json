@@ -3,7 +3,7 @@
     "name": "Keen Eye",
     "description": "increases your Harvest Weak Spot Chance by 10% for 8 seconds.",
     "shortDescription": "Increase Harvest Weak Spot Chance",
-    "icon": "Graphic_Disc_KeenEye.png",
+    "icon": "lookout-keen-eye.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

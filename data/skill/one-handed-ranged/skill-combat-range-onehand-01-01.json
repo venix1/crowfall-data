@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-onehand-01-01",
+    "name": "Hammer: Armor Penetration: Elemental",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Armor Penetration: Elemental while using a Hammer in your main hand.",
+    "icon": "skill-combat-range-onehand-01-01.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Elemental",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-01-02",
+        "skill-combat-range-onehand-01-06"
+    ]
+}

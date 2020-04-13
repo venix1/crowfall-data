@@ -3,7 +3,7 @@
     "name": "Satisfying Slaughter",
     "class": "myrmidon",
     "description": "Satisfying Slaughter enhances Neck Slash to prevent up to 750 Berserk Crash damage if it hits successfully while under the effects of Berserk.",
-    "icon": "Skill_Icon_018_002.png",
+    "icon": "satisfying-slaughter.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-03-01",
+    "name": "Critical Strike",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Critical Strike while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-03-01.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-03-02",
+        "skill-combat-range-03-05"
+    ]
+}

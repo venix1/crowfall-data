@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-318",
+    "name": "Movement Proficiency",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases your Movement Speed when Mounted.\\n\\nTraits Granted:\\nSwift Saddles",
+    "icon": "skill-generic-exploration-318.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Mounted",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [
+        "equip_saddle_swift"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-432",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": []
+}

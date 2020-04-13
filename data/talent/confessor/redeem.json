@@ -3,7 +3,7 @@
     "name": "Redeem",
     "class": "confessor",
     "description": "Redeem improves Movement Crowd Control by 6% per point spent.",
-    "icon": "Skill_Icon_045_014.png",
+    "icon": "redeem.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

@@ -3,11 +3,14 @@
     "name": "Leeching Seed",
     "class": "druid",
     "description": "This talent grants the Leeching Seed power.",
-    "icon": "Skill_Icon_019_002.png",
+    "icon": "leeching-seed.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "druid-leaching-seed"
+        {
+            "id": "leeching-seed",
+            "name": "Leeching Seed"
+        }
     ],
     "unlockedFromSkill": [
         {

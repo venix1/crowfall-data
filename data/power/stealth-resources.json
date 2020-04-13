@@ -3,7 +3,7 @@
     "name": "Found Resources",
     "description": "returns you to a minimum of two pips when entering stealth.",
     "shortDescription": "Passive: Return to Two Pips on Stealth",
-    "icon": "Graphic_Disc_FoundResources.png",
+    "icon": "stealth-resources.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

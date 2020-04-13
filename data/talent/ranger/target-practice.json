@@ -3,7 +3,7 @@
     "name": "Target Practice",
     "class": "ranger",
     "description": "Target Practice improves Far-Sight and Ranged Distance Bonus Cap by 7m per point spent.",
-    "icon": "Skill_Icon_044_002.png",
+    "icon": "target-practice.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

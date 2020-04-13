@@ -2,7 +2,8 @@
     "id": "assassin-talent-shadow-strikes",
     "name": "Shadow Strikes",
     "description": "increases your Power Damage by 20% when you hit a target from behind.",
-    "icon": "Graphic_Assn_ShadowStrike.png",
+    "shortDescription": "",
+    "icon": "assassin-talent-shadow-strikes.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"

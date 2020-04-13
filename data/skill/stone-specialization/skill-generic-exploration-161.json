@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-161",
+    "name": "Plethora of Dust: Travertine",
+    "tree": "Stone Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for bonus Ethereal Dust when quarrying Travertine.",
+    "icon": "skill-generic-exploration-161.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Travertine",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-160",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-162"
+    ]
+}

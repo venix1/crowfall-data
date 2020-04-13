@@ -2,7 +2,8 @@
     "id": "myrmidon-b-attack-3",
     "name": "Cross Gashes",
     "description": "attacks with both weapons simultaneously for 139 - 170 damage, causing your target to Bleed for 18 - 24 + 155% Weapon Damage.",
-    "icon": "Graphic_Myrm_Basic3.png",
+    "shortDescription": "",
+    "icon": "myrmidon-b-attack-3.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

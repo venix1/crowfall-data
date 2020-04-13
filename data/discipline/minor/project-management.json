@@ -2,8 +2,11 @@
     "id": "project-management",
     "name": "Project Management",
     "type": "minor",
-    "trait": "Eternal Crow",
-    "icon": "Minor_ProjectManagement.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "project-management.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -13,6 +16,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
+    "description": "",
     "lore": "If at first you don't succeed, remove all evidence you ever tried."
 }

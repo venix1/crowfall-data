@@ -3,11 +3,14 @@
     "name": "Noble Blood",
     "class": "knight",
     "description": "This talent grants the Noble Blood power.",
-    "icon": "Skill_Icon_017_005.png",
+    "icon": "noble-blood.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "knight-noble-blood"
+        {
+            "id": "noble-blood",
+            "name": "Noble Blood"
+        }
     ],
     "unlockedFromSkill": [
         {

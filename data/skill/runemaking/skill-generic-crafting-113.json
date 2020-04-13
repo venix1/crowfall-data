@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-crafting-113",
+    "name": "Total Crafting Rerolls",
+    "tree": "Runemaking",
+    "pointRequirement": 0,
+    "pipAmount": 25200,
+    "description": "Decreases the cost of a Total Reroll after experimenting on an item.",
+    "icon": "skill-generic-crafting-113.png",
+    "stats": [
+        {
+            "name": "Total Reroll Cost Modifier",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-111",
+            "point": 4
+        },
+        {
+            "skill": "skill-generic-crafting-112",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-crafting-114"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "skill-generic-exploration-182",
+    "name": "Omnivore Basics",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest and increases the potential Maximum Amount of Hide when skinning Omnivore Animals.",
+    "icon": "skill-generic-exploration-182.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Omnivore",
+            "amount": "1%"
+        },
+        {
+            "name": "Critical Amount: Omnivore",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-178",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-192"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Thick Skin",
     "class": "druid",
     "description": "Thick Skin improves Maximum Health by 150 per point spent.",
-    "icon": "Skill_Icon_031_004.png",
+    "icon": "thick-skin.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

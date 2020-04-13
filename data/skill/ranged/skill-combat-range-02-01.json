@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-02-01",
+    "name": "Basic Attack Damage",
+    "tree": "Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 20520,
+    "description": "Increases Basic Attack Damage while using a Ranged Weapon in your main hand.",
+    "icon": "skill-combat-range-02-01.png",
+    "stats": [
+        {
+            "name": "Basic Attack Damage",
+            "amount": "0.6%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-02-02",
+        "skill-combat-range-02-05"
+    ]
+}

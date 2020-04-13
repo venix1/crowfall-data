@@ -3,7 +3,7 @@
     "name": "Attention To Detail",
     "description": "increases your Additional Risk Points Value by 1.",
     "shortDescription": "Passive: Increase Percent each Experimentation Point is worth.",
-    "icon": "Graphic_Disc_AttentionToDetail.png",
+    "icon": "attention-to-detail.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

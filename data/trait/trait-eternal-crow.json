@@ -1,0 +1,341 @@
+{
+    "id": "trait-eternal-crow",
+    "name": "Eternal Crow",
+    "description": "Only fools dream of eternal life...\\n\\nDenied the chance for peace in the afterlife, the first Crow, a man named Hero, became an undying soldier – cursed to fight and die in every war, across every world, in every age. Now you, like Hero are doomed to fight in an endless cycle of death and rebirth.\\n\\nThe only thing you remember is a sense of duty, and how to fight...\\n\\nThis does allow you to equip a vast array of Disciplines.",
+    "requiredBy": [
+        {
+            "id": "glass-cannon",
+            "name": "Glass Cannon"
+        },
+        {
+            "id": "fashion-statement",
+            "name": "Fashion Statement"
+        },
+        {
+            "id": "expansive-mind",
+            "name": "Expansive Mind"
+        },
+        {
+            "id": "demons-pact",
+            "name": "Demon's Pact"
+        },
+        {
+            "id": "thornshield",
+            "name": "Thornshield"
+        },
+        {
+            "id": "prickly-skin",
+            "name": "Prickly Skin"
+        },
+        {
+            "id": "uniform-leather",
+            "name": "Uniform Leather"
+        },
+        {
+            "id": "sparring",
+            "name": "Sparring"
+        },
+        {
+            "id": "sturdy",
+            "name": "Sturdy"
+        },
+        {
+            "id": "overwhelming-odds",
+            "name": "Overwhelming Odds"
+        },
+        {
+            "id": "armor-of-faith",
+            "name": "Armor of Faith"
+        },
+        {
+            "id": "resolution",
+            "name": "Resolution"
+        },
+        {
+            "id": "burning-hatred",
+            "name": "Burning Hatred"
+        },
+        {
+            "id": "hand-of-glory",
+            "name": "Hand of Glory"
+        },
+        {
+            "id": "song-twisting",
+            "name": "Song Twisting"
+        },
+        {
+            "id": "minor-accompaniment",
+            "name": "Minor Accompaniment"
+        },
+        {
+            "id": "pound-of-flesh",
+            "name": "Pound of Flesh"
+        },
+        {
+            "id": "explosive-thorns",
+            "name": "Explosive Thorns"
+        },
+        {
+            "id": "protective-thorns",
+            "name": "Protective Thorns"
+        },
+        {
+            "id": "last-resort",
+            "name": "Last Resort"
+        },
+        {
+            "id": "dig-in",
+            "name": "Dig In!"
+        },
+        {
+            "id": "uniform-mail",
+            "name": "Uniform Mail"
+        },
+        {
+            "id": "uniform-plate",
+            "name": "Uniform Plate"
+        },
+        {
+            "id": "matching-leather",
+            "name": "Matching Leather"
+        },
+        {
+            "id": "matching-mail",
+            "name": "Matching Mail"
+        },
+        {
+            "id": "matching-plate",
+            "name": "Matching Plate"
+        },
+        {
+            "id": "sustaining-note",
+            "name": "Sustaining Note"
+        },
+        {
+            "id": "weapon-finesse",
+            "name": "Weapon Finesse"
+        },
+        {
+            "id": "elven-eyes",
+            "name": "Elven Eyes"
+        },
+        {
+            "id": "the-reaper",
+            "name": "The Reaper"
+        },
+        {
+            "id": "risk-management",
+            "name": "Risk Management"
+        },
+        {
+            "id": "helper-monkey",
+            "name": "Helper Monkey"
+        },
+        {
+            "id": "attention-to-detail",
+            "name": "Attention to Detail"
+        },
+        {
+            "id": "project-management",
+            "name": "Project Management"
+        },
+        {
+            "id": "leather-scroll-case",
+            "name": "Leather Scroll Case"
+        },
+        {
+            "id": "friar",
+            "name": "Friar"
+        },
+        {
+            "id": "rune-caster",
+            "name": "Rune Caster"
+        },
+        {
+            "id": "plague-lord",
+            "name": "Plague Lord"
+        },
+        {
+            "id": "mole-hunter",
+            "name": "Mole Hunter"
+        },
+        {
+            "id": "shield-breaker",
+            "name": "Shield Breaker"
+        },
+        {
+            "id": "standard-bearer",
+            "name": "Standard Bearer"
+        },
+        {
+            "id": "force-mage",
+            "name": "Force Mage"
+        },
+        {
+            "id": "underdog",
+            "name": "Underdog"
+        },
+        {
+            "id": "juggernaut",
+            "name": "Juggernaut"
+        },
+        {
+            "id": "escape-artist",
+            "name": "Escape Artist"
+        },
+        {
+            "id": "illusionist",
+            "name": "Illusionist"
+        },
+        {
+            "id": "banshee",
+            "name": "Banshee"
+        },
+        {
+            "id": "pixie",
+            "name": "Pixie"
+        },
+        {
+            "id": "naiad",
+            "name": "Naiad"
+        },
+        {
+            "id": "field-surgeon",
+            "name": "Field Surgeon"
+        },
+        {
+            "id": "bard",
+            "name": "Bard"
+        },
+        {
+            "id": "troubadour",
+            "name": "Troubadour"
+        },
+        {
+            "id": "blacksmith",
+            "name": "Blacksmith"
+        },
+        {
+            "id": "woodworker",
+            "name": "Woodworker"
+        },
+        {
+            "id": "runemaker",
+            "name": "Runemaker"
+        },
+        {
+            "id": "leatherworker",
+            "name": "Leatherworker"
+        },
+        {
+            "id": "necromancer",
+            "name": "Necromancer"
+        },
+        {
+            "id": "stonemason",
+            "name": "Stonemason"
+        },
+        {
+            "id": "jewelcrafter",
+            "name": "Jewelcrafter"
+        },
+        {
+            "id": "alchemist",
+            "name": "Alchemist"
+        },
+        {
+            "id": "siege-engineer",
+            "name": "Siege Engineer"
+        },
+        {
+            "id": "miner",
+            "name": "Miner"
+        },
+        {
+            "id": "logger",
+            "name": "Logger"
+        },
+        {
+            "id": "quarryman",
+            "name": "Quarryman"
+        },
+        {
+            "id": "skinner",
+            "name": "Skinner"
+        },
+        {
+            "id": "grave-digger",
+            "name": "Grave Digger"
+        },
+        {
+            "id": "villein",
+            "name": "Villein"
+        },
+        {
+            "id": "hoarder",
+            "name": "Hoarder"
+        },
+        {
+            "id": "connoisseur",
+            "name": "Connoisseur"
+        },
+        {
+            "id": "lookout",
+            "name": "Lookout"
+        },
+        {
+            "id": "survivalist",
+            "name": "Survivalist"
+        },
+        {
+            "id": "foreman",
+            "name": "Foreman"
+        }
+    ],
+    "grantedBy": [
+        {
+            "id": "ranger",
+            "name": "Ranger"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "champion",
+            "name": "Champion"
+        },
+        {
+            "id": "confessor",
+            "name": "Confessor"
+        },
+        {
+            "id": "templar",
+            "name": "Templar"
+        },
+        {
+            "id": "assassin",
+            "name": "Assassin"
+        },
+        {
+            "id": "druid",
+            "name": "Druid"
+        },
+        {
+            "id": "frostweaver",
+            "name": "Frostweaver"
+        },
+        {
+            "id": "duelist",
+            "name": "Duelist"
+        },
+        {
+            "id": "myrmidon",
+            "name": "Myrmidon"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        }
+    ]
+}

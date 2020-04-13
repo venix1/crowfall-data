@@ -1,9 +1,9 @@
 {
     "id": "guinecean-burrow-tooltip-passive",
-    "name": "Guinecean_Burrow_Tooltip_Passive_name",
-    "description": "Guinecean_Burrow_Tooltip_Passive_description",
-    "shortDescription": "Toggle: Stealths Player, only for Non-Stealth Classes",
-    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "name": "Burrow",
+    "description": "hides you underground to avoid detection as long as you have stamina. Taking damage or running out of stamina forces you out of Stealth. To activate use the Stealth Tray swap button.\\n\\nBurrow can not be activated while in combat.",
+    "shortDescription": "Tray Swap: Limited Stealth, only for Non-Stealth Classes",
+    "icon": "guinecean-burrow-tooltip-passive.png",
     "stats": {
         "cost_type_time": "cost_type_time_per_second",
         "cost_type": "Stamina",

@@ -1,0 +1,29 @@
+{
+    "id": "skill-combat-mail-04-05",
+    "name": "Sprint Movement Modifier",
+    "tree": "Mail",
+    "pointRequirement": 0,
+    "pipAmount": 23040,
+    "description": "Decreases Sprint Movement Modifier while using Mail chest armor.",
+    "icon": "skill-combat-mail-04-05.png",
+    "stats": [
+        {
+            "name": "Sprint Movement Modifier",
+            "amount": "0.01"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-mail-04-01",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-mail-04-04",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-mail-04-04"
+    ]
+}

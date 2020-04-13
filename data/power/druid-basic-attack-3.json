@@ -2,7 +2,8 @@
     "id": "druid-basic-attack-3",
     "name": "Lightning Crack",
     "description": "unleashes an electrical blast, causing 218 - 326 + 272% Weapon Damage.",
-    "icon": "Graphic_Drud_ArcingLightning.png",
+    "shortDescription": "",
+    "icon": "druid-basic-attack-3.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

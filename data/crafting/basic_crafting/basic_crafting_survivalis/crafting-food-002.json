@@ -1,7 +1,7 @@
 {
     "name": "Meat Tartare",
     "id": "crafting-food-002",
-    "icon": "meatTartare.png",
+    "icon": "crafting_food_002.png",
     "description": "Turn animal meats into Tartare, while expedient, Tartares don't provide as much nourishment as cooked foods.",
     "outputQuantity": 1,
     "xp": 3.75,
@@ -11,7 +11,7 @@
         {
             "name": "Animal Meat",
             "id": "animal-meat",
-            "icon": "meat.png",
+            "icon": "Animal Meat.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,

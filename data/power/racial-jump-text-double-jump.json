@@ -3,7 +3,7 @@
     "name": "Double Jump",
     "description": "allows you to jump again while near the apex of your first jump.",
     "shortDescription": "Passive: Jump Again While Near the Apex of Your First Jump",
-    "icon": "Graphic_Disc_Racial_Fae.png",
+    "icon": "racial-jump-text-double-jump.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self"

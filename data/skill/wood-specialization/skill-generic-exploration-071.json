@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-071",
+    "name": "Harvest Critical Amount: Oak",
+    "tree": "Wood Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the potential Maximum Amount of Oak when you score a Critical Harvest while logging Oak.",
+    "icon": "skill-generic-exploration-071.png",
+    "stats": [
+        {
+            "name": "Critical Amount: Oak",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-070",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-076"
+    ]
+}

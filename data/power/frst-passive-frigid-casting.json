@@ -2,7 +2,8 @@
     "id": "frst-passive-frigid-casting",
     "name": "Frigid Focus",
     "description": "modifies your Frostcaster to give damaging attacks a chance to randomly create Frigid Ice near your target.\\n\\nFrigid Ice harms enemies within 5m over time Dazing them and inflicting 57 - 86 + 70% Weapon Damage. Enemies destroy it on contact taking 201 - 301 + 251% Weapon Damage, becoming Rooted and suffering Ice Buildup. Tripping it again while afflicted with Ice Buildup causes Knockdown.",
-    "icon": "Graphic_FrostWeaver_FrigidFocus_01.png",
+    "shortDescription": "",
+    "icon": "frst-passive-frigid-casting.png",
     "stats": {
         "weapon_damage_3_value": "251",
         "max_damage_3": "301",

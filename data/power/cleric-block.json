@@ -2,7 +2,8 @@
     "id": "cleric-block",
     "name": "Shield Block",
     "description": "reduces damage and prevents crowd control effects.\\n\\nThis attack can be instantly Flash-Cast.",
-    "icon": "Graphic_Cleric_Block.png",
+    "shortDescription": "",
+    "icon": "cleric-block.png",
     "stats": {
         "cast_time": "Hold Channeled",
         "target": "Self",

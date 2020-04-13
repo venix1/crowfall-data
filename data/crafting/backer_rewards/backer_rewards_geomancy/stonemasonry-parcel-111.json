@@ -1,7 +1,7 @@
 {
     "name": "Fief Parcel",
     "id": "stonemasonry-parcel-111",
-    "icon": "parcel1.png",
+    "icon": "stonemasonry_parcel_111.png",
     "description": "Creates a Rank 1 Backer Reward Fief Parcel.",
     "outputQuantity": 1,
     "xp": 0,
@@ -11,7 +11,7 @@
         {
             "name": "Backer Town Parcel",
             "id": "backer-town-parcel",
-            "icon": "parcel1.png",
+            "icon": "Backer Town Parcel.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Backer Shire Parcel",
             "id": "backer-shire-parcel",
-            "icon": "parcel1.png",
+            "icon": "Backer Shire Parcel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,

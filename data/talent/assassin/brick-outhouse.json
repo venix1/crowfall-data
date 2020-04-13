@@ -3,7 +3,7 @@
     "name": "Brick Outhouse",
     "class": "assassin",
     "description": "Brick Outhouse improves Maximum Health by 350 per point spent.",
-    "icon": "Skill_Icon_017_014.png",
+    "icon": "brick-outhouse.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -15,7 +15,7 @@
     ],
     "unlocksSkill": [
         "zoned-out",
-        "assassin-s-point"
+        "assassins-point"
     ],
     "locksSkill": []
 }

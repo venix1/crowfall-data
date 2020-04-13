@@ -2,16 +2,19 @@
     "id": "grave-digger",
     "name": "Grave Digger",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_GraveDigger.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "grave-digger.png",
     "stats": [
         {
             "name": "Plentiful Resources Grave: All",
-            "value": 1
+            "value": "1"
         },
         {
             "name": "Harvest Power Pips Bonus",
-            "value": 0.5
+            "value": "0.5"
         }
     ],
     "grantsPowers": [
@@ -22,7 +25,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Often associated with the macabre due to the nature of the work, grave digging is a trade not for those with delicate sensibilities. Surrounded by death and shrouded in darkness, the grave digger plucks from the remains the necessary components to create new life.",
     "lore": "We are creatures made from borrowed parts, but have our own unique souls."
 }

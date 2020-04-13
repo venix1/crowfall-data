@@ -3,11 +3,14 @@
     "name": "Rapid Fire",
     "class": "ranger",
     "description": "This talent grants the Rapid Fire power.",
-    "icon": "Skill_Icon_025_003.png",
+    "icon": "rapid-fire.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "ranger-rapid-shot"
+        {
+            "id": "rapid-fire",
+            "name": "Rapid Fire"
+        }
     ],
     "unlockedFromSkill": [],
     "unlocksSkill": [

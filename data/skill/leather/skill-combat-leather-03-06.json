@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-leather-03-06",
+    "name": "Nature Resistance",
+    "tree": "Leather",
+    "pointRequirement": 0,
+    "pipAmount": 21960,
+    "description": "Increases Nature Resistance while using Leather chest armor.",
+    "icon": "skill-combat-leather-03-06.png",
+    "stats": [
+        {
+            "name": "Nature Resistance",
+            "amount": "60"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-leather-03-05",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-leather-03-07",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-leather-03-05",
+        "skill-combat-leather-03-07"
+    ]
+}

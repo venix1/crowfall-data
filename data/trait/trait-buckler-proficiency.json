@@ -1,0 +1,24 @@
+{
+    "id": "trait-buckler-proficiency",
+    "name": "Buckler Proficiency",
+    "description": "An unnamed Fae once was forced to defend her home. She killed the intruder with a kitchen knife and a soup pot lid. All she had to say was, \"Hey, that worked better than expected.\"\\n\\nA small round shield held in a fist grip. Offers some protection against damage.\\n\\nYou are proficient at wielding this type of shield.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "shield-fighter",
+            "name": "Shield Fighter"
+        },
+        {
+            "id": "knight",
+            "name": "Knight"
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric"
+        },
+        {
+            "id": "promotion-class-stormcaller",
+            "name": "Promotion Class - Stormcaller"
+        }
+    ]
+}

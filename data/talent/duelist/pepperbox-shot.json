@@ -3,11 +3,14 @@
     "name": "Pepperbox Shot",
     "class": "duelist",
     "description": "This talent grants the Pepperbox Shot power.",
-    "icon": "Skill_Icon_002_019.png",
+    "icon": "pepperbox-shot.png",
     "pointRequirement": 7,
     "levelRequirement": 0,
     "grants": [
-        "duelist-pepperbox-shot"
+        {
+            "id": "pepperbox-shot",
+            "name": "Pepperbox Shot"
+        }
     ],
     "unlockedFromSkill": [
         {

@@ -2,7 +2,8 @@
     "id": "ranger-tendon-slice",
     "name": "Tendon Slice",
     "description": "slashes in front of you for 162 - 219 + 190% Weapon Damage. Tendon Slice applies a 50% movement reduction to the target.",
-    "icon": "Graphic_Rngr_TendonSlice.png",
+    "shortDescription": "",
+    "icon": "ranger-tendon-slice.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

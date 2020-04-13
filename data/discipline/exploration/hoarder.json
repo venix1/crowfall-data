@@ -2,8 +2,11 @@
     "id": "hoarder",
     "name": "Hoarder",
     "type": "exploration",
-    "trait": "Eternal Crow",
-    "icon": "Exploration_Hoarder.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "hoarder.png",
     "stats": [],
     "grantsPowers": [
         {
@@ -18,7 +21,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "Hoarders have a way of finding more room to keep their newly-acquired treasures without having to part with any of their old goods. Rearranging and restacking are some of the tasks a hoarder may have to deal with frequently, but it is a labor of love.",
     "lore": "My dear sir, parting with my collections is such a sweet sorrow that I dare not do it."
 }

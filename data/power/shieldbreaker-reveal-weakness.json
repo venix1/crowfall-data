@@ -1,9 +1,9 @@
 {
     "id": "shieldbreaker-reveal-weakness",
     "name": "Reveal Weakness",
-    "description": "enhances group members and you increasing Slashing, Piercing and Crushing penetration for 15 seconds.",
+    "description": "enhances group members and you increasing Slashing, Piercing and Crushing penetration for 30 seconds.",
     "shortDescription": "Increase Group Physical Armor Penetration",
-    "icon": "Graphic_Disc_RetributionSlash.png",
+    "icon": "shieldbreaker-reveal-weakness.png",
     "stats": {
         "weapon_damage_value": "107",
         "max_damage_1": "123",

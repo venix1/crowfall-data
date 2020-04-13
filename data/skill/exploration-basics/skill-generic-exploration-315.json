@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-315",
+    "name": "Pathfinding",
+    "tree": "Exploration Basics",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your Pathfinding, which reduces the amount of time it takes to start Trailblazing.",
+    "icon": "skill-generic-exploration-315.png",
+    "stats": [
+        {
+            "name": "Pathfinding",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-314",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-429"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-382",
+    "name": "Plethora of Dust: Graves",
+    "tree": "Excavation",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the chance for bonus Ethereal Dust when digging Graves.",
+    "icon": "skill-generic-exploration-382.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Graves",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-381",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-356",
+        "skill-generic-exploration-364"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Gemcutter",
     "description": "increases your Jewelcrafting and Jewelcrafting Experimentation statistics by 10.",
     "shortDescription": "Passive: Increase Jewelcrafting Crafting Statistics",
-    "icon": "Graphic_Disc_JewelcraftingTechniques.png",
+    "icon": "racial-passive-craft-jewelcrafting.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

@@ -3,7 +3,7 @@
     "name": "Epicurean",
     "description": "increases your Consumption statistic by 15%.",
     "shortDescription": "Passive: Gain Bonus Food Pool When You Eat",
-    "icon": "Graphic_Disc_Racial_Guinecean.png",
+    "icon": "racial-passive-food-consumption.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

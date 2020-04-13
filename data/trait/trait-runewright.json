@@ -1,0 +1,12 @@
+{
+    "id": "trait-runewright",
+    "name": "Runewright",
+    "description": "You are an expert Runecrafter, meticulously crafting sigils and discipline runes.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "runewright",
+            "name": "Runewright"
+        }
+    ]
+}

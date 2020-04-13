@@ -1,0 +1,30 @@
+{
+    "id": "skill-combat-range-onehand-04-03",
+    "name": "Frostcaster: Support Power",
+    "tree": "One-Handed Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Support Power while using a Frostcaster in your main hand.",
+    "icon": "skill-combat-range-onehand-04-03.png",
+    "stats": [
+        {
+            "name": "Support Power",
+            "amount": "5"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-onehand-04-04",
+            "point": 4
+        },
+        {
+            "skill": "skill-combat-range-onehand-04-02",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-onehand-04-02",
+        "skill-combat-range-onehand-04-04"
+    ]
+}

@@ -3,7 +3,7 @@
     "name": "Song Of Speed",
     "description": "increases the group's Movement Speed by 30% for 12 seconds while out of combat and Movement Speed by 10% for 12 seconds while in combat.\\n\\nType 1 Song.",
     "shortDescription": "Song: Increase Group Movement Speed",
-    "icon": "Graphic_Disc_SongOfSpeed.png",
+    "icon": "bard-accelerando.png",
     "stats": {
         "cast_time": "2 Seconds",
         "target": "Group",

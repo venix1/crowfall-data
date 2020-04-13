@@ -3,11 +3,14 @@
     "name": "Ambush",
     "class": "assassin",
     "description": "This talent grants the Ambush power.",
-    "icon": "Skill_Icon_040_019.png",
+    "icon": "ambush.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
-        "assassin-stealth-ambush"
+        {
+            "id": "ambush",
+            "name": "Ambush"
+        }
     ],
     "unlockedFromSkill": [
         {
@@ -16,7 +19,7 @@
         }
     ],
     "unlocksSkill": [
-        "killer-s-gift"
+        "killers-gift"
     ],
     "locksSkill": []
 }

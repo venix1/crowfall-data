@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-exploration-378",
+    "name": "Stone Mother Lode: Quarrying",
+    "tree": "Excavation",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases the Damage that Runestone Hammers can deal when quarrying Mother Lodes.",
+    "icon": "skill-generic-exploration-378.png",
+    "stats": [
+        {
+            "name": "Mother Lode: Quarrying",
+            "amount": "-2"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-377",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-080",
+        "skill-generic-exploration-173"
+    ]
+}

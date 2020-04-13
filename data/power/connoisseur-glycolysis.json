@@ -3,7 +3,7 @@
     "name": "Glycolysis",
     "description": "restores Stamina when consuming Apples.",
     "shortDescription": "Passive: Apples Additionally Give Stamina",
-    "icon": "Graphic_Disc_Glycolysis.png",
+    "icon": "connoisseur-glycolysis.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",

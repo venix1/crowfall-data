@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-range-great-02-01",
+    "name": "Long Bow: Piercing Damage Bonus",
+    "tree": "Great Ranged",
+    "pointRequirement": 0,
+    "pipAmount": 40320,
+    "description": "Increases Piercing Damage Bonus while using a Long Bow.",
+    "icon": "skill-combat-range-great-02-01.png",
+    "stats": [
+        {
+            "name": "Piercing Damage Bonus",
+            "amount": "0.2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-combat-range-great-center",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-combat-range-great-02-02",
+        "skill-combat-range-great-02-06"
+    ]
+}

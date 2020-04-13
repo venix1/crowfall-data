@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-189",
+    "name": "Harvest Critical: Herbivores",
+    "tree": "Animal Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 10080,
+    "description": "Increases your chance for a Critical Harvest when skinning Herbivore Animals.",
+    "icon": "skill-generic-exploration-189.png",
+    "stats": [
+        {
+            "name": "Critical Chance: Herbivore",
+            "amount": "1%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-181",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-190"
+    ]
+}

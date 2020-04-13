@@ -2,7 +2,8 @@
     "id": "ranger-talent-booby-traps",
     "name": "Booby Traps",
     "description": "enhances your Traps with additional functionality:\\n\\nExplosive Trap now also applies a Major Burning DoT to all enemies hit, however those enemies are no longer Knocked into the air.\\n\\nFaerie Trap now also applies a Severe Corruption DoT to all enemies hit.\\n\\nConcussive Trap now also applies a Severe Bleeding DoT to all enemies hit.",
-    "icon": "Graphic_Rngr_BoobyTraps.png",
+    "shortDescription": "",
+    "icon": "ranger-talent-booby-traps.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self"
@@ -14,8 +15,5 @@
     "isBeneficial": false,
     "isHeal": false,
     "isBuff": false,
-    "tags": [
-        "melee",
-        "stealth"
-    ]
+    "tags": []
 }

@@ -2,7 +2,8 @@
     "id": "champion-whirling-pain",
     "name": "Whirling Pain",
     "description": "sweeps around you repeatedly dealing 59 - 79 + 69% Weapon Damage per swing. \\n\\nYou may move while spinning.",
-    "icon": "Graphic_Chmp_WhirlingPain.png",
+    "shortDescription": "",
+    "icon": "champion-whirling-pain.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Sphere",

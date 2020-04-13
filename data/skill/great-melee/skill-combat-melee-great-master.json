@@ -1,0 +1,26 @@
+{
+    "id": "skill-combat-melee-great-master",
+    "name": "Great Melee Mastery",
+    "tree": "Great Melee",
+    "pointRequirement": 30,
+    "pipAmount": 45360,
+    "description": "Increases Armor Penetration: All, Health and Power Efficiency while using a Melee Great Weapon.",
+    "icon": "skill-combat-melee-great-master.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: All",
+            "amount": "0.6%"
+        },
+        {
+            "name": "Power Efficiency",
+            "amount": "0.2%"
+        },
+        {
+            "name": "Health",
+            "amount": "20"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": []
+}

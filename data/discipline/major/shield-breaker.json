@@ -2,16 +2,19 @@
     "id": "shield-breaker",
     "name": "Shield Breaker",
     "type": "major",
-    "trait": "Eternal Crow",
-    "icon": "Major_ShieldBreaker.png",
+    "trait": {
+        "id": "trait-eternal-crow",
+        "name": "Eternal Crow"
+    },
+    "icon": "shield-breaker.png",
     "stats": [
         {
             "name": "Armor Penetration: Physical",
-            "value": -3
+            "value": "3%"
         },
         {
             "name": "Physical Resistance",
-            "value": 3
+            "value": "300"
         }
     ],
     "grantsPowers": [
@@ -37,7 +40,7 @@
         }
     ],
     "grantsSlot": [],
-    "grantsEquip": [],
+    "grantsTrait": [],
     "description": "A shield is a mighty piece of weaponry and armor that is often difficult to bypass, but a Shield Breaker has the ability to plow through such armament with ease. Breaking barriers and exposing weakness are just a few attributes they are privy to, adding another layer of complexity to combat.",
     "lore": "Why avoid a barrier when you can break through it?"
 }

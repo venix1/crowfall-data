@@ -2,7 +2,8 @@
     "id": "champion-spinning-backfist",
     "name": "Spinning Backfist",
     "description": "deals 125 - 169 + 147% Weapon Damage as Crushing Damage.",
-    "icon": "Graphic_Chmp_SpinningBackFist.png",
+    "shortDescription": "",
+    "icon": "champion-spinning-backfist.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

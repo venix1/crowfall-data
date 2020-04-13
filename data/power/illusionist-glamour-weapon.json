@@ -3,7 +3,7 @@
     "name": "Glamour Weapon",
     "description": "adds a Glamour to your weapon increasing your Attack Power by 150 for 15 seconds.",
     "shortDescription": "Increase Attack Power",
-    "icon": "Graphic_Conf_HellfireShield.png",
+    "icon": "illusionist-glamour-weapon.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Self",

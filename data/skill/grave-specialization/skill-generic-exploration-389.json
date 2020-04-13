@@ -1,0 +1,25 @@
+{
+    "id": "skill-generic-exploration-389",
+    "name": "Plethora of Dust: Guinecean",
+    "tree": "Grave Specialization",
+    "pointRequirement": 0,
+    "pipAmount": 15120,
+    "description": "Increases the chance for bonus Ethereal Dust when digging Guinecean Graves.",
+    "icon": "skill-generic-exploration-389.png",
+    "stats": [
+        {
+            "name": "Plethora of Dust: Guinecean",
+            "amount": "2%"
+        }
+    ],
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-exploration-348",
+            "point": 4
+        }
+    ],
+    "unlocksSkill": [
+        "skill-generic-exploration-349"
+    ]
+}

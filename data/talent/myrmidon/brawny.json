@@ -3,7 +3,7 @@
     "name": "Brawny",
     "class": "myrmidon",
     "description": "Brawny improves Maximum Health by 150 per point spent.",
-    "icon": "Skill_Icon_017_014.png",
+    "icon": "brawny.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

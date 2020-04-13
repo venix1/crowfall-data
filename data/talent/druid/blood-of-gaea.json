@@ -3,7 +3,7 @@
     "name": "Blood of Gaea",
     "class": "druid",
     "description": "Blood of Gaea improves Critical Healing Chance by 2% per point spent.",
-    "icon": "Skill_Icon_017_012.png",
+    "icon": "blood-of-gaea.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -15,7 +15,7 @@
     ],
     "unlocksSkill": [
         "oaken-guard",
-        "nature-s-avatar"
+        "natures-avatar"
     ],
     "locksSkill": []
 }

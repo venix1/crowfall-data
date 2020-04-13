@@ -3,7 +3,7 @@
     "name": "Purity",
     "class": "cleric",
     "description": "Purity improves Maximum Stamina by 5% and Power Efficiency by 8% per point spent.",
-    "icon": "Skill_Icon_034_002.png",
+    "icon": "purity.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

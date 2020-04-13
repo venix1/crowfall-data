@@ -2,7 +2,8 @@
     "id": "ranger-forest-step",
     "name": "Forest Step",
     "description": "blinks you through the forest shadows directly to your target and strike for 76 - 103 + 89% Weapon Damage.",
-    "icon": "Graphic_Rngr_ForestStep.png",
+    "shortDescription": "",
+    "icon": "ranger-forest-step.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

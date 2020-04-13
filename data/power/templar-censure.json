@@ -2,7 +2,8 @@
     "id": "templar-censure",
     "name": "Censure",
     "description": "lunges you forward up to 20m with a sword strike, causing 100 - 149 + 124% Weapon Damage and leaving your target Stunned.",
-    "icon": "Graphic_Tmpr_Censure.png",
+    "shortDescription": "",
+    "icon": "templar-censure.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

@@ -1,0 +1,57 @@
+{
+    "name": "Runic Short Sword",
+    "id": "blacksmithing-weapon-short-sword-005",
+    "icon": "blacksmithing_weapon_short_sword_005.png",
+    "description": "Creates a One Handed Runic Short Sword, usable by those who have a mastery of Short Swords.",
+    "outputQuantity": 1,
+    "xp": 45,
+    "category": "blacksmithing",
+    "subCategory": "blacksmithing_magic_weapons",
+    "ingredients": [
+        {
+            "name": "Jeweled Weapon Hilt",
+            "id": "jeweled-weapon-hilt",
+            "icon": "Jeweled Weapon Hilt.png",
+            "quantity": 1,
+            "slotIndex": 0,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Runed Weapon Blade: Medium",
+            "id": "runed-weapon-blade-medium",
+            "icon": "Runed Weapon Blade: Medium.png",
+            "quantity": 1,
+            "slotIndex": 1,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Blade Rivets",
+            "id": "blade-rivets",
+            "icon": "Blade Rivets.png",
+            "quantity": 1,
+            "slotIndex": 2,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Ethereal Dust",
+            "id": "ethereal-dust",
+            "icon": "Ethereal Dust.png",
+            "quantity": 10,
+            "slotIndex": 3,
+            "wildcard": false,
+            "optional": false
+        },
+        {
+            "name": "Hunger Shard",
+            "id": "hunger-shard",
+            "icon": "",
+            "quantity": 1,
+            "slotIndex": 4,
+            "wildcard": false,
+            "optional": true
+        }
+    ]
+}

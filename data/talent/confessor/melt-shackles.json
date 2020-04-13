@@ -3,7 +3,7 @@
     "name": "Melt Shackles",
     "class": "confessor",
     "description": "Melt Shackles reduces the cost of Retaliate by 10% per point spent.",
-    "icon": "Skill_Icon_034_009.png",
+    "icon": "melt-shackles.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

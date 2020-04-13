@@ -3,7 +3,7 @@
     "name": "Cripple",
     "description": "attacks an enemy for 66 - 99 + 83% Weapon Damage.",
     "shortDescription": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds.",
-    "icon": "Graphic_Disc_CripplingStab_A.png",
+    "icon": "daggermaster-combo-1.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Cone",

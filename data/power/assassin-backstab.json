@@ -2,7 +2,8 @@
     "id": "assassin-backstab",
     "name": "Backstab",
     "description": "stabs an enemy, causing 17 - 25 + 21% Weapon Damage. Power Damage is increased by 800% and generate a bonus Pip when you are behind your target.\\n\\nGenerates 1 Pip.",
-    "icon": "Graphic_Assn_Backstab.png",
+    "shortDescription": "",
+    "icon": "assassin-backstab.png",
     "stats": {
         "cast_time": "Instant",
         "target": "Reticle",

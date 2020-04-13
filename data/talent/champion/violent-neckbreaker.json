@@ -3,7 +3,7 @@
     "name": "Violent Neckbreaker",
     "class": "champion",
     "description": "Violent Neckbreaker enhances Neckbreaker reducing its cost to 350 Soul Power and consuming a point of Dominance to critically hit.",
-    "icon": "Skill_Icon_026_003.png",
+    "icon": "violent-neckbreaker.png",
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],

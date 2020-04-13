@@ -1,7 +1,7 @@
 {
     "name": "Book Chapter",
     "id": "runecarving-weapon-book-chapter-001",
-    "icon": "bookChapter.png",
+    "icon": "runecarving_weapon_book_chapter_001.png",
     "description": "Creates Book Chapters, the type of stone determines the Chapter created.\\n\\nGranite yields Chapter: Fervor,\\nLimestone yields Chapter: Indulgence,\\nTravertine yields Chapter: Redemption,\\nSlate yields Chapter: Absolution,\\nMarble yields Chapter: Sin.",
     "outputQuantity": 1,
     "xp": 15,
@@ -11,7 +11,7 @@
         {
             "name": "Stitched Leather",
             "id": "stitched-leather",
-            "icon": "leatherHide.png",
+            "icon": "Stitched Leather.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Metal Bar",
             "id": "metal-bar",
-            "icon": "metal.png",
+            "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Stone",
             "id": "stone",
-            "icon": "stone.png",
+            "icon": "Stone.png",
             "quantity": 3,
             "slotIndex": 2,
             "wildcard": true,

@@ -1,0 +1,12 @@
+{
+    "id": "trait-swift-saddles",
+    "name": "Swift Saddles",
+    "description": "You have the ability to equip swift mounts.",
+    "requiredBy": [],
+    "grantedBy": [
+        {
+            "id": "skill-generic-exploration-318",
+            "name": "Movement Proficiency"
+        }
+    ]
+}

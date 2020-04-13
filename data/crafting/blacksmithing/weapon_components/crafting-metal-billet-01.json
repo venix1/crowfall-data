@@ -1,7 +1,7 @@
 {
     "name": "Metal Billet",
     "id": "crafting-metal-billet-01",
-    "icon": "metal.png",
+    "icon": "crafting_metal_billet_01.png",
     "description": "Creates a Metal Billet that is used in various Blacksmithing recipes.",
     "outputQuantity": 1,
     "xp": 7.5,
@@ -11,7 +11,7 @@
         {
             "name": "Non-Basic Ore",
             "id": "non-basic-ore",
-            "icon": "ore.png",
+            "icon": "Non-Basic Ore.png",
             "quantity": 3,
             "slotIndex": 0,
             "wildcard": false,
@@ -20,7 +20,7 @@
         {
             "name": "Non-Basic Ore",
             "id": "non-basic-ore",
-            "icon": "ore.png",
+            "icon": "Non-Basic Ore.png",
             "quantity": 3,
             "slotIndex": 1,
             "wildcard": false,
@@ -29,7 +29,7 @@
         {
             "name": "Non-Basic Ore",
             "id": "non-basic-ore",
-            "icon": "ore.png",
+            "icon": "Non-Basic Ore.png",
             "quantity": 3,
             "slotIndex": 2,
             "wildcard": false,

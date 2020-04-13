@@ -3,7 +3,7 @@
     "name": "Cuirboulli Competence",
     "description": "increases your Leatherworking Cap by 15 and Leatherworking Experimentation Cap by 15.",
     "shortDescription": "Passive: Increase Leatherworking Assembly and Experimentation Caps",
-    "icon": "Graphic_Disc_LeatherworkingTechniques.png",
+    "icon": "leatherworking-techniques.png",
     "stats": {
         "cast_time": "Passive",
         "target": "Self",
