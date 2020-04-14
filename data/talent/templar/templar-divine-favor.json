@@ -1,0 +1,22 @@
+{
+    "id": "templar-divine-favor",
+    "name": "Divine Favor",
+    "class": "templar",
+    "description": "Divine Favor improves Decay Rate: Plate by 3% per point spent.",
+    "icon": "divine-favor.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-devotion",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-magnificent-purpose",
+        "templar-holy-warrior",
+        "templar-grace"
+    ],
+    "locksSkill": []
+}

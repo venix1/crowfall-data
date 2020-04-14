@@ -2,10 +2,12 @@
     "id": "wood-carver",
     "name": "Wood Carver",
     "type": "minor",
-    "trait": {
-        "id": "trait-woodworker",
-        "name": "Woodworker"
-    },
+    "trait": [
+        {
+            "id": "trait-woodworker",
+            "name": "Woodworker"
+        }
+    ],
     "icon": "wood-carver.png",
     "stats": [],
     "grantsPowers": [

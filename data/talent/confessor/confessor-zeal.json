@@ -1,0 +1,21 @@
+{
+    "id": "confessor-zeal",
+    "name": "Zeal",
+    "class": "confessor",
+    "description": "Basic Attacks deal 20% more damage for 12 seconds after completely casting Fervor.",
+    "icon": "zeal.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-lawful",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-frenzied-righteousness",
+        "confessor-flames-of-arkon"
+    ],
+    "locksSkill": []
+}

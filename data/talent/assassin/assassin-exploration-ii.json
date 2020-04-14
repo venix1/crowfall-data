@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "killers-instinct",
+            "skill": "assassin-killers-instinct",
             "point": 2
         },
         {
-            "skill": "born-in-darkness",
+            "skill": "assassin-born-in-darkness",
             "point": 2
         },
         {
-            "skill": "aggression",
+            "skill": "assassin-aggression",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "enter-the-shadows"
+        "assassin-enter-the-shadows"
     ],
     "locksSkill": []
 }

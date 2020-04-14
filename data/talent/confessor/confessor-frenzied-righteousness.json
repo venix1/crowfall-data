@@ -1,0 +1,20 @@
+{
+    "id": "confessor-frenzied-righteousness",
+    "name": "Frenzied Righteousness",
+    "class": "confessor",
+    "description": "Righteousness grants an 8% Damage Bonus for 8 seconds.",
+    "icon": "frenzied-righteousness.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-zeal",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-sanctified"
+    ],
+    "locksSkill": []
+}

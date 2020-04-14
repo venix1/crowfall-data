@@ -1,0 +1,20 @@
+{
+    "id": "myrmidon-impenetrable-storm",
+    "name": "Impenetrable Storm",
+    "class": "myrmidon",
+    "description": "Impenetrable Storm enhances Whirlwind so that you are immune to Control Effects while channeling.",
+    "icon": "impenetrable-storm.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-pitiless",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-deplorable"
+    ],
+    "locksSkill": []
+}

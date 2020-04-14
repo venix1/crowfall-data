@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "vitality",
+            "skill": "knight-vitality",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "into-the-fray"
+        "knight-into-the-fray"
     ],
     "locksSkill": []
 }

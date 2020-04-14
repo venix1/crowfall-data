@@ -1,0 +1,29 @@
+{
+    "id": "druid-natures-avatar",
+    "name": "Nature's Avatar",
+    "class": "druid",
+    "description": "This talent grants the Nature's Avatar power.",
+    "icon": "natures-avatar.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "natures-avatar",
+            "name": "Nature's Avatar"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-blood-of-gaea",
+            "point": 2
+        },
+        {
+            "skill": "druid-partial-redirection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-secret-of-stone"
+    ],
+    "locksSkill": []
+}

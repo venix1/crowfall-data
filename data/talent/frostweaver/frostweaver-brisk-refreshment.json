@@ -1,0 +1,21 @@
+{
+    "id": "frostweaver-brisk-refreshment",
+    "name": "Brisk Refreshment",
+    "class": "frostweaver",
+    "description": "Brisk Refreshment enhances Refreshing Ice halving the time it takes to deliver healing.",
+    "icon": "brisk-refreshment.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-numbing-cold",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "frost-armory-ii",
+        "frostweaver-harmonious-weaving"
+    ],
+    "locksSkill": []
+}

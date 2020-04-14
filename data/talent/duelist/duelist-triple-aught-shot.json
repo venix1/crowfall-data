@@ -1,0 +1,24 @@
+{
+    "id": "duelist-triple-aught-shot",
+    "name": "Triple-Aught Shot",
+    "class": "duelist",
+    "description": "Triple-Aught Shot enhances Pepperbox Shot to cause 50% more damage.",
+    "icon": "triple-aught-shot.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-keen-aim",
+            "point": 2
+        },
+        {
+            "skill": "duelist-quick-draw",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-bewildering-offense"
+    ],
+    "locksSkill": []
+}

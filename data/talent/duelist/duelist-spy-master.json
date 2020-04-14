@@ -1,0 +1,20 @@
+{
+    "id": "duelist-spy-master",
+    "name": "Spy Master",
+    "class": "duelist",
+    "description": "Spy Master enhances Recon to reduce an enemy's Anti-Critical Strike and reduce its cooldown.",
+    "icon": "spy-master.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-tenacity",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-shiny-coat"
+    ],
+    "locksSkill": []
+}

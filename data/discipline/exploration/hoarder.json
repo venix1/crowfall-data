@@ -2,10 +2,12 @@
     "id": "hoarder",
     "name": "Hoarder",
     "type": "exploration",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "hoarder.png",
     "stats": [],
     "grantsPowers": [

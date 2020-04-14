@@ -1,0 +1,20 @@
+{
+    "id": "druid-shock-and-awe",
+    "name": "Shock and Awe",
+    "class": "druid",
+    "description": "Shock and Awe improves Critical Strike by 3% per point spent.",
+    "icon": "shock-and-awe.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-potential-energy",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "druid-lines-of-force"
+    ],
+    "locksSkill": []
+}

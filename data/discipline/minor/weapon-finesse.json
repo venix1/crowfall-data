@@ -2,10 +2,12 @@
     "id": "weapon-finesse",
     "name": "Weapon Finesse",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "weapon-finesse.png",
     "stats": [],
     "grantsPowers": [

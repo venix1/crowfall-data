@@ -2,10 +2,12 @@
     "id": "prickly-skin",
     "name": "Prickly Skin",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "prickly-skin.png",
     "stats": [],
     "grantsPowers": [

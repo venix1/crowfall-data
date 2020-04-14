@@ -1,0 +1,25 @@
+{
+    "id": "ranger-suppression-shot",
+    "name": "Suppression Shot",
+    "class": "ranger",
+    "description": "This talent grants the Suppression Shot power.",
+    "icon": "suppression-shot.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "suppression-shot",
+            "name": "Suppression Shot"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-withering-barrage",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-target-practice"
+    ],
+    "locksSkill": []
+}

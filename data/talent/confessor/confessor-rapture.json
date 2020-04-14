@@ -1,0 +1,22 @@
+{
+    "id": "confessor-rapture",
+    "name": "Rapture",
+    "class": "confessor",
+    "description": "Rapture improves Damage Bonus: Enemy Low Health by 3% per point spent.",
+    "icon": "rapture.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-righteousness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-feed-the-flames",
+        "confessor-minor-iii",
+        "confessor-moment-of-glory"
+    ],
+    "locksSkill": []
+}

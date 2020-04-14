@@ -1,0 +1,25 @@
+{
+    "id": "duelist-dynamite",
+    "name": "Dynamite",
+    "class": "duelist",
+    "description": "This talent grants the Dynamite power.",
+    "icon": "dynamite.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "dynamite",
+            "name": "Dynamite"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-quick-draw",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-bewildering-offense"
+    ],
+    "locksSkill": []
+}

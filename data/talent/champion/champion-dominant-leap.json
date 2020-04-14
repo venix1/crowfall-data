@@ -1,0 +1,20 @@
+{
+    "id": "champion-dominant-leap",
+    "name": "Dominant Leap",
+    "class": "champion",
+    "description": "Dominant Leap enhances Leap powers to add a point of Dominance.",
+    "icon": "dominant-leap.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-style",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-barbarity"
+    ],
+    "locksSkill": []
+}

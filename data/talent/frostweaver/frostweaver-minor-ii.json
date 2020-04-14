@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "stinging-strikes",
+            "skill": "frostweaver-stinging-strikes",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "freezing-reign"
+        "frostweaver-freezing-reign"
     ],
     "locksSkill": []
 }

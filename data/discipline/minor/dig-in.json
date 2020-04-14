@@ -2,10 +2,12 @@
     "id": "dig-in",
     "name": "Dig In!",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "dig-in.png",
     "stats": [],
     "grantsPowers": [

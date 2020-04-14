@@ -1,0 +1,25 @@
+{
+    "id": "druid-healing-rain",
+    "name": "Healing Rain",
+    "class": "druid",
+    "description": "This talent grants the Healing Rain power.",
+    "icon": "healing-rain.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "healing-rain",
+            "name": "Healing Rain"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-partial-redirection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-secret-of-stone"
+    ],
+    "locksSkill": []
+}

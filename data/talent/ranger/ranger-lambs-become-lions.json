@@ -1,0 +1,21 @@
+{
+    "id": "ranger-lambs-become-lions",
+    "name": "Lambs Become Lions",
+    "class": "ranger",
+    "description": "Lambs Become Lions improves Attack Power by 75 per point spent.",
+    "icon": "lambs-become-lions.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-into-the-shadows",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-a-toll-is-a-toll",
+        "ranger-quick-arming"
+    ],
+    "locksSkill": []
+}

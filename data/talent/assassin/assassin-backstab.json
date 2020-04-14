@@ -1,0 +1,30 @@
+{
+    "id": "assassin-backstab",
+    "name": "Backstab",
+    "class": "assassin",
+    "description": "This talent grants the Backstab power.",
+    "icon": "backstab.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "backstab",
+            "name": "Backstab"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-brutal-fury",
+            "point": 1
+        },
+        {
+            "skill": "assassin-shadow-heart",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-disengage",
+        "assassin-in-the-zone"
+    ],
+    "locksSkill": []
+}

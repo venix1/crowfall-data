@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ruthless-force",
+            "skill": "myrmidon-ruthless-force",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "violent-might"
+        "myrmidon-violent-might"
     ],
     "locksSkill": []
 }

@@ -2,7 +2,7 @@
     "id": "elken",
     "name": "Elken",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "elken.png",
     "stats": [
         {

@@ -1,0 +1,22 @@
+{
+    "id": "assassin-deceptive-strength",
+    "name": "Deceptive Strength",
+    "class": "assassin",
+    "description": "Deceptive Strength improves High Health Damage Bonus by 2% per point spent.",
+    "icon": "deceptive-strength.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-tools-of-the-trade",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-dagger-storm",
+        "assassin-minor-iii",
+        "assassin-schadenfreude"
+    ],
+    "locksSkill": []
+}

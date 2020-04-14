@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "boundless-energy",
+            "skill": "ranger-boundless-energy",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "sleight-of-hand"
+        "ranger-sleight-of-hand"
     ],
     "locksSkill": []
 }

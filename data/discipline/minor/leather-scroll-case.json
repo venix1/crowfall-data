@@ -2,10 +2,12 @@
     "id": "leather-scroll-case",
     "name": "Leather Scroll Case",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "leather-scroll-case.png",
     "stats": [],
     "grantsPowers": [],

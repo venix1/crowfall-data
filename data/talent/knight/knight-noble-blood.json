@@ -1,0 +1,25 @@
+{
+    "id": "knight-noble-blood",
+    "name": "Noble Blood",
+    "class": "knight",
+    "description": "This talent grants the Noble Blood power.",
+    "icon": "noble-blood.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "noble-blood",
+            "name": "Noble Blood"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-endurance",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "knight-bulwark"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "myrmidon-audacity",
+    "name": "Audacity",
+    "class": "myrmidon",
+    "description": "Audacity improves Personal Healing Modifier by 1.5% per point spent.",
+    "icon": "audacity.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-tough-hide",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-vengeful-vitality"
+    ],
+    "locksSkill": []
+}

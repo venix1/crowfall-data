@@ -2,10 +2,12 @@
     "id": "finish-him",
     "name": "Finish Him!",
     "type": "minor",
-    "trait": {
-        "id": "trait-executioner",
-        "name": "Executioner"
-    },
+    "trait": [
+        {
+            "id": "trait-executioner",
+            "name": "Executioner"
+        }
+    ],
     "icon": "finish-him.png",
     "stats": [],
     "grantsPowers": [

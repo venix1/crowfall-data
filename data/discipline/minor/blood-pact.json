@@ -2,10 +2,12 @@
     "id": "blood-pact",
     "name": "Blood Pact",
     "type": "minor",
-    "trait": {
-        "id": "trait-daywalker",
-        "name": "Daywalker"
-    },
+    "trait": [
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        }
+    ],
     "icon": "blood-pact.png",
     "stats": [],
     "grantsPowers": [

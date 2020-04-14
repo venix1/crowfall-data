@@ -1,0 +1,25 @@
+{
+    "id": "knight-shield-slam",
+    "name": "Shield Slam",
+    "class": "knight",
+    "description": "This talent grants the Shield Slam power.",
+    "icon": "shield-slam.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "shield-slam",
+            "name": "Shield Slam"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-shield-bash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-exploration-i"
+    ],
+    "locksSkill": []
+}

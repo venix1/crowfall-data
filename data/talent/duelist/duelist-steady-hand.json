@@ -1,0 +1,22 @@
+{
+    "id": "duelist-steady-hand",
+    "name": "Steady Hand",
+    "class": "duelist",
+    "description": "Steady Hand improves Attack Power by 45 per point spent.",
+    "icon": "steady-hand.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-pepperbox-shot",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-guile",
+        "duelist-redirect-pain",
+        "duelist-sneaky"
+    ],
+    "locksSkill": []
+}

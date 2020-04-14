@@ -1,0 +1,24 @@
+{
+    "id": "knight-fallback",
+    "name": "Fallback",
+    "class": "knight",
+    "description": "Fallback enhances Pursuit to apply a Barrier to the player when it ends.",
+    "icon": "fallback.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-liberality",
+            "point": 2
+        },
+        {
+            "skill": "knight-mighty-shield",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-armory"
+    ],
+    "locksSkill": []
+}

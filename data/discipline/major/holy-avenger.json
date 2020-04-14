@@ -2,10 +2,12 @@
     "id": "holy-avenger",
     "name": "Holy Avenger",
     "type": "major",
-    "trait": {
-        "id": "trait-blunt-weapon-training",
-        "name": "Blunt Weapon Training"
-    },
+    "trait": [
+        {
+            "id": "trait-blunt-weapon-training",
+            "name": "Blunt Weapon Training"
+        }
+    ],
     "icon": "holy-avenger.png",
     "stats": [
         {

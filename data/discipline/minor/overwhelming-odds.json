@@ -2,10 +2,12 @@
     "id": "overwhelming-odds",
     "name": "Overwhelming Odds",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "overwhelming-odds.png",
     "stats": [],
     "grantsPowers": [

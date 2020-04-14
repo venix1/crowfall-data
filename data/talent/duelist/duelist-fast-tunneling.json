@@ -1,0 +1,20 @@
+{
+    "id": "duelist-fast-tunneling",
+    "name": "Fast Tunneling",
+    "class": "duelist",
+    "description": "Fast Tunneling enhances Tunnel reducing its cooldown to 12 seconds.",
+    "icon": "fast-tunneling.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-daring-escape",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-shiny-coat"
+    ],
+    "locksSkill": []
+}

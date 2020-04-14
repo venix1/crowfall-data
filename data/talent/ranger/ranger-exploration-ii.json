@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "armor-piercing",
+            "skill": "ranger-armor-piercing",
             "point": 2
         },
         {
-            "skill": "weathered-resilience",
+            "skill": "ranger-weathered-resilience",
             "point": 2
         },
         {
-            "skill": "sleight-of-hand",
+            "skill": "ranger-sleight-of-hand",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "bring-me-everyone"
+        "ranger-bring-me-everyone"
     ],
     "locksSkill": []
 }

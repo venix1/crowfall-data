@@ -1,0 +1,24 @@
+{
+    "id": "confessor-flames-of-arkon",
+    "name": "Flames of Arkon",
+    "class": "confessor",
+    "description": "Forced Confession no longer consumes Flames Of Truth when cast.",
+    "icon": "flames-of-arkon.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-tools-of-justice",
+            "point": 2
+        },
+        {
+            "skill": "confessor-zeal",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-sanctified"
+    ],
+    "locksSkill": []
+}

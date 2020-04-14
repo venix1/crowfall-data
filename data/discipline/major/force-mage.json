@@ -2,10 +2,12 @@
     "id": "force-mage",
     "name": "Force Mage",
     "type": "major",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "force-mage.png",
     "stats": [
         {

@@ -2,10 +2,12 @@
     "id": "armor-of-faith",
     "name": "Armor of Faith",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "armor-of-faith.png",
     "stats": [],
     "grantsPowers": [

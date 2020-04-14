@@ -2,10 +2,12 @@
     "id": "sawbones",
     "name": "Sawbones",
     "type": "minor",
-    "trait": {
-        "id": "trait-necromancer",
-        "name": "Necromancer"
-    },
+    "trait": [
+        {
+            "id": "trait-necromancer",
+            "name": "Necromancer"
+        }
+    ],
     "icon": "sawbones.png",
     "stats": [],
     "grantsPowers": [

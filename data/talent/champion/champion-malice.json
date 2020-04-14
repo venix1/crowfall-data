@@ -1,0 +1,21 @@
+{
+    "id": "champion-malice",
+    "name": "Malice",
+    "class": "champion",
+    "description": "Malice improves Movement Control Intensity by 7% per point spent.",
+    "icon": "malice.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-promotion-class-barbarian",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-spite",
+        "champion-brutal-followup"
+    ],
+    "locksSkill": []
+}

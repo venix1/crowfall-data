@@ -1,0 +1,22 @@
+{
+    "id": "cleric-prudence",
+    "name": "Prudence",
+    "class": "cleric",
+    "description": "Prudence improves Maximum Mana by 30 per point spent and Basic Attack Damage by 1.5% per point spent.",
+    "icon": "prudence.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-shield-block",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-flay",
+        "cleric-minor-ii",
+        "cleric-holy-symbol"
+    ],
+    "locksSkill": []
+}

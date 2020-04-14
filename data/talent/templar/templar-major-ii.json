@@ -9,7 +9,7 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "resurrection",
+            "skill": "templar-resurrection",
             "point": 1
         }
     ],

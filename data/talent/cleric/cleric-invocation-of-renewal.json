@@ -1,0 +1,28 @@
+{
+    "id": "cleric-invocation-of-renewal",
+    "name": "Invocation of Renewal",
+    "class": "cleric",
+    "description": "Invocation of Renewal improves Critical Healing Amount by 3% per point spent.",
+    "icon": "invocation-of-renewal.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-healing-hand",
+            "point": 1
+        },
+        {
+            "skill": "cleric-divine-illumination",
+            "point": 1
+        },
+        {
+            "skill": "cleric-empowered-circle-of-life",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-crusader"
+    ],
+    "locksSkill": []
+}

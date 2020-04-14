@@ -1,0 +1,25 @@
+{
+    "id": "ranger-ricochet-shot",
+    "name": "Ricochet Shot",
+    "class": "ranger",
+    "description": "This talent grants the Ricochet Shot power.",
+    "icon": "ricochet-shot.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "ricochet-shot",
+            "name": "Ricochet Shot"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-archers-stake",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-exploration-i"
+    ],
+    "locksSkill": []
+}

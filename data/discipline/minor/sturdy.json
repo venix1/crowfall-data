@@ -2,10 +2,12 @@
     "id": "sturdy",
     "name": "Sturdy",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "sturdy.png",
     "stats": [],
     "grantsPowers": [

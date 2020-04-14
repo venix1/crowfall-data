@@ -1,0 +1,20 @@
+{
+    "id": "knight-entangling-chains",
+    "name": "Entangling Chains",
+    "class": "knight",
+    "description": "Chain Attack also applies a Slow effect to the target.",
+    "icon": "entangling-chains.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-heartless",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-pinning"
+    ],
+    "locksSkill": []
+}

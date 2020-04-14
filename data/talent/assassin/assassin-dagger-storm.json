@@ -1,0 +1,25 @@
+{
+    "id": "assassin-dagger-storm",
+    "name": "Dagger Storm",
+    "class": "assassin",
+    "description": "This talent grants the Dagger Storm power.",
+    "icon": "dagger-storm.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "dagger-storm",
+            "name": "Dagger Storm"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-deceptive-strength",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-aggression"
+    ],
+    "locksSkill": []
+}

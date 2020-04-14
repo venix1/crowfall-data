@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "chivalry",
+            "skill": "knight-chivalry",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "pell-training"
+        "knight-pell-training"
     ],
     "locksSkill": []
 }

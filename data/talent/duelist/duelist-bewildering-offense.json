@@ -1,0 +1,28 @@
+{
+    "id": "duelist-bewildering-offense",
+    "name": "Bewildering Offense",
+    "class": "duelist",
+    "description": "Bewildering Offense improves Armor Penetration: Physical by 2% per point spent.",
+    "icon": "bewildering-offense.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-run-and-gun",
+            "point": 1
+        },
+        {
+            "skill": "duelist-triple-aught-shot",
+            "point": 1
+        },
+        {
+            "skill": "duelist-dynamite",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-slayer"
+    ],
+    "locksSkill": []
+}

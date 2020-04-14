@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "freezing-reign",
+            "skill": "frostweaver-freezing-reign",
             "point": 2
         },
         {
-            "skill": "crisp-casting",
+            "skill": "frostweaver-crisp-casting",
             "point": 2
         },
         {
-            "skill": "exquisite-detail",
+            "skill": "frostweaver-exquisite-detail",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "resurrection"
+        "frostweaver-resurrection"
     ],
     "locksSkill": []
 }

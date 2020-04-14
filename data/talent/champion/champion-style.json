@@ -1,0 +1,21 @@
+{
+    "id": "champion-style",
+    "name": "Style",
+    "class": "champion",
+    "description": "Style improves Critical Strike by 1% per point spent.",
+    "icon": "style.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-enmity",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "champion-dominant-leap",
+        "champion-violent-neckbreaker"
+    ],
+    "locksSkill": []
+}

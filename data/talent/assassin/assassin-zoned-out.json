@@ -1,0 +1,20 @@
+{
+    "id": "assassin-zoned-out",
+    "name": "Zoned Out",
+    "class": "assassin",
+    "description": "Zoned Out increases the duration of In The Zone by 3 seconds per PIP spent.",
+    "icon": "zoned-out.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-brick-outhouse",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-alligator-blood"
+    ],
+    "locksSkill": []
+}

@@ -2,7 +2,7 @@
     "id": "guinecean",
     "name": "Guinecean",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "guinecean.png",
     "stats": [
         {

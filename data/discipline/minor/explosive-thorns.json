@@ -2,10 +2,12 @@
     "id": "explosive-thorns",
     "name": "Explosive Thorns",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "explosive-thorns.png",
     "stats": [],
     "grantsPowers": [

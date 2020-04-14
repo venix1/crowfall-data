@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "erudite",
+            "skill": "confessor-erudite",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "revelation"
+        "confessor-revelation"
     ],
     "locksSkill": []
 }

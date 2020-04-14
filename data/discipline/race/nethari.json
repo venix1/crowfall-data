@@ -2,7 +2,7 @@
     "id": "nethari",
     "name": "Nethari",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "nethari.png",
     "stats": [
         {

@@ -1,0 +1,28 @@
+{
+    "id": "champion-outrage",
+    "name": "Outrage",
+    "class": "champion",
+    "description": "Outrage improves Rage Regen In Combat by 0.5 per point spent and Rage Loss Out of Combat by 0.025 per point spent",
+    "icon": "outrage.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-brutal-warrior",
+            "point": 1
+        },
+        {
+            "skill": "champion-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "champion-animosity",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "champion-exploration-ii"
+    ],
+    "locksSkill": []
+}

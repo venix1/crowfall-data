@@ -1,0 +1,25 @@
+{
+    "id": "druid-ritual-sacrifice",
+    "name": "Ritual Sacrifice",
+    "class": "druid",
+    "description": "This talent replaces the Sacrifice power with the Ritual Sacrifice power.",
+    "icon": "ritual-sacrifice.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "ritual-sacrifice",
+            "name": "Ritual Sacrifice"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-yielding-roots",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "druid-ironwood-skin"
+    ],
+    "locksSkill": []
+}

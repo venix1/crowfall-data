@@ -1,0 +1,20 @@
+{
+    "id": "confessor-salvation",
+    "name": "Salvation",
+    "class": "confessor",
+    "description": "Salvation enhances Condemnation to heal the caster each time it hits.",
+    "icon": "salvation.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-militant",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-well-oiled-sandal"
+    ],
+    "locksSkill": []
+}

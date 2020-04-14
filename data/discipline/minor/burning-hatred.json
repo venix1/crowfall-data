@@ -2,10 +2,12 @@
     "id": "burning-hatred",
     "name": "Burning Hatred",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "burning-hatred.png",
     "stats": [],
     "grantsPowers": [

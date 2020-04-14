@@ -1,0 +1,25 @@
+{
+    "id": "druid-shroud-of-darkness",
+    "name": "Shroud of Darkness",
+    "class": "druid",
+    "description": "This talent grants the Shroud Of Darkness power.",
+    "icon": "shroud-of-darkness.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "shroud-of-darkness",
+            "name": "Shroud Of Darkness"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-barbed-thorns",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-heart-of-the-wild"
+    ],
+    "locksSkill": []
+}

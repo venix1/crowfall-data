@@ -2,10 +2,12 @@
     "id": "poisoner",
     "name": "Poisoner",
     "type": "major",
-    "trait": {
-        "id": "trait-bladed-weapon-training",
-        "name": "Bladed Weapon Training"
-    },
+    "trait": [
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        }
+    ],
     "icon": "poisoner.png",
     "stats": [
         {

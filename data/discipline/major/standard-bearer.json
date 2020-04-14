@@ -2,10 +2,12 @@
     "id": "standard-bearer",
     "name": "Standard Bearer",
     "type": "major",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "standard-bearer.png",
     "stats": [
         {

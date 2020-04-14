@@ -2,7 +2,7 @@
     "id": "high-elf",
     "name": "High-Elf",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "high-elf.png",
     "stats": [
         {

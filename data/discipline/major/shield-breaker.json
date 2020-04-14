@@ -2,10 +2,12 @@
     "id": "shield-breaker",
     "name": "Shield Breaker",
     "type": "major",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "shield-breaker.png",
     "stats": [
         {

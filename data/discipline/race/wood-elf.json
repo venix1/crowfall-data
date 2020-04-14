@@ -2,7 +2,7 @@
     "id": "wood-elf",
     "name": "Wood-Elf",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "wood-elf.png",
     "stats": [
         {

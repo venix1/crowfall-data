@@ -1,0 +1,20 @@
+{
+    "id": "frostweaver-slush-fund",
+    "name": "Slush Fund",
+    "class": "frostweaver",
+    "description": "Slush Fund enhances Retaliate powers to recover 35 Stamina over 7 seconds.",
+    "icon": "slush-fund.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-solidify",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-crisp-casting"
+    ],
+    "locksSkill": []
+}

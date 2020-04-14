@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "relentless",
+            "skill": "myrmidon-relentless",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "arrogance"
+        "myrmidon-arrogance"
     ],
     "locksSkill": []
 }

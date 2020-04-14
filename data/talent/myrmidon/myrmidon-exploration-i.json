@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "arcing-slash",
+            "skill": "myrmidon-arcing-slash",
             "point": 1
         },
         {
-            "skill": "pulverize",
+            "skill": "myrmidon-pulverize",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "myrmidon-minor-i",
-        "colossus-smash"
+        "myrmidon-colossus-smash"
     ],
     "locksSkill": []
 }

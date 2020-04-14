@@ -1,0 +1,21 @@
+{
+    "id": "cleric-malediction",
+    "name": "Malediction",
+    "class": "cleric",
+    "description": "Malediction improves Attack Power by 75 per point spent.",
+    "icon": "malediction.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-promotion-class-radical",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-hammer-time",
+        "cleric-symbol-of-fury"
+    ],
+    "locksSkill": []
+}

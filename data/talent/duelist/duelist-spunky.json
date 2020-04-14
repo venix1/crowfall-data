@@ -1,0 +1,20 @@
+{
+    "id": "duelist-spunky",
+    "name": "Spunky",
+    "class": "duelist",
+    "description": "Spunky improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent.",
+    "icon": "spunky.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-energetic",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-charming"
+    ],
+    "locksSkill": []
+}

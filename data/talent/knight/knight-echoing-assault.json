@@ -1,0 +1,20 @@
+{
+    "id": "knight-echoing-assault",
+    "name": "Echoing Assault",
+    "class": "knight",
+    "description": "Echoing Assault enhances Stun and Knock Down to recover 15% Energy when applied.",
+    "icon": "echoing-assault.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-chivalry",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "knight-pell-training"
+    ],
+    "locksSkill": []
+}

@@ -2,10 +2,12 @@
     "id": "rune-caster",
     "name": "Rune Caster",
     "type": "major",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "rune-caster.png",
     "stats": [
         {

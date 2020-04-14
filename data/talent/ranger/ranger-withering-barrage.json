@@ -1,0 +1,21 @@
+{
+    "id": "ranger-withering-barrage",
+    "name": "Withering Barrage",
+    "class": "ranger",
+    "description": "Enemies hit by your Barrage suffer a 20% Damage Bonus decrease for 15 seconds.",
+    "icon": "withering-barrage.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-military-training",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-suppression-shot",
+        "ranger-amazing-rapidity"
+    ],
+    "locksSkill": []
+}

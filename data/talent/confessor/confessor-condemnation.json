@@ -1,0 +1,25 @@
+{
+    "id": "confessor-condemnation",
+    "name": "Condemnation",
+    "class": "confessor",
+    "description": "This talent grants the Condemnation power.",
+    "icon": "condemnation.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "condemnation",
+            "name": "Condemnation"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-fervor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-exploration-i"
+    ],
+    "locksSkill": []
+}

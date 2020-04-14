@@ -1,0 +1,20 @@
+{
+    "id": "assassin-cloaked-in-shadow",
+    "name": "Cloaked in Shadow",
+    "class": "assassin",
+    "description": "Cloaked in Shadow increases your Stealth by 35.",
+    "icon": "cloaked-in-shadow.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-vigor",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-born-in-darkness"
+    ],
+    "locksSkill": []
+}

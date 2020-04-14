@@ -1,0 +1,20 @@
+{
+    "id": "knight-freeze-recruit-freeze",
+    "name": "Freeze Recruit Freeze!",
+    "class": "knight",
+    "description": "Freeze Recruit Freeze! enhances Noble Blood to also Root enemies.",
+    "icon": "freeze-recruit-freeze.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-ringing-shield",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-pinning"
+    ],
+    "locksSkill": []
+}

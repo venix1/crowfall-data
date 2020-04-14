@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "flog",
+            "skill": "cleric-flog",
             "point": 2
         },
         {
-            "skill": "sanctuary",
+            "skill": "cleric-sanctuary",
             "point": 2
         },
         {
-            "skill": "reproval",
+            "skill": "cleric-reproval",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "circle-of-life"
+        "cleric-circle-of-life"
     ],
     "locksSkill": []
 }

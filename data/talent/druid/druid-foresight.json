@@ -1,0 +1,20 @@
+{
+    "id": "druid-foresight",
+    "name": "Foresight",
+    "class": "druid",
+    "description": "Foresight improves Critical Healing Chance by 1% per point spent.",
+    "icon": "foresight.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-faerie-flames",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-remnant-of-gaea"
+    ],
+    "locksSkill": []
+}

@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "energetic",
+            "skill": "duelist-energetic",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "charming"
+        "duelist-charming"
     ],
     "locksSkill": []
 }

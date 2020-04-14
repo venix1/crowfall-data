@@ -2,10 +2,12 @@
     "id": "shield-whiz",
     "name": "Shield Whiz",
     "type": "minor",
-    "trait": {
-        "id": "trait-shield-familiarity",
-        "name": "Shield Familiarity"
-    },
+    "trait": [
+        {
+            "id": "trait-shield-familiarity",
+            "name": "Shield Familiarity"
+        }
+    ],
     "icon": "shield-whiz.png",
     "stats": [
         {

@@ -1,0 +1,21 @@
+{
+    "id": "assassin-no-escape",
+    "name": "No Escape",
+    "class": "assassin",
+    "description": "No Escape improves Movement Crowd Control by 6% per point spent.",
+    "icon": "no-escape.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-toxicology",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-flow-state",
+        "assassin-blackout"
+    ],
+    "locksSkill": []
+}

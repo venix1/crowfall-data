@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "artful-advance",
+            "skill": "duelist-artful-advance",
             "point": 2
         },
         {
-            "skill": "wily",
+            "skill": "duelist-wily",
             "point": 2
         },
         {
-            "skill": "charming",
+            "skill": "duelist-charming",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "rapid-fire"
+        "duelist-rapid-fire"
     ],
     "locksSkill": []
 }

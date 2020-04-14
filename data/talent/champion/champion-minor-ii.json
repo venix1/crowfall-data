@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "domination",
+            "skill": "champion-domination",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "brutality"
+        "champion-brutality"
     ],
     "locksSkill": []
 }

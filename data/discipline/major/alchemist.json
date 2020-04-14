@@ -2,10 +2,12 @@
     "id": "alchemist",
     "name": "Alchemist",
     "type": "major",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "alchemist.png",
     "stats": [
         {

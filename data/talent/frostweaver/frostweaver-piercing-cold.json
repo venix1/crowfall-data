@@ -1,0 +1,33 @@
+{
+    "id": "frostweaver-piercing-cold",
+    "name": "Piercing Cold",
+    "class": "frostweaver",
+    "description": "Piercing Cold improves Armor Penetration: Elemental by 2% per point spent.\\n\\nTraits Granted:\\nFrigid Focus Gem",
+    "icon": "piercing-cold.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-frigid-focus-gem",
+            "name": "Frigid Focus Gem"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-fatal-lance",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-flash-freezing",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-cold-blooded",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-archmage"
+    ],
+    "locksSkill": []
+}

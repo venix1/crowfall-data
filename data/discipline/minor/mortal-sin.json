@@ -2,10 +2,12 @@
     "id": "mortal-sin",
     "name": "Mortal Sin",
     "type": "minor",
-    "trait": {
-        "id": "trait-disciple-of-flame",
-        "name": "Disciple of Flame"
-    },
+    "trait": [
+        {
+            "id": "trait-disciple-of-flame",
+            "name": "Disciple of Flame"
+        }
+    ],
     "icon": "mortal-sin.png",
     "stats": [],
     "grantsPowers": [

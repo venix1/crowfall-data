@@ -2,10 +2,12 @@
     "id": "protective-thorns",
     "name": "Protective Thorns",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "protective-thorns.png",
     "stats": [],
     "grantsPowers": [

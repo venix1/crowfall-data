@@ -2,10 +2,12 @@
     "id": "weaponsmith",
     "name": "Weaponsmith",
     "type": "minor",
-    "trait": {
-        "id": "trait-blacksmith",
-        "name": "Blacksmith"
-    },
+    "trait": [
+        {
+            "id": "trait-blacksmith",
+            "name": "Blacksmith"
+        }
+    ],
     "icon": "weaponsmith.png",
     "stats": [],
     "grantsPowers": [

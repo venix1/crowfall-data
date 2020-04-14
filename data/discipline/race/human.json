@@ -2,7 +2,7 @@
     "id": "human",
     "name": "Human",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "human.png",
     "stats": [
         {

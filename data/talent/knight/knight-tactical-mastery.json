@@ -1,0 +1,20 @@
+{
+    "id": "knight-tactical-mastery",
+    "name": "Tactical Mastery",
+    "class": "knight",
+    "description": "Tactical Mastery improves Power Efficiency by 8% per point spent.",
+    "icon": "tactical-mastery.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-chivalry",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "knight-pell-training"
+    ],
+    "locksSkill": []
+}

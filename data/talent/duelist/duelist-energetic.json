@@ -1,0 +1,22 @@
+{
+    "id": "duelist-energetic",
+    "name": "Energetic",
+    "class": "duelist",
+    "description": "Energetic improves Maximum Stamina by 3 per point spent and Basic Attack Damage by 1.5% per point spent.",
+    "icon": "energetic.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-pepperbox-shot",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-inconceivable",
+        "duelist-minor-iii",
+        "duelist-spunky"
+    ],
+    "locksSkill": []
+}

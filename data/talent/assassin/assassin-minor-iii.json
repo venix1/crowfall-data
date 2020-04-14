@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "deceptive-strength",
+            "skill": "assassin-deceptive-strength",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "aggression"
+        "assassin-aggression"
     ],
     "locksSkill": []
 }

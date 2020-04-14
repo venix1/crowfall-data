@@ -1,0 +1,28 @@
+{
+    "id": "druid-heart-of-the-wild",
+    "name": "Heart of the Wild",
+    "class": "druid",
+    "description": "Heart of the Wild improves Maximum Health by 500 per point spent.",
+    "icon": "heart-of-the-wild.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-pack-avatar",
+            "point": 1
+        },
+        {
+            "skill": "druid-might-of-blight",
+            "point": 1
+        },
+        {
+            "skill": "druid-shroud-of-darkness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-archdruid"
+    ],
+    "locksSkill": []
+}

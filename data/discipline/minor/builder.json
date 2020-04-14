@@ -2,10 +2,12 @@
     "id": "builder",
     "name": "Builder",
     "type": "minor",
-    "trait": {
-        "id": "trait-stonemason",
-        "name": "Stonemason"
-    },
+    "trait": [
+        {
+            "id": "trait-stonemason",
+            "name": "Stonemason"
+        }
+    ],
     "icon": "builder.png",
     "stats": [],
     "grantsPowers": [

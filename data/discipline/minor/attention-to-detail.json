@@ -2,10 +2,12 @@
     "id": "attention-to-detail",
     "name": "Attention to Detail",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "attention-to-detail.png",
     "stats": [],
     "grantsPowers": [

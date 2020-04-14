@@ -2,10 +2,12 @@
     "id": "eminently-punchable",
     "name": "Eminently Punchable",
     "type": "minor",
-    "trait": {
-        "id": "trait-daywalker",
-        "name": "Daywalker"
-    },
+    "trait": [
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        }
+    ],
     "icon": "eminently-punchable.png",
     "stats": [],
     "grantsPowers": [

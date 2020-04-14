@@ -1,0 +1,21 @@
+{
+    "id": "ranger-rapid-fire",
+    "name": "Rapid Fire",
+    "class": "ranger",
+    "description": "This talent grants the Rapid Fire power.",
+    "icon": "rapid-fire.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "rapid-fire",
+            "name": "Rapid Fire"
+        }
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "ranger-hunting-party",
+        "ranger-tree-sparring"
+    ],
+    "locksSkill": []
+}

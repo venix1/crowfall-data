@@ -1,0 +1,28 @@
+{
+    "id": "templar-intercession",
+    "name": "Intercession",
+    "class": "templar",
+    "description": "Intercession improves Personal Healing Modifier by 1.5% per point spent.",
+    "icon": "intercession.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-indictment",
+            "point": 1
+        },
+        {
+            "skill": "templar-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "templar-tempus-medico",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "templar-exploration-ii"
+    ],
+    "locksSkill": []
+}

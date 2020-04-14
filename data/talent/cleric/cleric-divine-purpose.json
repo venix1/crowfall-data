@@ -1,0 +1,20 @@
+{
+    "id": "cleric-divine-purpose",
+    "name": "Divine Purpose",
+    "class": "cleric",
+    "description": "Divine Purpose enhances Divine Order to reduce its cost to 500 Soul Power.",
+    "icon": "divine-purpose.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-symbol-of-fury",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-transcendence"
+    ],
+    "locksSkill": []
+}

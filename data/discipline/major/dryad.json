@@ -2,10 +2,12 @@
     "id": "dryad",
     "name": "Dryad",
     "type": "major",
-    "trait": {
-        "id": "trait-gaeas-inspiration",
-        "name": "Gaea's Inspiration"
-    },
+    "trait": [
+        {
+            "id": "trait-gaeas-inspiration",
+            "name": "Gaea's Inspiration"
+        }
+    ],
     "icon": "dryad.png",
     "stats": [
         {

@@ -1,0 +1,28 @@
+{
+    "id": "duelist-charming",
+    "name": "Charming",
+    "class": "duelist",
+    "description": "Charming improves Personal Healing Modifier by 1.5% per point spent.",
+    "icon": "charming.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-inconceivable",
+            "point": 1
+        },
+        {
+            "skill": "duelist-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "duelist-spunky",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-exploration-ii"
+    ],
+    "locksSkill": []
+}

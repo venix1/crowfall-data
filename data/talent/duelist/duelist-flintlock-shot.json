@@ -1,0 +1,21 @@
+{
+    "id": "duelist-flintlock-shot",
+    "name": "Flintlock Shot",
+    "class": "duelist",
+    "description": "This talent grants the Flintlock Shot power.",
+    "icon": "flintlock-shot.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "flintlock-shot",
+            "name": "Flintlock Shot"
+        }
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "duelist-flick-of-the-blade",
+        "duelist-well-groomed"
+    ],
+    "locksSkill": []
+}

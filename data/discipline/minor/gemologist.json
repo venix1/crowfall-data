@@ -2,10 +2,12 @@
     "id": "gemologist",
     "name": "Gemologist",
     "type": "minor",
-    "trait": {
-        "id": "trait-jewelcrafter",
-        "name": "Jewelcrafter"
-    },
+    "trait": [
+        {
+            "id": "trait-jewelcrafter",
+            "name": "Jewelcrafter"
+        }
+    ],
     "icon": "gemologist.png",
     "stats": [],
     "grantsPowers": [

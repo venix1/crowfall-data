@@ -2,10 +2,12 @@
     "id": "uniform-mail",
     "name": "Uniform Mail",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "uniform-mail.png",
     "stats": [],
     "grantsPowers": [

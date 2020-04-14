@@ -2,10 +2,12 @@
     "id": "the-reaper",
     "name": "The Reaper",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "the-reaper.png",
     "stats": [
         {

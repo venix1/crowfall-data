@@ -2,7 +2,7 @@
     "id": "half-giant",
     "name": "Half-Giant",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "half-giant.png",
     "stats": [
         {

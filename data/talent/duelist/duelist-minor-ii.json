@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "critical-insight",
+            "skill": "duelist-critical-insight",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "artful-advance"
+        "duelist-artful-advance"
     ],
     "locksSkill": []
 }

@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "potential-energy",
+            "skill": "druid-potential-energy",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "lines-of-force"
+        "druid-lines-of-force"
     ],
     "locksSkill": []
 }

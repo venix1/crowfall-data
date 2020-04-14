@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "bark-skin",
+            "skill": "druid-bark-skin",
             "point": 1
         },
         {
-            "skill": "call-storm",
+            "skill": "druid-call-storm",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "druid-minor-i",
-        "mark-of-the-storm"
+        "druid-mark-of-the-storm"
     ],
     "locksSkill": []
 }

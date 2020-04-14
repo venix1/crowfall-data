@@ -1,0 +1,25 @@
+{
+    "id": "cleric-searing-light",
+    "name": "Searing Light",
+    "class": "cleric",
+    "description": "Searing Light replaces Flash Of Light and causes Holy damage with a 9 second cooldown. Searing Light won't inflict Blindness if reused more quickly than once every 21 seconds.",
+    "icon": "searing-light.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "searing-light",
+            "name": "Searing Light"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-hammer-time",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-transcendence"
+    ],
+    "locksSkill": []
+}

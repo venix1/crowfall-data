@@ -1,0 +1,35 @@
+{
+    "id": "cleric-arbiter",
+    "name": "Arbiter",
+    "class": "cleric",
+    "description": "This talent grants the Arbiter passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nFire Damage Cap\\n\\nTraits Granted:\\nMystical Throwing Hammer Mastery\\nBuckler Mastery\\nMedium Shield Mastery",
+    "icon": "arbiter.png",
+    "pointRequirement": 0,
+    "levelRequirement": 25,
+    "grants": [
+        {
+            "id": "arbiter",
+            "name": "Arbiter"
+        },
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
+        },
+        {
+            "id": "trait-medium-shield-mastery",
+            "name": "Medium Shield Mastery"
+        },
+        {
+            "id": "trait-hammer-mastery",
+            "name": "Hammer Mastery"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-celestial-authority",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": []
+}

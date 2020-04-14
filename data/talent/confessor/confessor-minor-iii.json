@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "rapture",
+            "skill": "confessor-rapture",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "persecution"
+        "confessor-persecution"
     ],
     "locksSkill": []
 }

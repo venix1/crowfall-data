@@ -2,10 +2,12 @@
     "id": "spirit-whip",
     "name": "Spirit Whip",
     "type": "minor",
-    "trait": {
-        "id": "trait-martial-weapons-principles",
-        "name": "Martial Weapons Principles"
-    },
+    "trait": [
+        {
+            "id": "trait-martial-weapons-principles",
+            "name": "Martial Weapons Principles"
+        }
+    ],
     "icon": "spirit-whip.png",
     "stats": [],
     "grantsPowers": [

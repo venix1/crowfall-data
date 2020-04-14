@@ -1,0 +1,20 @@
+{
+    "id": "confessor-hellfire-and-brimstone",
+    "name": "Hellfire and Brimstone",
+    "class": "confessor",
+    "description": "Hellfire and Brimstone enhances Hellfire Shield and Hellfire Aura so they are no longer consumed by Hellfire combo powers.",
+    "icon": "hellfire-and-brimstone.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-plenary-indulgence",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-redeem"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,20 @@
+{
+    "id": "cleric-empathy",
+    "name": "Empathy",
+    "class": "cleric",
+    "description": "Empathy improves Critical Healing Chance by 1% per point spent.",
+    "icon": "empathy.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-hand-of-the-gods",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-illuminate"
+    ],
+    "locksSkill": []
+}

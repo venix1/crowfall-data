@@ -1,0 +1,21 @@
+{
+    "id": "duelist-tenacity",
+    "name": "Tenacity",
+    "class": "duelist",
+    "description": "Tenacity improves Maximum Health by 350 per point spent.",
+    "icon": "tenacity.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-lurk-more",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-spy-master",
+        "duelist-cheap-shots"
+    ],
+    "locksSkill": []
+}

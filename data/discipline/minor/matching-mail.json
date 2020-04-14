@@ -2,10 +2,12 @@
     "id": "matching-mail",
     "name": "Matching Mail",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "matching-mail.png",
     "stats": [],
     "grantsPowers": [

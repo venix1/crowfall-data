@@ -2,10 +2,12 @@
     "id": "furious",
     "name": "Furious",
     "type": "minor",
-    "trait": {
-        "id": "trait-champion",
-        "name": "Champion"
-    },
+    "trait": [
+        {
+            "id": "trait-champion",
+            "name": "Champion"
+        }
+    ],
     "icon": "furious.png",
     "stats": [],
     "grantsPowers": [

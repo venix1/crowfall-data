@@ -1,0 +1,24 @@
+{
+    "id": "ranger-triumphant-cry",
+    "name": "Triumphant Cry",
+    "class": "ranger",
+    "description": "Triumphant Cry enhances Sweep to apply the Damage Bonus effect to all group members except you.",
+    "icon": "triumphant-cry.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-ravencoat",
+            "point": 2
+        },
+        {
+            "skill": "ranger-silencing-blades",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-tree-sap-blood"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "cleric-interdiction",
+    "name": "Interdiction",
+    "class": "cleric",
+    "description": "Interdiction improves Attack Control Intensity by 5% per point spent.",
+    "icon": "interdiction.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-promotion-class-arbiter",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-spiritual-restraint",
+        "cleric-seismic-symbol"
+    ],
+    "locksSkill": []
+}

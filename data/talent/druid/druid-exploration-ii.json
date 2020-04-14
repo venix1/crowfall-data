@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "lines-of-force",
+            "skill": "druid-lines-of-force",
             "point": 2
         },
         {
-            "skill": "ironwood-skin",
+            "skill": "druid-ironwood-skin",
             "point": 2
         },
         {
-            "skill": "loved-by-the-sun",
+            "skill": "druid-loved-by-the-sun",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "natures-cornerstone"
+        "druid-natures-cornerstone"
     ],
     "locksSkill": []
 }

@@ -2,10 +2,12 @@
     "id": "sharpshooter",
     "name": "Sharpshooter",
     "type": "major",
-    "trait": {
-        "id": "trait-archery-practice",
-        "name": "Archery Practice"
-    },
+    "trait": [
+        {
+            "id": "trait-archery-practice",
+            "name": "Archery Practice"
+        }
+    ],
     "icon": "sharpshooter.png",
     "stats": [
         {

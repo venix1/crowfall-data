@@ -1,0 +1,22 @@
+{
+    "id": "confessor-erudite",
+    "name": "Erudite",
+    "class": "confessor",
+    "description": "Erudite improves Maximum Mana by 30 per point spent.",
+    "icon": "erudite.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-righteousness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-flagellation",
+        "confessor-minor-ii",
+        "confessor-absolution"
+    ],
+    "locksSkill": []
+}

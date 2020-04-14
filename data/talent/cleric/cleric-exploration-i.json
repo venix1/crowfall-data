@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "tend-wounds",
+            "skill": "cleric-tend-wounds",
             "point": 1
         },
         {
-            "skill": "flash-of-light",
+            "skill": "cleric-flash-of-light",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "cleric-minor-i",
-        "shield-block"
+        "cleric-shield-block"
     ],
     "locksSkill": []
 }

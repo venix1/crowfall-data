@@ -1,0 +1,21 @@
+{
+    "id": "confessor-poise",
+    "name": "Poise",
+    "class": "confessor",
+    "description": "Poise enhances Fervor to no longer reduce Physical Mitigations by 15% while channeling Fervor. Instead, Slashing, Crushing, and Piercing Resistances are increased by 1000 while channeling Fervor.",
+    "icon": "poise.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-melt-shackles",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-righteous-shield",
+        "confessor-embrace-the-hellfire"
+    ],
+    "locksSkill": []
+}

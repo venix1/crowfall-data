@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "magic-dance",
+            "skill": "druid-magic-dance",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "loved-by-the-sun"
+        "druid-loved-by-the-sun"
     ],
     "locksSkill": []
 }

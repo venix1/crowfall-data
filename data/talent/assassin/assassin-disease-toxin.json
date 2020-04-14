@@ -1,0 +1,25 @@
+{
+    "id": "assassin-disease-toxin",
+    "name": "Disease Toxin",
+    "class": "assassin",
+    "description": "You can now equip Toxins that grant the Disease Toxin passive power.",
+    "icon": "disease-toxin.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-disease-toxin-training",
+            "name": "Disease Toxin Training"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-armor-gap",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-killers-instinct"
+    ],
+    "locksSkill": []
+}

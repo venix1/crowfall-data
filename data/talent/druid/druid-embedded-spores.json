@@ -1,0 +1,20 @@
+{
+    "id": "druid-embedded-spores",
+    "name": "Embedded Spores",
+    "class": "druid",
+    "description": "Embedded Spores improves Anti-Critical Strike by 1% per point spent.",
+    "icon": "embedded-spores.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-yielding-roots",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "druid-ironwood-skin"
+    ],
+    "locksSkill": []
+}

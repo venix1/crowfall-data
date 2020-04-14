@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ecstasy",
+            "skill": "templar-ecstasy",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "intercession"
+        "templar-intercession"
     ],
     "locksSkill": []
 }

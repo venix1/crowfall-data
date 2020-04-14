@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "revelation",
+            "skill": "confessor-revelation",
             "point": 2
         },
         {
-            "skill": "divine-armor",
+            "skill": "confessor-divine-armor",
             "point": 2
         },
         {
-            "skill": "persecution",
+            "skill": "confessor-persecution",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "hellfire"
+        "confessor-hellfire"
     ],
     "locksSkill": []
 }

@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "shield-block",
+            "skill": "knight-shield-block",
             "point": 1
         },
         {
-            "skill": "shield-slam",
+            "skill": "knight-shield-slam",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "knight-minor-i",
-        "hoplitodromos"
+        "knight-hoplitodromos"
     ],
     "locksSkill": []
 }

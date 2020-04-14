@@ -2,10 +2,12 @@
     "id": "helper-monkey",
     "name": "Helper Monkey",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "helper-monkey.png",
     "stats": [],
     "grantsPowers": [

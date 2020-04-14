@@ -2,10 +2,12 @@
     "id": "uniform-leather",
     "name": "Uniform Leather",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "uniform-leather.png",
     "stats": [],
     "grantsPowers": [

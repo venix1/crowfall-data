@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "sure-aim",
+            "skill": "ranger-sure-aim",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "armor-piercing"
+        "ranger-armor-piercing"
     ],
     "locksSkill": []
 }

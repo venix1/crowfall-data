@@ -1,0 +1,28 @@
+{
+    "id": "cleric-promotion-class-crusader",
+    "name": "Promotion Class - Crusader",
+    "class": "cleric",
+    "description": "Role: Healing\\n\\nPossessing the pinnacle of healing and defense capabilities, this holy warrior is a key member of any team.\\n\\nIncreases by 15%:\\nFinal Mitigation Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Crusader promotion class and prevents access to the Radical and Arbiter promotion classes.",
+    "icon": "promotion-class-crusader.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-plate-armor-proficiency",
+            "name": "Plate Armor Proficiency"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-circle-of-life",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-benediction"
+    ],
+    "locksSkill": [
+        "promotion-class-radical",
+        "promotion-class-arbiter"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "druid-faerie-flames",
+    "name": "Faerie Flames",
+    "class": "druid",
+    "description": "This talent grants the Faerie Flames power.",
+    "icon": "faerie-flames.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "faerie-flames",
+            "name": "Faerie Flames"
+        }
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "druid-foresight",
+        "druid-thick-skin"
+    ],
+    "locksSkill": []
+}

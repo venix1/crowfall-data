@@ -1,0 +1,32 @@
+{
+    "id": "frostweaver-promotion-class-frostguard",
+    "name": "Promotion Class - Frostguard",
+    "class": "frostweaver",
+    "description": "Role: Ranged Defense\\n\\nUsing ice and heavy armor to shield themselves makes this an incredibly tough and defensive wielder of magic.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 25%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent prevents access to the Archmage and Icecaller promotion classes.",
+    "icon": "promotion-class-frostguard.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        },
+        {
+            "id": "trait-plate-armor-proficiency",
+            "name": "Plate Armor Proficiency"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-resurrection",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-defensive-weaving"
+    ],
+    "locksSkill": [
+        "promotion-class-archmage",
+        "promotion-class-icecaller"
+    ]
+}

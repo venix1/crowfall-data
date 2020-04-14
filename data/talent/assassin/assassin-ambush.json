@@ -1,0 +1,25 @@
+{
+    "id": "assassin-ambush",
+    "name": "Ambush",
+    "class": "assassin",
+    "description": "This talent grants the Ambush power.",
+    "icon": "ambush.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "ambush",
+            "name": "Ambush"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-kiss-of-death",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-killers-gift"
+    ],
+    "locksSkill": []
+}

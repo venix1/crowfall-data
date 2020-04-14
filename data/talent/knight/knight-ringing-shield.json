@@ -1,0 +1,21 @@
+{
+    "id": "knight-ringing-shield",
+    "name": "Ringing Shield",
+    "class": "knight",
+    "description": "Ringing Shield enhances Shield Slam to also Suppress the target when it is more than 2/3rds charged.",
+    "icon": "ringing-shield.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-grip-strength",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "knight-freeze-recruit-freeze",
+        "knight-stop"
+    ],
+    "locksSkill": []
+}

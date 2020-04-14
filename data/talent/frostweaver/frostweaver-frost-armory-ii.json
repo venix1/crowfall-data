@@ -1,0 +1,25 @@
+{
+    "id": "frostweaver-frost-armory-ii",
+    "name": "Frost Armory",
+    "class": "frostweaver",
+    "description": "This talent grants the Frost Armory power.",
+    "icon": "frost-armory-ii.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "frost-armory",
+            "name": "Frost Armory"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-brisk-refreshment",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-tranquility"
+    ],
+    "locksSkill": []
+}

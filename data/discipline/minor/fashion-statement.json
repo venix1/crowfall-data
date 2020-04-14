@@ -2,10 +2,12 @@
     "id": "fashion-statement",
     "name": "Fashion Statement",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "fashion-statement.png",
     "stats": [
         {

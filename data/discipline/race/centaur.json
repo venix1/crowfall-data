@@ -2,7 +2,7 @@
     "id": "centaur",
     "name": "Centaur",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "centaur.png",
     "stats": [
         {

@@ -1,0 +1,24 @@
+{
+    "id": "ranger-quick-arming",
+    "name": "Quick Arming",
+    "class": "ranger",
+    "description": "Quick Arming enhances all Trap powers to reduce their cooldown by 50%.",
+    "icon": "quick-arming.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-lambs-become-lions",
+            "point": 2
+        },
+        {
+            "skill": "ranger-robbery",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-below-the-belt"
+    ],
+    "locksSkill": []
+}

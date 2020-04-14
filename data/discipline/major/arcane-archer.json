@@ -2,10 +2,12 @@
     "id": "arcane-archer",
     "name": "Arcane Archer",
     "type": "major",
-    "trait": {
-        "id": "trait-archery-practice",
-        "name": "Archery Practice"
-    },
+    "trait": [
+        {
+            "id": "trait-archery-practice",
+            "name": "Archery Practice"
+        }
+    ],
     "icon": "arcane-archer.png",
     "stats": [
         {

@@ -1,0 +1,20 @@
+{
+    "id": "champion-potency",
+    "name": "Potency",
+    "class": "champion",
+    "description": "Potency improves Maximum Stamina by 5 per point spent and Power Efficiency by 8 per point spent.",
+    "icon": "potency.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-toughness",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "champion-fortification"
+    ],
+    "locksSkill": []
+}

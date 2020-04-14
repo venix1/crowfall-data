@@ -2,10 +2,12 @@
     "id": "knife-grinder",
     "name": "Knife Grinder",
     "type": "major",
-    "trait": {
-        "id": "trait-bladed-weapon-training",
-        "name": "Bladed Weapon Training"
-    },
+    "trait": [
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        }
+    ],
     "icon": "knife-grinder.png",
     "stats": [
         {

@@ -2,10 +2,12 @@
     "id": "black-mask",
     "name": "Black Mask",
     "type": "major",
-    "trait": {
-        "id": "trait-stealther",
-        "name": "Stealther"
-    },
+    "trait": [
+        {
+            "id": "trait-stealther",
+            "name": "Stealther"
+        }
+    ],
     "icon": "black-mask.png",
     "stats": [
         {

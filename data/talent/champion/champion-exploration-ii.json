@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "brutality",
+            "skill": "champion-brutality",
             "point": 2
         },
         {
-            "skill": "fortification",
+            "skill": "champion-fortification",
             "point": 2
         },
         {
-            "skill": "outrage",
+            "skill": "champion-outrage",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "second-wind"
+        "champion-second-wind"
     ],
     "locksSkill": []
 }

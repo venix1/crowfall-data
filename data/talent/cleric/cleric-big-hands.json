@@ -1,0 +1,20 @@
+{
+    "id": "cleric-big-hands",
+    "name": "Big Hands",
+    "class": "cleric",
+    "description": "Big Hands Of The Gods replaces Hand Of The Gods and doubles its aimed deploy radius.",
+    "icon": "big-hands.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-spiritual-restraint",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-celestial-authority"
+    ],
+    "locksSkill": []
+}

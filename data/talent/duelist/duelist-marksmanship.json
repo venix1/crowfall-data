@@ -1,0 +1,21 @@
+{
+    "id": "duelist-marksmanship",
+    "name": "Marksmanship",
+    "class": "duelist",
+    "description": "Marksmanship improves Ranged Distance Bonus by 3 per point spent.",
+    "icon": "marksmanship.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-persistence",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-gut-wound",
+        "duelist-explosive-shot"
+    ],
+    "locksSkill": []
+}

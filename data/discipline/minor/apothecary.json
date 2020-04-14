@@ -2,10 +2,12 @@
     "id": "apothecary",
     "name": "Apothecary",
     "type": "minor",
-    "trait": {
-        "id": "trait-alchemist",
-        "name": "Alchemist"
-    },
+    "trait": [
+        {
+            "id": "trait-alchemist",
+            "name": "Alchemist"
+        }
+    ],
     "icon": "apothecary.png",
     "stats": [],
     "grantsPowers": [

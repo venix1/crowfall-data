@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "violent-might",
+            "skill": "myrmidon-violent-might",
             "point": 2
         },
         {
-            "skill": "vengeful-vitality",
+            "skill": "myrmidon-vengeful-vitality",
             "point": 2
         },
         {
-            "skill": "arrogance",
+            "skill": "myrmidon-arrogance",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "neck-slash"
+        "myrmidon-neck-slash"
     ],
     "locksSkill": []
 }

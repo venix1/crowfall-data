@@ -2,10 +2,12 @@
     "id": "foreman",
     "name": "Foreman",
     "type": "exploration",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "foreman.png",
     "stats": [],
     "grantsPowers": [

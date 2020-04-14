@@ -2,10 +2,12 @@
     "id": "leather-armourer",
     "name": "Leather Armourer",
     "type": "minor",
-    "trait": {
-        "id": "trait-leatherworker",
-        "name": "Leatherworker"
-    },
+    "trait": [
+        {
+            "id": "trait-leatherworker",
+            "name": "Leatherworker"
+        }
+    ],
     "icon": "leather-armourer.png",
     "stats": [],
     "grantsPowers": [

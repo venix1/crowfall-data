@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "crystal-lance",
+            "skill": "frostweaver-crystal-lance",
             "point": 1
         },
         {
-            "skill": "frost-armor",
+            "skill": "frostweaver-frost-armor",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "frostweaver-minor-i",
-        "free-weaving"
+        "frostweaver-free-weaving"
     ],
     "locksSkill": []
 }

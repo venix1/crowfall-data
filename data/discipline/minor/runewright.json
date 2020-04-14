@@ -2,10 +2,12 @@
     "id": "runewright",
     "name": "Runewright",
     "type": "minor",
-    "trait": {
-        "id": "trait-runemaker",
-        "name": "Runemaker"
-    },
+    "trait": [
+        {
+            "id": "trait-runemaker",
+            "name": "Runemaker"
+        }
+    ],
     "icon": "runewright.png",
     "stats": [],
     "grantsPowers": [

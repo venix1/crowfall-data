@@ -1,0 +1,28 @@
+{
+    "id": "ranger-tree-sap-blood",
+    "name": "Tree Sap Blood",
+    "class": "ranger",
+    "description": "Tree Sap Blood improves Bleed Resistance by 1000 per point spent.",
+    "icon": "tree-sap-blood.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-treant-lore",
+            "point": 1
+        },
+        {
+            "skill": "ranger-triumphant-cry",
+            "point": 1
+        },
+        {
+            "skill": "ranger-trackers-kit",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-warden"
+    ],
+    "locksSkill": []
+}

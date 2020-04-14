@@ -1,0 +1,27 @@
+{
+    "id": "duelist-pepperbox-shot",
+    "name": "Pepperbox Shot",
+    "class": "duelist",
+    "description": "This talent grants the Pepperbox Shot power.",
+    "icon": "pepperbox-shot.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "pepperbox-shot",
+            "name": "Pepperbox Shot"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-critical-insight",
+        "duelist-steady-hand",
+        "duelist-energetic"
+    ],
+    "locksSkill": []
+}

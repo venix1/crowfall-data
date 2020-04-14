@@ -1,0 +1,20 @@
+{
+    "id": "frostweaver-frozen-solid",
+    "name": "Frozen Solid",
+    "class": "frostweaver",
+    "description": "Frozen Solid enhances your Frost Armor so that it remains functional with as many as five Ice Armor Cracks and these may only form once every 2 seconds.",
+    "icon": "frozen-solid.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frost-armory-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-frosty-fortification"
+    ],
+    "locksSkill": []
+}

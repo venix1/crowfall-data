@@ -1,0 +1,25 @@
+{
+    "id": "champion-whirling-pain",
+    "name": "Whirling Pain",
+    "class": "champion",
+    "description": "This talent grants the Whirling Pain power, which serves as combo move for  Massive Cleave.",
+    "icon": "whirling-pain.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "massive-cleave",
+            "name": "Massive Cleave"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-toughness",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "champion-fortification"
+    ],
+    "locksSkill": []
+}

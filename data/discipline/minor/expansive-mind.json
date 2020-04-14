@@ -2,10 +2,12 @@
     "id": "expansive-mind",
     "name": "Expansive Mind",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "expansive-mind.png",
     "stats": [
         {

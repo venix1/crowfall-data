@@ -1,0 +1,21 @@
+{
+    "id": "champion-obstinance",
+    "name": "Obstinance",
+    "class": "champion",
+    "description": "Obstinance improves Personal Healing Modifier by 1% per point spent.",
+    "icon": "obstinance.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-promotion-class-pit-fighter",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-ferocious",
+        "champion-fast-counter-attack"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,21 @@
+{
+    "id": "knight-shield-swipe",
+    "name": "Shield Swipe",
+    "class": "knight",
+    "description": "This talent grants the Shield Swipe power.",
+    "icon": "shield-swipe.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "shield-swipe",
+            "name": "Shield Swipe"
+        }
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "knight-martial-weaponry",
+        "knight-fortitude"
+    ],
+    "locksSkill": []
+}

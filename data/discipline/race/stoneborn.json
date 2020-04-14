@@ -2,7 +2,7 @@
     "id": "stoneborn",
     "name": "Stoneborn",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "stoneborn.png",
     "stats": [
         {

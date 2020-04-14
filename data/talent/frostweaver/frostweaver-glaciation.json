@@ -1,0 +1,24 @@
+{
+    "id": "frostweaver-glaciation",
+    "name": "Glaciation",
+    "class": "frostweaver",
+    "description": "Glaciation enhances Freezing Blast to also apply the Crippling Ice Buildup effect which reduces the victim's Damage Bonus by 25%. Crippling Ice Buildup replaces other Ice Buildup effects.",
+    "icon": "glaciation.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-iced-over",
+            "point": 2
+        },
+        {
+            "skill": "frost-armory-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-frosty-fortification"
+    ],
+    "locksSkill": []
+}

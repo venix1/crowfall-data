@@ -1,0 +1,25 @@
+{
+    "id": "druid-lightning-burst",
+    "name": "Lightning Burst",
+    "class": "druid",
+    "description": "This talent grants the Lightning Burst power.",
+    "icon": "lightning-burst.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "lightning-burst",
+            "name": "Lightning Burst"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-storm-avatar",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-fury-of-the-storm"
+    ],
+    "locksSkill": []
+}

@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "infallible-dictum",
+            "skill": "templar-infallible-dictum",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "righteous-indignation"
+        "templar-righteous-indignation"
     ],
     "locksSkill": []
 }

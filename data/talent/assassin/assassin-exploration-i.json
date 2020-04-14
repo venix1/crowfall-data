@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "disengage",
+            "skill": "assassin-disengage",
             "point": 1
         },
         {
-            "skill": "in-the-zone",
+            "skill": "assassin-in-the-zone",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "assassin-minor-i",
-        "tools-of-the-trade"
+        "assassin-tools-of-the-trade"
     ],
     "locksSkill": []
 }

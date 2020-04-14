@@ -1,0 +1,28 @@
+{
+    "id": "champion-barbarity",
+    "name": "Barbarity",
+    "class": "champion",
+    "description": "Barbarity improves Armor Penetration: Physical by 1% per point spent.",
+    "icon": "barbarity.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-dominant-leap",
+            "point": 1
+        },
+        {
+            "skill": "champion-violent-neckbreaker",
+            "point": 1
+        },
+        {
+            "skill": "champion-rend-and-butcher",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-alpha-warrior"
+    ],
+    "locksSkill": []
+}

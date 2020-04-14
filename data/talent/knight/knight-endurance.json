@@ -1,0 +1,22 @@
+{
+    "id": "knight-endurance",
+    "name": "Endurance",
+    "class": "knight",
+    "description": "Endurance improves Maximum Stamina by 3 per point spent and Attack Power by 15 per point spent.",
+    "icon": "endurance.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-hoplitodromos",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-hardiness",
+        "knight-noble-blood",
+        "knight-unbreakable"
+    ],
+    "locksSkill": []
+}

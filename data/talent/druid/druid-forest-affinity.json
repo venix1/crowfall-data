@@ -1,0 +1,21 @@
+{
+    "id": "druid-forest-affinity",
+    "name": "Forest Affinity",
+    "class": "druid",
+    "description": "Increases Attack Power by 50, and Support Power by 25 per point spent.",
+    "icon": "forest-affinity.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-promotion-class-archdruid",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-blur",
+        "druid-barbed-thorns"
+    ],
+    "locksSkill": []
+}

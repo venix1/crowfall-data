@@ -2,7 +2,7 @@
     "id": "half-elf",
     "name": "Half-Elf",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "half-elf.png",
     "stats": [
         {

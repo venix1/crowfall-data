@@ -1,0 +1,31 @@
+{
+    "id": "assassin-tools-of-the-trade",
+    "name": "Tools of the Trade",
+    "class": "assassin",
+    "description": "This talent grants the Diffusion power, and you can now equip Toxins that grant the Poison Toxin passive power.\\n\\nGrants the following recipe:\\nBasic Toxin",
+    "icon": "tools-of-the-trade.png",
+    "pointRequirement": 7,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "diffusion",
+            "name": "Diffusion"
+        },
+        {
+            "id": "trait-poison-toxin-training",
+            "name": "Poison Toxin Training"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-exploration-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-armor-gap",
+        "assassin-vigor",
+        "assassin-deceptive-strength"
+    ],
+    "locksSkill": []
+}

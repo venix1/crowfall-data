@@ -1,0 +1,21 @@
+{
+    "id": "cleric-hammer-time",
+    "name": "Hammer Time",
+    "class": "cleric",
+    "description": "Hammer Time reduces Blessed Hammer cost by 3 Mana per point spent.",
+    "icon": "hammer-time.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-malediction",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-searing-light",
+        "cleric-critical-illumination"
+    ],
+    "locksSkill": []
+}

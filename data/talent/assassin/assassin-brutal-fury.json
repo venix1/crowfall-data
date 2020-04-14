@@ -1,0 +1,20 @@
+{
+    "id": "assassin-brutal-fury",
+    "name": "Brutal Fury",
+    "class": "assassin",
+    "description": "Brutal Fury improves Critical Strike by 1% per point spent.",
+    "icon": "brutal-fury.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-kidney-shot",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-backstab"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "confessor-divine-armor",
+    "name": "Divine Armor",
+    "class": "confessor",
+    "description": "Divine Armor improves Elemental Resistance by 200 per point spent.",
+    "icon": "divine-armor.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-restoration",
+            "point": 2
+        },
+        {
+            "skill": "confessor-arkons-fury",
+            "point": 1
+        },
+        {
+            "skill": "confessor-partial-indulgence",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-exploration-ii"
+    ],
+    "locksSkill": []
+}

@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "righteous-indignation",
+            "skill": "templar-righteous-indignation",
             "point": 2
         },
         {
-            "skill": "shining-armor",
+            "skill": "templar-shining-armor",
             "point": 2
         },
         {
-            "skill": "intercession",
+            "skill": "templar-intercession",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "resurrection"
+        "templar-resurrection"
     ],
     "locksSkill": []
 }

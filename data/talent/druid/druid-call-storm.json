@@ -1,0 +1,25 @@
+{
+    "id": "druid-call-storm",
+    "name": "Call Storm",
+    "class": "druid",
+    "description": "This talent grants the Call Storm power.",
+    "icon": "call-storm.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "call-storm",
+            "name": "Call Storm"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-remnant-of-gaea",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-exploration-i"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "templar-holy-warrior",
+    "name": "Holy Warrior",
+    "class": "templar",
+    "description": "This talent grants the Holy Warrior power.",
+    "icon": "holy-warrior.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "holy-warrior",
+            "name": "Holy Warrior"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-divine-favor",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "templar-shining-armor"
+    ],
+    "locksSkill": []
+}

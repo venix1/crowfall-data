@@ -1,0 +1,30 @@
+{
+    "id": "duelist-go-for-broke",
+    "name": "Go for Broke",
+    "class": "duelist",
+    "description": "This talent grants the Go For Broke power.",
+    "icon": "go-for-broke.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "go-for-broke",
+            "name": "Go For Broke"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-flick-of-the-blade",
+            "point": 1
+        },
+        {
+            "skill": "duelist-well-groomed",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-ambush",
+        "duelist-tunnel"
+    ],
+    "locksSkill": []
+}

@@ -2,7 +2,7 @@
     "id": "fae",
     "name": "Fae",
     "type": "race",
-    "trait": {},
+    "trait": [],
     "icon": "fae.png",
     "stats": [
         {

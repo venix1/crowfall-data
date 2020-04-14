@@ -1,0 +1,28 @@
+{
+    "id": "champion-brutality",
+    "name": "Brutality",
+    "class": "champion",
+    "description": "Brutality improves Armor Penetration: Physical by 1% per point spent.",
+    "icon": "brutality.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-cutthroat",
+            "point": 2
+        },
+        {
+            "skill": "champion-minor-ii",
+            "point": 1
+        },
+        {
+            "skill": "champion-mighty-warrior",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-exploration-ii"
+    ],
+    "locksSkill": []
+}

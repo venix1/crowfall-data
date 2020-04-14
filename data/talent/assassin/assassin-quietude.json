@@ -1,0 +1,20 @@
+{
+    "id": "assassin-quietude",
+    "name": "Quietude",
+    "class": "assassin",
+    "description": "Quietude improves In and Out of Combat Health Regeneration by 5 per point spent.",
+    "icon": "quietude.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-vigor",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-born-in-darkness"
+    ],
+    "locksSkill": []
+}

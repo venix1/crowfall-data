@@ -1,0 +1,21 @@
+{
+    "id": "cleric-benediction",
+    "name": "Benediction",
+    "class": "cleric",
+    "description": "Benediction improves Support Power by 175 per point spent.",
+    "icon": "benediction.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-promotion-class-crusader",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-divine-intervention",
+        "cleric-blessed-symbol"
+    ],
+    "locksSkill": []
+}

@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "meteor-purge",
+            "skill": "confessor-meteor-purge",
             "point": 1
         },
         {
-            "skill": "condemnation",
+            "skill": "confessor-condemnation",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "confessor-minor-i",
-        "righteousness"
+        "confessor-righteousness"
     ],
     "locksSkill": []
 }

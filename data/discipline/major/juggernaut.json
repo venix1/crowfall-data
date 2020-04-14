@@ -2,10 +2,12 @@
     "id": "juggernaut",
     "name": "Juggernaut",
     "type": "major",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "juggernaut.png",
     "stats": [
         {

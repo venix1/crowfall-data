@@ -2,10 +2,12 @@
     "id": "blade-master",
     "name": "Blade Master",
     "type": "major",
-    "trait": {
-        "id": "trait-bladed-weapon-training",
-        "name": "Bladed Weapon Training"
-    },
+    "trait": [
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        }
+    ],
     "icon": "blade-master.png",
     "stats": [
         {

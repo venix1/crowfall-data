@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ricochet-shot",
+            "skill": "ranger-ricochet-shot",
             "point": 1
         },
         {
-            "skill": "ambidexterity",
+            "skill": "ranger-ambidexterity",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "ranger-minor-i",
-        "ranger-savvy"
+        "ranger-ranger-savvy"
     ],
     "locksSkill": []
 }

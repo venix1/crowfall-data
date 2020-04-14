@@ -1,0 +1,20 @@
+{
+    "id": "druid-thick-skin",
+    "name": "Thick Skin",
+    "class": "druid",
+    "description": "Thick Skin improves Maximum Health by 150 per point spent.",
+    "icon": "thick-skin.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-faerie-flames",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-remnant-of-gaea"
+    ],
+    "locksSkill": []
+}

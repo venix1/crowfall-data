@@ -2,10 +2,12 @@
     "id": "adjudicator",
     "name": "Adjudicator",
     "type": "major",
-    "trait": {
-        "id": "trait-blunt-weapon-training",
-        "name": "Blunt Weapon Training"
-    },
+    "trait": [
+        {
+            "id": "trait-blunt-weapon-training",
+            "name": "Blunt Weapon Training"
+        }
+    ],
     "icon": "adjudicator.png",
     "stats": [
         {

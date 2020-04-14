@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ambush",
+            "skill": "duelist-ambush",
             "point": 1
         },
         {
-            "skill": "tunnel",
+            "skill": "duelist-tunnel",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "duelist-minor-i",
-        "pepperbox-shot"
+        "duelist-pepperbox-shot"
     ],
     "locksSkill": []
 }

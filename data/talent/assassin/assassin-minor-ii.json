@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "armor-gap",
+            "skill": "assassin-armor-gap",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "killers-instinct"
+        "assassin-killers-instinct"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,21 @@
+{
+    "id": "champion-spite",
+    "name": "Spite",
+    "class": "champion",
+    "description": "Spite improves Attack Control Intensity by 7% per point spent.",
+    "icon": "spite.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-malice",
+            "point": 2
+        }
+    ],
+    "unlocksSkill": [
+        "champion-death-from-above",
+        "champion-effortless-neckbreaker"
+    ],
+    "locksSkill": []
+}

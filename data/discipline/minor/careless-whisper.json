@@ -2,10 +2,12 @@
     "id": "careless-whisper",
     "name": "Careless Whisper",
     "type": "minor",
-    "trait": {
-        "id": "trait-mark-of-faith",
-        "name": "Mark of Faith"
-    },
+    "trait": [
+        {
+            "id": "trait-mark-of-faith",
+            "name": "Mark of Faith"
+        }
+    ],
     "icon": "careless-whisper.png",
     "stats": [],
     "grantsPowers": [

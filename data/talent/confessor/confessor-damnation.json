@@ -1,0 +1,20 @@
+{
+    "id": "confessor-damnation",
+    "name": "Damnation",
+    "class": "confessor",
+    "description": "Damnation enhances Condemnation to apply a Slow effect.",
+    "icon": "damnation.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-repent",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-redeem"
+    ],
+    "locksSkill": []
+}

@@ -2,10 +2,12 @@
     "id": "mole-hunter",
     "name": "Mole Hunter",
     "type": "major",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "mole-hunter.png",
     "stats": [
         {

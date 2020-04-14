@@ -9,20 +9,20 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "into-the-fray",
+            "skill": "knight-into-the-fray",
             "point": 2
         },
         {
-            "skill": "bulwark",
+            "skill": "knight-bulwark",
             "point": 2
         },
         {
-            "skill": "pell-training",
+            "skill": "knight-pell-training",
             "point": 2
         }
     ],
     "unlocksSkill": [
-        "onslaught"
+        "knight-onslaught"
     ],
     "locksSkill": []
 }

@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "censure",
+            "skill": "templar-censure",
             "point": 1
         },
         {
-            "skill": "judgment",
+            "skill": "templar-judgment",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "templar-minor-i",
-        "devotion"
+        "templar-devotion"
     ],
     "locksSkill": []
 }

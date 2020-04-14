@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "anointed",
+            "skill": "cleric-anointed",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "reproval"
+        "cleric-reproval"
     ],
     "locksSkill": []
 }

@@ -2,10 +2,12 @@
     "id": "pound-of-flesh",
     "name": "Pound of Flesh",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "pound-of-flesh.png",
     "stats": [],
     "grantsPowers": [

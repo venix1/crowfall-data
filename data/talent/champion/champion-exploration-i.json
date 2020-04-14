@@ -9,17 +9,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "throw-hurlbat",
+            "skill": "champion-throw-hurlbat",
             "point": 1
         },
         {
-            "skill": "vicious-stomp",
+            "skill": "champion-vicious-stomp",
             "point": 1
         }
     ],
     "unlocksSkill": [
         "champion-minor-i",
-        "massive-cleave"
+        "champion-massive-cleave"
     ],
     "locksSkill": []
 }

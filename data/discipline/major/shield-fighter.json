@@ -2,10 +2,12 @@
     "id": "shield-fighter",
     "name": "Shield Fighter",
     "type": "major",
-    "trait": {
-        "id": "trait-shield-familiarity",
-        "name": "Shield Familiarity"
-    },
+    "trait": [
+        {
+            "id": "trait-shield-familiarity",
+            "name": "Shield Familiarity"
+        }
+    ],
     "icon": "shield-fighter.png",
     "stats": [
         {

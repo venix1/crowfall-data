@@ -2,10 +2,12 @@
     "id": "sustaining-note",
     "name": "Sustaining Note",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "sustaining-note.png",
     "stats": [
         {

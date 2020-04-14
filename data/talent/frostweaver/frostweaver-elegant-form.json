@@ -1,0 +1,20 @@
+{
+    "id": "frostweaver-elegant-form",
+    "name": "Elegant Form",
+    "class": "frostweaver",
+    "description": "Elegant Form improves Critical Healing Chance by 2% per point spent.",
+    "icon": "elegant-form.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-cool-headed",
+            "point": 3
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-exquisite-detail"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,24 @@
+{
+    "id": "myrmidon-blood-thirst",
+    "name": "Blood Thirst",
+    "class": "myrmidon",
+    "description": "Blood Thirst grants a chance to gain a buff when hitting a Bleeding target that increases the damage caused by Ferocious Cuts, Savage Swings, Cross Gashes and Neck Slash.",
+    "icon": "blood-thirst.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-solid-muscle",
+            "point": 2
+        },
+        {
+            "skill": "myrmidon-here-i-go-killing-again",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-inhuman-strength"
+    ],
+    "locksSkill": []
+}

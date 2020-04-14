@@ -9,12 +9,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ire",
+            "skill": "champion-ire",
             "point": 3
         }
     ],
     "unlocksSkill": [
-        "outrage"
+        "champion-outrage"
     ],
     "locksSkill": []
 }

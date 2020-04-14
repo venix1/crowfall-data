@@ -2,10 +2,12 @@
     "id": "glass-cannon",
     "name": "Glass Cannon",
     "type": "minor",
-    "trait": {
-        "id": "trait-eternal-crow",
-        "name": "Eternal Crow"
-    },
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
     "icon": "glass-cannon.png",
     "stats": [],
     "grantsPowers": [

@@ -1,0 +1,36 @@
+{
+    "id": "ranger-promotion-class-warden",
+    "name": "Promotion Class - Warden",
+    "class": "ranger",
+    "description": "Role: Melee-Ranged Defense\\n\\nA well-rounded defender of the forest, good with both bows and one-handed weapons. Access to mail armor makes them sturdier than their leather-wearing counterparts.\\n\\nGrants a permanent Energy Regeneration Rate of 2(s) in all Power Trays.\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGaea's Inspiration\\nMail Armor Proficiency\\nQuiver Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Warden promotion class and prevents access to the Archer and Brigand promotion classes.",
+    "icon": "promotion-class-warden.png",
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-quiver-proficiency",
+            "name": "Quiver Proficiency"
+        },
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        },
+        {
+            "id": "trait-gaeas-inspiration",
+            "name": "Gaea's Inspiration"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-bring-me-everyone",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-gift-of-the-forest"
+    ],
+    "locksSkill": [
+        "promotion-class-archer",
+        "promotion-class-brigand"
+    ]
+}
