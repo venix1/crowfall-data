@@ -1,5 +1,6 @@
 {
-  "type": "conversion",
+  "data_type": "conversion",
+  "name": "Rage",
   "stat": "rage",
   "multiplier": 0.75
 }

@@ -1,5 +1,6 @@
 {
-  "type": "conversion",
+  "data_type": "conversion",
+  "name": "Essence",
   "stat": "essence",
   "multiplier": 2.1875
 }

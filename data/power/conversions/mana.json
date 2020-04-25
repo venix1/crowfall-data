@@ -1,5 +1,6 @@
 {
-  "type": "conversion",
+  "data_type": "conversion",
+  "name": "Mana",
   "stat": "mana",
   "multiplier": 5.0
 }

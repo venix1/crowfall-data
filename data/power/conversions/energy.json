@@ -1,5 +1,6 @@
 {
-  "type": "conversion",
+  "data_type": "conversion",
+  "name": "Energy",
   "stat": "energy",
   "multiplier": 11.875
 }

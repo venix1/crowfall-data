@@ -1,5 +1,6 @@
 {
-  "type": "conversion",
+  "data_type": "conversion",
+  "name": "Stamina",
   "stat": "stamina",
   "multiplier": 1.375
 }

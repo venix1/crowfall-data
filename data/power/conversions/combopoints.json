@@ -1,5 +1,6 @@
 {
-  "type": "conversion",
+  "data_type": "conversion",
+  "name": "Combo-Points",
   "stat": "combopoints",
   "multiplier": 0.1
 }
