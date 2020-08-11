@@ -7,6 +7,7 @@
     "stats": {
         "cost_type": "Mana",
         "cost": "400",
+        "cooldown": "68",
         "target": "Reticle",
         "cast_time": "Instant"
     },
