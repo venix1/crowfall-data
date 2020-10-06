@@ -1,0 +1,26 @@
+{
+    "id": "assassin-yagas-gift",
+    "name": "Yaga's Gift",
+    "class": "assassin",
+    "description": "This talent grants the Yaga's Gift passive power.",
+    "icon": "yagas-gift.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "yagas-gift",
+            "name": "Yaga's Gift"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-shadenfreude",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-cloaked-in-shadow"
+    ],
+    "locksSkill": []
+}

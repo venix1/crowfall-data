@@ -1,7 +1,7 @@
 {
     "id": "holyavenger-hammer-2",
     "name": "Grabthar's Hammer",
-    "description": "smashes an enemy, stunning them for 124 + 124% Weapon Damage.",
+    "description": "smashes an enemy, stunning them for 124 + 124% Fire Damage.",
     "shortDescription": "",
     "icon": "holyavenger-hammer-2.png",
     "stats": {

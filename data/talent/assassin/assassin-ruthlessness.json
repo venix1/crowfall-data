@@ -2,28 +2,26 @@
     "id": "assassin-ruthlessness",
     "name": "Ruthlessness",
     "class": "assassin",
-    "description": "Ruthlessness improves Hard Crowd Control by 6% per point spent.",
+    "description": "Stat Adjustments:\\nPerception +30\\nMovement Crowd Control +18%\\nCrushing Damage +10%\\nCrushing Damage Cap +10%\\n\\nA master Vandal will do whatever it takes to gain the upper hand on their enemies.",
     "icon": "ruthlessness.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-flow-state",
+            "skill": "assassin-irresistible",
             "point": 1
         },
         {
-            "skill": "assassin-blackout",
-            "point": 1
-        },
-        {
-            "skill": "assassin-cheap-shot",
+            "skill": "assassin-blackjack-toss",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-vandal"
+        "assassin-domain-wind",
+        "assassin-domain-plague",
+        "assassin-domain-shadow"
     ],
     "locksSkill": []
 }

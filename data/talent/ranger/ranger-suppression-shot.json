@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-withering-barrage",
+            "skill": "ranger-alertness-flare-arrow",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-target-practice"
+        "ranger-hunting-party"
     ],
     "locksSkill": []
 }

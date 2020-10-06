@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-ire",
-            "point": 3
+            "skill": "champion-promotion-class-barbarian",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-outrage"
+        "champion-barbarity"
     ],
     "locksSkill": []
 }

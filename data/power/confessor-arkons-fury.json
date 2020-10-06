@@ -1,7 +1,7 @@
 {
     "id": "confessor-arkons-fury",
     "name": "Arkon's Fury",
-    "description": "unleashes Arkon's Fury on a target dealing 117 + 117% Weapon Damage and applying Elemental Break to them.",
+    "description": "unleashes Arkon's Fury on a target dealing 117 + 117% Weapon Damage and applying Major Burning DoT to them.",
     "shortDescription": "",
     "icon": "confessor-arkons-fury.png",
     "stats": {

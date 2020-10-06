@@ -13,10 +13,20 @@
             "name": "Flintlock Shot"
         }
     ],
-    "unlockedFromSkill": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-tenacity",
+            "point": 1
+        },
+        {
+            "skill": "duelist-guile",
+            "point": 1
+        }
+    ],
     "unlocksSkill": [
-        "duelist-flick-of-the-blade",
-        "duelist-well-groomed"
+        "duelist-wily",
+        "duelist-minor-iii",
+        "duelist-energetic"
     ],
     "locksSkill": []
 }

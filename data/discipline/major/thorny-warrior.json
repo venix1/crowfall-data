@@ -1,0 +1,34 @@
+{
+    "id": "thorny-warrior",
+    "name": "Thorny Warrior",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-ranger-or-human",
+            "name": "Ranger or Human"
+        }
+    ],
+    "icon": "thorny-warrior.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Piercing",
+            "value": "3%"
+        },
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "ranger-dagger-spin-1",
+            "name": "Dagger Spin",
+            "description": ""
+        },
+        "power_discipline_thornywarrior_root_stake"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

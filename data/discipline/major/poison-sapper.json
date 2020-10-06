@@ -1,0 +1,35 @@
+{
+    "id": "poison-sapper",
+    "name": "Poison Sapper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        }
+    ],
+    "icon": "poison-sapper.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Poison",
+            "value": "3%"
+        },
+        {
+            "name": "Poison Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "assassin-stealth-spirit-dart",
+            "name": "Spirit Dart",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [
+        "power_assassin_talent_poison_paradise_display"
+    ],
+    "description": ".",
+    "lore": "."
+}

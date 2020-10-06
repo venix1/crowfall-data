@@ -1,0 +1,35 @@
+{
+    "id": "archery",
+    "name": "Archery",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-druid-duelist-or-templar",
+            "name": "Druid, Duelist, or Templar"
+        }
+    ],
+    "icon": "archery.png",
+    "stats": [
+        {
+            "name": "Ranged Distance Bonus",
+            "value": "5(m)"
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [
+        "Ranged",
+        "Ammo"
+    ],
+    "grantsTrait": [
+        {
+            "id": "trait-arrows",
+            "name": "Arrows"
+        },
+        {
+            "id": "trait-recurve-bow-proficiency",
+            "name": "Recurve Bow Proficiency"
+        }
+    ],
+    "description": "",
+    "lore": "."
+}

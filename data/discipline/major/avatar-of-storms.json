@@ -1,0 +1,34 @@
+{
+    "id": "avatar-of-storms",
+    "name": "Avatar of Storms",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-storm",
+            "name": "Storm"
+        }
+    ],
+    "icon": "avatar-of-storms.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Electricity",
+            "value": "2%"
+        },
+        {
+            "name": "Electricity Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "druid-avatar-storm",
+            "name": "Storm Avatar",
+            "description": ""
+        },
+        "power_discipline_avatarofstorms_call_lightning"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

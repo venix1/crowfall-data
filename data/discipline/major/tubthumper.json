@@ -1,0 +1,38 @@
+{
+    "id": "tubthumper",
+    "name": "Tubthumper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-duelist-wind-or-war",
+            "name": "Duelist, Wind or War"
+        }
+    ],
+    "icon": "tubthumper.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "juggernaut-spite",
+            "name": "Spite",
+            "description": "Passive: Regenerate when Stunned; Knocked Down"
+        },
+        {
+            "id": "escapeartist-escapology",
+            "name": "Escapology",
+            "description": "Passive: Gain Increased Resolve from Control Effects"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

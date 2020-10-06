@@ -1,0 +1,38 @@
+{
+    "id": "shieldmaster",
+    "name": "Shieldmaster",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-knight",
+            "name": "Knight"
+        }
+    ],
+    "icon": "shieldmaster.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Organic Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "knight-shield-bash-01",
+            "name": "Shield Bash",
+            "description": ""
+        },
+        {
+            "id": "talent-knight-shieldmanship",
+            "name": "Shieldmanship",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

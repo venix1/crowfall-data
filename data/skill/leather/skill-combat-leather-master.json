@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 28080,
-    "description": "Increases Health, decreases Sprint Cost, and decreases Decay Rate: Armor while using Leather chest armor.",
+    "description": "Increases Health, Pathfinding, and decreases Decay Rate: Armor while using Leather chest armor.",
     "icon": "skill-combat-leather-master.png",
     "stats": [
         {
@@ -13,8 +13,8 @@
             "amount": "2%"
         },
         {
-            "name": "Sprint Efficiency",
-            "amount": "-0.1"
+            "name": "Pathfinding",
+            "amount": "2%"
         },
         {
             "name": "Health",

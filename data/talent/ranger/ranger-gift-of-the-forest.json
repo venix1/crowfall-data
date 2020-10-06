@@ -2,21 +2,21 @@
     "id": "ranger-gift-of-the-forest",
     "name": "Gift of the Forest",
     "class": "ranger",
-    "description": "Gift of the Forest improves Melee Power Damage Bonus, Ranged Power Damage Bonus, and Physical Resistance by 100 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +300\\nHealth Regeneration +15\\n\\n\"Do not find yourself alone in the woods on the night of the Wild Hunt.\"\\n-Elken Advice",
     "icon": "gift-of-the-forest.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-promotion-class-warden",
+            "skill": "ranger-ranger-savvy",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-ravencoat",
-        "ranger-silencing-blades"
+        "ranger-sweep",
+        "ranger-cross-slash"
     ],
     "locksSkill": []
 }

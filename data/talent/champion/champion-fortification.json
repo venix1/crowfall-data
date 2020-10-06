@@ -2,28 +2,20 @@
     "id": "champion-fortification",
     "name": "Fortification",
     "class": "champion",
-    "description": "Fortification improves Resist All by 100 per point spent.",
+    "description": "Stat Adjustments:\\nControl Defense +15%\\nResist All +300\\n\\n\"I have stood guard in the king's own chambers. Some are envious of that. Me, most days I wish I was back in the fighting pits.\"\\n-Siv Bokin",
     "icon": "fortification.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-potency",
-            "point": 2
-        },
-        {
-            "skill": "champion-ultimate-warrior",
-            "point": 1
-        },
-        {
-            "skill": "champion-whirling-pain",
+            "skill": "champion-demoralizing-shout",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-exploration-ii"
+        "champion-anger-management"
     ],
     "locksSkill": []
 }

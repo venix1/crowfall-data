@@ -1,0 +1,38 @@
+{
+    "id": "pouncer",
+    "name": "Pouncer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-duelist",
+            "name": "Duelist"
+        }
+    ],
+    "icon": "pouncer.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Piercing",
+            "value": "3%"
+        },
+        {
+            "name": "Piercing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "duelist-stealth-ambush",
+            "name": "Ambush",
+            "description": ""
+        },
+        {
+            "id": "careless-whisper",
+            "name": "Careless Whisper",
+            "description": "Passive: Basic Attacks Buff Crit Stats"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

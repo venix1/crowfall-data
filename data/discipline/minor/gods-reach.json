@@ -1,0 +1,32 @@
+{
+    "id": "gods-reach",
+    "name": "God's Reach",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-cleric",
+            "name": "Cleric"
+        }
+    ],
+    "icon": "gods-reach.png",
+    "stats": [
+        {
+            "name": "Support Power",
+            "value": "150"
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsTrait": [
+        {
+            "id": "trait-hammer-proficiency",
+            "name": "Hammer Proficiency"
+        },
+        {
+            "id": "trait-hammer-mastery",
+            "name": "Hammer Mastery"
+        }
+    ],
+    "description": "",
+    "lore": "."
+}

@@ -1,0 +1,34 @@
+{
+    "id": "blade-dancer",
+    "name": "Blade Dancer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-war",
+            "name": "War"
+        }
+    ],
+    "icon": "blade-dancer.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": "2%"
+        },
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_bladedancer_slashing_grace",
+        {
+            "id": "blademaster-blood-price",
+            "name": "Blood Price",
+            "description": "Passive: Spawn Healing Orbs; Attack Power"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

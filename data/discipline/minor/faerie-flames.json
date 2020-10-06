@@ -1,0 +1,29 @@
+{
+    "id": "faerie-flames",
+    "name": "Faerie Flames",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-nature-or-dark",
+            "name": "Nature or Dark"
+        }
+    ],
+    "icon": "faerie-flames.png",
+    "stats": [
+        {
+            "name": "Perception",
+            "value": "15"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "druid-z-faerie-fire",
+            "name": "Faerie Flames",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

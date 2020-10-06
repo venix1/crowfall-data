@@ -2,18 +2,20 @@
     "id": "assassin-major-i",
     "name": "Major Discipline Slot",
     "class": "assassin",
-    "description": "Unlock a Major Discipline slot.",
+    "description": "Unlock an MajorDiscipline slot.",
     "icon": "assassin-major-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 10,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-enter-the-shadows",
+            "skill": "assassin-exploration-i",
             "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "assassin-minor-ii"
+    ],
     "locksSkill": []
 }

@@ -2,28 +2,26 @@
     "id": "druid-loved-by-the-sun",
     "name": "Loved by the Sun",
     "class": "druid",
-    "description": "Loved by the Sun improves Healing Bonus by 1% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Heal Amount +6%\\nHealing +10%\\nHealing Cap +10%\\n\\nWhile they cannot heal the universe of its sickness, the Earthkeeper can mend the wounds of their allies.",
     "icon": "loved-by-the-sun.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-dream-away",
-            "point": 2
-        },
-        {
-            "skill": "druid-minor-iii",
+            "skill": "druid-shared-gifts",
             "point": 1
         },
         {
-            "skill": "druid-leeching-seed",
+            "skill": "druid-healing-rain",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-exploration-ii"
+        "druid-domain-nature",
+        "druid-domain-storm",
+        "druid-domain-light"
     ],
     "locksSkill": []
 }

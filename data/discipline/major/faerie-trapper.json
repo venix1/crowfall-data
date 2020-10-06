@@ -1,0 +1,30 @@
+{
+    "id": "faerie-trapper",
+    "name": "Faerie Trapper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-fae",
+            "name": "Fae"
+        }
+    ],
+    "icon": "faerie-trapper.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        },
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_faerietrapper_stun_trap",
+        "power_discipline_faerie_trap"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

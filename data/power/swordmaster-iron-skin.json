@@ -1,0 +1,28 @@
+{
+    "id": "swordmaster-iron-skin",
+    "name": "Iron Skin",
+    "description": "hardens your skin increasing your Slashing Resistance and reducing Weapon Resource Cost.",
+    "shortDescription": "Increase Slashing Resistance; Reduce Ability Cost",
+    "icon": "swordmaster-iron-skin.png",
+    "stats": {
+        "weapon_damage_value": "100",
+        "max_damage_1": "100",
+        "min_damage_1": "100",
+        "buff_type_1": "Slashing Resistance",
+        "cost_type": "Resource",
+        "cost": "12",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

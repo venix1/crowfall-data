@@ -2,22 +2,20 @@
     "id": "frostweaver-stinging-strikes",
     "name": "Stinging Strikes",
     "class": "frostweaver",
-    "description": "Stinging Strikes improves Critical Damage by 3% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +6%\\nCritical Damage +15%\\n\\n\"The Moon-Elves, followers of Princess Aleshi, were the first to practice the art of Cryomancy.\"\\n-Ice Through the Ages",
     "icon": "stinging-strikes.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-free-weaving",
+            "skill": "frostweaver-crystal-lance",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-biting-cold",
-        "frostweaver-minor-ii",
-        "frostweaver-shatter-storm"
+        "frostweaver-bitter-cold"
     ],
     "locksSkill": []
 }

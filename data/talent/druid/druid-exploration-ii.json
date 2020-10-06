@@ -2,28 +2,20 @@
     "id": "druid-exploration-ii",
     "name": "Exploration Discipline Slot",
     "class": "druid",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "druid-exploration-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 20,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-lines-of-force",
-            "point": 2
-        },
-        {
-            "skill": "druid-ironwood-skin",
-            "point": 2
-        },
-        {
-            "skill": "druid-loved-by-the-sun",
-            "point": 2
+            "skill": "druid-minor-ii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-natures-cornerstone"
+        "druid-major-ii"
     ],
     "locksSkill": []
 }

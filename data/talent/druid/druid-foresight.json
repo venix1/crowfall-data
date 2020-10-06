@@ -2,20 +2,30 @@
     "id": "druid-foresight",
     "name": "Foresight",
     "class": "druid",
-    "description": "Foresight improves Critical Healing Chance by 1% per point spent.",
+    "description": "Stat Adjustments:\\nSelf Healing +5%\\nOrb Healing +25%\\n\\n\"Druids tread the line between life and death with every fight.\"\\n-Druids of the Wilds Vol. II",
     "icon": "foresight.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-faerie-flames",
+            "skill": "druid-barkskin",
+            "point": 1
+        },
+        {
+            "skill": "druid-soothing-winds",
+            "point": 1
+        },
+        {
+            "skill": "druid-minor-iii",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-remnant-of-gaea"
+        "druid-minor-iii",
+        "druid-shroud-of-darkness",
+        "druid-ironwood-body"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,29 @@
+{
+    "id": "restoration-strike",
+    "name": "Restoration Strike",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-knight-or-myrmidon",
+            "name": "Knight or Myrmidon"
+        }
+    ],
+    "icon": "restoration-strike.png",
+    "stats": [
+        {
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "swordmaster-res-combo-1",
+            "name": "Restoration Strike",
+            "description": "Attack: Restore Resource"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

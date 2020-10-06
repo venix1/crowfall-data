@@ -1,0 +1,21 @@
+{
+    "id": "myrmidon-scent-of-blood",
+    "name": "Scent of Blood",
+    "class": "myrmidon",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "scent-of-blood.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-opportunist",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-relentless"
+    ],
+    "locksSkill": []
+}

@@ -6,16 +6,16 @@
     "icon": "cleric-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-prudence",
-            "point": 3
+            "skill": "cleric-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-flog"
+        "cleric-exploration-ii"
     ],
     "locksSkill": []
 }

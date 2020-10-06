@@ -1,0 +1,38 @@
+{
+    "id": "butcher",
+    "name": "Butcher",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-war-or-battle",
+            "name": "War or Battle"
+        }
+    ],
+    "icon": "butcher.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Trailblazer",
+            "value": "15%"
+        },
+        {
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "knifegrinder-bleed-debuff-1",
+            "name": "Tenderize",
+            "description": "Attack: Adds a debuff to an enemy that makes them take more bleeding damage for 15 seconds."
+        },
+        {
+            "id": "banshee-angel-of-death",
+            "name": "Angel Of Death",
+            "description": "Passive: Increase Enemy Damage at Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

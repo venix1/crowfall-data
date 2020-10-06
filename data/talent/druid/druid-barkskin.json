@@ -1,0 +1,32 @@
+{
+    "id": "druid-barkskin",
+    "name": "Barkskin",
+    "class": "druid",
+    "description": "This talent grants the Bark Skin power.",
+    "icon": "barkskin.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "bark-skin",
+            "name": "Bark Skin"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-potential-energy",
+            "point": 1
+        },
+        {
+            "skill": "druid-remnant-of-gaea",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-flow-of-nature",
+        "druid-minor-iii",
+        "druid-foresight"
+    ],
+    "locksSkill": []
+}

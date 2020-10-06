@@ -1,0 +1,29 @@
+{
+    "id": "dispel",
+    "name": "Dispel",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-protection",
+            "name": "Protection"
+        }
+    ],
+    "icon": "dispel.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "shieldbreaker-dispel",
+            "name": "Dispel",
+            "description": "Attack: Cancel and Punish Barrier Users"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

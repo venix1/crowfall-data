@@ -1,8 +1,8 @@
 {
     "id": "champion-minor-iii",
-    "name": "Minor Discipline Slot",
+    "name": "Additional Minor Discipline Slot",
     "class": "champion",
-    "description": "Unlock a Minor Discipline slot.",
+    "description": "Unlock an additional Minor Discipline slot.",
     "icon": "champion-minor-iii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,21 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-ire",
-            "point": 3
+            "skill": "champion-throw-hurlbat",
+            "point": 1
+        },
+        {
+            "skill": "champion-outrage",
+            "point": 1
+        },
+        {
+            "skill": "champion-potency",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-outrage"
+        "champion-potency",
+        "champion-blood-rage"
     ],
     "locksSkill": []
 }

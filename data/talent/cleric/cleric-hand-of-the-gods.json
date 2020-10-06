@@ -7,16 +7,16 @@
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [
+    "grants": [],
+    "unlockedFromSkill": [
         {
-            "id": "hand-of-the-gods",
-            "name": "Hand Of The Gods"
+            "skill": "cleric-divine-alacrity",
+            "point": 1
         }
     ],
-    "unlockedFromSkill": [],
     "unlocksSkill": [
-        "cleric-empathy",
-        "cleric-consecrated-armor"
+        "cleric-thwart-the-wicked",
+        "cleric-malediction"
     ],
     "locksSkill": []
 }

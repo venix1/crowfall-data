@@ -1,0 +1,34 @@
+{
+    "id": "corrupted-soul",
+    "name": "Corrupted Soul",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "icon": "corrupted-soul.png",
+    "stats": [
+        {
+            "name": "Ranged Distance Bonus",
+            "value": "5(m)"
+        },
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "plaguelord-shrivel",
+            "name": "Shrivel",
+            "description": "Attack: Blackmantle; Disease; Expose Punish"
+        },
+        "power_discipline_corruptedsoul_soul_steal"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

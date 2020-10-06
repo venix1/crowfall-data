@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-assassin-duelist-half-giant-human-war-battle-or-death",
+            "name": "Assassin, Duelist, Half Giant, Human, War, Battle or Death"
         }
     ],
     "icon": "sparring.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "basic-attack-damage",

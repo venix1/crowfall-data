@@ -1,0 +1,34 @@
+{
+    "id": "freedom-fighter",
+    "name": "Freedom Fighter",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-human-nature-or-wind",
+            "name": "Human, Nature or Wind"
+        }
+    ],
+    "icon": "freedom-fighter.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Stamina",
+            "value": "5"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "escapeartist-free-action",
+            "name": "Free Action",
+            "description": "Group Crowd Control Immunity; Cleanse"
+        },
+        "power_discipline_bringeroflife_purify"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

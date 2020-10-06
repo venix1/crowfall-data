@@ -1,0 +1,21 @@
+{
+    "id": "knight-redirected-strikes",
+    "name": "Redirected Strikes",
+    "class": "knight",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "redirected-strikes.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-promotion-class-secutor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-bulwark"
+    ],
+    "locksSkill": []
+}

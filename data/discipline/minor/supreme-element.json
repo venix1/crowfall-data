@@ -1,0 +1,29 @@
+{
+    "id": "supreme-element",
+    "name": "Supreme Element",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-wind",
+            "name": "Wind"
+        }
+    ],
+    "icon": "supreme-element.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "naiad-supreme-element",
+            "name": "Supreme Element",
+            "description": "Passive: Elemental Damage Grants Buffs"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

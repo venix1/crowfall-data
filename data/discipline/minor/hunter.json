@@ -1,0 +1,26 @@
+{
+    "id": "hunter",
+    "name": "Hunter",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-ranger",
+            "name": "Ranger"
+        }
+    ],
+    "icon": "hunter.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Trailblazer",
+            "value": "15%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_shadow_alertness",
+        "power_discipline_hyper_alert"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

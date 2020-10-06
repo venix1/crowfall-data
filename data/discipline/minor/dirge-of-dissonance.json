@@ -1,0 +1,29 @@
+{
+    "id": "dirge-of-dissonance",
+    "name": "Dirge of Dissonance",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-music",
+            "name": "Music"
+        }
+    ],
+    "icon": "dirge-of-dissonance.png",
+    "stats": [
+        {
+            "name": "Song Duration",
+            "value": "6"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "troubadour-dirge",
+            "name": "Dirge Of Dissonance",
+            "description": "Song: Damage Enemies"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

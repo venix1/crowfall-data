@@ -1,0 +1,26 @@
+{
+    "id": "druid-force-of-nature",
+    "name": "Force of Nature",
+    "class": "druid",
+    "description": "This talent grants the Force Of Nature passive power.",
+    "icon": "force-of-nature.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "force-of-nature",
+            "name": "Force Of Nature"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-promotion-class-archdruid",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-heart-of-the-wild"
+    ],
+    "locksSkill": []
+}

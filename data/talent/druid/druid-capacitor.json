@@ -1,0 +1,26 @@
+{
+    "id": "druid-capacitor",
+    "name": "Capacitor",
+    "class": "druid",
+    "description": "This talent grants the Capacitor passive power.",
+    "icon": "capacitor.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "capacitor",
+            "name": "Capacitor"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-promotion-class-stormcaller",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-weather-sense"
+    ],
+    "locksSkill": []
+}

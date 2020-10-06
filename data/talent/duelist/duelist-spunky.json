@@ -2,20 +2,20 @@
     "id": "duelist-spunky",
     "name": "Spunky",
     "class": "duelist",
-    "description": "Spunky improves Health Regen In Combat and Health Regen Out of Combat by 5 per point spent.",
+    "description": "Stat Adjustments:\\nHealth Regeneration +15\\nSelf Healing +4.5%\\n\\n\"Strike quick, strike true, escape to strike again.\"\\n-Duelist Adage",
     "icon": "spunky.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-energetic",
-            "point": 3
+            "skill": "duelist-cheap-shots",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-charming"
+        "duelist-feral-instincts"
     ],
     "locksSkill": []
 }

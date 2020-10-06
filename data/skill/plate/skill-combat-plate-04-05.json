@@ -1,16 +1,16 @@
 {
     "id": "skill-combat-plate-04-05",
-    "name": "Sprint Movement Modifier",
+    "name": "Pathfinding",
     "tree": "Plate",
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 23040,
-    "description": "Decreases Sprint Movement Modifier while using Plate chest armor.",
+    "description": "Increases Pathfinding while using Plate chest armor.",
     "icon": "skill-combat-plate-04-05.png",
     "stats": [
         {
-            "name": "Sprint Movement Modifier",
-            "amount": "0.01"
+            "name": "Pathfinding",
+            "amount": "2%"
         }
     ],
     "grants": [],

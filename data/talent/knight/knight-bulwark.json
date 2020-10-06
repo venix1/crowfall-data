@@ -2,28 +2,26 @@
     "id": "knight-bulwark",
     "name": "Bulwark",
     "class": "knight",
-    "description": "Bulwark improves Physical Resistance by 100 per point spent.",
+    "description": "Stat Adjustments:\\nCrushing Damage +10%\\nCrushing Damage Cap +10%\\nFinal Mitigation Cap +10%\\nPersonal Damage +4.5%\\n\\nSometimes the shield of faith or knowledge is not enough—sometimes what you need is a shield of steel.",
     "icon": "bulwark.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-hardiness",
-            "point": 2
-        },
-        {
-            "skill": "knight-noble-blood",
+            "skill": "knight-revenge",
             "point": 1
         },
         {
-            "skill": "knight-unbreakable",
+            "skill": "knight-redirected-strikes",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-exploration-ii"
+        "knight-domain-death",
+        "knight-domain-justice",
+        "knight-domain-nature"
     ],
     "locksSkill": []
 }

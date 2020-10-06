@@ -1,7 +1,7 @@
 {
     "id": "champion-passive-2",
     "name": "Second Wind",
-    "description": "recovers 25% of your Health over time after taking damage dropping you below 50% Health. \\n\\nThis can occur once every two minutes.",
+    "description": "recovers 25% of your Health over time after taking damage dropping you below 50% Health. \\n\\nThis can occur once every 60 seconds.",
     "shortDescription": "",
     "icon": "champion-passive-2.png",
     "stats": {

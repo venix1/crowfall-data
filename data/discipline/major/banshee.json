@@ -4,32 +4,22 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-plague-or-death",
+            "name": "Plague or Death"
         }
     ],
     "icon": "banshee.png",
     "stats": [
         {
-            "name": "Armor Penetration: Elemental",
-            "value": "3%"
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
         },
         {
-            "name": "Critical Strike",
-            "value": "3%"
+            "name": "Critical Damage",
+            "value": "5%"
         }
     ],
     "grantsPowers": [
-        {
-            "id": "banshee-ghost-army",
-            "name": "Ghost Army",
-            "description": "Attack: Damage Multiple Enemies; Healing"
-        },
-        {
-            "id": "banshee-banshee-wail",
-            "name": "Banshee Wail",
-            "description": "Attack: Reduce Movement Speed"
-        },
         {
             "id": "banshee-haunt",
             "name": "Haunt",
@@ -44,5 +34,7 @@
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "An ambassador of death, The Banshee is most known for a distinguished wail that can induce fear and paralysis. A haunting presence and the ability to conjure a ghostly army combine to make the Banshee a truy terrifying angel of death.",
+    "lore": "The keening cry of a Banshee cannot be ignored as it signals impending death."
+} death, The Banshee is most known for a distinguished wail that can induce fear and paralysis. A haunting presence and the ability to conjure a ghostly army combine to make the Banshee a truy terrifying angel of death.",
     "lore": "The keening cry of a Banshee cannot be ignored as it signals impending death."
 }

@@ -1,7 +1,7 @@
 {
     "id": "confessor-hellfire-3a",
-    "name": "Hellfire Blast",
-    "description": "blasts those in front of you, dealing 82 + 102% Weapon Damage and leaving them Stunned.",
+    "name": "Confessor_Hellfire_3_name",
+    "description": "Confessor_Hellfire_3_description",
     "shortDescription": "",
     "icon": "confessor-hellfire-3a.png",
     "stats": {
@@ -18,7 +18,7 @@
     },
     "nextChain": [],
     "lastChain": [
-        "confessor-hellfire-2a"
+        "confessor-hellfire-2b"
     ],
     "inSpellbook": true,
     "isGroupPower": false,

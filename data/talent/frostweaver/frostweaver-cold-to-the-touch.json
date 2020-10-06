@@ -1,0 +1,21 @@
+{
+    "id": "frostweaver-cold-to-the-touch",
+    "name": "Cold to the Touch",
+    "class": "frostweaver",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "cold-to-the-touch.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-thawing-ice",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-freezing-reign"
+    ],
+    "locksSkill": []
+}

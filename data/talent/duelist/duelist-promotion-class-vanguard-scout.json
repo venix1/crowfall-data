@@ -1,21 +1,31 @@
 {
     "id": "duelist-promotion-class-vanguard-scout",
-    "name": "Promotion Class - Vanguard Scout",
+    "name": "Promotion Class: Vanguard Scout",
     "class": "duelist",
-    "description": "Role: Melee Damage\\n\\nKnown for lurking in the shadows and leaving only to finish off a wounded target.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vanguard Scout  promotion class and prevents access to the Slayer and Dirge  promotion classes.",
+    "description": "Role: Melee Damage\\n\\nKnown for lurking in the shadows and leaving only to finish off a wounded target.\\n\\nStat Adjustments:\\nHealth +750\\nStealth +15\\nStealth Damage +30%\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery\\n\\nEnhancements:\\nPepperbox Shot: Now inflicts Stun on 5 pips spent.\\nKeen Guard: Now has a chance to slow enemies that hit you while active\\nFlintlock Shot: Now increases movement speed for a duration when used.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vanguard Scout  promotion class and prevents access to the Slayer and Dirge  promotion classes.",
     "icon": "promotion-class-vanguard-scout.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-rapier-mastery",
+            "name": "Rapier Mastery"
+        },
+        {
+            "id": "trait-off-hand-pistol-mastery",
+            "name": "Off Hand Pistol Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-rapid-fire",
+            "skill": "duelist-keen-guard",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-lurk-more"
+        "duelist-buckshot",
+        "duelist-into-the-shadows"
     ],
     "locksSkill": [
         "duelist-promotion-class-slayer",

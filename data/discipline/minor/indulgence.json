@@ -1,0 +1,29 @@
+{
+    "id": "indulgence",
+    "name": "Indulgence",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-light-or-fire",
+            "name": "Light or Fire"
+        }
+    ],
+    "icon": "indulgence.png",
+    "stats": [
+        {
+            "name": "Fire Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "friar-indulgence",
+            "name": "Indulgence",
+            "description": "Gain Sin immunity"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

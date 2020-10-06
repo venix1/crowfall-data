@@ -2,22 +2,25 @@
     "id": "cleric-anointed",
     "name": "Anointed",
     "class": "cleric",
-    "description": "Anointed improves Critical Healing Amount by 2% per point spent.",
+    "description": "This talent grants the Flash Of Light and Holy Symbol powers.",
     "icon": "anointed.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
-    "unlockedFromSkill": [
+    "grants": [
         {
-            "skill": "cleric-shield-block",
-            "point": 1
+            "id": "flash-of-light",
+            "name": "Flash Of Light"
+        },
+        {
+            "id": "holy-symbol",
+            "name": "Holy Symbol"
         }
     ],
+    "unlockedFromSkill": [],
     "unlocksSkill": [
-        "cleric-inviolable",
-        "cleric-minor-iii",
-        "cleric-thwart-the-wicked"
+        "cleric-divine-alacrity",
+        "cleric-prudence"
     ],
     "locksSkill": []
 }

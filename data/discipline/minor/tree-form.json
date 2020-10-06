@@ -1,0 +1,18 @@
+{
+    "id": "tree-form",
+    "name": "Tree Form",
+    "type": "minor",
+    "trait": [],
+    "icon": "tree-form.png",
+    "stats": [
+        {
+            "name": "Stealth",
+            "value": "10"
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

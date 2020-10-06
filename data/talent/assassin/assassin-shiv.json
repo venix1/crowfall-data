@@ -1,0 +1,27 @@
+{
+    "id": "assassin-shiv",
+    "name": "Shiv",
+    "class": "assassin",
+    "description": "This talent grants the [NOPOWER] power and grants the ability to equip poisons.",
+    "icon": "shiv.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-poison-toxin-training",
+            "name": "Poison Toxin Training"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-brutal-fury",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-opportunist",
+        "assassin-deceptive-strength"
+    ],
+    "locksSkill": []
+}

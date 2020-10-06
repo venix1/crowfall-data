@@ -1,21 +1,31 @@
 {
     "id": "confessor-promotion-class-inquisitor",
-    "name": "Promotion Class - Inquisitor",
+    "name": "Promotion Class: Inquisitor",
     "class": "confessor",
-    "description": "Role: Ranged Control\\n\\nPunishing the wicked leads to longer fights, which affords this worshiper of flame plenty of time for multiple mana restores and many chances to slow their opponents.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Inquisitor promotion class and prevents access to the Sanctifier and Fanatic promotion classes.",
+    "description": "Role: Healing\\n\\nAs fire can punish the wicked, it can also heal the faithful. While this worshiper weilds both forms of the flame, they rely on their healing to keep the faithful fighting.\\n\\nStat Adjustments:\\nSupport Power +525\\nFire Damage +5%\\nFire Damage Cap +5%\\nFinal Mitigations Cap +10%\\n\\nTraits Granted:\\nMail Armor Proficiency\\nBook Mastery\\n\\nEnhancements:\\nFervor: Now has a reduced cooldown and adds a Group heal to those within 30m.\\nFire Tornadoes: Now tornadoes also heal friendly targets they hit.\\nHellfire Aura: Now with increased radius, also heals allies within the radius.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Inquisitor promotion class and prevents access to the Sanctifier and Fanatic promotion classes.",
     "icon": "promotion-class-inquisitor.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-book-mastery",
+            "name": "Book Mastery"
+        },
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-hellfire",
+            "skill": "confessor-tools-of-justice",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-atone"
+        "confessor-fire-of-life",
+        "confessor-pureness-of-heart"
     ],
     "locksSkill": [
         "confessor-promotion-class-fanatic",

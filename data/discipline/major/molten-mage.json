@@ -1,0 +1,34 @@
+{
+    "id": "molten-mage",
+    "name": "Molten Mage",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-confessor",
+            "name": "Confessor"
+        }
+    ],
+    "icon": "molten-mage.png",
+    "stats": [
+        {
+            "name": "Fire Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Ranged Distance Bonus",
+            "value": "5(m)"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_moltenmage_magma_ball",
+        {
+            "id": "firewalker-conduction",
+            "name": "Conduction",
+            "description": "Passive: Increase Attack Power after taking Elemental Damage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

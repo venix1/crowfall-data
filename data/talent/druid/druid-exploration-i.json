@@ -2,25 +2,20 @@
     "id": "druid-exploration-i",
     "name": "Exploration Discipline Slot",
     "class": "druid",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "druid-exploration-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 5,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-bark-skin",
-            "point": 1
-        },
-        {
-            "skill": "druid-call-storm",
+            "skill": "druid-minor-i",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-minor-i",
-        "druid-mark-of-the-storm"
+        "druid-major-i"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,30 @@
+{
+    "id": "frostweaver-additional-minor-slot",
+    "name": "Additional Minor Slot",
+    "class": "frostweaver",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-free-weaving-all-foci",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-crisp-casting",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-elegant-form",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-elegant-form",
+        "frostweaver-chill-out"
+    ],
+    "locksSkill": []
+}

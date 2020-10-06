@@ -1,0 +1,38 @@
+{
+    "id": "master-of-axes",
+    "name": "Master of Axes",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-myrmidon",
+            "name": "Myrmidon"
+        }
+    ],
+    "icon": "master-of-axes.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": "3%"
+        },
+        {
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "axemaster-cooldown-combo-1",
+            "name": "Furious Slash",
+            "description": "Attack: Reduce Long Cooldowns"
+        },
+        {
+            "id": "axemaster-armorbreak-1",
+            "name": "Demolish Armor",
+            "description": "Attack: Inflict stacking Armor Break"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

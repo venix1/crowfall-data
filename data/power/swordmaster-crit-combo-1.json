@@ -1,0 +1,31 @@
+{
+    "id": "swordmaster-crit-combo-1",
+    "name": "Critical Hack",
+    "description": "slashes an enemy for 154 + 154% Weapon Damage.",
+    "shortDescription": "Attack: Increase Critical Strike",
+    "icon": "swordmaster-crit-combo-1.png",
+    "stats": {
+        "weapon_damage_value": "154",
+        "max_damage_1": "154",
+        "min_damage_1": "154",
+        "cost_type": "Resource",
+        "cost": "18",
+        "range": "6",
+        "max_targets": "5",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "swordmaster-crit-combo-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "templar-holy-warrior-righteous-stand",
+    "name": "Holy Warrior/Righteous Stand",
+    "class": "templar",
+    "description": "This talent grants the Holy Warrior and Righteous Stand powers.",
+    "icon": "holy-warrior-righteous-stand.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "holy-warrior",
+            "name": "Holy Warrior"
+        },
+        {
+            "id": "righteous-stand",
+            "name": "Righteous Stand"
+        }
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "templar-indictment",
+        "templar-grace"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,30 @@
+{
+    "id": "poisoned-trapper",
+    "name": "Poisoned Trapper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        }
+    ],
+    "icon": "poisoned-trapper.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Poison",
+            "value": "3%"
+        },
+        {
+            "name": "Poison Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_faerietrapper_stun_trap",
+        "power_discipline_toxic_trap"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

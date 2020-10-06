@@ -1,0 +1,21 @@
+{
+    "id": "cleric-hammer-of-the-gods",
+    "name": "Hammer of the Gods",
+    "class": "cleric",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "hammer-of-the-gods.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-sun-burn",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-transcendence"
+    ],
+    "locksSkill": []
+}

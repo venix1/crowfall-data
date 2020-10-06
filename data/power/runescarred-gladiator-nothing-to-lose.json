@@ -1,0 +1,28 @@
+{
+    "id": "runescarred-gladiator-nothing-to-lose",
+    "name": "Nothing To Lose",
+    "description": "sacrifices 500 Health to increase Critical Strike by 10% and Critical Damage by 10% for 15 seconds.",
+    "shortDescription": "Increase Crit Hit Chance, Amount",
+    "icon": "runescarred-gladiator-nothing-to-lose.png",
+    "stats": {
+        "buff_amount_2": "10%",
+        "buff_type_2": "Critical Damage",
+        "buff_amount_1": "10%",
+        "buff_type_1": "Critical Strike",
+        "cost_type": "Health",
+        "cost": "500",
+        "cooldown": "23",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "champion"
+    ]
+}

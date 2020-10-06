@@ -2,20 +2,43 @@
     "id": "ranger-hunting-party",
     "name": "Hunting Party",
     "class": "ranger",
-    "description": "Hunting Party improves Critical Strike by 1% per point spent.",
+    "description": "This talent grants the Concussive Trap power.\\n\\nStat Adjustments:\\nPerception +45",
     "icon": "hunting-party.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "concussive-trap",
+            "name": "Concussive Trap"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-rapid-fire",
+            "skill": "ranger-ankle-shot",
+            "point": 1
+        },
+        {
+            "skill": "ranger-faerie-fire",
+            "point": 1
+        },
+        {
+            "skill": "ranger-suppression-shot",
+            "point": 1
+        },
+        {
+            "skill": "ranger-draining-blades",
+            "point": 1
+        },
+        {
+            "skill": "ranger-from-the-shadows",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-archers-stake"
+        "ranger-promotion-class-archer",
+        "ranger-promotion-class-warden",
+        "ranger-promotion-class-brigand"
     ],
     "locksSkill": []
 }

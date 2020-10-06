@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-mark-of-faith",
-            "name": "Mark of Faith"
+            "id": "trait-assassin-justice-or-music",
+            "name": "Assassin, Justice or Music"
         }
     ],
     "icon": "careless-whisper.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "careless-whisper",

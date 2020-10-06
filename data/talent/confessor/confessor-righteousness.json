@@ -5,7 +5,7 @@
     "description": "This talent grants the Righteousness passive power.",
     "icon": "righteousness.png",
     "maxPoints": 1,
-    "pointRequirement": 7,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
@@ -15,14 +15,17 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-exploration-i",
+            "skill": "confessor-rapture",
+            "point": 1
+        },
+        {
+            "skill": "confessor-revelation",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-erudite",
-        "confessor-blessed",
-        "confessor-rapture"
+        "confessor-feel-the-burn",
+        "confessor-tools-of-justice"
     ],
     "locksSkill": []
 }

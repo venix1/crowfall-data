@@ -1,0 +1,34 @@
+{
+    "id": "kanes-apostle",
+    "name": "Kane's Apostle",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-justice",
+            "name": "Justice"
+        }
+    ],
+    "icon": "kanes-apostle.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": "3%"
+        },
+        {
+            "name": "Crushing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "runecaster-fortification",
+            "name": "Fortification",
+            "description": "Group Increase Health Max"
+        },
+        "power_discipline_demolisher_cracked_armor"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

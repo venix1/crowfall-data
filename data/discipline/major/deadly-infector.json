@@ -1,0 +1,30 @@
+{
+    "id": "deadly-infector",
+    "name": "Deadly Infector",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        }
+    ],
+    "icon": "deadly-infector.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Poison",
+            "value": "3%"
+        },
+        {
+            "name": "Armor Penetration: Piercing",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_deadlyinfector_diffusion",
+        "power_discipline_deadlyinfector_envenom"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

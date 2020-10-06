@@ -1,0 +1,30 @@
+{
+    "id": "templar-additional-minor-slot",
+    "name": "Additional Minor Slot",
+    "class": "templar",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-divine-light",
+            "point": 1
+        },
+        {
+            "skill": "templar-fiery-devotion",
+            "point": 1
+        },
+        {
+            "skill": "templar-shining-armor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-shining-armor",
+        "templar-reproach"
+    ],
+    "locksSkill": []
+}

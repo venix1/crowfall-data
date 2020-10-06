@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-archers-stake",
+            "skill": "ranger-promotion-class-archer",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-exploration-i"
+        "ranger-sure-aim"
     ],
     "locksSkill": []
 }

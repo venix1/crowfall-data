@@ -1,0 +1,26 @@
+{
+    "id": "champion-might-warrior",
+    "name": "Might Warrior",
+    "class": "champion",
+    "description": "This talent grants the Mighty Warrior power.",
+    "icon": "might-warrior.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "mighty-warrior",
+            "name": "Mighty Warrior"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-promotion-class-alpha-warrior",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-ferociousness"
+    ],
+    "locksSkill": []
+}

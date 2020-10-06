@@ -2,21 +2,21 @@
     "id": "confessor-repent",
     "name": "Repent",
     "class": "confessor",
-    "description": "Repent improves Hard Crowd Control by 6% per point spent.",
+    "description": "Stat Adjustments:\\nBasic Attack Damage +6%\\nAttack Power +150\\n\\n\"There is no sin that can withstand these fires.\"\\n-Holy Mother Lahab",
     "icon": "repent.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-atone",
-            "point": 2
+            "skill": "confessor-fire-bolt",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-damnation",
-        "confessor-confirmed-absolution"
+        "confessor-absolution",
+        "confessor-fervor"
     ],
     "locksSkill": []
 }

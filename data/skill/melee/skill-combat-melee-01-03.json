@@ -10,7 +10,7 @@
     "stats": [
         {
             "name": "Armor Penetration: Physical",
-            "amount": "-1.2%"
+            "amount": "1.2%"
         }
     ],
     "grants": [],

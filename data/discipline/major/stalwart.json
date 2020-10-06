@@ -1,0 +1,38 @@
+{
+    "id": "stalwart",
+    "name": "Stalwart",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-cleric",
+            "name": "Cleric"
+        }
+    ],
+    "icon": "stalwart.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Stamina",
+            "value": "5"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "knight-block",
+            "name": "Shield Block",
+            "description": ""
+        },
+        {
+            "id": "shieldfighter-molon-labe",
+            "name": "Molon Labe",
+            "description": "Passive: Blocks Reflect Elemental Damage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

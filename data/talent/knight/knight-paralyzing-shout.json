@@ -1,0 +1,21 @@
+{
+    "id": "knight-paralyzing-shout",
+    "name": "Paralyzing Shout",
+    "class": "knight",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "paralyzing-shout.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-promotion-class-sentinel",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-commanding-vow"
+    ],
+    "locksSkill": []
+}

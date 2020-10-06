@@ -2,28 +2,26 @@
     "id": "frostweaver-crisp-casting",
     "name": "Crisp Casting",
     "class": "frostweaver",
-    "description": "Crisp Casting improves Basic Attack Damage by 2% and Mana Regen In Combat by 3 per point spent.",
+    "description": "Stat Adjustments:\\nMana +250\\nArmor Penetration: Elemental +3%\\n\\n\"What else have we to give back to this world but knowledge?\"\\n-Anonymous",
     "icon": "crisp-casting.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-permafrost",
-            "point": 2
-        },
-        {
-            "skill": "frostweaver-slush-fund",
+            "skill": "frostweaver-crystal-lance",
             "point": 1
         },
         {
-            "skill": "frostweaver-chill-out",
+            "skill": "frostweaver-free-weaving-all-foci",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-exploration-ii"
+        "frostweaver-additional-minor-slot",
+        "frostweaver-chill-out",
+        "frostweaver-bitter-cold"
     ],
     "locksSkill": []
 }

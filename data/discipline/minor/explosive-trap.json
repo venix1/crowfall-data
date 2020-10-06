@@ -1,0 +1,29 @@
+{
+    "id": "explosive-trap",
+    "name": "Explosive Trap",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "icon": "explosive-trap.png",
+    "stats": [
+        {
+            "name": "Power Damage Bonus: Trap",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "ranger-explosive-trap-melee",
+            "name": "Explosive Trap",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

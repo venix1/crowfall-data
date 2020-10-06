@@ -1,0 +1,29 @@
+{
+    "id": "guardian-rhythms",
+    "name": "Guardian Rhythms",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-human-or-music",
+            "name": "Human or Music"
+        }
+    ],
+    "icon": "guardian-rhythms.png",
+    "stats": [
+        {
+            "name": "Song Duration",
+            "value": "6"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "bard-guardian-rhythms",
+            "name": "Guardian Rhythms",
+            "description": "Song: Increase Group Mitigation"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

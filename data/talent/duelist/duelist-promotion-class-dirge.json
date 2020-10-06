@@ -1,13 +1,21 @@
 {
     "id": "duelist-promotion-class-dirge",
-    "name": "Promotion Class - Dirge",
+    "name": "Promotion Class: Dirge",
     "class": "duelist",
-    "description": "Role: Melee Control\\n\\nHeavily armored and control focused, this master of the foil is not to be trifled with. \\n\\nIncreases by 25%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Dirge  promotion class and prevents access to the Vanguard Scout  and Slayer promotion classes.",
+    "description": "Role: Melee Control\\n\\nHeavily armored and control focused, this master of the foil is not to be trifled with.\\n\\nStat Adjustments:\\nHealth +1050\\nSelf Healing +4.5%\\nFinal Mitigations +25%\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\nEnhancements:\\nPepperbox Shot: Now reduces targets Piercing Mitigation on 5 pips spent.\\nKeen Guard: Now Heals on activation that scales with pips and has a reduced cooldown.\\nFlintlock Shot: Now has increased damage against Bleeding targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Dirge  promotion class and prevents access to the Vanguard Scout  and Slayer promotion classes.",
     "icon": "promotion-class-dirge.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
+        {
+            "id": "trait-rapier-mastery",
+            "name": "Rapier Mastery"
+        },
+        {
+            "id": "trait-off-hand-pistol-mastery",
+            "name": "Off Hand Pistol Mastery"
+        },
         {
             "id": "trait-mail-armor-proficiency",
             "name": "Mail Armor Proficiency"
@@ -19,12 +27,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-rapid-fire",
+            "skill": "duelist-keen-guard",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-persistence"
+        "duelist-dirge",
+        "duelist-lunge"
     ],
     "locksSkill": [
         "duelist-promotion-class-slayer",

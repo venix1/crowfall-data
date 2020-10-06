@@ -1,0 +1,21 @@
+{
+    "id": "knight-juggernaut",
+    "name": "Juggernaut",
+    "class": "knight",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "juggernaut.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-resolve",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-into-the-fray"
+    ],
+    "locksSkill": []
+}

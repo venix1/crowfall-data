@@ -1,0 +1,28 @@
+{
+    "id": "realitywarper-tear-reality",
+    "name": "Spiritual Decay",
+    "description": "decays the area within 8 meters around you every 3 seconds for 9 seconds, all targets hit have their All Cooldowns decreased by 3.",
+    "shortDescription": "Attack: Increase Enemy Cooldowns",
+    "icon": "realitywarper-tear-reality.png",
+    "stats": {
+        "buff_amount_1": "3",
+        "buff_type_1": "All Cooldowns",
+        "duration": "9 seconds",
+        "cost_type": "Resource",
+        "cost": "13",
+        "range": "8",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

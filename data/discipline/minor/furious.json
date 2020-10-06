@@ -9,7 +9,12 @@
         }
     ],
     "icon": "furious.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Slashing Resistance",
+            "value": "300"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "furious-dmg-bonus-full-rage",

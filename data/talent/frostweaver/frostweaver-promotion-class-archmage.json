@@ -1,24 +1,30 @@
 {
     "id": "frostweaver-promotion-class-archmage",
-    "name": "Promotion Class - Archmage",
+    "name": "Promotion Class: Archmage",
     "class": "frostweaver",
-    "description": "Role: Ranged Damage\\n\\nSome want to see the world burn, this master of magic wants to freeze the world. And then explode it.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\n\\nWARNING: Purchasing this talent prevents access to the Icecaller and Frostguard promotion classes.",
+    "description": "Role: Ranged Damage\\n\\nSome want to see the world burn, this master of magic wants to freeze the world. And then explode it.\\n\\nStat Adjustments:\\nAttack Power +225\\nCritical Strike +9%\\nIncrease Ice Storage Cap +1\\n\\nTraits Granted:\\nFrostcaster Mastery\\n\\nEnhancements:\\nVolatile Ice Weave: Now halves the time it takes to explode and reduces the enemy's Anti-Critical Strike.\\nCrystal Lance: Now removes the cooldown and causes execute damage to targets under 50% Health.\\nShatter Storm: Now spawns Volatile Ice on hit.\\n\\n\\nWARNING:Purchasing this talent promotes you to the Archmage promotion class and prevents access to the Icecaller and Frostguard promotion classes.",
     "icon": "promotion-class-archmage.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-frostcaster-mastery",
+            "name": "Frostcaster Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-resurrection",
+            "skill": "frostweaver-freezing-reign",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-dangerous-weaving"
+        "frostweaver-cold-stare",
+        "frostweaver-death-shard"
     ],
     "locksSkill": [
-        "frostweaver-promotion-class-frostguard",
-        "frostweaver-promotion-class-icecaller"
+        "frostweaver-promotion-class-icecaller",
+        "frostweaver-promotion-class-frostguard"
     ]
 }

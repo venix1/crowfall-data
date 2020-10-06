@@ -1,0 +1,29 @@
+{
+    "id": "crazy-pills",
+    "name": "Crazy Pills",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-wind-fire-frost-storm-justice-or-battle",
+            "name": "Wind, Fire, Frost, Storm, Justice or Battle"
+        }
+    ],
+    "icon": "crazy-pills.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "realitywarp-dmg-on-low-resource",
+            "name": "Crazy Pills",
+            "description": "Passive: Increase Damage on Low Resource"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

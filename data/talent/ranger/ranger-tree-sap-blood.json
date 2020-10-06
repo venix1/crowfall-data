@@ -2,28 +2,20 @@
     "id": "ranger-tree-sap-blood",
     "name": "Tree Sap Blood",
     "class": "ranger",
-    "description": "Tree Sap Blood improves Bleed Resistance by 1000 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +450\\n\\n\"The work is hard and often lonely, but the types of people drawn to this profession are well-suited to it.\"\\n-Roaming the Wilds: Book One",
     "icon": "tree-sap-blood.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-treant-lore",
-            "point": 1
-        },
-        {
-            "skill": "ranger-triumphant-cry",
-            "point": 1
-        },
-        {
-            "skill": "ranger-trackers-kit",
+            "skill": "ranger-cross-slash",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-warden"
+        "ranger-draining-blades"
     ],
     "locksSkill": []
 }

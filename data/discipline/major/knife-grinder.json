@@ -4,40 +4,34 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-dagger-proficiency",
-            "name": "Dagger Proficiency"
+            "id": "trait-war",
+            "name": "War"
         }
     ],
     "icon": "knife-grinder.png",
     "stats": [
         {
-            "name": "Armor Penetration: Piercing",
-            "value": "3%"
+            "name": "Critical Strike",
+            "value": "2%"
         },
         {
-            "name": "Physical Resistance",
-            "value": "300"
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
         }
     ],
     "grantsPowers": [
         {
-            "id": "daggermaster-combo-1",
-            "name": "Cripple",
-            "description": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds."
-        },
-        {
-            "id": "knifegrinder-bleed-debuff-1",
-            "name": "Tenderize",
-            "description": "Attack: Adds a debuff to an enemy that makes them take more bleeding damage for 15 seconds."
-        },
-        {
-            "id": "knifegrinder-cauterize",
-            "name": "Cauterize",
-            "description": "Buff: Removes the bleeding debuff from yourself."
-        },
-        {
             "id": "knifegrinder-bleed-basic",
             "name": "Long Live The Fighter",
+            "description": "Passive: Adds the bleeding debuff to an enemy on every third Basic attack."
+        },
+        "power_discipline_knifegrinder_shrapnel"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "The art of bleeding a target is one that only a few can accomplish proficiently. Followers of Maeve have known for years how important the blade is in combat. With proper training and practice knife grinding can be the determining factor in a victory or a loss.",
+    "lore": "\"Is it not obvious to you, my dear, that I am here to make you bleed and bleed again?\"\\n-Fae Assassin"
+}me": "Long Live The Fighter",
             "description": "Passive: Adds the bleeding debuff to an enemy on every third Basic attack."
         }
     ],

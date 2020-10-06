@@ -1,0 +1,38 @@
+{
+    "id": "intimidator",
+    "name": "Intimidator",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-champion",
+            "name": "Champion"
+        }
+    ],
+    "icon": "intimidator.png",
+    "stats": [
+        {
+            "name": "Rage",
+            "value": "6"
+        },
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "destroyer-frighten",
+            "name": "Frighten",
+            "description": "Attack: Reduce enemy damage"
+        },
+        {
+            "id": "destroyer-rage-health-buff",
+            "name": "Insanity",
+            "description": "Gain Health based on Rage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,21 +2,21 @@
     "id": "myrmidon-solid-muscle",
     "name": "Solid Muscle",
     "class": "myrmidon",
-    "description": "Solid Muscle improves Attack Power by 50 per point spent.",
+    "description": "Stat Adjustments:\\nAttack Power +255\\nBasic Attack Damage +6%\\n\\n\"To place a myrmidon among the ranks of friends is to limit their potential.\"\\n-Barbarians and You",
     "icon": "solid-muscle.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-vicious-cruelty",
-            "point": 2
+            "skill": "myrmidon-bloodied-swipe",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-gathering-storm",
-        "myrmidon-blood-thirst"
+        "myrmidon-serrated-blade",
+        "myrmidon-berserk-neck-slash"
     ],
     "locksSkill": []
 }

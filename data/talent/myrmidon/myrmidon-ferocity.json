@@ -2,20 +2,20 @@
     "id": "myrmidon-ferocity",
     "name": "Ferocity",
     "class": "myrmidon",
-    "description": "Ferocity improves Attack Power by 85 per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +7.5%\\nCritical Damage +15%\\n\\n\"Once you swing, make sure you do not stop.\"\\n-Myrmidon Saying",
     "icon": "ferocity.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-bloody-swipe",
+            "skill": "myrmidon-serrated-blade",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-cast-net"
+        "myrmidon-opportunist"
     ],
     "locksSkill": []
 }

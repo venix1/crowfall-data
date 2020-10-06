@@ -1,0 +1,34 @@
+{
+    "id": "arkons-disciple",
+    "name": "Arkon's Disciple",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-confessor-or-fire",
+            "name": "Confessor or Fire"
+        }
+    ],
+    "icon": "arkons-disciple.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        },
+        {
+            "name": "Fire Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "confessor-arkons-fury",
+            "name": "Arkon's Fury",
+            "description": ""
+        },
+        "power_discipline_arkonsdisciple_fiery_brand"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

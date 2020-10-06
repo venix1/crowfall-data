@@ -2,7 +2,7 @@
     "id": "duelist-spy-master",
     "name": "Spy Master",
     "class": "duelist",
-    "description": "Spy Master enhances Recon to reduce an enemy's Anti-Critical Strike and reduce its cooldown.",
+    "description": "Stat Adjustments:\\nRanged Distance +9\\nPiercing Damage +10%\\nPiercing Damage Cap +10%\\nCrushing Damage +10%\\nCrushing Damage Cap +10%\\n\\nUsed as forward scouts and flankers, these duelists are covert experts.",
     "icon": "spy-master.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-tenacity",
+            "skill": "duelist-buckshot",
+            "point": 1
+        },
+        {
+            "skill": "duelist-into-the-shadows",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-shiny-coat"
+        "duelist-domain-dark",
+        "duelist-domain-shadow",
+        "duelist-domain-battle"
     ],
     "locksSkill": []
 }

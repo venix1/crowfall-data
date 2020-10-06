@@ -2,21 +2,26 @@
     "id": "cleric-interdiction",
     "name": "Interdiction",
     "class": "cleric",
-    "description": "Interdiction improves Attack Control Intensity by 5% per point spent.",
+    "description": "Stat Adjustments:\\nAttack Control Intensity +15%\\nMovement Control Intensity +15%\\nHard Control Intensity +15%\\nFinal Mitigation Cap +15%\\nFire Damage +5%\\nFire Damage Cap +5%\\nHoly Damage +5%\\nHoly Damage Cap +5%\\n\\nThese field medics excel in keeping foes at bay while they administer to their allies.",
     "icon": "interdiction.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-promotion-class-arbiter",
+            "skill": "cleric-arbiter",
+            "point": 1
+        },
+        {
+            "skill": "cleric-spiritual-presence",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-spiritual-restraint",
-        "cleric-seismic-symbol"
+        "cleric-domain-frost",
+        "cleric-domain-light",
+        "cleric-domain-wind"
     ],
     "locksSkill": []
 }

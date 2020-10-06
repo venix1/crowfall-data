@@ -1,0 +1,30 @@
+{
+    "id": "entertainer",
+    "name": "Entertainer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-music",
+            "name": "Music"
+        }
+    ],
+    "icon": "entertainer.png",
+    "stats": [
+        {
+            "name": "Song Duration",
+            "value": "6"
+        },
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_entertainer_bolstering_ballad",
+        "power_discipline_entertainer_reprise"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

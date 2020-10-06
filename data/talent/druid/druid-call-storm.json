@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "druid-remnant-of-gaea",
+            "skill": "druid-potential-energy",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-exploration-i"
+        "druid-flow-of-nature",
+        "druid-mark-of-the-storm"
     ],
     "locksSkill": []
 }

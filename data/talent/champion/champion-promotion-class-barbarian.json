@@ -1,21 +1,31 @@
 {
     "id": "champion-promotion-class-barbarian",
-    "name": "Promotion Class - Barbarian",
+    "name": "Promotion Class: Barbarian",
     "class": "champion",
-    "description": "Role: Melee Control\\n\\nControlling enemies will cause this brute to become even more powerful.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Barbarian promotion class and prevents access to the Pit Fighter and Alpha Warrior  promotion classes.",
+    "description": "Role: Melee Control\\n\\nControlling enemies will cause this brute to become even more powerful.\\n\\nStat Adjustments:\\nMovement Control Intensity +21%\\nAttack Control Intensity +21%\\n\\nTraits Granted:\\nGreat Axe Mastery\\nGreat Mace Mastery\\n\\nEnhancements:\\nLeap: Now applies a Knockdown.\\nWhirling Pain: Now applies Slow then Suppress.\\nNeckbreaker: Now has cost reduced to 300 and applies Knockdown.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Barbarian promotion class and prevents access to the Pit Fighter and Alpha Warrior  promotion classes.",
     "icon": "promotion-class-barbarian.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-great-axe-mastery",
+            "name": "Great Axe Mastery"
+        },
+        {
+            "id": "trait-great-mace-mastery",
+            "name": "Great Mace Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-second-wind",
+            "skill": "champion-animosity",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-malice"
+        "champion-barbarian",
+        "champion-brutal-warrior"
     ],
     "locksSkill": [
         "champion-promotion-class-alpha-warrior",

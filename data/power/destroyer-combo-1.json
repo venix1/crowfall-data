@@ -1,0 +1,31 @@
+{
+    "id": "destroyer-combo-1",
+    "name": "Aegis Of Salvation",
+    "description": "attacks causing 82 + 82% Weapon Damage.",
+    "shortDescription": "Attack: Adds Barrier and Heal",
+    "icon": "destroyer-combo-1.png",
+    "stats": {
+        "weapon_damage_value": "82",
+        "max_damage_1": "82",
+        "min_damage_1": "82",
+        "cost_type": "Resource",
+        "cost": "12",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "destroyer-combo-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": false,
+    "tags": [
+        "champion"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "ranger-additional-minor-slot",
+    "name": "Additional Minor Slot",
+    "class": "ranger",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-sweep",
+            "point": 1
+        },
+        {
+            "skill": "ranger-tree-sparring",
+            "point": 1
+        },
+        {
+            "skill": "ranger-quick-arming",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-quick-arming",
+        "ranger-alertness-flare-arrow"
+    ],
+    "locksSkill": []
+}

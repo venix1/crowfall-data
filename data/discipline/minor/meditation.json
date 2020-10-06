@@ -1,0 +1,25 @@
+{
+    "id": "meditation",
+    "name": "Meditation",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-fae-or-light",
+            "name": "Fae or Light"
+        }
+    ],
+    "icon": "meditation.png",
+    "stats": [
+        {
+            "name": "Healing Bonus",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_meditation"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

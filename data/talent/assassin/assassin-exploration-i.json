@@ -6,21 +6,16 @@
     "icon": "assassin-exploration-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 5,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-disengage",
-            "point": 1
-        },
-        {
-            "skill": "assassin-in-the-zone",
+            "skill": "assassin-minor-i",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-minor-i",
-        "assassin-tools-of-the-trade"
+        "assassin-major-i"
     ],
     "locksSkill": []
 }

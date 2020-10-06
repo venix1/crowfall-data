@@ -4,44 +4,34 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-wood-elf-or-light",
+            "name": "Wood Elf or Light"
         }
     ],
     "icon": "naiad.png",
     "stats": [
         {
-            "name": "Critical Healing Chance",
+            "name": "Healing Bonus",
             "value": "3%"
         },
         {
-            "name": "Healing Bonus",
-            "value": "3%"
+            "name": "Critical Healing Chance",
+            "value": "2%"
         }
     ],
     "grantsPowers": [
-        {
-            "id": "mysticalmaster-aoe-root",
-            "name": "Grasping Roots",
-            "description": "Attack: Ground Target Area Root"
-        },
         {
             "id": "naiad-fountain",
             "name": "Fountain Of Life",
             "description": "Ground Target Area: Healing"
         },
-        {
-            "id": "naiad-water-spirits",
-            "name": "Water Spirits",
-            "description": "Attack: Heal Allies; Reduce Enemy Fire Damage"
-        },
-        {
-            "id": "naiad-supreme-element",
-            "name": "Supreme Element",
-            "description": "Passive: Elemental Damage Grants Buffs"
-        }
+        "power_discipline_naiad_cleanse"
     ],
     "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "Naiads, or Water Spirits, are in tune with the ebb and flow of fresh water and the possibility of its power. They often take comfort in the flowing of water and view it as a source of life. Water Spirits help alleviate pain and harm while also extinguishing even the most volatile of infernos. After all, water beats fire!",
+    "lore": "Naiads, guardians of fresh, flowing waters, are a true gift of nature."
+}[],
     "grantsTrait": [],
     "description": "Naiads, or Water Spirits, are in tune with the ebb and flow of fresh water and the possibility of its power. They often take comfort in the flowing of water and view it as a source of life. Water Spirits help alleviate pain and harm while also extinguishing even the most volatile of infernos. After all, water beats fire!",
     "lore": "Naiads, guardians of fresh, flowing waters, are a true gift of nature."

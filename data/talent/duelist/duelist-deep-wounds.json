@@ -1,0 +1,21 @@
+{
+    "id": "duelist-deep-wounds",
+    "name": "Deep Wounds",
+    "class": "duelist",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "deep-wounds.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-feral-instincts",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-keen-guard"
+    ],
+    "locksSkill": []
+}

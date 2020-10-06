@@ -2,31 +2,25 @@
     "id": "duelist-dirge",
     "name": "Dirge",
     "class": "duelist",
-    "description": "This talent grants the Dirge passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\n\\nIncreases by 15%:\\nPiercing Damage Bonus\\nPiercing Damage Cap\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery",
+    "description": "This talent grants the Dirge passive power.",
     "icon": "dirge.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 25,
+    "levelRequirement": 0,
     "grants": [
         {
             "id": "dirge",
             "name": "Dirge"
-        },
-        {
-            "id": "trait-rapier-mastery",
-            "name": "Rapier Mastery"
-        },
-        {
-            "id": "trait-off-hand-pistol-mastery",
-            "name": "Off Hand Pistol Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-quick-reload",
-            "point": 2
+            "skill": "duelist-promotion-class-dirge",
+            "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "duelist-flick-of-the-blade"
+    ],
     "locksSkill": []
 }

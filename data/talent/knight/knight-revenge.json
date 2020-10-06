@@ -1,0 +1,21 @@
+{
+    "id": "knight-revenge",
+    "name": "Revenge",
+    "class": "knight",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "revenge.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-promotion-class-secutor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-bulwark"
+    ],
+    "locksSkill": []
+}

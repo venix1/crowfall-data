@@ -1,0 +1,29 @@
+{
+    "id": "bearers-insignia",
+    "name": "Bearer's Insignia",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-champion-or-justice",
+            "name": "Champion or Justice"
+        }
+    ],
+    "icon": "bearers-insignia.png",
+    "stats": [
+        {
+            "name": "Slashing Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "standardbearer-ooc-regen",
+            "name": "Bearers Insignia",
+            "description": "Passive: Increase Out of Combat Regeneration"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

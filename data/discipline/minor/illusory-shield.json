@@ -1,0 +1,29 @@
+{
+    "id": "illusory-shield",
+    "name": "Illusory Shield",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-cleric-druid-or-knight",
+            "name": "Cleric, Druid or Knight"
+        }
+    ],
+    "icon": "illusory-shield.png",
+    "stats": [
+        {
+            "name": "Piercing Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "shieldfighter-shield-throw",
+            "name": "Throw Illusion Shield",
+            "description": "Attack Multiple Enemies"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

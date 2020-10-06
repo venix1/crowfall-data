@@ -1,24 +1,34 @@
 {
     "id": "champion-promotion-class-alpha-warrior",
-    "name": "Promotion Class - Alpha Warrior",
+    "name": "Promotion Class: Alpha Warrior",
     "class": "champion",
-    "description": "Role: Melee Damage\\n\\nThis terror fuels increased critical strikes with dominance gained from their powers.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Alpha Warrior  promotion class and prevents access to the Pit Fighter and Barbarian promotion classes.",
+    "description": "Role: Melee Damage\\n\\nThis terror fuels increased critical strikes with dominance gained from their powers.\\n\\nStat Adjustments:\\nAttack Power +225\\nCritical Strike +3%\\n\\nTraits Granted:\\nGreat Axe Mastery\\nGreat Mace Mastery\\n\\nEnhancements:\\nLeap: Now adds a point of Dominance.\\nWhirling Pain: Now reduces enemy's Anti-Critical Strike.\\nNeckbreaker: Now has its cost reduced to 350 and consumes Dominance to automatically land a Critical.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Alpha Warrior  promotion class and prevents access to the Pit Fighter and Barbarian promotion classes.",
     "icon": "promotion-class-alpha-warrior.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-great-axe-mastery",
+            "name": "Great Axe Mastery"
+        },
+        {
+            "id": "trait-great-mace-mastery",
+            "name": "Great Mace Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-second-wind",
+            "skill": "champion-animosity",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-enmity"
+        "champion-alpha-warrior",
+        "champion-might-warrior"
     ],
     "locksSkill": [
-        "champion-promotion-class-pit-fighter",
-        "champion-promotion-class-barbarian"
+        "champion-promotion-class-barbarian",
+        "champion-promotion-class-pit-fighter"
     ]
 }

@@ -1,0 +1,26 @@
+{
+    "id": "confessor-spitting-distance",
+    "name": "Spitting Distance",
+    "class": "confessor",
+    "description": "This talent grants the Spitting Distance passive power.",
+    "icon": "spitting-distance.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "spitting-distance",
+            "name": "Spitting Distance"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-promotion-class-sanctifier",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-sanctified"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,87 @@
+{
+    "id": "druid-domain-protection",
+    "name": "Domain: Protection",
+    "class": "druid",
+    "description": "Traits Granted:\\nDomain: Protection\\n\\nSpeak aloud the arcane knowledge so that all may bask in the aegis it provides.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Protection domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-protection.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-templar-high-elf-protection-or-music",
+            "name": "Templar, High Elf, Protection or Music"
+        },
+        {
+            "id": "trait-storm-or-protection",
+            "name": "Storm or Protection"
+        },
+        {
+            "id": "trait-frost-or-protection",
+            "name": "Frost or Protection"
+        },
+        {
+            "id": "trait-stoneborn-protection-or-battle",
+            "name": "Stoneborn, Protection or Battle"
+        },
+        {
+            "id": "trait-nethari-fire-or-protection",
+            "name": "Nethari, Fire or Protection"
+        },
+        {
+            "id": "trait-nethari-protection-or-justice",
+            "name": "Nethari, Protection or Justice"
+        },
+        {
+            "id": "trait-fae",
+            "name": "Fae"
+        },
+        {
+            "id": "trait-storm-or-protection",
+            "name": "Storm or Protection"
+        },
+        {
+            "id": "trait-knight-frostweaver-frost-or-protection",
+            "name": "Knight, Frostweaver, Frost or Protection"
+        },
+        {
+            "id": "trait-high-elf-protection-or-music",
+            "name": "High Elf, Protection or Music"
+        },
+        {
+            "id": "trait-light-protection-or-music",
+            "name": "Light, Protection or Music"
+        },
+        {
+            "id": "trait-frostweaver-protection-or-justice",
+            "name": "Frostweaver, Protection or Justice"
+        },
+        {
+            "id": "trait-plague-frost-or-protection",
+            "name": "Plague, Frost or Protection"
+        },
+        {
+            "id": "trait-light-nature-sotrm-or-protection",
+            "name": "Light, Nature, Sotrm or Protection"
+        },
+        {
+            "id": "trait-confessor-shadow-nature-storm-or-protection",
+            "name": "Confessor, Shadow, Nature, Storm or Protection"
+        },
+        {
+            "id": "trait-protection",
+            "name": "Protection"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-weather-sense",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "druid-domain-frost",
+        "druid-domain-storm"
+    ]
+}

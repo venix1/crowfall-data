@@ -1,0 +1,25 @@
+{
+    "id": "sun-elf-heritage",
+    "name": "Sun Elf Heritage",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-half-elf-or-high-elf",
+            "name": "Half Elf or High Elf"
+        }
+    ],
+    "icon": "sun-elf-heritage.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_sun_elf_heritage"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

@@ -2,20 +2,20 @@
     "id": "confessor-flagellation",
     "name": "Flagellation",
     "class": "confessor",
-    "description": "Flagellation improves Armor Penetration: Elemental by 3% per point spent.",
+    "description": "Stat Adjustments:\\nHealth +300\\nElemental Resist +600\\n\\n\"Where there is smoke... we have already saved souls.\"\\n-Church of the Sun Creed",
     "icon": "flagellation.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-erudite",
-            "point": 3
+            "skill": "confessor-condemnation",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-revelation"
+        "confessor-cleansing-fire"
     ],
     "locksSkill": []
 }

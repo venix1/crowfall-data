@@ -1,7 +1,7 @@
 {
     "id": "cleric-illuminate",
     "name": "Illuminate",
-    "description": "empowers group members and you restoring some of their native Resource over five seconds.",
+    "description": "empowers group members and you restoring some of their native Resource and healing over five seconds.",
     "shortDescription": "",
     "icon": "cleric-illuminate.png",
     "stats": {

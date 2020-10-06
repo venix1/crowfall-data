@@ -2,21 +2,26 @@
     "id": "duelist-dead-eye",
     "name": "Dead Eye",
     "class": "duelist",
-    "description": "Dead Eye improves Critical Strike by 2% per point spent and Attack Power by 50 per point spent.",
+    "description": "Stat Adjustments:\\nRanged Distance +9\\nArmor Penetration: Physical +6\\nPiercing Damage +10%\\nPiercing Damage Cap +10%\\nCrushing Damage +10%\\nCrushing Damage Cap +10%\\n\\nSlayers do what duelists do best: they slay. Whether with pistol or rapier, they know the gaps in every opponent's armor.",
     "icon": "dead-eye.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-promotion-class-slayer",
+            "skill": "duelist-slayer",
+            "point": 1
+        },
+        {
+            "skill": "duelist-dynamite",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-keen-aim",
-        "duelist-quick-draw"
+        "duelist-domain-death",
+        "duelist-domain-shadow",
+        "duelist-domain-music"
     ],
     "locksSkill": []
 }

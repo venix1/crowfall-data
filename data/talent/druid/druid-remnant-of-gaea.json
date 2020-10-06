@@ -2,30 +2,21 @@
     "id": "druid-remnant-of-gaea",
     "name": "Remnant of Gaea",
     "class": "druid",
-    "description": "This talent grants the Sacrifice power.",
+    "description": "Stat Adjustments:\\nHealth +450\\nHealing +3%\\n\\n\"Although druidic worship began as a small cult, its numbers quickly grew.\"\\n-Book of Oracle Masters",
     "icon": "remnant-of-gaea.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [
-        {
-            "id": "sacrifice",
-            "name": "Sacrifice"
-        }
-    ],
+    "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-foresight",
-            "point": 1
-        },
-        {
-            "skill": "druid-thick-skin",
+            "skill": "druid-magic-dance",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-bark-skin",
-        "druid-call-storm"
+        "druid-barkskin",
+        "druid-soothing-winds"
     ],
     "locksSkill": []
 }

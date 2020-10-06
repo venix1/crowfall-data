@@ -1,0 +1,31 @@
+{
+    "id": "rapiermaster-cut-thrust-1",
+    "name": "Cut And Thrust",
+    "description": "stabs an enemy twice for 93 + 93% Weapon Damage.",
+    "shortDescription": "Attack: Stun vs Block or Parry",
+    "icon": "rapiermaster-cut-thrust-1.png",
+    "stats": {
+        "weapon_damage_value": "93",
+        "max_damage_1": "93",
+        "min_damage_1": "93",
+        "cost_type": "Resource",
+        "cost": "12",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "5",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "rapiermaster-cut-thrust-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

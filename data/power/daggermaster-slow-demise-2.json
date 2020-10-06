@@ -1,7 +1,7 @@
 {
     "id": "daggermaster-slow-demise-2",
     "name": "Slow Demise",
-    "description": "torments an enemy reducing their Healing Bonus and inflicting 135 + 135% Weapon Damage.",
+    "description": "torments an enemy reducing their Healing Bonus for 15 seconds and inflicting 135 + 135% Weapon Damage.",
     "shortDescription": "",
     "icon": "daggermaster-slow-demise-2.png",
     "stats": {

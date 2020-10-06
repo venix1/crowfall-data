@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-guineceaan-shadow-fire-or-storm",
+            "name": "Guineceaan, Shadow, Fire or Storm"
         }
     ],
     "icon": "glass-cannon.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "dmg-up-def-down",

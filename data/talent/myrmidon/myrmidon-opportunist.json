@@ -1,0 +1,26 @@
+{
+    "id": "myrmidon-opportunist",
+    "name": "Opportunist",
+    "class": "myrmidon",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "opportunist.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-ferocity",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-shredded",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-scent-of-blood",
+        "myrmidon-relentless"
+    ],
+    "locksSkill": []
+}

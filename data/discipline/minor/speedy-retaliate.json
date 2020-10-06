@@ -1,0 +1,29 @@
+{
+    "id": "speedy-retaliate",
+    "name": "Speedy Retaliate",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-champion-or-wind",
+            "name": "Champion or Wind"
+        }
+    ],
+    "icon": "speedy-retaliate.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Trailblazer",
+            "value": "15%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "escapeartist-speedy-retaliate",
+            "name": "Speedy Retaliate",
+            "description": "Retaliate with Movement Speed Bonus"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

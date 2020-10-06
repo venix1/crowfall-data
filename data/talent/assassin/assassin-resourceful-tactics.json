@@ -1,0 +1,21 @@
+{
+    "id": "assassin-resourceful-tactics",
+    "name": "Resourceful Tactics",
+    "class": "assassin",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "resourceful-tactics.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-promotion-class-blackguard",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-alligator-blood"
+    ],
+    "locksSkill": []
+}

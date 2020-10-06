@@ -1,0 +1,21 @@
+{
+    "id": "frostweaver-blizzard",
+    "name": "Blizzard",
+    "class": "frostweaver",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "blizzard.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-bitter-cold",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-freezing-reign"
+    ],
+    "locksSkill": []
+}

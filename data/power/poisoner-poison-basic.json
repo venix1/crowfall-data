@@ -1,7 +1,7 @@
 {
     "id": "poisoner-poison-basic",
     "name": "Poisoned Weapons",
-    "description": "deals Poison damage with all Basic attacks instead of their native damage type. \\n\\nPoisoned Weapons also inflicts a Minor Poison with your third Basic attack.",
+    "description": "deals Poison damage with all Basic attacks instead of their native damage type.",
     "shortDescription": "Passive: Adds the poison debuff to an enemy on every third Basic attack.",
     "icon": "poisoner-poison-basic.png",
     "stats": {

@@ -1,0 +1,38 @@
+{
+    "id": "master-of-maces",
+    "name": "Master of Maces",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-cleric-knight-or-myrmidon",
+            "name": "Cleric, Knight or Myrmidon"
+        }
+    ],
+    "icon": "master-of-maces.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": "3%"
+        },
+        {
+            "name": "Crushing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "macemaster-stun-combo-1",
+            "name": "Skullcracker",
+            "description": "Attack: Stun enemies"
+        },
+        {
+            "id": "macemaster-will-of-the-stoneborn",
+            "name": "Will Of The Stoneborn",
+            "description": "Increase Crushing Resistance; Weapon Efficiency"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

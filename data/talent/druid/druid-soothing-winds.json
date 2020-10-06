@@ -1,0 +1,27 @@
+{
+    "id": "druid-soothing-winds",
+    "name": "Soothing Winds",
+    "class": "druid",
+    "description": "This talent grants the Soothing Winds power.",
+    "icon": "soothing-winds.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "soothing-winds",
+            "name": "Soothing Winds"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-remnant-of-gaea",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-foresight",
+        "druid-forest-affinity"
+    ],
+    "locksSkill": []
+}

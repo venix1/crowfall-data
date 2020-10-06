@@ -6,14 +6,11 @@
     "icon": "frostweaver-minor-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 1,
     "grants": [],
-    "unlockedFromSkill": [
-        {
-            "skill": "frostweaver-exploration-i",
-            "point": 1
-        }
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "frostweaver-exploration-i"
     ],
-    "unlocksSkill": [],
     "locksSkill": []
 }

@@ -4,45 +4,37 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-cleric-templar-or-justice",
+            "name": "Cleric, Templar or Justice"
         }
     ],
     "icon": "rune-caster.png",
     "stats": [
         {
-            "name": "Health",
-            "value": "500"
+            "name": "Barrier Bonus",
+            "value": "100"
         },
         {
-            "name": "Physical Resistance",
-            "value": "300"
+            "name": "Health",
+            "value": "500"
         }
     ],
     "grantsPowers": [
         {
-            "id": "runecaster-fortification",
-            "name": "Fortification",
-            "description": "Group Increase Health Max"
-        },
-        {
-            "id": "runescarred-gladiator-runecarve-flesh",
-            "name": "Reprisal",
-            "description": "Reduce Damage; Reflect Damage Taken"
-        },
-        {
-            "id": "runecaster-shield",
-            "name": "Rune Shield",
-            "description": "Increase Elemental Resistances"
-        },
-        {
             "id": "runecaster-sanctuary",
             "name": "Sanctuary",
             "description": "Field Increase Allies Resistances"
+        },
+        {
+            "id": "axemaster-berserker",
+            "name": "Reactive Barrier",
+            "description": "Passive: Attacks randomly add Barrier; Attack Power"
         }
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "Deciphering and utilizing the secret mysteries of runes is a tricky and sometimes dangerous endeavor. Rune Casters have been known to look to Illara as the creator and keeper of rune knowledge. Those who are in tune and can decipher the arcane runes are granted many advantages in the form of shields, fortifications, and sanctuary both in and out of combat.",
+    "lore": "Runes hold mystical secrets only a few are able to understand."
+}the creator and keeper of rune knowledge. Those who are in tune and can decipher the arcane runes are granted many advantages in the form of shields, fortifications, and sanctuary both in and out of combat.",
     "lore": "Runes hold mystical secrets only a few are able to understand."
 }

@@ -2,22 +2,21 @@
     "id": "cleric-prudence",
     "name": "Prudence",
     "class": "cleric",
-    "description": "Prudence improves Maximum Mana by 30 per point spent and Basic Attack Damage by 1.5% per point spent.",
+    "description": "Stat Adjustments:\\nSupport Power +75\\nAttack Power +150\\n\\n\"If you've never known the horrors of field triage, you've never known horror.\"\\n-Crusader's Compendium",
     "icon": "prudence.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-shield-block",
+            "skill": "cleric-anointed",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-flay",
-        "cleric-minor-ii",
-        "cleric-holy-symbol"
+        "cleric-holy-aura",
+        "cleric-tend-wounds"
     ],
     "locksSkill": []
 }

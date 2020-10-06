@@ -1,0 +1,34 @@
+{
+    "id": "windlord",
+    "name": "Windlord",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-wind-or-dark",
+            "name": "Wind or Dark"
+        }
+    ],
+    "icon": "windlord.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Movement Speed: Trailblazer",
+            "value": "15%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "knight-pursuit",
+            "name": "Pursuit",
+            "description": ""
+        },
+        "power_discipline_runescarredgladiator_first_wind"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

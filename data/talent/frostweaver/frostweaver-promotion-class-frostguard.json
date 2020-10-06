@@ -1,13 +1,17 @@
 {
     "id": "frostweaver-promotion-class-frostguard",
-    "name": "Promotion Class - Frostguard",
+    "name": "Promotion Class: Frostguard",
     "class": "frostweaver",
-    "description": "Role: Ranged Defense\\n\\nUsing ice and heavy armor to shield themselves makes this an incredibly tough and defensive wielder of magic.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 25%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent prevents access to the Archmage and Icecaller promotion classes.",
+    "description": "Role: Ranged Defense\\n\\nUsing ice and heavy armor to shield themselves makes this an incredibly tough and defensive wielder of magic.\\n\\nStat Adjustments:\\nHealth +1050\\nIncrease Ice Storage Cap +1\\nFinal Mitigations Cap +25%\\n\\nTraits Granted:\\nFrostcaster Mastery\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\nEnhancements:\\nVolatile Ice Weave: Now inflicts a Knockdown.\\nFreezing Blast: Now applies a Crippling Ice debuff.\\nShatter Storm: Now has a chance to spawn Frost Armor on hit.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Frostguard promotion class and prevents access to the Archmage and Icecaller promotion classes.",
     "icon": "promotion-class-frostguard.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
+        {
+            "id": "trait-frostcaster-mastery",
+            "name": "Frostcaster Mastery"
+        },
         {
             "id": "trait-mail-armor-proficiency",
             "name": "Mail Armor Proficiency"
@@ -19,12 +23,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-resurrection",
+            "skill": "frostweaver-freezing-reign",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-defensive-weaving"
+        "frostweaver-ice-sunder",
+        "frostweaver-ice-block"
     ],
     "locksSkill": [
         "frostweaver-promotion-class-archmage",

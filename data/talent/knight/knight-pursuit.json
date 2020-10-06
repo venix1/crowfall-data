@@ -1,0 +1,34 @@
+{
+    "id": "knight-pursuit",
+    "name": "Pursuit",
+    "class": "knight",
+    "description": "This talent grants the Pursuit power.",
+    "icon": "pursuit.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "pursuit",
+            "name": "Pursuit"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-chivalry",
+            "point": 1
+        },
+        {
+            "skill": "knight-additional-minor-slot",
+            "point": 1
+        },
+        {
+            "skill": "knight-pell-training",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-distracting-shout"
+    ],
+    "locksSkill": []
+}

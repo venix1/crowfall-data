@@ -15,12 +15,20 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "druid-barbed-thorns",
+            "skill": "druid-flow-of-nature",
+            "point": 1
+        },
+        {
+            "skill": "druid-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "druid-foresight",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-heart-of-the-wild"
+        "druid-natures-grace"
     ],
     "locksSkill": []
 }

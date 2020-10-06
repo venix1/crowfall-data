@@ -1,0 +1,27 @@
+{
+    "id": "knight-retribution-slash",
+    "name": "Retribution Slash",
+    "class": "knight",
+    "description": "This talent grants the Retribution Slash power.",
+    "icon": "retribution-slash.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "retribution-slash",
+            "name": "Retribution Slash"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-martial-weaponry",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-chivalry",
+        "knight-critical-obliteration"
+    ],
+    "locksSkill": []
+}

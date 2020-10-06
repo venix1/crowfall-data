@@ -2,7 +2,7 @@
     "id": "templar-warrior-of-vengeance",
     "name": "Warrior of Vengeance",
     "class": "templar",
-    "description": "Warrior of Vengeance enhances Holy Warrior to increase Damage Bonus: Slashing by 30% but remove its Maximum Health increasing properties.",
+    "description": "Stat Adjustments:\\nFire Damage +19%\\nFire Damage Cap +10%\\nSlashing Damage +10%\\nSlashing Damage Cap +10%\\n\\nThe Vindicator trusts in Arkon's Light to safeguard both their bodies and souls.",
     "icon": "warrior-of-vengeance.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-blazing-judgement",
+            "skill": "templar-inner-fire",
+            "point": 1
+        },
+        {
+            "skill": "templar-holy-shout",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-holy-avenger"
+        "templar-domain-battle",
+        "templar-domain-protection",
+        "templar-domain-wind"
     ],
     "locksSkill": []
 }

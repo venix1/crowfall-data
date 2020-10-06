@@ -1,0 +1,27 @@
+{
+    "id": "champion-ferociousness",
+    "name": "Ferociousness",
+    "class": "champion",
+    "description": "Stat Adjustments:\\nSlash Damage +10%\\nSlash Damage Cap +10%\\nCrush Damage +10%\\nCrush Damage Cap +10%\\nArmor Penetration: Physical +3%\\n\\nMasters at dominating the battlefield, the Alpha Warrior knows how to hit enemies where it hurts.",
+    "icon": "ferociousness.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-alpha-warrior",
+            "point": 1
+        },
+        {
+            "skill": "champion-might-warrior",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-domain-war",
+        "champion-domain-battle",
+        "champion-domain-justice"
+    ],
+    "locksSkill": []
+}

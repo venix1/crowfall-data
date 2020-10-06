@@ -2,31 +2,25 @@
     "id": "ranger-ranger-savvy",
     "name": "Ranger Savvy",
     "class": "ranger",
-    "description": "This talent grants the Explosive Trap power, and the Gleeful Strike passive power.",
+    "description": "This talent grants the Rapid Fire and Twin Surge powers.",
     "icon": "ranger-savvy.png",
     "maxPoints": 1,
-    "pointRequirement": 7,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "gleeful-strike",
-            "name": "Gleeful Strike"
+            "id": "rapid-fire",
+            "name": "Rapid Fire"
         },
         {
-            "id": "explosive-trap",
-            "name": "Explosive Trap"
+            "id": "twin-surge",
+            "name": "Twin Surge"
         }
     ],
-    "unlockedFromSkill": [
-        {
-            "skill": "ranger-exploration-i",
-            "point": 1
-        }
-    ],
+    "unlockedFromSkill": [],
     "unlocksSkill": [
-        "ranger-sure-aim",
-        "ranger-cloaked-in-moss",
-        "ranger-boundless-energy"
+        "ranger-military-training",
+        "ranger-gift-of-the-forest"
     ],
     "locksSkill": []
 }

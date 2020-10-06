@@ -6,16 +6,16 @@
     "icon": "champion-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-domination",
-            "point": 3
+            "skill": "champion-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-brutality"
+        "champion-exploration-ii"
     ],
     "locksSkill": []
 }

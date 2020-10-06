@@ -1,0 +1,21 @@
+{
+    "id": "duelist-sweet-victory",
+    "name": "Sweet Victory",
+    "class": "duelist",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "sweet-victory.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-cloak-of-shadows",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-keen-guard"
+    ],
+    "locksSkill": []
+}

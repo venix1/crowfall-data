@@ -1,0 +1,26 @@
+{
+    "id": "myrmidon-go-for-the-eyes",
+    "name": "Go for the Eyes",
+    "class": "myrmidon",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "go-for-the-eyes.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "conqueror",
+            "name": "Conqueror"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-promotion-class-conqueror",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-pitiless"
+    ],
+    "locksSkill": []
+}

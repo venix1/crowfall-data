@@ -1,0 +1,38 @@
+{
+    "id": "grim-reaper",
+    "name": "Grim Reaper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-duelist-plague-or-death",
+            "name": "Duelist, Plague or Death"
+        }
+    ],
+    "icon": "grim-reaper.png",
+    "stats": [
+        {
+            "name": "Organic Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Movement Speed Damage Bonus",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "plaguelord-shrivel",
+            "name": "Shrivel",
+            "description": "Attack: Blackmantle; Disease; Expose Punish"
+        },
+        {
+            "id": "banshee-ghost-army",
+            "name": "Ghost Army",
+            "description": "Attack: Damage Multiple Enemies; Healing"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

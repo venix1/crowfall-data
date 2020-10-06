@@ -1,0 +1,34 @@
+{
+    "id": "bringer-of-life",
+    "name": "Bringer of Life",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-nature-or-music",
+            "name": "Nature or Music"
+        }
+    ],
+    "icon": "bringer-of-life.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Support Power",
+            "value": "150"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "naiad-fountain",
+            "name": "Fountain Of Life",
+            "description": "Ground Target Area: Healing"
+        },
+        "power_discipline_bringeroflife_purify"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

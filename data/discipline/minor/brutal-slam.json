@@ -1,0 +1,29 @@
+{
+    "id": "brutal-slam",
+    "name": "Brutal Slam",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-knight",
+            "name": "Knight"
+        }
+    ],
+    "icon": "brutal-slam.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "shieldfighter-brutal-slam",
+            "name": "Brutal Slam",
+            "description": "Attack: Reduce enemy Physical Mitigation"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

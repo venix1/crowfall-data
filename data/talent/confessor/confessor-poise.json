@@ -2,7 +2,7 @@
     "id": "confessor-poise",
     "name": "Poise",
     "class": "confessor",
-    "description": "Poise enhances Fervor to no longer reduce Physical Mitigations by 15% while channeling Fervor. Instead, Slashing, Crushing, and Piercing Resistances are increased by 1000 while channeling Fervor.",
+    "description": "Stat Adjustments:\\nPersonal Damage Modifier +3%\\nMax Mana +150\\n\\n\"Officially, the title “Confessor” is only sanctioned for use by parishioners of the Church of the Sun.\"\\n-Confessions of Confessors",
     "icon": "poise.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,13 +10,13 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-melt-shackles",
-            "point": 2
+            "skill": "confessor-fire-bolt",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-righteous-shield",
-        "confessor-embrace-the-hellfire"
+        "confessor-fervor",
+        "confessor-condemnation"
     ],
     "locksSkill": []
 }

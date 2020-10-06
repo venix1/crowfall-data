@@ -1,0 +1,38 @@
+{
+    "id": "tunnel-king",
+    "name": "Tunnel King",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-duelist",
+            "name": "Duelist"
+        }
+    ],
+    "icon": "tunnel-king.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": "3%"
+        },
+        {
+            "name": "Damage Bonus: Enemy Low Health",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "duelist-stealth-death-field",
+            "name": "Go For Broke",
+            "description": ""
+        },
+        {
+            "id": "duelist-stealth-sniper-shot",
+            "name": "Snipe",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

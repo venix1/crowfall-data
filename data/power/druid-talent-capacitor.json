@@ -1,7 +1,7 @@
 {
     "id": "druid-talent-capacitor",
     "name": "Capacitor",
-    "description": "generates a stack of Capacitance when you hit a target with Electricity damage.\\n\\nIf you gain 6 stacks in 10 seconds, Lightning Shield is applied to you.\\n\\nLightning Shield grants 20% Retribution, and you gain 25 Essence every 2 seconds for 15 seconds.",
+    "description": "causes your basic attack to add a Sparks counter, stacking up to three times. Sparks are triggered when casting the Lightning Burst combo and increase its Critical Strike by 100%. Any Sparks remaining increase the Critical Strike for Lightning Strike and Aurora Emitter by 100%.This power also generates a stack of Capacitance when you hit a target with Electricity damage.\\n\\nIf you gain 6 stacks in 10 seconds, Lightning Shield is applied to you.\\n\\nLightning Shield grants 20% Retribution, and you gain 25 Essence every 2 seconds for 15 seconds.",
     "shortDescription": "",
     "icon": "druid-talent-capacitor.png",
     "stats": {

@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-daywalker",
-            "name": "Daywalker"
+            "id": "trait-nethari-war-or-death",
+            "name": "Nethari, War or Death"
         }
     ],
     "icon": "blood-pact.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "blood-pact",

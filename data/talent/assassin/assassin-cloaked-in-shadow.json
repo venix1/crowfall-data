@@ -2,7 +2,7 @@
     "id": "assassin-cloaked-in-shadow",
     "name": "Cloaked in Shadow",
     "class": "assassin",
-    "description": "Cloaked in Shadow increases your Stealth by 35.",
+    "description": "This talent grants the [NOPOWER] power.\\n\\nStat Adjustments:\\nStealth +35",
     "icon": "cloaked-in-shadow.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,30 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-vigor",
-            "point": 3
+            "skill": "assassin-poison-mastery",
+            "point": 1
+        },
+        {
+            "skill": "assassin-efficient-poisons",
+            "point": 1
+        },
+        {
+            "skill": "assassin-dirty-tricks",
+            "point": 1
+        },
+        {
+            "skill": "assassin-shadenfreude",
+            "point": 1
+        },
+        {
+            "skill": "assassin-yagas-gift",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-born-in-darkness"
+        "assassin-promotion-class-cutthroat",
+        "assassin-promotion-class-vandal",
+        "assassin-promotion-class-blackguard"
     ],
     "locksSkill": []
 }

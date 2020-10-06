@@ -1,0 +1,38 @@
+{
+    "id": "cloisterer",
+    "name": "Cloisterer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-confessor-templar-human-or-light",
+            "name": "Confessor, Templar, Human or Light"
+        }
+    ],
+    "icon": "cloisterer.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Healing Bonus",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "friar-benediction",
+            "name": "Benediction",
+            "description": "Group increase Bleed Resistance"
+        },
+        {
+            "id": "juggernaut-spite",
+            "name": "Spite",
+            "description": "Passive: Regenerate when Stunned; Knocked Down"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

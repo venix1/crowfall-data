@@ -1,0 +1,31 @@
+{
+    "id": "druid-electrogenesis",
+    "name": "Electrogenesis",
+    "class": "druid",
+    "description": "This talent grants the Electrogenesis passive power.",
+    "icon": "electrogenesis.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "electrogenesis",
+            "name": "Electrogenesis"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-mark-of-the-storm",
+            "point": 1
+        },
+        {
+            "skill": "druid-flow-of-nature",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-essence-boon",
+        "druid-lines-of-force"
+    ],
+    "locksSkill": []
+}

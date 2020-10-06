@@ -2,21 +2,21 @@
     "id": "ranger-military-training",
     "name": "Military Training",
     "class": "ranger",
-    "description": "Military Training improves Ranged Power Damage Bonus by 3% per point spent.",
+    "description": "Stat Adjustments:\\nAttack Power +150%\\nBasic Attack Damage +6%\\n\\n\"Dawn in the forest is worth almost as much as those keep fortification plans I just sold.\"\\n-Ace of Summertide",
     "icon": "military-training.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-promotion-class-archer",
+            "skill": "ranger-ranger-savvy",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-exceptional-weaponry",
-        "ranger-withering-barrage"
+        "ranger-barrage",
+        "ranger-sweep"
     ],
     "locksSkill": []
 }

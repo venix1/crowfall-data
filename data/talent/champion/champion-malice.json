@@ -2,21 +2,26 @@
     "id": "champion-malice",
     "name": "Malice",
     "class": "champion",
-    "description": "Malice improves Movement Control Intensity by 7% per point spent.",
+    "description": "Stat Adjustments:\\nCrush Damage +10%\\nCrush Damage Cap +10%\\nSelf Healing +3%\\nAttack Power +150\\nFinal Mitigations Cap +10%\\n\\nBorn in the pits, these adaptable fighters know how to take hits as well as they dish them out.",
     "icon": "malice.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-promotion-class-barbarian",
+            "skill": "champion-pit-fighter",
+            "point": 1
+        },
+        {
+            "skill": "champion-ultimate-warrior",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-spite",
-        "champion-brutal-followup"
+        "champion-domain-music",
+        "champion-domain-battle",
+        "champion-domain-wind"
     ],
     "locksSkill": []
 }

@@ -2,28 +2,43 @@
     "id": "knight-into-the-fray",
     "name": "Into the Fray",
     "class": "knight",
-    "description": "Into the Fray improves Critical Damage by 5% per point spent.",
+    "description": "This talent grants the Onslaught power.\\n\\nStat Adjustments:\\nLong Power Cooldown +30%",
     "icon": "into-the-fray.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "onslaught",
+            "name": "Onslaught"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "knight-break-the-law",
-            "point": 2
-        },
-        {
-            "skill": "knight-minor-ii",
+            "skill": "knight-spiked-shield",
             "point": 1
         },
         {
-            "skill": "knight-chain-attack",
+            "skill": "knight-endurance",
+            "point": 1
+        },
+        {
+            "skill": "knight-distracting-shout",
+            "point": 1
+        },
+        {
+            "skill": "knight-resolve",
+            "point": 1
+        },
+        {
+            "skill": "knight-juggernaut",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-exploration-ii"
+        "knight-promotion-class-swordsman",
+        "knight-promotion-class-sentinel",
+        "knight-promotion-class-secutor"
     ],
     "locksSkill": []
 }

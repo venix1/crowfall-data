@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 0,
     "pipAmount": 10800,
-    "description": "Increases the Damage that Shovels can deal when digging.\\n\\nUnlocks Slot at 5 Pips:\\nShovel Slot\\n\\nTraits Granted at 5 Pips:\\nAdvanced Runestone Shovels",
+    "description": "Increases the Damage that Shovels can deal when digging.\\n\\nUnlocks Equipment Slot at 5 Pips:\\nShovel Slot\\n\\nTraits Granted at 5 Pips:\\nAdvanced Runestone Shovels",
     "icon": "skill-generic-exploration-320.png",
     "stats": [
         {

@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-myrmidon-stoneborn-plague-wind-fire-frost-or-death",
+            "name": "Myrmidon, Stoneborn, Plague, Wind, Fire, Frost or Death"
         }
     ],
     "icon": "sturdy.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Crushing Resistance",
+            "value": "300"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "hitpoint-loss-high-health-buff",

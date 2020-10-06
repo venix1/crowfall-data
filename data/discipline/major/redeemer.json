@@ -1,0 +1,38 @@
+{
+    "id": "redeemer",
+    "name": "Redeemer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-confessor",
+            "name": "Confessor"
+        }
+    ],
+    "icon": "redeemer.png",
+    "stats": [
+        {
+            "name": "Ranged Distance Bonus",
+            "value": "5(m)"
+        },
+        {
+            "name": "Fire Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "confessor-redemption",
+            "name": "Redemption",
+            "description": "Attack: Shoot Multiple Fireballs"
+        },
+        {
+            "id": "tomemaster-concentration",
+            "name": "Concentration",
+            "description": "Passive: Restore Mana, Zealotry when Immobile"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

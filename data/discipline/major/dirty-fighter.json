@@ -1,0 +1,38 @@
+{
+    "id": "dirty-fighter",
+    "name": "Dirty Fighter",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-war",
+            "name": "War"
+        }
+    ],
+    "icon": "dirty-fighter.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        },
+        {
+            "name": "Damage Bonus: Enemy Low Health",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "plaguelord-festering-wounds",
+            "name": "Festering Wounds",
+            "description": "Attack: Reduce Healing; Disease; Expose on Healing"
+        },
+        {
+            "id": "realitywarp-dmg-on-low-resource",
+            "name": "Crazy Pills",
+            "description": "Passive: Increase Damage on Low Resource"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

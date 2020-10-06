@@ -1,0 +1,31 @@
+{
+    "id": "swordmaster-res-combo-1",
+    "name": "Restoration Strike",
+    "description": "strikes an enemy for 138 + 138% Weapon Damage.",
+    "shortDescription": "Attack: Restore Resource",
+    "icon": "swordmaster-res-combo-1.png",
+    "stats": {
+        "weapon_damage_value": "138",
+        "max_damage_1": "138",
+        "min_damage_1": "138",
+        "cost_type": "Resource",
+        "cost": "17",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "swordmaster-res-combo-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

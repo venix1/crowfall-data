@@ -1,8 +1,8 @@
 {
     "id": "champion-fast-counter-attack",
-    "name": "Fast Counter-Attack",
+    "name": "Fast Counter Attack",
     "class": "champion",
-    "description": "Fast Counter-Attack enhances Retaliate abilities to also recover 35 Stamina over 7 seconds.",
+    "description": "This talent grants the [NOPOWER] passive power.",
     "icon": "fast-counter-attack.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,13 +10,17 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-obstinance",
-            "point": 2
+            "skill": "champion-brutality",
+            "point": 1
+        },
+        {
+            "skill": "champion-outrage",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-whirling-shield",
-        "champion-invincible-warrior"
+        "champion-dominant-smashing",
+        "champion-animosity"
     ],
     "locksSkill": []
 }

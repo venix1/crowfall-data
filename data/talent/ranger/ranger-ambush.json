@@ -1,0 +1,26 @@
+{
+    "id": "ranger-ambush",
+    "name": "Ambush",
+    "class": "ranger",
+    "description": "This talent grants the Ambush power.",
+    "icon": "ambush.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "ambush",
+            "name": "Ambush"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-promotion-class-brigand",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-cloaked-in-moss"
+    ],
+    "locksSkill": []
+}

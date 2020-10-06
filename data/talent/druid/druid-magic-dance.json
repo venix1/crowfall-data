@@ -2,22 +2,25 @@
     "id": "druid-magic-dance",
     "name": "Magic Dance",
     "class": "druid",
-    "description": "Magic Dance improves Personal Healing Modifier by 1% per point spent.",
+    "description": "This talent grants the Blight and Ritual Sacrifice powers.",
     "icon": "magic-dance.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
-    "unlockedFromSkill": [
+    "grants": [
         {
-            "skill": "druid-mark-of-the-storm",
-            "point": 1
+            "id": "ritual-sacrifice",
+            "name": "Ritual Sacrifice"
+        },
+        {
+            "id": "blight",
+            "name": "Blight"
         }
     ],
+    "unlockedFromSkill": [],
     "unlocksSkill": [
-        "druid-dream-away",
-        "druid-minor-iii",
-        "druid-leeching-seed"
+        "druid-potential-energy",
+        "druid-remnant-of-gaea"
     ],
     "locksSkill": []
 }

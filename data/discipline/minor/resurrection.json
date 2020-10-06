@@ -1,0 +1,29 @@
+{
+    "id": "resurrection",
+    "name": "Resurrection",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-druid-templar-light-nature-or-music",
+            "name": "Druid, Templar, Light, Nature or Music"
+        }
+    ],
+    "icon": "resurrection.png",
+    "stats": [
+        {
+            "name": "Healing Bonus",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "common-resurrection-single",
+            "name": "Resurrection",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

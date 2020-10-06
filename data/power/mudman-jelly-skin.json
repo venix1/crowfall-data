@@ -1,0 +1,25 @@
+{
+    "id": "mudman-jelly-skin",
+    "name": "Jelly Skin",
+    "description": "protects you with skin like rubber granting you a barrier with immunity to Crushing damage.",
+    "shortDescription": "Barrier Negates Crushing Damage",
+    "icon": "mudman-jelly-skin.png",
+    "stats": {
+        "weapon_damage_type": "Crushing",
+        "cost_type": "Resource",
+        "cost": "16",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

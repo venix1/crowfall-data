@@ -1,0 +1,29 @@
+{
+    "id": "pack-avatar",
+    "name": "Pack Avatar",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-centaur-or-elken",
+            "name": "Centaur or Elken"
+        }
+    ],
+    "icon": "pack-avatar.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "druid-avatar-pack",
+            "name": "Pack Avatar",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

@@ -1,0 +1,31 @@
+{
+    "id": "macemaster-stun-combo-2",
+    "name": "Skullcracker",
+    "description": "smashes an enemy, stunning them and causing 189 + 189% Weapon Damage.",
+    "shortDescription": "",
+    "icon": "macemaster-stun-combo-2.png",
+    "stats": {
+        "weapon_damage_value": "189",
+        "max_damage_1": "189",
+        "min_damage_1": "189",
+        "cost_type": "Resource",
+        "cost": "12",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "30",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "macemaster-stun-combo-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

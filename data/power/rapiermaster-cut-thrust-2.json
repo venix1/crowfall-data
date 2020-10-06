@@ -1,0 +1,31 @@
+{
+    "id": "rapiermaster-cut-thrust-2",
+    "name": "Cut And Thrust",
+    "description": "penetrates an enemy's Block or Parry Stunning them and inflicting 133 + 133% Weapon Damage.",
+    "shortDescription": "",
+    "icon": "rapiermaster-cut-thrust-2.png",
+    "stats": {
+        "weapon_damage_value": "133",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "cost_type": "Resource",
+        "cost": "12",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [
+        "rapiermaster-cut-thrust-1"
+    ],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}

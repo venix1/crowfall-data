@@ -2,20 +2,20 @@
     "id": "assassin-quietude",
     "name": "Quietude",
     "class": "assassin",
-    "description": "Quietude improves In and Out of Combat Health Regeneration by 5 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +300\\nIn Combat Health Regeneration +15\\nOut of Combat Health Regeneration +15\\n\\nMany an assassination has been carried out by the simple act of tipping a small vial into a wine cup.\"\\n-Tome of the Quiet Knife",
     "icon": "quietude.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-vigor",
-            "point": 3
+            "skill": "assassin-garrote",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-born-in-darkness"
+        "assassin-shadenfreude"
     ],
     "locksSkill": []
 }

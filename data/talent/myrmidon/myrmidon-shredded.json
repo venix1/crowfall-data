@@ -1,0 +1,27 @@
+{
+    "id": "myrmidon-shredded",
+    "name": "Shredded",
+    "class": "myrmidon",
+    "description": "Stat Adjustments:\\nArmor Penetration: Physical +3%\\nCombat Fury Regen +6\\n\\n\"Some have said fury should not be a basis from which one draws strength—for the myrmidon, it is a necessity.\"\\n-Harnessing a Myrmidon",
+    "icon": "shredded.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-serrated-blade",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-berserk-neck-slash",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-additional-minor-slot",
+        "myrmidon-arcing-slash",
+        "myrmidon-opportunist"
+    ],
+    "locksSkill": []
+}

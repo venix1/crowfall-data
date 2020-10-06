@@ -1,0 +1,30 @@
+{
+    "id": "transcendent-warrior",
+    "name": "Transcendent Warrior",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-light-fire-or-justice",
+            "name": "Light, Fire or Justice"
+        }
+    ],
+    "icon": "transcendent-warrior.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        },
+        {
+            "name": "Support Power",
+            "value": "150"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_transcendentwarrior_guiding_light",
+        "power_discipline_transcendentwarrior_divine_aura"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

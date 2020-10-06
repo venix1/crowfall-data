@@ -1,0 +1,38 @@
+{
+    "id": "runescarred-gladiator",
+    "name": "Runescarred Gladiator",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-champion-or-minotaur",
+            "name": "Champion or Minotaur"
+        }
+    ],
+    "icon": "runescarred-gladiator.png",
+    "stats": [
+        {
+            "name": "Organic Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "runescarred-gladiator-runecarve-flesh",
+            "name": "Reprisal",
+            "description": "Reduce Damage; Reflect Damage Taken"
+        },
+        {
+            "id": "runescarred-gladiator-nothing-to-lose",
+            "name": "Nothing To Lose",
+            "description": "Increase Crit Hit Chance, Amount"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "Blood is used in rune making as a magical property of life essence and sacrifice. The ultimate sacrifice for rune crafting is scarring runes into the flesh, which only the most devote are brave enough to do. Exchanging small spaces in the flesh to fill with runes grants them unyielding power and a continued devotion to self-sacrificing for the sake of combat.",
+    "lore": "My body is a journal,and my scars are my story."
+}

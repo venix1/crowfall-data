@@ -1,7 +1,7 @@
 {
     "id": "duelist-redirect-pain",
-    "name": "Redirect Pain",
-    "description": "applies a damage preventing Barrier and then begins reflecting damage back to your attackers if the Barrier is broken. Effects scale with Pips spent.\\n\\n1 Pip: Gain 400 Barrier and 15% Retribution for 6 seconds\\n2 Pips: Gain 650 Barrier and 25% Retribution for 9 seconds\\n3 Pips: Gain 900 Barrier and 35% Retribution for 12 seconds\\n4 Pips: Gain 1150 Barrier and 45% Retribution for 15 seconds\\n5 Pips: Gain 1400 Barrier and 55% Retribution for 18 seconds",
+    "name": "Keen Guard",
+    "description": "applies a damage preventing Barrier. Effects scale with Pips spent.\\n\\n1 Pip: Gain 400 Barrier\\n2 Pips: Gain 650 Barrier\\n3 Pips: Gain 900 Barrier\\n4 Pips: Gain 1150 Barrier\\n5 Pips: Gain 1400 Barrier",
     "shortDescription": "",
     "icon": "duelist-redirect-pain.png",
     "stats": {

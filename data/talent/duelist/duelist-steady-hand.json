@@ -2,22 +2,20 @@
     "id": "duelist-steady-hand",
     "name": "Steady Hand",
     "class": "duelist",
-    "description": "Steady Hand improves Attack Power by 45 per point spent.",
+    "description": "Stat Adjustments:\\nCritial Strike +5%\\nCritical Damage +15%\\n\\n\"En garde! Take up your weapon or be struck down!\"\\n-Duelist Warning",
     "icon": "steady-hand.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-pepperbox-shot",
+            "skill": "duelist-rapid-fire",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-guile",
-        "duelist-redirect-pain",
-        "duelist-sneaky"
+        "duelist-cloak-of-shadows"
     ],
     "locksSkill": []
 }

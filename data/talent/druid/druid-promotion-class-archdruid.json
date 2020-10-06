@@ -1,48 +1,35 @@
 {
     "id": "druid-promotion-class-archdruid",
-    "name": "Promotion Class - Archdruid",
+    "name": "Promotion Class: Archdruid",
     "class": "druid",
-    "description": "Role: Ranged Damage-Healing\\n\\nBalanced upon the precipice of Life and Death magic, this master of nature can heal a group or set up devastating explosions with their orbs.\\n\\nGrants the Life Power Tray and the following powers:\\nBlight\\nGrasping Roots\\nCircle Of Life\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGaea's Inspiration\\nMail Armor Proficiency\\nMystical Staff Proficiency\\n\\nNew Mechanic: Essence Burn\\nLife Powers will generate Essence when used. If your Essence fills over 80% you will gain Essence Burn, causing you to take damage each second until you die or reduce your Essence under 80%.\\n\\nUsing powers in the Death Powers Tray will reduce your Essence.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Archdruid promotion class and prevents access to the Stormcaller and Earthkeeper promotion classes.",
+    "description": "Role: Ranged Damage-Healing\\n\\nBalanced upon the precipice of Life and Death magic, this master of nature can heal a group or set up devastating explosions with their orbs.\\n\\nStat Adjustments:\\nAttack Power +150\\nSupport Power +75\\nFinal Mitigations +10%\\n\\nTraits Granted:\\nLife Tray Unlocked\\nMystical Staff Proficiency\\nMail Armor Proficiency\\nMystical Staff Mastery\\n\\nEnhancements:\\nBlight: Now converts Heal Ors into Exploding Orbs and Orbs deal more damage when they explode.  Can also explode more Orbs at once.\\nBark Skin: Now increases Thorns by 200%.\\nGrasping Roots: Now applies Blackmantle when used.\\n\\nNew Mechanic:\\nEssence Burn: Life Powers will generate Essence when used. If your Essence fills over 80% you will gain Essence Burn, causing you to take damage each second until you die or reduce your Essence under 80%.\\nUsing powers in the Death Powers Tray will reduce your Essence.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Archdruid promotion class and prevents access to the Stormcaller and Earthkeeper promotion classes.",
     "icon": "promotion-class-archdruid.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "blight",
-            "name": "Blight"
-        },
-        {
             "id": "trait-mystical-staff-proficiency",
             "name": "Mystical Staff Proficiency"
         },
         {
-            "id": "circle-of-life",
-            "name": "Circle Of Life"
-        },
-        {
-            "id": "grasping-roots",
-            "name": "Grasping Roots"
+            "id": "trait-mystical-staff-mastery",
+            "name": "Mystical Staff Mastery"
         },
         {
             "id": "trait-mail-armor-proficiency",
             "name": "Mail Armor Proficiency"
-        },
-        {
-            "id": "trait-gaeas-inspiration",
-            "name": "Gaea's Inspiration"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "druid-natures-cornerstone",
+            "skill": "druid-lines-of-force",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-forest-affinity",
-        "druid-slow-growth",
-        "druid-quick-burn"
+        "druid-force-of-nature",
+        "druid-gaeas-growth"
     ],
     "locksSkill": [
         "druid-promotion-class-stormcaller",

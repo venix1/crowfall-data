@@ -1,0 +1,34 @@
+{
+    "id": "kinetic-bloomer",
+    "name": "Kinetic Bloomer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-druid",
+            "name": "Druid"
+        }
+    ],
+    "icon": "kinetic-bloomer.png",
+    "stats": [
+        {
+            "name": "Organic Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Electricity Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "mysticalmaster-stars-align",
+            "name": "Kinetic Boost",
+            "description": "Gain Damage Bonus; Reduce Ability Cost"
+        },
+        "power_discipline_thornywarrior_root_stake"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

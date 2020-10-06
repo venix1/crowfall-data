@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-toughness",
-            "point": 3
+            "skill": "champion-promotion-class-pit-fighter",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-fortification"
+        "champion-malice"
     ],
     "locksSkill": []
 }

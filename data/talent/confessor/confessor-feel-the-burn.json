@@ -1,0 +1,26 @@
+{
+    "id": "confessor-feel-the-burn",
+    "name": "Feel the Burn",
+    "class": "confessor",
+    "description": "This talent grants the Feel The Burn passive power.",
+    "icon": "feel-the-burn.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "feel-the-burn",
+            "name": "Feel The Burn"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-righteousness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-tools-of-justice"
+    ],
+    "locksSkill": []
+}

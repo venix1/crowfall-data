@@ -1,0 +1,38 @@
+{
+    "id": "lazarus-disciple",
+    "name": "Lazarus' Disciple",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-cleric-or-fire",
+            "name": "Cleric or Fire"
+        }
+    ],
+    "icon": "lazarus-disciple.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Fire",
+            "value": "3%"
+        },
+        {
+            "name": "Stamina",
+            "value": "5"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "holyavenger-hammer-1",
+            "name": "Grabthar's Hammer",
+            "description": "Attack: Stun an enemy"
+        },
+        {
+            "id": "holyavenger-suns-of-worvan",
+            "name": "Suns Of Worvan",
+            "description": "Barrier negates Fire damage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

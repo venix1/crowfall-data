@@ -2,28 +2,20 @@
     "id": "ranger-exploration-ii",
     "name": "Exploration Discipline Slot",
     "class": "ranger",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "ranger-exploration-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 20,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-armor-piercing",
-            "point": 2
-        },
-        {
-            "skill": "ranger-weathered-resilience",
-            "point": 2
-        },
-        {
-            "skill": "ranger-sleight-of-hand",
-            "point": 2
+            "skill": "ranger-minor-ii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-bring-me-everyone"
+        "ranger-major-ii"
     ],
     "locksSkill": []
 }

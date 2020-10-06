@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-martial-weapons-principles",
-            "name": "Martial Weapons Principles"
+            "id": "trait-assassin-half-giant-frost-war-or-battle",
+            "name": "Assassin, Half Giant, Frost, War or Battle"
         }
     ],
     "icon": "spirit-whip.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "spirit-whip",

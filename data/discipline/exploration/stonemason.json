@@ -1,0 +1,38 @@
+{
+    "id": "stonemason",
+    "name": "Stonemason",
+    "type": "exploration",
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
+    "icon": "stonemason.png",
+    "stats": [
+        {
+            "name": "Stonemasonry",
+            "value": "10"
+        },
+        {
+            "name": "Stonemasonry Experimentation",
+            "value": "35"
+        },
+        {
+            "name": "Stonemasonry Experimentation Points",
+            "value": "7"
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [
+        "Horseshoes"
+    ],
+    "grantsTrait": [
+        {
+            "id": "trait-stonemason",
+            "name": "Stonemason"
+        }
+    ],
+    "description": "Recipes Granted:\\nArchitecture Components\\nGeomancy Components\\nStonemasonry Components\\nAttachables\\nBuildings\\nCrafting Stations\\nGeomancy\\nStone Walls and Defenses\\nVendors and Stalls\\nWooden Walls and Defenses\\n\\nReduced Recipe Resource Costs:\\nDiamond Cutting Blade\\nGrinding Wheel\\nPolishing Paste",
+    "lore": "An unchiseled stone is a stone full of possibilities."
+}

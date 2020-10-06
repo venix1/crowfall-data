@@ -5,7 +5,7 @@
     "maxPoints": 5,
     "pointRequirement": 90,
     "pipAmount": 28080,
-    "description": "Increases Health, decreases Sprint Cost, and decreases Decay Rate: Armor while using Plate chest armor.",
+    "description": "Increases Health, Pathfinding, and decreases Decay Rate: Armor while using Plate chest armor.",
     "icon": "skill-combat-plate-master.png",
     "stats": [
         {
@@ -13,12 +13,12 @@
             "amount": "20"
         },
         {
-            "name": "Sprint Movement Modifier",
-            "amount": "0.01"
+            "name": "Pathfinding",
+            "amount": "0%"
         },
         {
             "name": "Decay Rate: Plate",
-            "amount": "1%"
+            "amount": "2%"
         }
     ],
     "grants": [],

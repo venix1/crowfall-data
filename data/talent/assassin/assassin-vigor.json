@@ -2,22 +2,30 @@
     "id": "assassin-vigor",
     "name": "Vigor",
     "class": "assassin",
-    "description": "Vigor improves Maximum Stamina by 3 per point spent and Attack Power by 30 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +450\\nStamina +15\\n\\n\"The most expert assassins are those who can blend seamlessly into the life of their mark.\"\\n-The Book of Blessed Darkness",
     "icon": "vigor.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-tools-of-the-trade",
+            "skill": "assassin-kidney-shot",
+            "point": 1
+        },
+        {
+            "skill": "assassin-garrote",
+            "point": 1
+        },
+        {
+            "skill": "assassin-minor-iii",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-quietude",
-        "assassin-nature-toxin",
-        "assassin-cloaked-in-shadow"
+        "assassin-minor-iii",
+        "assassin-disengage",
+        "assassin-shadenfreude"
     ],
     "locksSkill": []
 }

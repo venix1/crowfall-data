@@ -2,20 +2,20 @@
     "id": "cleric-empathy",
     "name": "Empathy",
     "class": "cleric",
-    "description": "Empathy improves Critical Healing Chance by 1% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Healing Chance +3%\\nCritical Healing Amount +10%\\n\\n\"In general, most clerics occupy a space somewhere between priest, field medic, and holy warrior.\"\\n-Holy Warriors Vol. II",
     "icon": "empathy.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-hand-of-the-gods",
+            "skill": "cleric-tend-wounds",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-illuminate"
+        "cleric-noble-purpose"
     ],
     "locksSkill": []
 }

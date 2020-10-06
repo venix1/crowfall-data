@@ -1,0 +1,38 @@
+{
+    "id": "convictor",
+    "name": "Convictor",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-confessor",
+            "name": "Confessor"
+        }
+    ],
+    "icon": "convictor.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Fire",
+            "value": "3%"
+        },
+        {
+            "name": "Fire Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "adjudicator-prosecute",
+            "name": "Prosecute",
+            "description": "Attack: Damage scales with Sin"
+        },
+        {
+            "id": "mortal-sin",
+            "name": "Mortal Sin",
+            "description": "Passive: Targets Debuff Anti-Critical Strike"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

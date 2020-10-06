@@ -2,33 +2,26 @@
     "id": "duelist-rapid-fire",
     "name": "Rapid Fire",
     "class": "duelist",
-    "description": "This talent grants the Rapid Fire and Snipe powers.",
+    "description": "This talent grants the Rapid Fire power.",
     "icon": "rapid-fire.png",
     "maxPoints": 1,
-    "pointRequirement": 24,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
             "id": "rapid-fire",
             "name": "Rapid Fire"
-        },
-        {
-            "id": "snipe",
-            "name": "Snipe"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-exploration-ii",
+            "skill": "duelist-tenacity",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-major-i",
-        "duelist-major-ii",
-        "duelist-promotion-class-slayer",
-        "duelist-promotion-class-vanguard-scout",
-        "duelist-promotion-class-dirge"
+        "duelist-wily",
+        "duelist-steady-hand"
     ],
     "locksSkill": []
 }

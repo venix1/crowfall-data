@@ -1,0 +1,38 @@
+{
+    "id": "mudman",
+    "name": "Mudman",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-knight-stoneborn-plague-or-nature",
+            "name": "Knight, Stoneborn, Plague or Nature"
+        }
+    ],
+    "icon": "mudman.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Barrier Bonus",
+            "value": "100"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "mudman-muck-spatter",
+            "name": "Muck Spatter",
+            "description": "Crushing Attacks Trigger Area Blindness; Disease"
+        },
+        {
+            "id": "mudman-jelly-skin",
+            "name": "Jelly Skin",
+            "description": "Barrier Negates Crushing Damage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "The addition of muddy skin and a marshy body creates a vile combatant that can withstand even the heartiest of hits. Mudmen become one with the muck, and can also spread their dirt and odors to enemies, creating one tough, sticky fighter.",
+    "lore": "I have affixed to me the dirt of countless ages. Who am I to disturb history?"
+}

@@ -1,24 +1,30 @@
 {
     "id": "templar-promotion-class-vindicator",
-    "name": "Promotion Class - Vindicator",
+    "name": "Promotion Class: Vindicator",
     "class": "templar",
-    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this bladesman has increased damage based on their mastery of fire.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vindicator promotion class and prevents access to the Paladin and Fury promotion classes.",
+    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this bladesman has increased damage based on their mastery of fire.\\n\\nStat Adjustments:\\nAttack Power +150\\nCritical Strike +6%\\n\\nTraits Granted:\\nGreat Sword Mastery\\n\\nEnhancements:\\nHoly Warrior: Now increases Holy Damage, no longer applies a Health buff.\\nJudgement: Now reduces the pip cost for casting by 1.\\nDivine Light: Now has increased damage, no longer heals.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vindicator promotion class and prevents access to the Paladin and Fury promotion classes.",
     "icon": "promotion-class-vindicator.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-great-sword-mastery",
+            "name": "Great Sword Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-resurrection",
+            "skill": "templar-magnificent-purpose",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-excoriate"
+        "templar-inner-fire",
+        "templar-holy-shout"
     ],
     "locksSkill": [
-        "templar-promotion-class-paladin",
-        "templar-promotion-class-fury"
+        "templar-promotion-class-fury",
+        "templar-promotion-class-paladin"
     ]
 }

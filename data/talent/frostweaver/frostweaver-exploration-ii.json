@@ -2,28 +2,20 @@
     "id": "frostweaver-exploration-ii",
     "name": "Exploration Discipline Slot",
     "class": "frostweaver",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "frostweaver-exploration-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 20,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-freezing-reign",
-            "point": 2
-        },
-        {
-            "skill": "frostweaver-crisp-casting",
-            "point": 2
-        },
-        {
-            "skill": "frostweaver-exquisite-detail",
-            "point": 2
+            "skill": "frostweaver-minor-ii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-resurrection"
+        "frostweaver-major-ii"
     ],
     "locksSkill": []
 }

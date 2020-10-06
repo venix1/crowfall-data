@@ -2,20 +2,30 @@
     "id": "frostweaver-elegant-form",
     "name": "Elegant Form",
     "class": "frostweaver",
-    "description": "Elegant Form improves Critical Healing Chance by 2% per point spent.",
+    "description": "Stat Adjustments:\\nSupport Power +150\\nCritical Healing Chance +6%\\nCritical Healing Amount +12%\\n\\n\"Many Frostweavers have become the foremost experts on the Hunger.\"\\n-Cryomany Basics",
     "icon": "elegant-form.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-cool-headed",
-            "point": 3
+            "skill": "frostweaver-free-weaving-all-foci",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-frost-armor",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-additional-minor-slot",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-exquisite-detail"
+        "frostweaver-additional-minor-slot",
+        "frostweaver-chill-out",
+        "frostweaver-thawing-ice"
     ],
     "locksSkill": []
 }

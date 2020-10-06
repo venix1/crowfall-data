@@ -1,0 +1,44 @@
+{
+    "id": "duelist-keen-guard",
+    "name": "Keen Guard",
+    "class": "duelist",
+    "description": "This talent grants the Keen Guard power.\\n\\nStat Adjustments:\\nStealth +25",
+    "icon": "keen-guard.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "keen-guard",
+            "name": "Keen Guard"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-sweet-victory",
+            "point": 1
+        },
+        {
+            "skill": "duelist-cloak-of-shadows",
+            "point": 1
+        },
+        {
+            "skill": "duelist-ambush",
+            "point": 1
+        },
+        {
+            "skill": "duelist-feral-instincts",
+            "point": 1
+        },
+        {
+            "skill": "duelist-deep-wounds",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-promotion-class-slayer",
+        "duelist-promotion-class-dirge",
+        "duelist-promotion-class-vanguard-scout"
+    ],
+    "locksSkill": []
+}

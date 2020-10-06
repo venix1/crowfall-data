@@ -1,0 +1,29 @@
+{
+    "id": "champion-blood-rage",
+    "name": "Blood Rage",
+    "class": "champion",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "blood-rage.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-outrage",
+            "point": 1
+        },
+        {
+            "skill": "champion-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "champion-potency",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-spinning-backfist"
+    ],
+    "locksSkill": []
+}

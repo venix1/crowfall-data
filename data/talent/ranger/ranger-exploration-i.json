@@ -2,25 +2,20 @@
     "id": "ranger-exploration-i",
     "name": "Exploration Discipline Slot",
     "class": "ranger",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "ranger-exploration-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 5,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-ricochet-shot",
-            "point": 1
-        },
-        {
-            "skill": "ranger-ambidexterity",
+            "skill": "ranger-minor-i",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-minor-i",
-        "ranger-ranger-savvy"
+        "ranger-major-i"
     ],
     "locksSkill": []
 }

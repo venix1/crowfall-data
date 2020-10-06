@@ -1,0 +1,25 @@
+{
+    "id": "stay-in-the-fight",
+    "name": "Stay in the Fight",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-champion-cleric-confessor-druid-frostweaver-myrmidon-or-ranger",
+            "name": "Champion, Cleric, Confessor, Druid, Frostweaver, Myrmidon, or Ranger"
+        }
+    ],
+    "icon": "stay-in-the-fight.png",
+    "stats": [
+        {
+            "name": "Basic Attack Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_stay_in_the_fight"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

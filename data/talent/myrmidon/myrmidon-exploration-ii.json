@@ -2,28 +2,20 @@
     "id": "myrmidon-exploration-ii",
     "name": "Exploration Discipline Slot",
     "class": "myrmidon",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "myrmidon-exploration-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 20,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-violent-might",
-            "point": 2
-        },
-        {
-            "skill": "myrmidon-vengeful-vitality",
-            "point": 2
-        },
-        {
-            "skill": "myrmidon-arrogance",
-            "point": 2
+            "skill": "myrmidon-minor-ii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-neck-slash"
+        "myrmidon-major-ii"
     ],
     "locksSkill": []
 }

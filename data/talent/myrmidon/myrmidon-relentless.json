@@ -2,22 +2,43 @@
     "id": "myrmidon-relentless",
     "name": "Relentless",
     "class": "myrmidon",
-    "description": "Relentless improves Maximum Stamina by 3 per point spent and Power Efficiency by 5 per point spent.",
+    "description": "This talent grants the Colossus Smash power.\\n\\nStat Adjustments:\\nFury +15",
     "icon": "relentless.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "colossus-smash",
+            "name": "Colossus Smash"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-colossus-smash",
+            "skill": "myrmidon-scent-of-blood",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-opportunist",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-cast-net",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-unstoppable",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-gift-of-blood",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-vengeance",
-        "myrmidon-minor-iii",
-        "myrmidon-gall"
+        "myrmidon-promotion-class-titan",
+        "myrmidon-promotion-class-conqueror",
+        "myrmidon-promotion-class-battlerager"
     ],
     "locksSkill": []
 }

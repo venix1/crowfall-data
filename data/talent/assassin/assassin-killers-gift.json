@@ -2,28 +2,26 @@
     "id": "assassin-killers-gift",
     "name": "Killer's Gift",
     "class": "assassin",
-    "description": "Killer's Gift improves Attack Power by 75 per point spent.",
+    "description": "Stat Adjustments:\\nCritical Stike +6%\\nBase Damage +3%\\nPiercing Damage +10%\\nPiercing Damage Cap +10%\\n\\nThe quintessential assassin, Cutthroats excel in striking their enemies from behind.",
     "icon": "killers-gift.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-deep-cuts",
+            "skill": "assassin-bloodthirsty",
             "point": 1
         },
         {
-            "skill": "assassin-opportunist",
-            "point": 1
-        },
-        {
-            "skill": "assassin-ambush",
+            "skill": "assassin-decimate",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-cutthroat"
+        "assassin-domain-death",
+        "assassin-domain-plague",
+        "assassin-domain-shadow"
     ],
     "locksSkill": []
 }

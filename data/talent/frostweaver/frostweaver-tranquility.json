@@ -2,33 +2,26 @@
     "id": "frostweaver-tranquility",
     "name": "Tranquility",
     "class": "frostweaver",
-    "description": "Tranquility improves Healing Modifier by 1% per point spent.\\n\\nTraits Granted:\\nCool Focus Gem",
+    "description": "Stat Adjustments:\\nIce Damage +10%\\nIce Damage Cap +10%\\nArmor +300\\nIncrease Ice Storage Cap +1\\nCritical Healing Chance +15%\\nHealing +3%\\n\\nTo the Icecaller, frost is second nature. They can not only use it to destroy, but to protect and heal in equal measure.",
     "icon": "tranquility.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [
-        {
-            "id": "trait-cooling-focus-gem",
-            "name": "Cooling Focus Gem"
-        }
-    ],
+    "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-clutch-chill",
+            "skill": "frostweaver-icecaller",
             "point": 1
         },
         {
-            "skill": "frostweaver-harmonious-weaving",
-            "point": 1
-        },
-        {
-            "skill": "frost-armory-ii",
+            "skill": "frostweaver-healing-flurries",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-icecaller"
+        "frostweaver-domain-protection",
+        "frostweaver-domain-frost",
+        "frostweaver-domain-light"
     ],
     "locksSkill": []
 }

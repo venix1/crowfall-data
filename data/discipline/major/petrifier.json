@@ -1,0 +1,38 @@
+{
+    "id": "petrifier",
+    "name": "Petrifier",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-wind-or-frost",
+            "name": "Wind or Frost"
+        }
+    ],
+    "icon": "petrifier.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "value": "75"
+        },
+        {
+            "name": "Movement Speed Damage Bonus",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "illusionist-petrification-illusion",
+            "name": "Petrification Illusion",
+            "description": "Increase Basic Attack Damage and adds slow to 3rd Basic Attack"
+        },
+        {
+            "id": "runescarred-gladiator-nothing-to-lose",
+            "name": "Nothing To Lose",
+            "description": "Increase Crit Hit Chance, Amount"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

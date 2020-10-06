@@ -1,0 +1,38 @@
+{
+    "id": "blitzkrieger",
+    "name": "Blitzkrieger",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-druid-or-storm",
+            "name": "Druid or Storm"
+        }
+    ],
+    "icon": "blitzkrieger.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Electricity",
+            "value": "2%"
+        },
+        {
+            "name": "Electricity Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "standardbearer-electric-buff",
+            "name": "Banner Of Storms",
+            "description": "Group Electricity Damage Override; Electricity Resistance"
+        },
+        {
+            "id": "banshee-haunt",
+            "name": "Haunt",
+            "description": "Attack: Reflect Enemy Damage; Healing"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,22 +2,26 @@
     "id": "ranger-sure-aim",
     "name": "Sure Aim",
     "class": "ranger",
-    "description": "Sure Aim improves Critical Strike by 1% per point spent.",
+    "description": "Stat Adjustments:\\nCrushing Damage +10%\\nCrushing Damage Cap +10%\\nPiercing Damage +10%\\nPiercing Damage Cap +10%\\nSlashing Damage +10%\\nSlashing Damage Cap +10%\\nRanged Distance Cap +10m\\nRanged Power Damage +9%\\n\\nShooting from a ranged position has certain perks for those who don't appreciate being stabbed.",
     "icon": "sure-aim.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-ranger-savvy",
+            "skill": "ranger-trick-shots",
+            "point": 1
+        },
+        {
+            "skill": "ranger-ricochet-shot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-on-target",
-        "ranger-minor-ii",
-        "ranger-flare"
+        "ranger-domain-music",
+        "ranger-domain-dark",
+        "ranger-domain-nature"
     ],
     "locksSkill": []
 }

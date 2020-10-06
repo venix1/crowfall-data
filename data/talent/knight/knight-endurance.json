@@ -2,22 +2,25 @@
     "id": "knight-endurance",
     "name": "Endurance",
     "class": "knight",
-    "description": "Endurance improves Maximum Stamina by 3 per point spent and Attack Power by 15 per point spent.",
+    "description": "This talent grants the [NOPOWER] passive power.",
     "icon": "endurance.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-hoplitodromos",
+            "skill": "knight-critical-obliteration",
+            "point": 1
+        },
+        {
+            "skill": "knight-chivalry",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-hardiness",
-        "knight-noble-blood",
-        "knight-unbreakable"
+        "knight-spiked-shield",
+        "knight-into-the-fray"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,34 @@
+{
+    "id": "lord-of-the-forest",
+    "name": "Lord of the Forest",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-nature",
+            "name": "Nature"
+        }
+    ],
+    "icon": "lord-of-the-forest.png",
+    "stats": [
+        {
+            "name": "Organic Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "pixie-wee-one",
+            "name": "Wee One",
+            "description": "Attack: Ground Target Area Reduce Enemy Damage"
+        },
+        "power_discipline_lordoftheforest_protection_stake"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

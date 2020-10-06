@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-fervor",
+            "skill": "confessor-poise",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-exploration-i"
+        "confessor-zeal",
+        "confessor-flagellation"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,26 @@
+{
+    "id": "ranger-trick-shots",
+    "name": "Trick Shots",
+    "class": "ranger",
+    "description": "This talent grants the Trick Shots passive power.",
+    "icon": "trick-shots.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trick-shots",
+            "name": "Trick Shots"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-promotion-class-archer",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-sure-aim"
+    ],
+    "locksSkill": []
+}

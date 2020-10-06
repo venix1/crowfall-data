@@ -1,0 +1,38 @@
+{
+    "id": "militant-mage",
+    "name": "Militant Mage",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-nethari-protection-or-justice",
+            "name": "Nethari, Protection or Justice"
+        }
+    ],
+    "icon": "militant-mage.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "militantmage-warp-metal",
+            "name": "Warp Weapons",
+            "description": "Attack: Inflate Weapon Weight on Enemy Slash Hits"
+        },
+        {
+            "id": "militantmage-sword-ward",
+            "name": "Sword Ward",
+            "description": "Passive: Gain Slashing Resistance Over Time"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "The Militant Mage is known for their overzealous nature and the ability to pursue their purpose at all costs. Much like Hero, Militant Mages are often single-minded in their devotion to battle. They utilize slashing attacks and magical metal warping to advance their cause.",
+    "lore": "I'm the best there is at what I do, but what I do best isn't very nice."
+}

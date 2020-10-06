@@ -1,0 +1,29 @@
+{
+    "id": "rune-shield",
+    "name": "Rune Shield",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-frostweaver-protection-or-justice",
+            "name": "Frostweaver, Protection or Justice"
+        }
+    ],
+    "icon": "rune-shield.png",
+    "stats": [
+        {
+            "name": "Support Power",
+            "value": "150"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "runecaster-shield",
+            "name": "Rune Shield",
+            "description": "Increase Elemental Resistances"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

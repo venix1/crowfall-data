@@ -1,0 +1,21 @@
+{
+    "id": "myrmidon-indomitable",
+    "name": "Indomitable",
+    "class": "myrmidon",
+    "description": "This talent grants the Battle Rager passive power.",
+    "icon": "indomitable.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-promotion-class-battlerager",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-audacity"
+    ],
+    "locksSkill": []
+}

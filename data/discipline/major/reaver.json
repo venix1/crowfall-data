@@ -1,0 +1,34 @@
+{
+    "id": "reaver",
+    "name": "Reaver",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-champion",
+            "name": "Champion"
+        }
+    ],
+    "icon": "reaver.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "champion-invincible-warrior",
+            "name": "Invincible Warrior",
+            "description": ""
+        },
+        "power_discipline_reaver_gash"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

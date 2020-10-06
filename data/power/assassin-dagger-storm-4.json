@@ -1,7 +1,7 @@
 {
     "id": "assassin-dagger-storm-4",
     "name": "Dagger Storm",
-    "description": "flings throwing daggers in all directions hitting multiple enemies for 19 + 19% Weapon Damage. Damage scales with Pips spent.\\n1 Pip: 19 - 19\\n2 Pips: 38 - 38\\n3 Pips: 57 - 57\\n4 Pips: 76 - 76\\n5 Pips: 95 - 95.",
+    "description": "flings throwing daggers in all directions hitting multiple enemies for 19 + 19% Weapon Damage and Poisons any Bleeding targets. Damage scales with Pips spent.\\n1 Pip: 19 - 19\\n2 Pips: 38 - 38\\n3 Pips: 57 - 57\\n4 Pips: 76 - 76\\n5 Pips: 95 - 95.",
     "shortDescription": "",
     "icon": "assassin-dagger-storm-4.png",
     "stats": {

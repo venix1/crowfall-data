@@ -15,12 +15,18 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "knight-shield-bash",
+            "skill": "knight-martial-weaponry",
+            "point": 1
+        },
+        {
+            "skill": "knight-vitality",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-exploration-i"
+        "knight-chivalry",
+        "knight-additional-minor-slot",
+        "knight-pell-training"
     ],
     "locksSkill": []
 }

@@ -1,13 +1,17 @@
 {
     "id": "frostweaver-promotion-class-icecaller",
-    "name": "Promotion Class - Icecaller",
+    "name": "Promotion Class: Icecaller",
     "class": "frostweaver",
-    "description": "Role: Healing\\n\\nSo versed in magic they can coalesce it into powerful healing and defensive creations.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 450:\\nSupport Power\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent prevents access to the Archmage and Frostguard promotion classes.",
+    "description": "Role: Healing\\n\\nSo versed in magic they can coalesce it into powerful healing and defensive creations.\\n\\nStat Adjustments:\\nSupport Power +450\\nIncrease Ice Storage Cap +1\\nFinal Mitigations Cap +10%\\n\\nTraits Granted:\\nFrostcaster Mastery\\nMail Armor Proficiency\\n\\nEnhancements:\\nChill Out: Now also heals you and the lowest health member of your group, Cool Ice Weave now also heals and cannot be flipped.\\nCrystal Lance: Now heals the Icecaller for damage done.\\nShatter Storm: Now has a chance to spawn Refreshing Ice on hit.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Icecaller promotion class and prevents access to the Archmage and Frostguard promotion classes.",
     "icon": "promotion-class-icecaller.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
+        {
+            "id": "trait-frostcaster-mastery",
+            "name": "Frostcaster Mastery"
+        },
         {
             "id": "trait-mail-armor-proficiency",
             "name": "Mail Armor Proficiency"
@@ -15,12 +19,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-resurrection",
+            "skill": "frostweaver-freezing-reign",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-numbing-cold"
+        "frostweaver-icecaller",
+        "frostweaver-healing-flurries"
     ],
     "locksSkill": [
         "frostweaver-promotion-class-archmage",

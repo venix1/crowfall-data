@@ -1,0 +1,21 @@
+{
+    "id": "cleric-strength-in-numbers",
+    "name": "Strength in Numbers",
+    "class": "cleric",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "strength-in-numbers.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-noble-purpose",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-transcendence"
+    ],
+    "locksSkill": []
+}

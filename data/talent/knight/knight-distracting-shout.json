@@ -1,0 +1,21 @@
+{
+    "id": "knight-distracting-shout",
+    "name": "Distracting Shout",
+    "class": "knight",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "distracting-shout.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-pursuit",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-into-the-fray"
+    ],
+    "locksSkill": []
+}

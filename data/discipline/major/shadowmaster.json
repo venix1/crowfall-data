@@ -1,0 +1,38 @@
+{
+    "id": "shadowmaster",
+    "name": "Shadowmaster",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-assassin",
+            "name": "Assassin"
+        }
+    ],
+    "icon": "shadowmaster.png",
+    "stats": [
+        {
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
+        },
+        {
+            "name": "Power Damage Bonus: Behind",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "assassin-stealth-ambush",
+            "name": "Ambush",
+            "description": ""
+        },
+        {
+            "id": "blackmask-shadows-linger",
+            "name": "Shadows Linger",
+            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

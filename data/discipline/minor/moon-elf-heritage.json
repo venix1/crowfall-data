@@ -1,0 +1,25 @@
+{
+    "id": "moon-elf-heritage",
+    "name": "Moon Elf Heritage",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-half-elf-or-wood-elf",
+            "name": "Half Elf or Wood Elf"
+        }
+    ],
+    "icon": "moon-elf-heritage.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_moon_elf_heritage"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

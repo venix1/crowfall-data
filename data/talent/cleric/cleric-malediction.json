@@ -2,21 +2,20 @@
     "id": "cleric-malediction",
     "name": "Malediction",
     "class": "cleric",
-    "description": "Malediction improves Attack Power by 75 per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +3%\\nCritical Damage +15%\\n\\n\"Look for the helpers—we are always there.\"\\n-Anonymous",
     "icon": "malediction.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-promotion-class-radical",
+            "skill": "cleric-hand-of-the-gods",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-hammer-time",
-        "cleric-symbol-of-fury"
+        "cleric-sun-burn"
     ],
     "locksSkill": []
 }

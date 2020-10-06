@@ -2,28 +2,20 @@
     "id": "champion-brutality",
     "name": "Brutality",
     "class": "champion",
-    "description": "Brutality improves Armor Penetration: Physical by 1% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +3%\\nArmor Penetraction: Physical +3%\\n\\n\"A gutter rat with enough martial promise can find themselves standing at the side of monarchs.\"\\n-Martial Prowess Vol. I",
     "icon": "brutality.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-cutthroat",
-            "point": 2
-        },
-        {
-            "skill": "champion-minor-ii",
-            "point": 1
-        },
-        {
-            "skill": "champion-mighty-warrior",
+            "skill": "champion-vicious-stomp",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-exploration-ii"
+        "champion-fast-counter-attack"
     ],
     "locksSkill": []
 }

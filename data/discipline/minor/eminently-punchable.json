@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-daywalker",
-            "name": "Daywalker"
+            "id": "trait-minotaur-fire-storm-or-battle",
+            "name": "Minotaur, Fire, Storm, or Battle"
         }
     ],
     "icon": "eminently-punchable.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "resource-on-enemy-hit",

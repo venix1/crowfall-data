@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-music",
+            "name": "Music"
         }
     ],
     "icon": "minor-accompaniment.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Song Duration",
+            "value": "6"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "minor-accompaniment",

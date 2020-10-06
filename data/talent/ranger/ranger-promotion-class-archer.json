@@ -1,8 +1,8 @@
 {
     "id": "ranger-promotion-class-archer",
-    "name": "Promotion Class - Archer",
+    "name": "Promotion Class: Archer",
     "class": "ranger",
-    "description": "Role: Ranged Damage\\n\\nA master of bows who can shoot whilst on the move and excels at bringing down enemies from afar.\\n\\nTraits Granted:\\nGaea's Inspiration\\nQuiver Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Archer promotion class and prevents access to the Warden and Brigand promotion classes.",
+    "description": "Role: Ranged Damage\\n\\nA master of bows who can shoot whilst on the move and excels at bringing down enemies from afar.\\n\\nStat Adjustments:\\nRanged Distance +21m\\nRanged Distance Cap +21m\\nWeapon Damage +9\\nPower Damage Bonus: Ranged +9\\n\\nTraits Granted:\\nRecurve Bow Mastery\\nHigh Tension Compound Bow Mastery\\nSpellbound Longbow Mastery\\nQuiver Proficiency\\nExotic Arrows Proficiency\\n\\nEnhancements:\\nRapid Fire: Now shoots up to 10 arrows.  Gain a Critical Strike buff for each non-critical hit.\\nConcussive Trap: Now reduces target's Physical Mitigations.\\nDisengage: Now resets the cooldown of Rapid Fire.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Archer promotion class and prevents access to the Warden and Brigand promotion classes.",
     "icon": "promotion-class-archer.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -13,18 +13,35 @@
             "name": "Quiver Proficiency"
         },
         {
-            "id": "trait-gaeas-inspiration",
-            "name": "Gaea's Inspiration"
+            "id": "trait-exotic-arrows",
+            "name": "Exotic Arrows"
+        },
+        {
+            "id": "trait-recurve-bow-mastery",
+            "name": "Recurve Bow Mastery"
+        },
+        {
+            "id": "trait-spellbound-bow-mastery",
+            "name": "Spellbound Bow Mastery"
+        },
+        {
+            "id": "trait-compound-bow-mastery",
+            "name": "Compound Bow Mastery"
+        },
+        {
+            "id": "rapid-fire",
+            "name": "Rapid Fire"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-bring-me-everyone",
+            "skill": "ranger-hunting-party",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-military-training"
+        "ranger-trick-shots",
+        "ranger-ricochet-shot"
     ],
     "locksSkill": [
         "ranger-promotion-class-warden",

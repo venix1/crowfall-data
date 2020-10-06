@@ -2,22 +2,20 @@
     "id": "confessor-rapture",
     "name": "Rapture",
     "class": "confessor",
-    "description": "Rapture improves Damage Bonus: Enemy Low Health by 3% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +3%\\nCritical Damage +15%\\n\\n\"Speak now, brother. I can make the pain stop. Tell me of your sins.\"\\n-Anonymous",
     "icon": "rapture.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-righteousness",
+            "skill": "confessor-absolution",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-feed-the-flames",
-        "confessor-minor-iii",
-        "confessor-moment-of-glory"
+        "confessor-righteousness"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,34 @@
+{
+    "id": "demolisher",
+    "name": "Demolisher",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-battle",
+            "name": "Battle"
+        }
+    ],
+    "icon": "demolisher.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Crushing",
+            "value": "3%"
+        },
+        {
+            "name": "Crushing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_demolisher_cracked_armor",
+        {
+            "id": "shieldbreaker-shield-breaker",
+            "name": "Shield Breaker",
+            "description": "Attack: Cancel and Punish Block and Parry"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

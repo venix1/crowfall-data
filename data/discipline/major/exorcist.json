@@ -1,0 +1,30 @@
+{
+    "id": "exorcist",
+    "name": "Exorcist",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-elken-or-light",
+            "name": "Elken or Light"
+        }
+    ],
+    "icon": "exorcist.png",
+    "stats": [
+        {
+            "name": "Support Power",
+            "value": "150"
+        },
+        {
+            "name": "Holy Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_corruptedsoul_soul_steal",
+        "power_cleric_blessed_symbol"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,21 +2,20 @@
     "id": "druid-forest-affinity",
     "name": "Forest Affinity",
     "class": "druid",
-    "description": "Increases Attack Power by 50, and Support Power by 25 per point spent.",
+    "description": "Stat Adjustments:\\nCritical Heal Chance +3%\\nCritical Heal Amount +6%\\n\\n\"Without the Earth Mother, we are lost, adrift in a dying universe.\"\\n-Posey of the Weirwood",
     "icon": "forest-affinity.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-promotion-class-archdruid",
+            "skill": "druid-soothing-winds",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-blur",
-        "druid-barbed-thorns"
+        "druid-ironwood-body"
     ],
     "locksSkill": []
 }

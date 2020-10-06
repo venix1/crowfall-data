@@ -6,16 +6,16 @@
     "icon": "templar-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-infallible-dictum",
-            "point": 3
+            "skill": "templar-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-righteous-indignation"
+        "templar-exploration-ii"
     ],
     "locksSkill": []
 }

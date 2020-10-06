@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-erudite",
-            "point": 3
+            "skill": "confessor-repent",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-revelation"
+        "confessor-revelation",
+        "confessor-rapture"
     ],
     "locksSkill": []
 }

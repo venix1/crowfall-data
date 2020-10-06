@@ -15,16 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-tenacity",
-            "point": 2
-        },
-        {
-            "skill": "duelist-daring-escape",
+            "skill": "duelist-guile",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-shiny-coat"
+        "duelist-energetic",
+        "duelist-spunky"
     ],
     "locksSkill": []
 }

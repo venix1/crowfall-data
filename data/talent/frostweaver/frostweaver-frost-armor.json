@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-ice-weave",
+            "skill": "frostweaver-hardening",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-exploration-i"
+        "frostweaver-elegant-form",
+        "frostweaver-solidify"
     ],
     "locksSkill": []
 }

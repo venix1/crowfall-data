@@ -2,25 +2,26 @@
     "id": "ranger-a-toll-is-a-toll",
     "name": "A Toll is a Toll",
     "class": "ranger",
-    "description": "A Toll is a Toll enhances Archers Stake to become Treant Wood Stake, which removes its deploy time and applies a Slow to all enemies within 10m.",
+    "description": "Stat Adjustments:\\nPiercing Damage +10%\\nPiercing Damage Cap +10%\\nSlashing Damage +10%\\nSlashing Damage Cap +10%\\nPhysical Resist +300\\nPower Damage +300\\nBleed Resist +3000\\n\\nAdaptability is a cornerstone of nature's ability to survive—the Warden knows and embodies this.",
     "icon": "a-toll-is-a-toll.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [
-        {
-            "id": "treant-wood-stake",
-            "name": "Treant Wood Stake"
-        }
-    ],
+    "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-lambs-become-lions",
+            "skill": "ranger-steel-traps",
+            "point": 1
+        },
+        {
+            "skill": "ranger-trap-master",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-below-the-belt"
+        "ranger-domain-frost",
+        "ranger-domain-dark",
+        "ranger-domain-nature"
     ],
     "locksSkill": []
 }

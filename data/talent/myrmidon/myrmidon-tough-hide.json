@@ -2,22 +2,20 @@
     "id": "myrmidon-tough-hide",
     "name": "Tough Hide",
     "class": "myrmidon",
-    "description": "Tough Hide improves Resist All by 75 per point spent.",
+    "description": "Stat Adjustments:\\nSelf Healing +4.5%\\nHealth Regeneration +15\\n\\n\"Every landed strike brings more power, every foe defeated more will to persist.\"\\n-Anonymous",
     "icon": "tough-hide.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-colossus-smash",
+            "skill": "myrmidon-battle-scream",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-audacity",
-        "myrmidon-berserk",
-        "myrmidon-raging"
+        "myrmidon-unstoppable"
     ],
     "locksSkill": []
 }

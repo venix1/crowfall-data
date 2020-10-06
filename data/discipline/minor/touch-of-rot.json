@@ -1,0 +1,29 @@
+{
+    "id": "touch-of-rot",
+    "name": "Touch of Rot",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        }
+    ],
+    "icon": "touch-of-rot.png",
+    "stats": [
+        {
+            "name": "Poison Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "plaguelord-support-debuff-basic",
+            "name": "Touch Of Rot",
+            "description": "Passive: Reduce Support Power on last Basic"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

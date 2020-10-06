@@ -1,0 +1,25 @@
+{
+    "id": "blessed-symbol",
+    "name": "Blessed Symbol",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-cleric-or-stoneborn",
+            "name": "Cleric or Stoneborn"
+        }
+    ],
+    "icon": "blessed-symbol.png",
+    "stats": [
+        {
+            "name": "Healing Bonus",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_cleric_blessed_symbol"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

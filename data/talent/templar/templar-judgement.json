@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-reproach",
+            "skill": "templar-indictment",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-exploration-i"
+        "templar-fiery-devotion",
+        "templar-executioner"
     ],
     "locksSkill": []
 }

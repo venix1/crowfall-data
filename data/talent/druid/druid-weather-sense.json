@@ -2,21 +2,26 @@
     "id": "druid-weather-sense",
     "name": "Weather Sense",
     "class": "druid",
-    "description": "Increases Attack Power by 75 per point spent.",
+    "description": "Stat Adjustments:\\nDamage +3%\\nElectricity Damage +10%\\n\\nIf you call forth the storms, you must be willing to allow the lightning to move through you.",
     "icon": "weather-sense.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-promotion-class-stormcaller",
+            "skill": "druid-capacitor",
+            "point": 1
+        },
+        {
+            "skill": "druid-lightning-burst",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-plasma-spark",
-        "druid-storm-avatar"
+        "druid-domain-frost",
+        "druid-domain-storm",
+        "druid-domain-protection"
     ],
     "locksSkill": []
 }

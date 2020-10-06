@@ -1,0 +1,29 @@
+{
+    "id": "take-root",
+    "name": "Take Root",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-light-nature-sotrm-or-protection",
+            "name": "Light, Nature, Sotrm or Protection"
+        }
+    ],
+    "icon": "take-root.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "dryad-take-root",
+            "name": "Take Root",
+            "description": "Passive: Standing Still Buffs Healing Bonus"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

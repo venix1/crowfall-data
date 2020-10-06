@@ -1,0 +1,21 @@
+{
+    "id": "frostweaver-cold-stare",
+    "name": "Cold Stare",
+    "class": "frostweaver",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "cold-stare.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-promotion-class-archmage",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-piercing-cold"
+    ],
+    "locksSkill": []
+}

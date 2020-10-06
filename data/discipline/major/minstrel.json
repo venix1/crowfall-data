@@ -1,0 +1,43 @@
+{
+    "id": "minstrel",
+    "name": "Minstrel",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-music",
+            "name": "Music"
+        }
+    ],
+    "icon": "minstrel.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Song Duration",
+            "value": "6"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "bard-verses-of-victory",
+            "name": "Verses Of Victory",
+            "description": "Song: Increase Group Attack, Support Power"
+        },
+        {
+            "id": "bard-hymn-of-restoration",
+            "name": "Hymn Of Restoration",
+            "description": "Song: Increase Group Health Regen"
+        },
+        {
+            "id": "bard-twisting",
+            "name": "Song Twisting",
+            "description": "Passive: Twisting Songs Increases Song Potency"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,7 +2,7 @@
     "id": "champion-dominant-smashing",
     "name": "Dominant Smashing",
     "class": "champion",
-    "description": "Dominant Smashing enhances your basic Strong Swing attacks to add a point of Dominance when they critically hit.",
+    "description": "This talent grants the Dominator passive power.",
     "icon": "dominant-smashing.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,13 +10,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-enmity",
-            "point": 2
+            "skill": "champion-fast-counter-attack",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-rend-and-butcher",
-        "champion-violent-neckbreaker"
+        "champion-animosity"
     ],
     "locksSkill": []
 }

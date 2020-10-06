@@ -1,0 +1,25 @@
+{
+    "id": "toxic-trap",
+    "name": "Toxic Trap",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "icon": "toxic-trap.png",
+    "stats": [
+        {
+            "name": "Power Damage Bonus: Trap",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_toxic_trap"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

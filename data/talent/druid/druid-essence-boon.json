@@ -1,0 +1,21 @@
+{
+    "id": "druid-essence-boon",
+    "name": "Essence Boon",
+    "class": "druid",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "essence-boon.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-electrogenesis",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-lines-of-force"
+    ],
+    "locksSkill": []
+}

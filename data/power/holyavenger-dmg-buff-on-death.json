@@ -1,7 +1,7 @@
 {
     "id": "holyavenger-dmg-buff-on-death",
     "name": "You Shall Be Avenged",
-    "description": "increases your Attack Power when a group member dies.",
+    "description": "increases your Damage Bonus and Critical Strike when a group member dies.",
     "shortDescription": "Passive: Increase Damage on Group death",
     "icon": "holyavenger-dmg-buff-on-death.png",
     "stats": {

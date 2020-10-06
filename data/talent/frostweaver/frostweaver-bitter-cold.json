@@ -1,0 +1,26 @@
+{
+    "id": "frostweaver-bitter-cold",
+    "name": "Bitter Cold",
+    "class": "frostweaver",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "bitter-cold.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-stinging-strikes",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-crisp-casting",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-blizzard",
+        "frostweaver-freezing-reign"
+    ],
+    "locksSkill": []
+}

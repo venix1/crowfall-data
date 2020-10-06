@@ -2,7 +2,7 @@
     "id": "ranger-quick-arming",
     "name": "Quick Arming",
     "class": "ranger",
-    "description": "Quick Arming enhances all Trap powers to reduce their cooldown by 50%.",
+    "description": "Stat Adjustments:\\nEnergy +225\\nPower Efficiency +15%\\n\\n\"Gryphon feathers make the best fletching—the most dangerous resources often hold the most magical properties.\"\\n-Anonymous",
     "icon": "quick-arming.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,16 +10,22 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-lambs-become-lions",
-            "point": 2
+            "skill": "ranger-sweep",
+            "point": 1
         },
         {
-            "skill": "ranger-robbery",
+            "skill": "ranger-cross-slash",
+            "point": 1
+        },
+        {
+            "skill": "ranger-additional-minor-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-below-the-belt"
+        "ranger-additional-minor-slot",
+        "ranger-alertness-flare-arrow",
+        "ranger-draining-blades"
     ],
     "locksSkill": []
 }

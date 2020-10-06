@@ -2,28 +2,26 @@
     "id": "druid-heart-of-the-wild",
     "name": "Heart of the Wild",
     "class": "druid",
-    "description": "Heart of the Wild improves Maximum Health by 500 per point spent.",
+    "description": "Stat Adjustments:\\nNature Damage +10%\\nNature Damage Cap +10%\\nHealth +1500\\nDamage Reduction +6%\\n\\nDruidic in the most classical sense, the Archdruid balances upon the knife-edge that is Life and Death.",
     "icon": "heart-of-the-wild.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-pack-avatar",
+            "skill": "druid-force-of-nature",
             "point": 1
         },
         {
-            "skill": "druid-might-of-blight",
-            "point": 1
-        },
-        {
-            "skill": "druid-shroud-of-darkness",
+            "skill": "druid-gaeas-growth",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-archdruid"
+        "druid-domain-dark",
+        "druid-domain-storm",
+        "druid-domain-nature"
     ],
     "locksSkill": []
 }

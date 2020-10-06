@@ -2,7 +2,7 @@
     "id": "frostweaver-frozen-solid",
     "name": "Frozen Solid",
     "class": "frostweaver",
-    "description": "Frozen Solid enhances your Frost Armor so that it remains functional with as many as four Ice Armor Cracks and these may only form once every 1.5 seconds.",
+    "description": "Stat Adjustments:\\nIce Damage +10%\\nIce Damage Cap +10%\\nArmor +300\\nIncrease Ice Storage Cap +1\\nPersonal Damage Modifier +4.5%\\n\\nIce is unyielding, unflinching, and totally uncompromising",
     "icon": "frozen-solid.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frost-armory-i",
+            "skill": "frostweaver-ice-sunder",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-ice-block",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-frosty-fortification"
+        "frostweaver-domain-dark",
+        "frostweaver-domain-frost",
+        "frostweaver-domain-death"
     ],
     "locksSkill": []
 }

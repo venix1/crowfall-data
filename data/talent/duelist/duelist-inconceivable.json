@@ -15,12 +15,20 @@
     ],
     "unlockedFromSkill": [
         {
+            "skill": "duelist-wily",
+            "point": 1
+        },
+        {
+            "skill": "duelist-minor-iii",
+            "point": 1
+        },
+        {
             "skill": "duelist-energetic",
-            "point": 3
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-charming"
+        "duelist-ambush"
     ],
     "locksSkill": []
 }

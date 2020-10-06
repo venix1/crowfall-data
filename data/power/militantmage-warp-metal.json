@@ -1,0 +1,30 @@
+{
+    "id": "militantmage-warp-metal",
+    "name": "Warp Weapons",
+    "description": "curses an enemy with a destructive aura decreasing their Attack Power for each attack they commit against you while active.",
+    "shortDescription": "Attack: Inflate Weapon Weight on Enemy Slash Hits",
+    "icon": "militantmage-warp-metal.png",
+    "stats": {
+        "weapon_damage_type": "Slashing",
+        "weapon_damage_value": "133",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "cost_type": "Resource",
+        "cost": "16",
+        "range": "15",
+        "max_targets": "1",
+        "cooldown": "30",
+        "target": "Ray",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

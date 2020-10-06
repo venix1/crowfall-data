@@ -15,17 +15,20 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-chastisement",
+            "skill": "templar-fiery-devotion",
             "point": 1
         },
         {
-            "skill": "templar-humble-duty",
+            "skill": "templar-additional-minor-slot",
+            "point": 1
+        },
+        {
+            "skill": "templar-shining-armor",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-censure",
-        "templar-judgement"
+        "templar-blinding-light"
     ],
     "locksSkill": []
 }

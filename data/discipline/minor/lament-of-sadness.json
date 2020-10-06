@@ -1,0 +1,29 @@
+{
+    "id": "lament-of-sadness",
+    "name": "Lament of Sadness",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-fae-or-music",
+            "name": "Fae or Music"
+        }
+    ],
+    "icon": "lament-of-sadness.png",
+    "stats": [
+        {
+            "name": "Song Duration",
+            "value": "6"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "troubadour-lament",
+            "name": "Lament Of Sadness",
+            "description": "Song: Reduce Enemy Attack, Support Power"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

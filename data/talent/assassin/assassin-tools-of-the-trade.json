@@ -2,31 +2,25 @@
     "id": "assassin-tools-of-the-trade",
     "name": "Tools of the Trade",
     "class": "assassin",
-    "description": "This talent grants the Diffusion power, and you can now equip Toxins that grant the Poison Toxin passive power.\\n\\nGrants the following recipe:\\nBasic Toxin",
+    "description": "This talent grants the Backstab and In The Zone powers.",
     "icon": "tools-of-the-trade.png",
     "maxPoints": 1,
-    "pointRequirement": 7,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "diffusion",
-            "name": "Diffusion"
+            "id": "backstab",
+            "name": "Backstab"
         },
         {
-            "id": "trait-poison-toxin-training",
-            "name": "Poison Toxin Training"
+            "id": "in-the-zone",
+            "name": "In The Zone"
         }
     ],
-    "unlockedFromSkill": [
-        {
-            "skill": "assassin-exploration-i",
-            "point": 1
-        }
-    ],
+    "unlockedFromSkill": [],
     "unlocksSkill": [
-        "assassin-armor-gap",
-        "assassin-vigor",
-        "assassin-deceptive-strength"
+        "assassin-brutal-fury",
+        "assassin-shadow-heart"
     ],
     "locksSkill": []
 }

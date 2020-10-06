@@ -1,0 +1,38 @@
+{
+    "id": "abominable-snowman",
+    "name": "Abominable Snowman",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-frost-or-death",
+            "name": "Frost or Death"
+        }
+    ],
+    "icon": "abominable-snowman.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        },
+        {
+            "name": "Ice Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "scarecrow-aura-of-terror",
+            "name": "Aura Of Terror",
+            "description": "Lingering Enemies Suffer Frostbite; Suppression"
+        },
+        {
+            "id": "scarecrow-terrifying-features",
+            "name": "Terrifying Features",
+            "description": "Passive: Attackers Periodically Stunned"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -1,0 +1,28 @@
+{
+    "id": "destroyer-rage-health-buff",
+    "name": "Insanity",
+    "description": "bolsters your combat prowess increasing your Health maximum by 17.5 for each point of current Rage.",
+    "shortDescription": "Gain Health based on Rage",
+    "icon": "destroyer-rage-health-buff.png",
+    "stats": {
+        "weapon_damage_value": "53",
+        "max_damage_1": "53",
+        "min_damage_1": "53",
+        "cost_type": "Resource",
+        "cost": "15",
+        "max_targets": "5",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "champion"
+    ]
+}

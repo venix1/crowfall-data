@@ -1,7 +1,7 @@
 {
     "id": "standardbearer-ooc-regen",
     "name": "Bearers Insignia",
-    "description": "increases your Out of Combat Health Regen by 10 and apply a barrier when your Health is critically low.",
+    "description": "increases your Out of Combat Health Regen by 10 and apply a barrier when your Health is critically low and inspires you to recover Resource for every 1000 Health you restore to others. \\n\\nThis effect can only occur once every 15 seconds.",
     "shortDescription": "Passive: Increase Out of Combat Regeneration",
     "icon": "standardbearer-ooc-regen.png",
     "stats": {

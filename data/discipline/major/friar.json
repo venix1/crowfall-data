@@ -4,36 +4,26 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-frostweaver-light-fire-or-justice",
+            "name": "Frostweaver, Light, Fire or Justice"
         }
     ],
     "icon": "friar.png",
     "stats": [
         {
-            "name": "Critical Healing Chance",
+            "name": "Healing Bonus",
             "value": "3%"
         },
         {
-            "name": "Healing Bonus",
-            "value": "3%"
+            "name": "Support Power",
+            "value": "150"
         }
     ],
     "grantsPowers": [
         {
-            "id": "friar-benediction",
-            "name": "Benediction",
-            "description": "Group increase Bleed Resistance"
-        },
-        {
             "id": "discipline-power-001",
             "name": "Chain Heal",
             "description": "Target Heal multiple allies"
-        },
-        {
-            "id": "friar-indulgence",
-            "name": "Indulgence",
-            "description": "Gain Sin immunity"
         },
         {
             "id": "friar-random-buffs",
@@ -44,5 +34,7 @@
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "Friars of the Church of Arkon provide the community with a unique service that no other can provide. Friars willingly listen and pardon the sins of the people with an undaunting zeal; no sin is too great, for they have heard them all and they are eager to hear more. Their unyielding dedication to their trade provides many in their company with benefits in health and the avoidance of sin while also providing the Friars with a few extra perks.",
+    "lore": "Share with me your sins and I will absolve you for a fair cost."
+} Their unyielding dedication to their trade provides many in their company with benefits in health and the avoidance of sin while also providing the Friars with a few extra perks.",
     "lore": "Share with me your sins and I will absolve you for a fair cost."
 }

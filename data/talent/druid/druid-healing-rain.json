@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "druid-partial-redirection",
+            "skill": "druid-promotion-class-earthkeeper",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-secret-of-stone"
+        "druid-loved-by-the-sun"
     ],
     "locksSkill": []
 }

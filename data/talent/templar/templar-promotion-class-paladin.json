@@ -1,13 +1,17 @@
 {
     "id": "templar-promotion-class-paladin",
-    "name": "Promotion Class - Paladin",
+    "name": "Promotion Class: Paladin",
     "class": "templar",
-    "description": "Role: Healing\\n\\nThis well-armored holy warrior excels at healing their allies.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Paladin promotion class and prevents access to the Vindicator and Fury promotion classes.",
+    "description": "Role: Healing\\n\\nThis well-armored holy warrior excels at healing their allies.\\n\\nStat Adjustments:\\nSupport Power +600\\nResist All +300\\nFinal Mitigation Cap +15%\\n\\nTraits Granted:\\nGreat Sword Mastery\\nPlate Armor Proficiency\\n\\nEnhancements:\\nHoly Warrior: Now has a reduced cooldown and heals lowest health in Group. Zealotry gains +50%.\\nDevotion: Now scales with Support Power and cleanses all Damage Over Time effects.\\nDivine Light: Now has no pip cost.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Paladin promotion class and prevents access to the Vindicator and Fury promotion classes.",
     "icon": "promotion-class-paladin.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
+        {
+            "id": "trait-great-sword-mastery",
+            "name": "Great Sword Mastery"
+        },
         {
             "id": "trait-plate-armor-proficiency",
             "name": "Plate Armor Proficiency"
@@ -15,12 +19,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-resurrection",
+            "skill": "templar-magnificent-purpose",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-martyrdom"
+        "templar-paladin",
+        "templar-healing-burst"
     ],
     "locksSkill": [
         "templar-promotion-class-vindicator",

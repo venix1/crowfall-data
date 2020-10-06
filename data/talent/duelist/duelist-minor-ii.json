@@ -6,16 +6,16 @@
     "icon": "duelist-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-critical-insight",
-            "point": 3
+            "skill": "duelist-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-artful-advance"
+        "duelist-exploration-ii"
     ],
     "locksSkill": []
 }

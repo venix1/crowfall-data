@@ -1,0 +1,34 @@
+{
+    "id": "scrapper",
+    "name": "Scrapper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-half-giant-shadow-justice-or-battle",
+            "name": "Half Giant, Shadow, Justice or Battle"
+        }
+    ],
+    "icon": "scrapper.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_scrapper_in_the_fray",
+        {
+            "id": "underdog-retalite-low-hp-knockdown",
+            "name": "Death Throws",
+            "description": "Passive: Area Knockdown on Retaliation at Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

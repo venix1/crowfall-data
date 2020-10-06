@@ -1,8 +1,8 @@
 {
     "id": "cleric-promotion-class-arbiter",
-    "name": "Promotion Class - Arbiter",
+    "name": "Promotion Class: Arbiter",
     "class": "cleric",
-    "description": "Role: Ranged Control\\n\\nSacrificing damage and healing potential, this maven of battle excels at controlling enemies.\\n\\nIncreases by 15%:\\nFinal Mitigation Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Arbiter promotion class and prevents access to the Crusader and Radical promotion classes.",
+    "description": "Role: Ranged Control\\n\\nSacrificing damage and healing potential, this maven of battle excels at controlling enemies.\\n\\nStat Adjustments:\\nSupport Power +300\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nHammer Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nHoly Symbol: Now applies a Knockdown to enemies.\\nIlluminate: Now basic attacks regenerate mana for XXX seconds.\\nFlash Of Light: Now also Blinds enemeis within 5m of target, up to 4 additional targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Arbiter promotion class and prevents access to the Crusader and Radical promotion classes.",
     "icon": "promotion-class-arbiter.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -11,16 +11,29 @@
         {
             "id": "trait-plate-armor-proficiency",
             "name": "Plate Armor Proficiency"
+        },
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
+        },
+        {
+            "id": "trait-medium-shield-mastery",
+            "name": "Medium Shield Mastery"
+        },
+        {
+            "id": "trait-hammer-mastery",
+            "name": "Hammer Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-circle-of-life",
+            "skill": "cleric-transcendence",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-interdiction"
+        "cleric-arbiter",
+        "cleric-spiritual-presence"
     ],
     "locksSkill": [
         "cleric-promotion-class-radical",

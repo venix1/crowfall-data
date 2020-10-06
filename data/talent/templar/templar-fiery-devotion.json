@@ -2,7 +2,7 @@
     "id": "templar-fiery-devotion",
     "name": "Fiery Devotion",
     "class": "templar",
-    "description": "Fiery Devotion enhances Devotion to also buff your Damage Bonus: Fire by 15%.",
+    "description": "Stat Adjustments:\\nAttack Power +100\\nFire Damage +9%\\n\\n\"The Templarum began as the military arm of the Church of the Sun.\"\\n-Mother Church: A Dissection",
     "icon": "fiery-devotion.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,13 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-excoriate",
-            "point": 2
+            "skill": "templar-judgement",
+            "point": 1
+        },
+        {
+            "skill": "templar-divine-light",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-executioner",
-        "templar-blazing-light"
+        "templar-additional-minor-slot",
+        "templar-reproach",
+        "templar-righteous-reflect"
     ],
     "locksSkill": []
 }

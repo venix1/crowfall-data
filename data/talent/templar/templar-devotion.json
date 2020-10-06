@@ -5,7 +5,7 @@
     "description": "This talent grants the Devotion power.",
     "icon": "devotion.png",
     "maxPoints": 1,
-    "pointRequirement": 7,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
@@ -15,14 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-exploration-i",
+            "skill": "templar-grace",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-infallible-dictum",
-        "templar-divine-favor",
-        "templar-ecstasy"
+        "templar-shining-armor",
+        "templar-humble-duty"
     ],
     "locksSkill": []
 }

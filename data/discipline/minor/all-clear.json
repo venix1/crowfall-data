@@ -1,0 +1,29 @@
+{
+    "id": "all-clear",
+    "name": "All Clear",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-ranger",
+            "name": "Ranger"
+        }
+    ],
+    "icon": "all-clear.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "sharpshooter-passive-01",
+            "name": "All Clear",
+            "description": "Passive: Increase Damage when apart from enemies"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

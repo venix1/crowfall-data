@@ -1,0 +1,38 @@
+{
+    "id": "night-terror",
+    "name": "Night Terror",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-wind",
+            "name": "Wind"
+        }
+    ],
+    "icon": "night-terror.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Physical",
+            "value": "3%"
+        },
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "blackmask-call-darkness",
+            "name": "Call Darkness",
+            "description": "All Attacks Count as From Behind"
+        },
+        {
+            "id": "scarecrow-terrifying-features",
+            "name": "Terrifying Features",
+            "description": "Passive: Attackers Periodically Stunned"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

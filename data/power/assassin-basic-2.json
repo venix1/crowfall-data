@@ -1,7 +1,7 @@
 {
     "id": "assassin-basic-2",
-    "name": "Double Swing",
-    "description": "jabs twice for 66 + 66% Weapon Damage.\\n\\nGenerates 1 Pip.",
+    "name": "Spinning Slice",
+    "description": "jabs for 66 + 66% Weapon Damage.\\n\\nGenerates 1 Pip.",
     "shortDescription": "",
     "icon": "assassin-basic-2.png",
     "stats": {

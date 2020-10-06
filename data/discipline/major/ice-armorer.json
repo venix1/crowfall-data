@@ -1,0 +1,30 @@
+{
+    "id": "ice-armorer",
+    "name": "Ice Armorer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-frostweaver",
+            "name": "Frostweaver"
+        }
+    ],
+    "icon": "ice-armorer.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Ice",
+            "value": "3%"
+        },
+        {
+            "name": "Ice Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_icearmorer_ice_armory",
+        "power_discipline_icearmorer_ice_devourer"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

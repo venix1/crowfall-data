@@ -1,0 +1,38 @@
+{
+    "id": "ranger-alertness-flare-arrow",
+    "name": "Alertness/Flare Arrow",
+    "class": "ranger",
+    "description": "This talent grants the Alertness and Flare Arrow powers.",
+    "icon": "alertness-flare-arrow.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "alertness",
+            "name": "Alertness"
+        },
+        {
+            "id": "flare-arrow",
+            "name": "Flare Arrow"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-tree-sparring",
+            "point": 1
+        },
+        {
+            "skill": "ranger-additional-minor-slot",
+            "point": 1
+        },
+        {
+            "skill": "ranger-quick-arming",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-suppression-shot"
+    ],
+    "locksSkill": []
+}

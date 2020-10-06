@@ -1,0 +1,25 @@
+{
+    "id": "cold-armor",
+    "name": "Cold Armor",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-frostweaver",
+            "name": "Frostweaver"
+        }
+    ],
+    "icon": "cold-armor.png",
+    "stats": [
+        {
+            "name": "Ice Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_cold_armor"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

@@ -1,0 +1,22 @@
+{
+    "id": "myrmidon-bloodied-swipe",
+    "name": "Bloodied Swipe",
+    "class": "myrmidon",
+    "description": "This talent grants the Bloody Swipe power.",
+    "icon": "bloodied-swipe.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "bloody-swipe",
+            "name": "Bloody Swipe"
+        }
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "myrmidon-solid-muscle",
+        "myrmidon-brawny"
+    ],
+    "locksSkill": []
+}

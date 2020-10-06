@@ -1,0 +1,31 @@
+{
+    "id": "axemaster-cooldown-combo-1",
+    "name": "Furious Slash",
+    "description": "hacks at an enemy for 129 + 129% Weapon Damage.",
+    "shortDescription": "Attack: Reduce Long Cooldowns",
+    "icon": "axemaster-cooldown-combo-1.png",
+    "stats": {
+        "weapon_damage_value": "129",
+        "max_damage_1": "129",
+        "min_damage_1": "129",
+        "cost_type": "Resource",
+        "cost": "16",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [
+        "axemaster-cooldown-combo-2"
+    ],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "axe_users"
+    ]
+}

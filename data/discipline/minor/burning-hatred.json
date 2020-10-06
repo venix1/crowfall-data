@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-wood-elf-wind-fire-storm-or-death",
+            "name": "Wood Elf, Wind, Fire, Storm, or Death"
         }
     ],
     "icon": "burning-hatred.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "health-orbs-on-damage",

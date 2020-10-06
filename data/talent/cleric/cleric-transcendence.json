@@ -2,28 +2,43 @@
     "id": "cleric-transcendence",
     "name": "Transcendence",
     "class": "cleric",
-    "description": "Transcendence improves Ranged Distance Bonus by 2 per point spent.",
+    "description": "This talent grants the Illuminate power.\\n\\nStat Adjustments:\\nControl Defense +15%",
     "icon": "transcendence.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "illuminate",
+            "name": "Illuminate"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-searing-light",
+            "skill": "cleric-hammer-of-the-gods",
             "point": 1
         },
         {
-            "skill": "cleric-critical-illumination",
+            "skill": "cleric-sun-burn",
             "point": 1
         },
         {
-            "skill": "cleric-divine-purpose",
+            "skill": "cleric-divine-presense",
+            "point": 1
+        },
+        {
+            "skill": "cleric-noble-purpose",
+            "point": 1
+        },
+        {
+            "skill": "cleric-strength-in-numbers",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-radical"
+        "cleric-promotion-class-radical",
+        "cleric-promotion-class-arbiter",
+        "cleric-promotion-class-crusader"
     ],
     "locksSkill": []
 }

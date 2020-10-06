@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-cast-net",
+            "skill": "myrmidon-promotion-class-titan",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-exploration-i"
+        "myrmidon-blood-thirst"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,29 @@
+{
+    "id": "phantom-armor",
+    "name": "Phantom Armor",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-light-protection-or-music",
+            "name": "Light, Protection or Music"
+        }
+    ],
+    "icon": "phantom-armor.png",
+    "stats": [
+        {
+            "name": "Holy Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "illusionist-phantom-armor",
+            "name": "Phantom Armor",
+            "description": "Passive: Chance to gain Armor Class when hit"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

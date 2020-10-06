@@ -2,27 +2,25 @@
     "id": "templar-paladin",
     "name": "Paladin",
     "class": "templar",
-    "description": "This talent grants the Paladin passive power.\\n\\nIncreases by 10%:\\nFire Damage Bonus\\nFire Damage Cap\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGreat Sword Mastery",
+    "description": "This talent grants the Paladin passive power.",
     "icon": "paladin.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 25,
+    "levelRequirement": 0,
     "grants": [
         {
             "id": "paladin",
             "name": "Paladin"
-        },
-        {
-            "id": "trait-great-sword-mastery",
-            "name": "Great Sword Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-saintly-protection",
-            "point": 2
+            "skill": "templar-promotion-class-paladin",
+            "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "templar-virtuous-light"
+    ],
     "locksSkill": []
 }

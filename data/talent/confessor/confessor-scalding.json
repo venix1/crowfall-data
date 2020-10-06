@@ -1,0 +1,21 @@
+{
+    "id": "confessor-scalding",
+    "name": "Scalding",
+    "class": "confessor",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "scalding.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-cleansing-fire",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-tools-of-justice"
+    ],
+    "locksSkill": []
+}

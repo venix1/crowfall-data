@@ -1,24 +1,34 @@
 {
     "id": "duelist-promotion-class-slayer",
-    "name": "Promotion Class - Slayer",
+    "name": "Promotion Class: Slayer",
     "class": "duelist",
-    "description": "Role: Ranged Damage\\n\\nA master of pistols who enhances their powers when dealing critical strikes.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Slayer promotion class and prevents access to the Vanguard Scout  and Dirge  promotion classes.",
+    "description": "Role: Ranged Damage\\n\\nA master of pistols who enhances their powers when dealing critical strikes.\\n\\nStat Adjustments:\\nAttack Power +150\\nCritical Strike +6%\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery\\n\\nEnhancements:\\nPepperbox Shot: Now deals 50% more damage.\\nKeen Guard: Now adds a Critical Strike buff that scales with pips.\\nFlintlock Shot: Now generates an additional pip when used and has a chance to have it's cooldown reset when using Basic Saber Attacks and Pistol Shots.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Slayer promotion class and prevents access to the Vanguard Scout  and Dirge  promotion classes.",
     "icon": "promotion-class-slayer.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-rapier-mastery",
+            "name": "Rapier Mastery"
+        },
+        {
+            "id": "trait-off-hand-pistol-mastery",
+            "name": "Off Hand Pistol Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-rapid-fire",
+            "skill": "duelist-keen-guard",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-dead-eye"
+        "duelist-slayer",
+        "duelist-dynamite"
     ],
     "locksSkill": [
-        "duelist-promotion-class-vanguard-scout",
-        "duelist-promotion-class-dirge"
+        "duelist-promotion-class-dirge",
+        "duelist-promotion-class-vanguard-scout"
     ]
 }

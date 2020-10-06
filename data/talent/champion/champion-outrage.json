@@ -2,28 +2,26 @@
     "id": "champion-outrage",
     "name": "Outrage",
     "class": "champion",
-    "description": "Outrage improves Rage Regen In Combat by 0.5 per point spent and Rage Loss Out of Combat by 0.025 per point spent",
+    "description": "Stat Adjustments:\\nRage Regeneration In Combat +1.5\\nRage Regeneration Out of Combat +0.075\\n\\n\"From gladiators to trusted security, every champion thrives on the same base instincts.\"\\n-Lessons to Champions",
     "icon": "outrage.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-brutal-warrior",
+            "skill": "champion-vicious-stomp",
             "point": 1
         },
         {
-            "skill": "champion-minor-iii",
+            "skill": "champion-throw-hurlbat",
             "point": 1
-        },
-        {
-            "skill": "champion-animosity",
-            "point": 2
         }
     ],
     "unlocksSkill": [
-        "champion-exploration-ii"
+        "champion-minor-iii",
+        "champion-blood-rage",
+        "champion-fast-counter-attack"
     ],
     "locksSkill": []
 }

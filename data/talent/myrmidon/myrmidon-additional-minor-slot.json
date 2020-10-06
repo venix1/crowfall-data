@@ -1,0 +1,30 @@
+{
+    "id": "myrmidon-additional-minor-slot",
+    "name": "Additional Minor Slot",
+    "class": "myrmidon",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-berserk-neck-slash",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-shredded",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-powerhouse",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-powerhouse",
+        "myrmidon-arcing-slash"
+    ],
+    "locksSkill": []
+}

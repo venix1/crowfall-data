@@ -1,0 +1,31 @@
+{
+    "id": "confessor-cleansing-fire",
+    "name": "Cleansing Fire",
+    "class": "confessor",
+    "description": "This talent grants the Cleansing Fire passive power.",
+    "icon": "cleansing-fire.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "cleansing-fire",
+            "name": "Cleansing Fire"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-zeal",
+            "point": 1
+        },
+        {
+            "skill": "confessor-flagellation",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-scalding",
+        "confessor-tools-of-justice"
+    ],
+    "locksSkill": []
+}

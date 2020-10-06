@@ -1,0 +1,34 @@
+{
+    "id": "waylayer",
+    "name": "Waylayer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-assassin-or-shadow",
+            "name": "Assassin or Shadow"
+        }
+    ],
+    "icon": "waylayer.png",
+    "stats": [
+        {
+            "name": "Stealth",
+            "value": "10"
+        },
+        {
+            "name": "Movement Speed: Stealth",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "assassin-stealth-cheap-shot",
+            "name": "Cheap Shot",
+            "description": ""
+        },
+        "power_discipline_blackmask_study_target"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

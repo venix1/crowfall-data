@@ -2,7 +2,7 @@
     "id": "knight-oath-of-destruction",
     "name": "Oath of Destruction",
     "class": "knight",
-    "description": "Oath of Destruction enhances Oath Of Will to increase your Critical Strike by 25% for 15 seconds or until you crit three times.",
+    "description": "Stat Adjustments:\\nSlashing Damage +10%\\nSlashing Damage Cap +10%\\nCritical Strike +6%\\n\\nDedicate yourself to the blade, and it will bring you glory.",
     "icon": "oath-of-destruction.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-fortified-shield-slam",
+            "skill": "knight-swordsmanship",
+            "point": 1
+        },
+        {
+            "skill": "knight-valorous-strike",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-combat-tactics"
+        "knight-domain-war",
+        "knight-domain-justice",
+        "knight-domain-battle"
     ],
     "locksSkill": []
 }

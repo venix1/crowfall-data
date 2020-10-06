@@ -1,0 +1,30 @@
+{
+    "id": "knight-additional-minor-slot",
+    "name": "Additional Minor Slot",
+    "class": "knight",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-shield-slam",
+            "point": 1
+        },
+        {
+            "skill": "knight-chivalry",
+            "point": 1
+        },
+        {
+            "skill": "knight-pell-training",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-pell-training",
+        "knight-pursuit"
+    ],
+    "locksSkill": []
+}

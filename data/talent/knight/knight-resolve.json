@@ -1,0 +1,31 @@
+{
+    "id": "knight-resolve",
+    "name": "Resolve",
+    "class": "knight",
+    "description": "This talent grants the Resolve passive power.",
+    "icon": "resolve.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "resolve",
+            "name": "Resolve"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-pell-training",
+            "point": 1
+        },
+        {
+            "skill": "knight-hardiness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-juggernaut",
+        "knight-into-the-fray"
+    ],
+    "locksSkill": []
+}

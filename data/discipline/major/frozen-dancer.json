@@ -1,0 +1,30 @@
+{
+    "id": "frozen-dancer",
+    "name": "Frozen Dancer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-frostweaver-or-frost",
+            "name": "Frostweaver or Frost"
+        }
+    ],
+    "icon": "frozen-dancer.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Ice",
+            "value": "3%"
+        },
+        {
+            "name": "Ice Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_frozendancer_frigid_ground",
+        "power_discipline_frozendancer_harsh_elements"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

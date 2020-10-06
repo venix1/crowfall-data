@@ -1,0 +1,32 @@
+{
+    "id": "ranger-sweep",
+    "name": "Sweep",
+    "class": "ranger",
+    "description": "This talent grants the Sweep power and the Off-Hand Weapon Slot.",
+    "icon": "sweep.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "sweep",
+            "name": "Sweep"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-military-training",
+            "point": 1
+        },
+        {
+            "skill": "ranger-gift-of-the-forest",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-tree-sparring",
+        "ranger-additional-minor-slot",
+        "ranger-quick-arming"
+    ],
+    "locksSkill": []
+}

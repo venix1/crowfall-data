@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-cloaked-in-moss",
-            "point": 3
+            "skill": "ranger-gift-of-the-forest",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-weathered-resilience"
+        "ranger-quick-arming",
+        "ranger-tree-sap-blood"
     ],
     "locksSkill": []
 }

@@ -2,7 +2,7 @@
     "id": "cleric-divine-purpose",
     "name": "Divine Purpose",
     "class": "cleric",
-    "description": "Divine Purpose enhances Divine Order to reduce its cost to 500 Soul Power.",
+    "description": "Stat Adjustments:\\nRanged Distance +6\\nFire Damage +10%\\nFire Damage Cap +10%\\nHoly Damage +10%\\nHoly Damage Cap +10%\\n\\nSometimes absolution requires an extreme hand.",
     "icon": "divine-purpose.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-symbol-of-fury",
+            "skill": "cleric-radical",
+            "point": 1
+        },
+        {
+            "skill": "cleric-word-of-wrath",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-transcendence"
+        "cleric-domain-fire",
+        "cleric-domain-light",
+        "cleric-domain-storm"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,34 @@
+{
+    "id": "commander",
+    "name": "Commander",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-templar-high-elf-protection-or-music",
+            "name": "Templar, High Elf, Protection or Music"
+        }
+    ],
+    "icon": "commander.png",
+    "stats": [
+        {
+            "name": "Barrier Bonus",
+            "value": "100"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "bowmaster-hunkerdown",
+            "name": "Hunker Down",
+            "description": "Field increases Damage; Resist All"
+        },
+        "power_discipline_commander_courage"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

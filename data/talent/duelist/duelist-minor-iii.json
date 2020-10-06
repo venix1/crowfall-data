@@ -1,8 +1,8 @@
 {
     "id": "duelist-minor-iii",
-    "name": "Minor Discipline Slot",
+    "name": "Additional Minor Discipline Slot",
     "class": "duelist",
-    "description": "Unlock a Minor Discipline slot.",
+    "description": "Unlock an additional Minor Discipline slot.",
     "icon": "duelist-minor-iii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,21 @@
     "grants": [],
     "unlockedFromSkill": [
         {
+            "skill": "duelist-flintlock-shot",
+            "point": 1
+        },
+        {
+            "skill": "duelist-wily",
+            "point": 1
+        },
+        {
             "skill": "duelist-energetic",
-            "point": 3
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-charming"
+        "duelist-energetic",
+        "duelist-inconceivable"
     ],
     "locksSkill": []
 }

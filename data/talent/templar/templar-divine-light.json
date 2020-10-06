@@ -15,12 +15,18 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-infallible-dictum",
-            "point": 3
+            "skill": "templar-indictment",
+            "point": 1
+        },
+        {
+            "skill": "templar-grace",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-righteous-indignation"
+        "templar-fiery-devotion",
+        "templar-additional-minor-slot",
+        "templar-shining-armor"
     ],
     "locksSkill": []
 }

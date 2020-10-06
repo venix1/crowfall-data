@@ -1,8 +1,8 @@
 {
     "id": "knight-promotion-class-sentinel",
-    "name": "Promotion Class - Sentinel",
+    "name": "Promotion Class: Sentinel",
     "class": "knight",
-    "description": "Role: Melee Control\\n\\nA master tactician who controls opponents in the battlefield and has dedicated their life to mastering the mace.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Sentinel promotion class and prevents access to the Swordsman and Secutor promotion classes.",
+    "description": "Role: Melee Control\\n\\nA master tactician who controls opponents in the battlefield and has dedicated their life to mastering the mace.\\n\\nStat Adjustments:\\nFinal Mitigations Cap +15%\\nMovement Crowd Control +18%\\n\\nTraits Granted:\\nAxe Mastery\\nLongsword Mastery\\nMace Mastery\\nShort Sword Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\nPlate Armor Proficiency\\n\\nEnhancements:\\nShield Slam: Now applies a Suppress.\\nPursuit: Now Stuns the next target hit by a shield attack within the next 8 seconds.\\nChain Attack: Now applies a Root.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Sentinel promotion class and prevents access to the Swordsman and Secutor promotion classes.",
     "icon": "promotion-class-sentinel.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -11,16 +11,41 @@
         {
             "id": "trait-plate-armor-proficiency",
             "name": "Plate Armor Proficiency"
+        },
+        {
+            "id": "trait-longsword-mastery",
+            "name": "Longsword Mastery"
+        },
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
+        },
+        {
+            "id": "trait-short-sword-mastery",
+            "name": "Short Sword Mastery"
+        },
+        {
+            "id": "trait-medium-shield-mastery",
+            "name": "Medium Shield Mastery"
+        },
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "knight-onslaught",
+            "skill": "knight-into-the-fray",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-grip-strength"
+        "knight-macemanship",
+        "knight-paralyzing-shout"
     ],
     "locksSkill": [
         "knight-promotion-class-swordsman",

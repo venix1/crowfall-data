@@ -6,16 +6,16 @@
     "icon": "ranger-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-sure-aim",
-            "point": 3
+            "skill": "ranger-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-armor-piercing"
+        "ranger-exploration-ii"
     ],
     "locksSkill": []
 }

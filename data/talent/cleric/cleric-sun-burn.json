@@ -1,0 +1,26 @@
+{
+    "id": "cleric-sun-burn",
+    "name": "Sun Burn",
+    "class": "cleric",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "sun-burn.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-malediction",
+            "point": 1
+        },
+        {
+            "skill": "cleric-thwart-the-wicked",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-hammer-of-the-gods",
+        "cleric-transcendence"
+    ],
+    "locksSkill": []
+}

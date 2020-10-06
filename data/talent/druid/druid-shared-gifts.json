@@ -1,0 +1,21 @@
+{
+    "id": "druid-shared-gifts",
+    "name": "Shared Gifts",
+    "class": "druid",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "shared-gifts.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-promotion-class-earthkeeper",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-loved-by-the-sun"
+    ],
+    "locksSkill": []
+}

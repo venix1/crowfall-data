@@ -1,0 +1,38 @@
+{
+    "id": "leecher",
+    "name": "Leecher",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-druid",
+            "name": "Druid"
+        }
+    ],
+    "icon": "leecher.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "druid-leaching-seed",
+            "name": "Leeching Seed",
+            "description": ""
+        },
+        {
+            "id": "standardbearer-ooc-regen",
+            "name": "Bearers Insignia",
+            "description": "Passive: Increase Out of Combat Regeneration"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

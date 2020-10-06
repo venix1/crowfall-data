@@ -1,0 +1,31 @@
+{
+    "id": "assassin-shadenfreude",
+    "name": "Shadenfreude",
+    "class": "assassin",
+    "description": "This talent grants the Schadenfreude passive power.",
+    "icon": "shadenfreude.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "schadenfreude",
+            "name": "Schadenfreude"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-vigor",
+            "point": 1
+        },
+        {
+            "skill": "assassin-quietude",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-yagas-gift",
+        "assassin-cloaked-in-shadow"
+    ],
+    "locksSkill": []
+}

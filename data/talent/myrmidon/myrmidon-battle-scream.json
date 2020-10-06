@@ -1,0 +1,22 @@
+{
+    "id": "myrmidon-battle-scream",
+    "name": "Battle Scream",
+    "class": "myrmidon",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "battle-scream.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-brawny",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-powerhouse",
+        "myrmidon-tough-hide"
+    ],
+    "locksSkill": []
+}

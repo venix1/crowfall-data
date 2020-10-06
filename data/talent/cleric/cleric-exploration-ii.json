@@ -2,28 +2,20 @@
     "id": "cleric-exploration-ii",
     "name": "Exploration Discipline Slot",
     "class": "cleric",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "cleric-exploration-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 20,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-flog",
-            "point": 2
-        },
-        {
-            "skill": "cleric-sanctuary",
-            "point": 2
-        },
-        {
-            "skill": "cleric-reproval",
-            "point": 2
+            "skill": "cleric-minor-ii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-circle-of-life"
+        "cleric-major-ii"
     ],
     "locksSkill": []
 }

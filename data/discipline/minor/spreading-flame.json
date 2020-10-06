@@ -1,0 +1,25 @@
+{
+    "id": "spreading-flame",
+    "name": "Spreading Flame",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-confessor",
+            "name": "Confessor"
+        }
+    ],
+    "icon": "spreading-flame.png",
+    "stats": [
+        {
+            "name": "Fire Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_spreading_flame"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

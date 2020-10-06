@@ -2,22 +2,30 @@
     "id": "duelist-energetic",
     "name": "Energetic",
     "class": "duelist",
-    "description": "Energetic improves Maximum Stamina by 3 per point spent and Basic Attack Damage by 1.5% per point spent.",
+    "description": "Stat Adjustments:\\nStamina +15\\nControl Defense +21%\\n\\n\"Through patience, you shall always prevail.\"\\n-Anonymous",
     "icon": "energetic.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-pepperbox-shot",
+            "skill": "duelist-flintlock-shot",
+            "point": 1
+        },
+        {
+            "skill": "duelist-cheap-shots",
+            "point": 1
+        },
+        {
+            "skill": "duelist-minor-iii",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-inconceivable",
         "duelist-minor-iii",
-        "duelist-spunky"
+        "duelist-inconceivable",
+        "duelist-feral-instincts"
     ],
     "locksSkill": []
 }

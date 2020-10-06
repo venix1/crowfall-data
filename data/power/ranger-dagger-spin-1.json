@@ -1,7 +1,7 @@
 {
     "id": "ranger-dagger-spin-1",
     "name": "Dagger Spin",
-    "description": "spins you in place and deal 48 + 48% Weapon Damage around you.",
+    "description": "spins you in place and deal 48 + 48% Weapon Damage around you .",
     "shortDescription": "",
     "icon": "ranger-dagger-spin-1.png",
     "stats": {

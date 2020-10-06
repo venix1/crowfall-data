@@ -1,0 +1,26 @@
+{
+    "id": "assassin-efficient-poisons",
+    "name": "Efficient Poisons",
+    "class": "assassin",
+    "description": "Apply your poisons more efficiently, with a chance on not using a durability of your equipped poison when you apply one.",
+    "icon": "efficient-poisons.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-deceptive-strength",
+            "point": 1
+        },
+        {
+            "skill": "assassin-opportunist",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-poison-mastery",
+        "assassin-cloaked-in-shadow"
+    ],
+    "locksSkill": []
+}

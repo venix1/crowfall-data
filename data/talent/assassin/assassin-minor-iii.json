@@ -1,8 +1,8 @@
 {
     "id": "assassin-minor-iii",
-    "name": "Minor Discipline Slot",
+    "name": "Additional Minor Discipline Slot",
     "class": "assassin",
-    "description": "Unlock a Minor Discipline slot.",
+    "description": "Unlock an additional Minor Discipline slot.",
     "icon": "assassin-minor-iii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,21 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-deceptive-strength",
-            "point": 3
+            "skill": "assassin-kidney-shot",
+            "point": 1
+        },
+        {
+            "skill": "assassin-opportunist",
+            "point": 1
+        },
+        {
+            "skill": "assassin-vigor",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-aggression"
+        "assassin-vigor",
+        "assassin-disengage"
     ],
     "locksSkill": []
 }

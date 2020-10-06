@@ -1,24 +1,50 @@
 {
     "id": "knight-promotion-class-swordsman",
-    "name": "Promotion Class - Swordsman",
+    "name": "Promotion Class: Swordsman",
     "class": "knight",
-    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this master of blades has perfected the art of swordplay.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Swordsman promotion class and prevents access to the Secutor and Sentinel promotion classes.",
+    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this master of blades has perfected the art of swordplay.\\n\\nStat Adjustments:\\nAttack Power +225\\nDamage +3%\\n\\nTraits Granted:\\nAxe Mastery\\nLongsword Mastery\\nMace Mastery\\nShort Sword Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nShield Slam: Now you are considered Blocking when charging.\\nPursuit: Now has a reduced cooldown.\\nChain Attack: Now also applies a Bleed.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Swordsman promotion class and prevents access to the Secutor and Sentinel promotion classes.",
     "icon": "promotion-class-swordsman.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-longsword-mastery",
+            "name": "Longsword Mastery"
+        },
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
+        },
+        {
+            "id": "trait-short-sword-mastery",
+            "name": "Short Sword Mastery"
+        },
+        {
+            "id": "trait-medium-shield-mastery",
+            "name": "Medium Shield Mastery"
+        },
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "knight-onslaught",
+            "skill": "knight-into-the-fray",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-commanding-vow"
+        "knight-swordsmanship",
+        "knight-valorous-strike"
     ],
     "locksSkill": [
-        "knight-promotion-class-secutor",
-        "knight-promotion-class-sentinel"
+        "knight-promotion-class-sentinel",
+        "knight-promotion-class-secutor"
     ]
 }

@@ -1,0 +1,31 @@
+{
+    "id": "cleric-noble-purpose",
+    "name": "Noble Purpose",
+    "class": "cleric",
+    "description": "This talent grants the Noble Purpose passive power.",
+    "icon": "noble-purpose.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "noble-purpose",
+            "name": "Noble Purpose"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-sanctity",
+            "point": 1
+        },
+        {
+            "skill": "cleric-empathy",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-strength-in-numbers",
+        "cleric-transcendence"
+    ],
+    "locksSkill": []
+}

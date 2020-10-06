@@ -1,7 +1,7 @@
 {
     "id": "underdog-retalite-low-hp-knockdown",
     "name": "Death Throws",
-    "description": "knocks down nearby enemies when you use a Retaliate ability if your Health is under 50%.",
+    "description": "knocks down nearby enemies when you use a Retaliate ability.",
     "shortDescription": "Passive: Area Knockdown on Retaliation at Low Health",
     "icon": "underdog-retalite-low-hp-knockdown.png",
     "stats": {

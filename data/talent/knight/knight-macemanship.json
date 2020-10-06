@@ -1,0 +1,26 @@
+{
+    "id": "knight-macemanship",
+    "name": "Macemanship",
+    "class": "knight",
+    "description": "This talent grants the Macemanship passive power.",
+    "icon": "macemanship.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "macemanship",
+            "name": "Macemanship"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-promotion-class-sentinel",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-commanding-vow"
+    ],
+    "locksSkill": []
+}

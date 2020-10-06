@@ -1,0 +1,21 @@
+{
+    "id": "champion-passive-3",
+    "name": "Dominator",
+    "description": "awards a point of Dominance whenever you score a Critical Strike with a Basic attack.",
+    "shortDescription": "Gain Dominance on Basic Attack Crit",
+    "icon": "champion-passive-3.png",
+    "stats": {
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

@@ -4,41 +4,34 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-dagger-proficiency",
-            "name": "Dagger Proficiency"
+            "id": "trait-shadow-or-death",
+            "name": "Shadow or Death"
         }
     ],
     "icon": "black-mask.png",
     "stats": [
         {
             "name": "Stealth",
-            "value": "5"
+            "value": "10"
         },
         {
-            "name": "Piercing Damage Bonus",
-            "value": "3%"
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
         }
     ],
     "grantsPowers": [
-        {
-            "id": "daggermaster-combo-1",
-            "name": "Cripple",
-            "description": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds."
-        },
-        {
-            "id": "blackmask-shadow-mantle",
-            "name": "Shadow Mantle",
-            "description": "Attack: Reduce Healing Received"
-        },
         {
             "id": "blackmask-call-darkness",
             "name": "Call Darkness",
             "description": "All Attacks Count as From Behind"
         },
-        {
-            "id": "blackmask-shadows-linger",
-            "name": "Shadows Linger",
-            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
+        "power_discipline_blackmask_study_target"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "Black Masks are masters of disguise. Despite the rumors, they are not a group of heartless and evil killers, but rather cunning and sly assassins. They are employed by all that request their blade, even those who seek revenge from previous errands.",
+    "lore": "We are the Hands of Fate. Our blades carve the channels which shape the river of Time. We are the true voice of Justice."
+}ritical Damage Amount after losing Stealth"
         }
     ],
     "grantsSlot": [],

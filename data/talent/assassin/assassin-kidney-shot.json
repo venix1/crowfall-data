@@ -13,10 +13,20 @@
             "name": "Kidney Shot"
         }
     ],
-    "unlockedFromSkill": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-brutal-fury",
+            "point": 1
+        },
+        {
+            "skill": "assassin-shadow-heart",
+            "point": 1
+        }
+    ],
     "unlocksSkill": [
-        "assassin-brutal-fury",
-        "assassin-shadow-heart"
+        "assassin-opportunist",
+        "assassin-minor-iii",
+        "assassin-vigor"
     ],
     "locksSkill": []
 }

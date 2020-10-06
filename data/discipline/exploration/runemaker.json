@@ -1,0 +1,38 @@
+{
+    "id": "runemaker",
+    "name": "Runemaker",
+    "type": "exploration",
+    "trait": [
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        }
+    ],
+    "icon": "runemaker.png",
+    "stats": [
+        {
+            "name": "Runemaking",
+            "value": "10"
+        },
+        {
+            "name": "Runemaking Experimentation",
+            "value": "35"
+        },
+        {
+            "name": "Runemaking Experimentation Points",
+            "value": "7"
+        }
+    ],
+    "grantsPowers": [],
+    "grantsSlot": [
+        "Horseshoes"
+    ],
+    "grantsTrait": [
+        {
+            "id": "trait-runemaker",
+            "name": "Runemaker"
+        }
+    ],
+    "description": "Recipes Granted:\\nAdvanced Harvesting Tools\\nAll Runestones\\nAll Sigils",
+    "lore": "A Practical Guide to Divination rates runemaking an 'X out of X'."
+}

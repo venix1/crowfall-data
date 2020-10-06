@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-confessor-shadow-nature-storm-or-protection",
+            "name": "Confessor, Shadow, Nature, Storm or Protection"
         }
     ],
     "icon": "weapon-finesse.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "weapon-finesse-2",

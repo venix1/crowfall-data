@@ -1,0 +1,32 @@
+{
+    "id": "myrmidon-berserk-neck-slash",
+    "name": "Berserk/Neck Slash",
+    "class": "myrmidon",
+    "description": "This talent grants the Berserk and Neck Slash powers.",
+    "icon": "berserk-neck-slash.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "berserk",
+            "name": "Berserk"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-solid-muscle",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-brawny",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-shredded",
+        "myrmidon-additional-minor-slot",
+        "myrmidon-powerhouse"
+    ],
+    "locksSkill": []
+}

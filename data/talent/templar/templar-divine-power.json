@@ -1,0 +1,26 @@
+{
+    "id": "templar-divine-power",
+    "name": "Divine Power",
+    "class": "templar",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "divine-power.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-shining-armor",
+            "point": 1
+        },
+        {
+            "skill": "templar-humble-duty",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-righteous-defense",
+        "templar-magnificent-purpose"
+    ],
+    "locksSkill": []
+}

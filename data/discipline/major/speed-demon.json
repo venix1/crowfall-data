@@ -1,0 +1,30 @@
+{
+    "id": "speed-demon",
+    "name": "Speed Demon",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-myrmidon-centaur-or-wind",
+            "name": "Myrmidon, Centaur or Wind"
+        }
+    ],
+    "icon": "speed-demon.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Elemental Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_speeddemon_fleet_of_foot",
+        "power_discipline_speeddemon_marked_for_death"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,28 +2,26 @@
     "id": "confessor-sanctified",
     "name": "Sanctified",
     "class": "confessor",
-    "description": "Sanctified improves Attack Power by 75 per point spent.",
+    "description": "Stat Adjustments:\\nFire Damage +10%\\nFire Damage Cap +10%\\nFinal Mitigations Cap +600\\n\\nUsing their faith as a shield, the Sanctifier can watch closely as their enemies' transgressions are burned away.",
     "icon": "sanctified.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-perfect-storm",
+            "skill": "confessor-blink-of-faith",
             "point": 1
         },
         {
-            "skill": "confessor-flames-of-arkon",
-            "point": 1
-        },
-        {
-            "skill": "confessor-frenzied-righteousness",
+            "skill": "confessor-spitting-distance",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-fanatic"
+        "confessor-domain-music",
+        "confessor-domain-fire",
+        "confessor-domain-protection"
     ],
     "locksSkill": []
 }

@@ -1,16 +1,16 @@
 {
     "id": "confessor-promotion-class-sanctifier",
-    "name": "Promotion Class - Sanctifier",
+    "name": "Promotion Class: Sanctifier",
     "class": "confessor",
-    "description": "Role: Melee Defense\\n\\nTheir only desire is to witness the despair in nonbelievers’ eyes, so this follower of Arkon has cast aside the benefits of range to become incredibly defensive.\\n\\nIncreases by 25%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Sanctifier promotion class and prevents access to the Inquisitor and Fanatic promotion classes.",
+    "description": "Role: Melee Defense\\n\\nTheir only desire is to witness the despair in nonbelievers’ eyes, so this follower of Arkon has cast aside the benefits of range to become incredibly defensive.\\n\\nStat Adjustments:\\nFinal Mitigations Cap +25%\\n\\nTraits Granted:\\nMail Armor Proficiency\\nPlate Armor Proficiency\\nBook Mastery\\n\\nEnhancements:\\nFervor: Now increases Slashing Resist, Crushing Resist, Piercing Resist, Personal Damage Modifier and no longer reduces mitigations while channeling.\\nFire Tornadoes: Now tornadoes apply a Knockdown. Fire Tornadoes and Confessor_Hellfire_3_name no longer consumes Hellfire Aura.\\nConfessor_Hellfire_3_name: Now has increased damage.\\n\\nConfessor powers have their range reduced to 8m and their damage increased by 25%. Fire Tornadoes and Hellfire Blast have their range reduced to 20m\\n\\n\\nWARNING: Purchasing this talent promotes you to the Sanctifier promotion class and prevents access to the Inquisitor and Fanatic promotion classes.",
     "icon": "promotion-class-sanctifier.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "trait-mail-armor-proficiency",
-            "name": "Mail Armor Proficiency"
+            "id": "trait-book-mastery",
+            "name": "Book Mastery"
         },
         {
             "id": "trait-plate-armor-proficiency",
@@ -19,12 +19,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-hellfire",
+            "skill": "confessor-tools-of-justice",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-melt-shackles"
+        "confessor-blink-of-faith",
+        "confessor-spitting-distance"
     ],
     "locksSkill": [
         "confessor-promotion-class-fanatic",

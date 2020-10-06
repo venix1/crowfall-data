@@ -1,0 +1,32 @@
+{
+    "id": "realitywarper-alter-reality",
+    "name": "Alter Reality",
+    "description": "places a Heal Absorption shield on the target which absorbs incoming heals. In order to remove the shield the target must be healed for 500. \\n\\nIf the shield is not healed off before 15 seconds, it will explode dealing 107 damage to those nearby.",
+    "shortDescription": "Attack: Absorb Enemy Healing",
+    "icon": "realitywarper-alter-reality.png",
+    "stats": {
+        "weapon_damage_value": "107",
+        "max_damage_1": "107",
+        "min_damage_1": "107",
+        "buff_amount_1": "500",
+        "buff_type_1": "Heal Absorption",
+        "duration": "15 seconds",
+        "cost_type": "Resource",
+        "cost": "12",
+        "range": "15",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": true,
+    "isBuff": true,
+    "tags": [
+        "anyone_but_druid",
+        "druid_nuking"
+    ]
+}

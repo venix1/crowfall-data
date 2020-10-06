@@ -1,0 +1,27 @@
+{
+    "id": "macemaster-will-of-the-stoneborn",
+    "name": "Will Of The Stoneborn",
+    "description": "fortifies your defense increasing your Crushing Resistance and improving weapon efficiency.",
+    "shortDescription": "Increase Crushing Resistance; Weapon Efficiency",
+    "icon": "macemaster-will-of-the-stoneborn.png",
+    "stats": {
+        "weapon_damage_value": "133",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "cost_type": "Resource",
+        "cost": "12",
+        "cooldown": "45",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

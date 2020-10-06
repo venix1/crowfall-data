@@ -2,25 +2,20 @@
     "id": "duelist-exploration-i",
     "name": "Exploration Discipline Slot",
     "class": "duelist",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "duelist-exploration-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 5,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-ambush",
-            "point": 1
-        },
-        {
-            "skill": "duelist-tunnel",
+            "skill": "duelist-minor-i",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-minor-i",
-        "duelist-pepperbox-shot"
+        "duelist-major-i"
     ],
     "locksSkill": []
 }

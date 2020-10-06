@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-ice-weave",
+            "skill": "frostweaver-biting-cold",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-exploration-i"
+        "frostweaver-crisp-casting",
+        "frostweaver-stinging-strikes"
     ],
     "locksSkill": []
 }

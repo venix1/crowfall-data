@@ -1,0 +1,87 @@
+{
+    "id": "ranger-domain-frost",
+    "name": "Domain: Frost",
+    "class": "ranger",
+    "description": "Traits Granted:\\nDomain: Frost\\n\\nYou always know where you stand with ice: it is unyielding, it is rigid, it will punish you mercilessly if you forget your place.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Frost domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-frost.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-frost-or-death",
+            "name": "Frost or Death"
+        },
+        {
+            "id": "trait-fire-frost-or-music",
+            "name": "Fire, Frost or Music"
+        },
+        {
+            "id": "trait-frost-or-protection",
+            "name": "Frost or Protection"
+        },
+        {
+            "id": "trait-frost",
+            "name": "Frost"
+        },
+        {
+            "id": "trait-frostweaver-or-frost",
+            "name": "Frostweaver or Frost"
+        },
+        {
+            "id": "trait-fire-or-frost",
+            "name": "Fire or Frost"
+        },
+        {
+            "id": "trait-wind-or-frost",
+            "name": "Wind or Frost"
+        },
+        {
+            "id": "trait-frost-or-death",
+            "name": "Frost or Death"
+        },
+        {
+            "id": "trait-frost",
+            "name": "Frost"
+        },
+        {
+            "id": "trait-wind-fire-frost-storm-justice-or-battle",
+            "name": "Wind, Fire, Frost, Storm, Justice or Battle"
+        },
+        {
+            "id": "trait-knight-frostweaver-frost-or-protection",
+            "name": "Knight, Frostweaver, Frost or Protection"
+        },
+        {
+            "id": "trait-shadow-wind-frost-justice-or-battle",
+            "name": "Shadow, Wind, Frost, Justice or Battle"
+        },
+        {
+            "id": "trait-light-or-frost",
+            "name": "Light or Frost"
+        },
+        {
+            "id": "trait-plague-frost-or-protection",
+            "name": "Plague, Frost or Protection"
+        },
+        {
+            "id": "trait-assassin-half-giant-frost-war-or-battle",
+            "name": "Assassin, Half Giant, Frost, War or Battle"
+        },
+        {
+            "id": "trait-myrmidon-stoneborn-plague-wind-fire-frost-or-death",
+            "name": "Myrmidon, Stoneborn, Plague, Wind, Fire, Frost or Death"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-a-toll-is-a-toll",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "ranger-domain-dark",
+        "ranger-domain-nature"
+    ]
+}

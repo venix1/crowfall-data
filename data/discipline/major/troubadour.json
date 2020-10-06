@@ -4,45 +4,41 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-music",
+            "name": "Music"
         }
     ],
     "icon": "troubadour.png",
     "stats": [
         {
-            "name": "Organic Resistance",
-            "value": "300"
+            "name": "Critical Strike",
+            "value": "2%"
         },
         {
-            "name": "Critical Strike",
-            "value": "3%"
+            "name": "Song Duration",
+            "value": "6"
         }
     ],
     "grantsPowers": [
-        {
-            "id": "troubadour-chains",
-            "name": "Consonant Chains",
-            "description": "Song: Damage; Snare Enemies"
-        },
         {
             "id": "troubadour-requiem",
             "name": "Requiem",
             "description": "Song: Increase Enemy Damage Taken"
         },
         {
-            "id": "troubadour-dirge",
-            "name": "Dirge Of Dissonance",
-            "description": "Song: Damage Enemies"
+            "id": "troubadour-chains",
+            "name": "Consonant Chains",
+            "description": "Song: Damage; Snare Enemies"
         },
         {
-            "id": "troubadour-lament",
-            "name": "Lament Of Sadness",
-            "description": "Song: Reduce Enemy Attack, Support Power"
+            "id": "bard-twisting",
+            "name": "Song Twisting",
+            "description": "Passive: Twisting Songs Increases Song Potency"
         }
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "A lyrical poet with a heavy output of vocal assault, the troubadour is one fierce vocalist. The importance of song and rhymes are what set the Troubadour apart from any other lyrical counterpart and can make a great addition to any party.",
     "lore": "The first Troubadour is said to have been a giant, boisterous fellow; o'er nine feet tall, clad in purple armor, lyre in hand, heart as black as midnight pitch."
+}   "lore": "The first Troubadour is said to have been a giant, boisterous fellow; o'er nine feet tall, clad in purple armor, lyre in hand, heart as black as midnight pitch."
 }

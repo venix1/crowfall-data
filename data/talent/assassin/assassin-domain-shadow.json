@@ -1,0 +1,83 @@
+{
+    "id": "assassin-domain-shadow",
+    "name": "Domain: Shadow",
+    "class": "assassin",
+    "description": "Traits Granted:\\nDomain: Shadow\\n\\nCreeping shadows, like fingers reaching across alleys and forest paths, hide the most nefarious of deeds in a veil of dark security.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Shadow domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-shadow.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-guinecean-or-shadow",
+            "name": "Guinecean or Shadow"
+        },
+        {
+            "id": "trait-shadow-or-death",
+            "name": "Shadow or Death"
+        },
+        {
+            "id": "trait-shadow",
+            "name": "Shadow"
+        },
+        {
+            "id": "trait-shadow-or-music",
+            "name": "Shadow or Music"
+        },
+        {
+            "id": "trait-shadow-or-storm",
+            "name": "Shadow or Storm"
+        },
+        {
+            "id": "trait-half-giant-shadow-justice-or-battle",
+            "name": "Half Giant, Shadow, Justice or Battle"
+        },
+        {
+            "id": "trait-assassin-or-shadow",
+            "name": "Assassin or Shadow"
+        },
+        {
+            "id": "trait-shadow-wind-or-war",
+            "name": "Shadow, Wind or War"
+        },
+        {
+            "id": "trait-guineceaan-shadow-fire-or-storm",
+            "name": "Guineceaan, Shadow, Fire or Storm"
+        },
+        {
+            "id": "trait-nethari-shadow-war-or-battle",
+            "name": "Nethari, Shadow, War or Battle"
+        },
+        {
+            "id": "trait-shadow-wind-frost-justice-or-battle",
+            "name": "Shadow, Wind, Frost, Justice or Battle"
+        },
+        {
+            "id": "trait-shadow-nature-or-justice",
+            "name": "Shadow, Nature or Justice"
+        },
+        {
+            "id": "trait-assassin-duelist-stealth-or-dark",
+            "name": "Assassin, Duelist, Stealth or Dark"
+        },
+        {
+            "id": "trait-shadow",
+            "name": "Shadow"
+        },
+        {
+            "id": "trait-confessor-shadow-nature-storm-or-protection",
+            "name": "Confessor, Shadow, Nature, Storm or Protection"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-ruthlessness",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "assassin-domain-wind",
+        "assassin-domain-plague"
+    ]
+}}

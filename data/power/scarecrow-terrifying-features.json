@@ -1,0 +1,25 @@
+{
+    "id": "scarecrow-terrifying-features",
+    "name": "Terrifying Features",
+    "description": "protects you with a powerful enchantment periodically stunning attackers.",
+    "shortDescription": "Passive: Attackers Periodically Stunned",
+    "icon": "scarecrow-terrifying-features.png",
+    "stats": {
+        "weapon_damage_type": "Piercing",
+        "weapon_damage_value": "133",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

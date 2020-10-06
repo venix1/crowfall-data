@@ -1,0 +1,26 @@
+{
+    "id": "knight-swordsmanship",
+    "name": "Swordsmanship",
+    "class": "knight",
+    "description": "This talent grants the Swordsmanship passive power.",
+    "icon": "swordsmanship.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "swordsmanship",
+            "name": "Swordsmanship"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-promotion-class-swordsman",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-oath-of-destruction"
+    ],
+    "locksSkill": []
+}

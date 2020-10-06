@@ -2,22 +2,21 @@
     "id": "knight-vitality",
     "name": "Vitality",
     "class": "knight",
-    "description": "Vitality improves Maximum Energy by 45 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +450\\n\\n\"In this, the age of the end of the universe, chivalry is more crucial than ever.\"\\n-Lady Brandis Hasten",
     "icon": "vitality.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-hoplitodromos",
+            "skill": "knight-board-and-board",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-break-the-law",
-        "knight-minor-ii",
-        "knight-chain-attack"
+        "knight-shield-slam",
+        "knight-noble-blood"
     ],
     "locksSkill": []
 }

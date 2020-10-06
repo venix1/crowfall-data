@@ -1,0 +1,30 @@
+{
+    "id": "tundra-mage",
+    "name": "Tundra Mage",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-frost",
+            "name": "Frost"
+        }
+    ],
+    "icon": "tundra-mage.png",
+    "stats": [
+        {
+            "name": "Ice Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Armor Penetration: Ice",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_tundramage_brittle_armor",
+        "power_discipline_tundramage_freezing_storm"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,28 +2,30 @@
     "id": "knight-pell-training",
     "name": "Pell Training",
     "class": "knight",
-    "description": "Pell Training improves Critical Strike by 2% per point spent.",
+    "description": "Stat Adjustments:\\nEnergy +225\\nStamina +15\\n\\n\"Tarry not, and whatever you do, do not hesitate your blade.\"\\n-Anonymous",
     "icon": "pell-training.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-tactical-mastery",
+            "skill": "knight-shield-slam",
             "point": 1
         },
         {
-            "skill": "knight-minor-iii",
+            "skill": "knight-noble-blood",
             "point": 1
         },
         {
-            "skill": "knight-echoing-assault",
+            "skill": "knight-additional-minor-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-exploration-ii"
+        "knight-additional-minor-slot",
+        "knight-pursuit",
+        "knight-resolve"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,29 @@
+{
+    "id": "shadows-linger",
+    "name": "Shadows Linger",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-shadow",
+            "name": "Shadow"
+        }
+    ],
+    "icon": "shadows-linger.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Stealth",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "blackmask-shadows-linger",
+            "name": "Shadows Linger",
+            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

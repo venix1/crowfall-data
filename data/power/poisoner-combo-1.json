@@ -1,7 +1,7 @@
 {
     "id": "poisoner-combo-1",
     "name": "Poisoned Blade",
-    "description": "attacks for 116 + 116% Weapon Damage and cause the enemy to become Poisoned taking 8 + 1% Weapon Damage per tick for 10 seconds.",
+    "description": "attacks for 116 + 116% Weapon Damage.",
     "shortDescription": "Attack: Adds the poison debuff to an enemy.",
     "icon": "poisoner-combo-1.png",
     "stats": {

@@ -6,16 +6,16 @@
     "icon": "knight-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-vitality",
-            "point": 3
+            "skill": "knight-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-into-the-fray"
+        "knight-exploration-ii"
     ],
     "locksSkill": []
 }

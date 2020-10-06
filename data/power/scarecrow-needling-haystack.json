@@ -1,0 +1,30 @@
+{
+    "id": "scarecrow-needling-haystack",
+    "name": "Needlin' Haystack",
+    "description": "covers your body with sharp needle-like straws increasing your Piercing Resistance by 25. \\n\\n Attacks against you cause Severe Bleeding to the attacker.",
+    "shortDescription": "Reflect Piercing Damage; Bleed",
+    "icon": "scarecrow-needling-haystack.png",
+    "stats": {
+        "weapon_damage_type": "Piercing",
+        "weapon_damage_value": "133",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "buff_amount_1": "25",
+        "buff_type_1": "Piercing Resistance",
+        "cost_type": "Resource",
+        "cost": "16",
+        "cooldown": "24",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "anyone"
+    ]
+}

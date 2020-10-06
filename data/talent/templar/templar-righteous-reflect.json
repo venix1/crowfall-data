@@ -1,0 +1,26 @@
+{
+    "id": "templar-righteous-reflect",
+    "name": "Righteous Reflect",
+    "class": "templar",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "righteous-reflect.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-executioner",
+            "point": 1
+        },
+        {
+            "skill": "templar-fiery-devotion",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-retribution",
+        "templar-magnificent-purpose"
+    ],
+    "locksSkill": []
+}

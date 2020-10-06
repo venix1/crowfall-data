@@ -1,0 +1,34 @@
+{
+    "id": "natures-guardian",
+    "name": "Nature's Guardian",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-druid",
+            "name": "Druid"
+        }
+    ],
+    "icon": "natures-guardian.png",
+    "stats": [
+        {
+            "name": "Healing Bonus",
+            "value": "3%"
+        },
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "druid-will-wisps",
+            "name": "Will O' Wisps",
+            "description": ""
+        },
+        "power_discipline_forestcreature_slow_stake"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

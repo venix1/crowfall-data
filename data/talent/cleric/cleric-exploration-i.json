@@ -2,25 +2,20 @@
     "id": "cleric-exploration-i",
     "name": "Exploration Discipline Slot",
     "class": "cleric",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "cleric-exploration-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 5,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-tend-wounds",
-            "point": 1
-        },
-        {
-            "skill": "cleric-flash-of-light",
+            "skill": "cleric-minor-i",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-minor-i",
-        "cleric-shield-block"
+        "cleric-major-i"
     ],
     "locksSkill": []
 }

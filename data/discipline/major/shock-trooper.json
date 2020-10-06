@@ -1,0 +1,38 @@
+{
+    "id": "shock-trooper",
+    "name": "Shock Trooper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-justice",
+            "name": "Justice"
+        }
+    ],
+    "icon": "shock-trooper.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Electricity Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "standardbearer-electric-buff",
+            "name": "Banner Of Storms",
+            "description": "Group Electricity Damage Override; Electricity Resistance"
+        },
+        {
+            "id": "runescarred-gladiator-runecarve-flesh",
+            "name": "Reprisal",
+            "description": "Reduce Damage; Reflect Damage Taken"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

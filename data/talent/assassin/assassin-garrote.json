@@ -1,0 +1,22 @@
+{
+    "id": "assassin-garrote",
+    "name": "Garrote",
+    "class": "assassin",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "garrote.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-shadow-heart",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-vigor",
+        "assassin-quietude"
+    ],
+    "locksSkill": []
+}

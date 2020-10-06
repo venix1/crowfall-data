@@ -1,7 +1,7 @@
 {
     "id": "confessor-talent-spitting-distance",
     "name": "Spitting Distance",
-    "description": "increases the base damage of all Confessor powers by 20%, however the maximum range of most powers is reduced to 7m. The powers Meteor Purge and Hellfire Tornadoes have their maximum lifetime reduced by 75%.",
+    "description": "increases the base damage of all Condemnation by 15%, and heals while channeling the power. Adds a Barrier to you when you use Fire Bolt.",
     "shortDescription": "",
     "icon": "confessor-talent-spitting-distance.png",
     "stats": {

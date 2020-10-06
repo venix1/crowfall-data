@@ -1,0 +1,22 @@
+{
+    "id": "tomemaster-concentration",
+    "name": "Concentration",
+    "description": "restores Mana and Zealotry every second until you move after standing still for 3 seconds. \\n\\nEach time you gain Zealotry and are already at maximum Zealotry, gain 5% damage bonus for 15 seconds.",
+    "shortDescription": "Passive: Restore Mana, Zealotry when Immobile",
+    "icon": "tomemaster-concentration.png",
+    "stats": {
+        "buff_type_2": "Zealotry",
+        "buff_type_1": "Mana",
+        "duration": "3 seconds",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

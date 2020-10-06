@@ -2,28 +2,26 @@
     "id": "confessor-persecution",
     "name": "Persecution",
     "class": "confessor",
-    "description": "Persecution improves Basic Attack Damage by 2% per point spent.",
+    "description": "Stat Adjustments:\\nFire Damage +10%\\nFire Damage Cap +10%\\nCritical Strike +6%\\n\\nFanaticism holds a power all its own—one that can cleanse even the deepest sins.",
     "icon": "persecution.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-feed-the-flames",
-            "point": 2
-        },
-        {
-            "skill": "confessor-minor-iii",
+            "skill": "confessor-burning-hot",
             "point": 1
         },
         {
-            "skill": "confessor-moment-of-glory",
+            "skill": "confessor-fire-wave",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-exploration-ii"
+        "confessor-domain-justice",
+        "confessor-domain-fire",
+        "confessor-domain-storm"
     ],
     "locksSkill": []
 }

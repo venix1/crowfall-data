@@ -1,0 +1,21 @@
+{
+    "id": "duelist-lunge",
+    "name": "Lunge",
+    "class": "duelist",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "lunge.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-promotion-class-dirge",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-flick-of-the-blade"
+    ],
+    "locksSkill": []
+}

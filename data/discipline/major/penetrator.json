@@ -1,0 +1,34 @@
+{
+    "id": "penetrator",
+    "name": "Penetrator",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-shadow-or-music",
+            "name": "Shadow or Music"
+        }
+    ],
+    "icon": "penetrator.png",
+    "stats": [
+        {
+            "name": "Piercing Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Piercing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_penetrator_between_the_seams",
+        {
+            "id": "scarecrow-pin-cushion",
+            "name": "Pin Cushion",
+            "description": "Barrier Negates Piercing Damage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

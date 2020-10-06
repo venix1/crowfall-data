@@ -1,0 +1,38 @@
+{
+    "id": "dazzler",
+    "name": "Dazzler",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-myrmidon-or-battle",
+            "name": "Myrmidon or Battle"
+        }
+    ],
+    "icon": "dazzler.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": "3%"
+        },
+        {
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "blademaster-dazzling-blades",
+            "name": "Dazzling Blades",
+            "description": "Attack: Reduce Enemy Crit Hit Chance"
+        },
+        {
+            "id": "enemies-near-damage",
+            "name": "Resolution",
+            "description": "Passive: Gain Damage when Enemies Near"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

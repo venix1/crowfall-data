@@ -1,0 +1,31 @@
+{
+    "id": "druid-ironwood-body",
+    "name": "Ironwood Body",
+    "class": "druid",
+    "description": "This talent grants the Ironwood Body passive power.",
+    "icon": "ironwood-body.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "ironwood-body",
+            "name": "Ironwood Body"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-foresight",
+            "point": 1
+        },
+        {
+            "skill": "druid-forest-affinity",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-commune-with-nature",
+        "druid-lines-of-force"
+    ],
+    "locksSkill": []
+}

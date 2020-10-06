@@ -1,0 +1,21 @@
+{
+    "id": "cleric-word-of-wrath",
+    "name": "Word of Wrath",
+    "class": "cleric",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "word-of-wrath.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-promotion-class-radical",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-divine-purpose"
+    ],
+    "locksSkill": []
+}

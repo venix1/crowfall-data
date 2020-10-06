@@ -2,28 +2,26 @@
     "id": "confessor-revelation",
     "name": "Revelation",
     "class": "confessor",
-    "description": "Revelation improves Critical Damage by 5% per point spent.",
+    "description": "Stat Adjustments:\\nRanged Distance +12\\nArmor Penetration: Elemental +6%\\n\\n\"I fight for the Lord of the Dawn, the one true god meant to sit upon the Dragon Throne.\"\\n-Confessor Prayer",
     "icon": "revelation.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-flagellation",
-            "point": 2
-        },
-        {
-            "skill": "confessor-minor-ii",
+            "skill": "confessor-absolution",
             "point": 1
         },
         {
-            "skill": "confessor-absolution",
+            "skill": "confessor-fervor",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-exploration-ii"
+        "confessor-minor-iii",
+        "confessor-meteor-purge",
+        "confessor-righteousness"
     ],
     "locksSkill": []
 }

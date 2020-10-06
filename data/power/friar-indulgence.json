@@ -1,7 +1,7 @@
 {
     "id": "friar-indulgence",
     "name": "Indulgence",
-    "description": "cleanses you and become immune to Sin for 30 seconds.",
+    "description": "cleanses you and become immune to Sin and buffs your $buff_type_1$ by $buff_amount_1$ for 30 seconds.",
     "shortDescription": "Gain Sin immunity",
     "icon": "friar-indulgence.png",
     "stats": {

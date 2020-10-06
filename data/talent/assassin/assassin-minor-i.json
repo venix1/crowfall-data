@@ -6,14 +6,11 @@
     "icon": "assassin-minor-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 1,
     "grants": [],
-    "unlockedFromSkill": [
-        {
-            "skill": "assassin-exploration-i",
-            "point": 1
-        }
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "assassin-exploration-i"
     ],
-    "unlocksSkill": [],
     "locksSkill": []
 }

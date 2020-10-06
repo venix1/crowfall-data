@@ -1,0 +1,38 @@
+{
+    "id": "master-of-swords",
+    "name": "Master of Swords",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-assassin-knight-or-ranger",
+            "name": "Assassin, Knight or Ranger"
+        }
+    ],
+    "icon": "master-of-swords.png",
+    "stats": [
+        {
+            "name": "Slashing Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "swordmaster-crit-combo-1",
+            "name": "Critical Hack",
+            "description": "Attack: Increase Critical Strike"
+        },
+        {
+            "id": "swordmaster-iron-skin",
+            "name": "Iron Skin",
+            "description": "Increase Slashing Resistance; Reduce Ability Cost"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

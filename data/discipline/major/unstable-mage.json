@@ -1,0 +1,34 @@
+{
+    "id": "unstable-mage",
+    "name": "Unstable Mage",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-storm-or-protection",
+            "name": "Storm or Protection"
+        }
+    ],
+    "icon": "unstable-mage.png",
+    "stats": [
+        {
+            "name": "Barrier Bonus",
+            "value": "100"
+        },
+        {
+            "name": "Armor Penetration: Elemental",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_unstablemage_wreckoning",
+        {
+            "id": "arcanearcher-barrier",
+            "name": "Arcane Barrier",
+            "description": "Gain a Barrier, and Elemental Barrier Resistance"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

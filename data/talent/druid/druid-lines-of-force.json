@@ -2,28 +2,43 @@
     "id": "druid-lines-of-force",
     "name": "Lines of Force",
     "class": "druid",
-    "description": "Lines of Force improves Critical Damage by 5% per point spent.",
+    "description": "This talent grants the Grasping Roots power.\\n\\nStat Adjustments:\\nAnit Critical Strike +3%",
     "icon": "lines-of-force.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "grasping-roots",
+            "name": "Grasping Roots"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "druid-shock-and-awe",
-            "point": 2
+            "skill": "druid-essence-boon",
+            "point": 1
         },
         {
-            "skill": "druid-minor-ii",
+            "skill": "druid-electrogenesis",
             "point": 1
         },
         {
             "skill": "druid-natures-grace",
             "point": 1
+        },
+        {
+            "skill": "druid-ironwood-body",
+            "point": 1
+        },
+        {
+            "skill": "druid-commune-with-nature",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-exploration-ii"
+        "druid-promotion-class-stormcaller",
+        "druid-promotion-class-archdruid",
+        "druid-promotion-class-earthkeeper"
     ],
     "locksSkill": []
 }

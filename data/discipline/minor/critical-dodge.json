@@ -1,0 +1,29 @@
+{
+    "id": "critical-dodge",
+    "name": "Critical Dodge",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-shadow-wind-or-war",
+            "name": "Shadow, Wind or War"
+        }
+    ],
+    "icon": "critical-dodge.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "pistolmaster-critical-dodge",
+            "name": "Critical Dodge",
+            "description": "Passive: Critical Strikes Restore Dodge"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

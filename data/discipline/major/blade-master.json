@@ -4,19 +4,19 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-bladed-weapon-training",
-            "name": "Bladed Weapon Training"
+            "id": "trait-war-or-death",
+            "name": "War or Death"
         }
     ],
     "icon": "blade-master.png",
     "stats": [
         {
             "name": "Armor Penetration: Slashing",
-            "value": "3%"
+            "value": "2%"
         },
         {
             "name": "Slashing Damage Bonus",
-            "value": "3%"
+            "value": "2%"
         }
     ],
     "grantsPowers": [
@@ -24,16 +24,6 @@
             "id": "blademaster-bleed-combo-1",
             "name": "Blood Strike",
             "description": "Attack: Bleed multiple enemies"
-        },
-        {
-            "id": "blademaster-dazzling-blades",
-            "name": "Dazzling Blades",
-            "description": "Attack: Reduce Enemy Crit Hit Chance"
-        },
-        {
-            "id": "blademaster-retribution-strike",
-            "name": "Retribution Slash",
-            "description": "Attack: Gain Retribution"
         },
         {
             "id": "blademaster-blood-price",
@@ -44,5 +34,7 @@
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "The blade takes shape in many forms - swords, daggers, and knives - all of which are quite lethal. Blade Masters often seek prayer with Maeve, The Goddess of War, and are quick to force their enemies to pay a toll with their blood. Whether it is a backstab, a sword fight, or the toss of a knife, the blade craves the blood of the enemy as much as the wielder craves victory.",
+    "lore": "The blade demands respect and payment in the form of bloodshed."
+}hal. Blade Masters often seek prayer with Maeve, The Goddess of War, and are quick to force their enemies to pay a toll with their blood. Whether it is a backstab, a sword fight, or the toss of a knife, the blade craves the blood of the enemy as much as the wielder craves victory.",
     "lore": "The blade demands respect and payment in the form of bloodshed."
 }

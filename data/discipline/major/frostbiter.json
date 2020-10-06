@@ -1,0 +1,34 @@
+{
+    "id": "frostbiter",
+    "name": "Frostbiter",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-frost",
+            "name": "Frost"
+        }
+    ],
+    "icon": "frostbiter.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Ice",
+            "value": "3%"
+        },
+        {
+            "name": "Ice Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "plaguelord-decay",
+            "name": "Decay",
+            "description": "Attack: Reduce Healing taken; Disease; Expose Punish"
+        },
+        "power_discipline_frostbiter_rotting_frost"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

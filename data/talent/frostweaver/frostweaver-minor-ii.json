@@ -6,16 +6,16 @@
     "icon": "frostweaver-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-stinging-strikes",
-            "point": 3
+            "skill": "frostweaver-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-freezing-reign"
+        "frostweaver-exploration-ii"
     ],
     "locksSkill": []
 }

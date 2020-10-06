@@ -2,31 +2,25 @@
     "id": "duelist-slayer",
     "name": "Slayer",
     "class": "duelist",
-    "description": "This talent grants the Slayer passive power.\\n\\nIncreases by 10%:\\nPiercing Damage Bonus\\nPiercing Damage Cap\\n\\nIncreases by 15%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\n\\nTraits Granted:\\nPistol Mastery\\nRapier Mastery",
+    "description": "This talent grants the Slayer passive power.",
     "icon": "slayer.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 25,
+    "levelRequirement": 0,
     "grants": [
         {
             "id": "slayer",
             "name": "Slayer"
-        },
-        {
-            "id": "trait-rapier-mastery",
-            "name": "Rapier Mastery"
-        },
-        {
-            "id": "trait-off-hand-pistol-mastery",
-            "name": "Off Hand Pistol Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-bewildering-offense",
-            "point": 2
+            "skill": "duelist-promotion-class-slayer",
+            "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "duelist-dead-eye"
+    ],
     "locksSkill": []
 }

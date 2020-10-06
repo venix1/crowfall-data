@@ -15,17 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-ferocity",
-            "point": 1
-        },
-        {
-            "skill": "myrmidon-brawny",
+            "skill": "myrmidon-arcing-slash",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-arcing-slash",
-        "myrmidon-pulverize"
+        "myrmidon-relentless"
     ],
     "locksSkill": []
 }

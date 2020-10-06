@@ -2,21 +2,43 @@
     "id": "confessor-tools-of-justice",
     "name": "Tools of Justice",
     "class": "confessor",
-    "description": "Tools of Justice improves Damage Bonus: Fire by 1% per point spent.",
+    "description": "This talent grants the Hellfire Shield power.\\n\\nStat Adjustments:\\nArmor Penetration: Elemental +3%\\nLow Health Target Damage +15%",
     "icon": "tools-of-justice.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "hellfire-shield",
+            "name": "Hellfire Shield"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-lawful",
-            "point": 2
+            "skill": "confessor-feel-the-burn",
+            "point": 1
+        },
+        {
+            "skill": "confessor-righteousness",
+            "point": 1
+        },
+        {
+            "skill": "confessor-flames-of-truth",
+            "point": 1
+        },
+        {
+            "skill": "confessor-cleansing-fire",
+            "point": 1
+        },
+        {
+            "skill": "confessor-scalding",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-perfect-storm",
-        "confessor-flames-of-arkon"
+        "confessor-promotion-class-fanatic",
+        "confessor-promotion-class-inquisitor",
+        "confessor-promotion-class-sanctifier"
     ],
     "locksSkill": []
 }

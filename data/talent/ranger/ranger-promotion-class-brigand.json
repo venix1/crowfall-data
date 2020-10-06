@@ -1,26 +1,39 @@
 {
     "id": "ranger-promotion-class-brigand",
-    "name": "Promotion Class - Brigand",
+    "name": "Promotion Class: Brigand",
     "class": "ranger",
-    "description": "Role: Melee Damage\\n\\nA stealthy lurker of the shadows focused solely on melee weapons and eliminating their victims with lethal traps.\\n\\nGrants the powers:\\nConcussive Trap\\n\\nGrants a permanent Energy Regeneration Rate of 2(s) in all Power Trays.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Brigand promotion class and prevents access to the Warden and Archer promotion classes.",
+    "description": "Role: Melee Damage\\n\\nA stealthy lurker of the shadows focused solely on melee weapons and eliminating their victims with lethal traps.\\n\\nStat Adjustments:\\nAttack Power +225\\n\\nTraits Granted:\\nRecurve Bow Mastery\\nAxe Mastery\\nMace Mastery\\nShort Sword Mastery\\nEnergy Regeneration in all Trays\\n\\nEnhancements:\\nSweep: Now applies a Barrier.\\nConcussive Trap: Now can be placed from Stealth.\\nTwin Surge: Now deals more damage against Bleeding targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Brigand promotion class and prevents access to the Warden and Archer promotion classes.",
     "icon": "promotion-class-brigand.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "concussive-trap",
-            "name": "Concussive Trap"
+            "id": "trait-short-sword-mastery",
+            "name": "Short Sword Mastery"
+        },
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
+        },
+        {
+            "id": "trait-recurve-bow-mastery",
+            "name": "Recurve Bow Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-bring-me-everyone",
+            "skill": "ranger-hunting-party",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-into-the-shadows"
+        "ranger-pass-without-trace",
+        "ranger-ambush"
     ],
     "locksSkill": [
         "ranger-promotion-class-archer",

@@ -2,7 +2,7 @@
     "id": "templar-grace",
     "name": "Grace",
     "class": "templar",
-    "description": "Grace enhances Retaliate powers to recover 35 Stamina over 7 seconds.",
+    "description": "Stat Adjustments:\\nHealth +400\\nResist All +300\\n\\n\"Forgiveness is the purest form of atonement.\"\\n-Anonymous",
     "icon": "grace.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,13 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-divine-favor",
-            "point": 3
+            "skill": "templar-holy-warrior-righteous-stand",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-shining-armor"
+        "templar-divine-light",
+        "templar-devotion"
     ],
     "locksSkill": []
 }

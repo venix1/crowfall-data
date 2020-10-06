@@ -1,0 +1,38 @@
+{
+    "id": "lightfoot",
+    "name": "Lightfoot",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "icon": "lightfoot.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Trailblazer",
+            "value": "15%"
+        },
+        {
+            "name": "Movement Speed Damage Bonus",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "ranger-forest-step",
+            "name": "Forest Step",
+            "description": ""
+        },
+        {
+            "id": "escapeartist-escapology",
+            "name": "Escapology",
+            "description": "Passive: Gain Increased Resolve from Control Effects"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

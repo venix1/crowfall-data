@@ -1,0 +1,26 @@
+{
+    "id": "duelist-feral-instincts",
+    "name": "Feral Instincts",
+    "class": "duelist",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "feral-instincts.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-energetic",
+            "point": 1
+        },
+        {
+            "skill": "duelist-spunky",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "duelist-deep-wounds",
+        "duelist-keen-guard"
+    ],
+    "locksSkill": []
+}

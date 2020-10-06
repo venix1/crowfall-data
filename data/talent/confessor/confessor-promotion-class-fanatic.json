@@ -1,24 +1,30 @@
 {
     "id": "confessor-promotion-class-fanatic",
-    "name": "Promotion Class - Fanatic",
+    "name": "Promotion Class: Fanatic",
     "class": "confessor",
-    "description": "Role: Ranged Damage\\n\\nKnown for wild gestures and speaking in tongues, this devotee of fire only desires to set the unworthy ablaze before the strain of casting spells causes them to burn out.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fanatic promotion class and prevents access to the Sanctifier and Inquisitor promotion classes.",
+    "description": "Role: Ranged Damage\\n\\nKnown for wild gestures and speaking in tongues, this devotee of fire only desires to set the unworthy ablaze before the strain of casting spells causes them to burn out.\\n\\nStat Adjustments:\\nFire Damage +3%\\nAttack Power +225\\n\\nTraits Granted:\\nBook Mastery\\n\\nEnhancements:\\nFervor: Now adds damage bonus to basic attacks for 12 seconds.\\nFire Tornadoes: Now tornadoes hit 4 times per enemy hit.\\nHellfire Aura: Now with increased radius.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fanatic promotion class and prevents access to the Sanctifier and Inquisitor promotion classes.",
     "icon": "promotion-class-fanatic.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-book-mastery",
+            "name": "Book Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-hellfire",
+            "skill": "confessor-tools-of-justice",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-lawful"
+        "confessor-burning-hot",
+        "confessor-fire-wave"
     ],
     "locksSkill": [
-        "confessor-promotion-class-sanctifier",
-        "confessor-promotion-class-inquisitor"
+        "confessor-promotion-class-inquisitor",
+        "confessor-promotion-class-sanctifier"
     ]
 }

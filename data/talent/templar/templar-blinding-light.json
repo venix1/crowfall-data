@@ -1,0 +1,21 @@
+{
+    "id": "templar-blinding-light",
+    "name": "Blinding Light",
+    "class": "templar",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "blinding-light.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-reproach",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-magnificent-purpose"
+    ],
+    "locksSkill": []
+}

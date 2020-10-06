@@ -1,8 +1,8 @@
 {
     "id": "ranger-promotion-class-warden",
-    "name": "Promotion Class - Warden",
+    "name": "Promotion Class: Warden",
     "class": "ranger",
-    "description": "Role: Melee-Ranged Defense\\n\\nA well-rounded defender of the forest, good with both bows and one-handed weapons. Access to mail armor makes them sturdier than their leather-wearing counterparts.\\n\\nGrants a permanent Energy Regeneration Rate of 2(s) in all Power Trays.\\n\\nIncreases by 10%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGaea's Inspiration\\nMail Armor Proficiency\\nQuiver Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Warden promotion class and prevents access to the Archer and Brigand promotion classes.",
+    "description": "Role: Melee-Ranged Defense\\n\\nA well-rounded defender of the forest, good with both bows and one-handed weapons. Access to mail armor makes them sturdier than their leather-wearing counterparts.\\n\\nStat Adjustments:\\nDamage Reduction +6%\\n\\nTraits Granted:\\nRecurve Bow Mastery\\nAxe Mastery\\nMace Mastery\\nShort Sword Mastery\\nMail Armor Proficiency\\nQuiver Proficiency\\nEnergy Regeneration in all Trays\\n\\nEnhancements:\\nTwin Surge: Now second attack applies a Suppress.\\nConcussive Trap: Now has a reduced cooldown.\\nDisengage: Now also places a trap where you leapt from.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Warden promotion class and prevents access to the Archer and Brigand promotion classes.",
     "icon": "promotion-class-warden.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -17,18 +17,31 @@
             "name": "Mail Armor Proficiency"
         },
         {
-            "id": "trait-gaeas-inspiration",
-            "name": "Gaea's Inspiration"
+            "id": "trait-recurve-bow-mastery",
+            "name": "Recurve Bow Mastery"
+        },
+        {
+            "id": "trait-short-sword-mastery",
+            "name": "Short Sword Mastery"
+        },
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-bring-me-everyone",
+            "skill": "ranger-hunting-party",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-gift-of-the-forest"
+        "ranger-steel-traps",
+        "ranger-trap-master"
     ],
     "locksSkill": [
         "ranger-promotion-class-archer",

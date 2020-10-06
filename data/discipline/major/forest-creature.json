@@ -1,0 +1,34 @@
+{
+    "id": "forest-creature",
+    "name": "Forest Creature",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-nature",
+            "name": "Nature"
+        }
+    ],
+    "icon": "forest-creature.png",
+    "stats": [
+        {
+            "name": "Critical Healing Chance",
+            "value": "2%"
+        },
+        {
+            "name": "Support Power",
+            "value": "150"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "pixie-pixie-dust",
+            "name": "Pixie Dust",
+            "description": "Ground Target Area Increase Incoming Heals"
+        },
+        "power_discipline_forestcreature_slow_stake"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

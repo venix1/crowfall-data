@@ -1,0 +1,25 @@
+{
+    "id": "barbed-stake",
+    "name": "Barbed Stake",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-elken-or-plague",
+            "name": "Elken or Plague"
+        }
+    ],
+    "icon": "barbed-stake.png",
+    "stats": [
+        {
+            "name": "Ranged Distance Bonus",
+            "value": "5(m)"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_barbedstake_barbed_stake"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

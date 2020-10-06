@@ -1,0 +1,22 @@
+{
+    "id": "myrmidon-serrated-blade",
+    "name": "Serrated Blade",
+    "class": "myrmidon",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "serrated-blade.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-solid-muscle",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-shredded",
+        "myrmidon-ferocity"
+    ],
+    "locksSkill": []
+}

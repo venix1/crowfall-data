@@ -2,20 +2,21 @@
     "id": "knight-martial-weaponry",
     "name": "Martial Weaponry",
     "class": "knight",
-    "description": "Martial Weaponry improves Weapon Damage by 3 per point spent.",
+    "description": "Stat Adjustments:\\nWeapon Damage +9\\nAttack Power +75\\n\\n\"The sword is the extension of not only the knight's body, but their will and intent, as well.\"\\n-Beyond Chivalry",
     "icon": "martial-weaponry.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-shield-swipe",
+            "skill": "knight-board-and-board",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-shield-bash"
+        "knight-retribution-slash",
+        "knight-shield-slam"
     ],
     "locksSkill": []
 }

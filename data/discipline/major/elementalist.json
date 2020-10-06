@@ -1,0 +1,34 @@
+{
+    "id": "elementalist",
+    "name": "Elementalist",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-fire-frost-or-music",
+            "name": "Fire, Frost or Music"
+        }
+    ],
+    "icon": "elementalist.png",
+    "stats": [
+        {
+            "name": "Elemental Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_elementalist_neutralize_elements",
+        {
+            "id": "pistolmaster-careful-aim",
+            "name": "Sentinel",
+            "description": "Increase Critical Chance when Standing Still"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "Elementalists enjoy the scholarly study of the composition of the material world in an effort to gain mastery over it. They gain understanding by seperating things back into their primordial forms so that they become again as water, air, and fire. Most don't enjoy the experience.",
+    "lore": "Everyone learns faster while on fire."
+}

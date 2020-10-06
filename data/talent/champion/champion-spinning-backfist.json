@@ -13,10 +13,14 @@
             "name": "Spinning Backfist"
         }
     ],
-    "unlockedFromSkill": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-blood-rage",
+            "point": 1
+        }
+    ],
     "unlocksSkill": [
-        "champion-guts",
-        "champion-armaments"
+        "champion-animosity"
     ],
     "locksSkill": []
 }

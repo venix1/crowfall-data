@@ -1,0 +1,30 @@
+{
+    "id": "blood-feeder",
+    "name": "Blood Feeder",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-death",
+            "name": "Death"
+        }
+    ],
+    "icon": "blood-feeder.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        },
+        {
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_bloodfeeder_bite",
+        "power_discipline_bloodfeeder_tasty"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

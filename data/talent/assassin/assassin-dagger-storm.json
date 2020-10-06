@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-deceptive-strength",
-            "point": 3
+            "skill": "assassin-promotion-class-blackguard",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-aggression"
+        "assassin-alligator-blood"
     ],
     "locksSkill": []
 }

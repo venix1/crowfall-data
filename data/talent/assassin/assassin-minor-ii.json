@@ -6,16 +6,16 @@
     "icon": "assassin-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-armor-gap",
-            "point": 3
+            "skill": "assassin-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-killers-instinct"
+        "assassin-exploration-ii"
     ],
     "locksSkill": []
 }

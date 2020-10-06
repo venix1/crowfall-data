@@ -2,22 +2,21 @@
     "id": "druid-potential-energy",
     "name": "Potential Energy",
     "class": "druid",
-    "description": "Potential Energy improves Attack Power by 30 per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +3%\\nAttack Power +150\\n\\n\"The Wild Hunt is upon us! Take up your scythes, and join us!\"\\n-Anonymous",
     "icon": "potential-energy.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-mark-of-the-storm",
+            "skill": "druid-magic-dance",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-shock-and-awe",
-        "druid-minor-ii",
-        "druid-natures-grace"
+        "druid-call-storm",
+        "druid-barkskin"
     ],
     "locksSkill": []
 }

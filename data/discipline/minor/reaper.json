@@ -1,0 +1,29 @@
+{
+    "id": "reaper",
+    "name": "Reaper",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-confessor",
+            "name": "Confessor"
+        }
+    ],
+    "icon": "reaper.png",
+    "stats": [
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "banshee-angel-of-death",
+            "name": "Angel Of Death",
+            "description": "Passive: Increase Enemy Damage at Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

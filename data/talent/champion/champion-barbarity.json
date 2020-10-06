@@ -2,28 +2,26 @@
     "id": "champion-barbarity",
     "name": "Barbarity",
     "class": "champion",
-    "description": "Barbarity improves Armor Penetration: Physical by 1% per point spent.",
+    "description": "Stat Adjustments:\\nSlash Damage +10%\\nSlash Damage Cap +10%\\nCrush Damage +10%\\nCrush Damage Cap +10%\\nHard Control Intensity +21%\\n\\nWhat control they lack in themselves, they enforce on the foes at the end of their weapon.",
     "icon": "barbarity.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-dominant-leap",
+            "skill": "champion-barbarian",
             "point": 1
         },
         {
-            "skill": "champion-violent-neckbreaker",
-            "point": 1
-        },
-        {
-            "skill": "champion-rend-and-butcher",
+            "skill": "champion-brutal-warrior",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-alpha-warrior"
+        "champion-domain-wind",
+        "champion-domain-battle",
+        "champion-domain-war"
     ],
     "locksSkill": []
 }

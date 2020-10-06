@@ -1,0 +1,34 @@
+{
+    "id": "sun-worshiper",
+    "name": "Sun Worshiper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-centaur-light-or-fire",
+            "name": "Centaur, Light or Fire"
+        }
+    ],
+    "icon": "sun-worshiper.png",
+    "stats": [
+        {
+            "name": "Elemental Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Support Power",
+            "value": "150"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "mysticalmaster-chain-ho-t",
+            "name": "Soothing Winds",
+            "description": "Target Heal Allies over Time"
+        },
+        "power_discipline_naiad_cleanse"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

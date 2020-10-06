@@ -1,0 +1,29 @@
+{
+    "id": "glamour-weapon",
+    "name": "Glamour Weapon",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-high-elf-protection-or-music",
+            "name": "High Elf, Protection or Music"
+        }
+    ],
+    "icon": "glamour-weapon.png",
+    "stats": [
+        {
+            "name": "Damage Bonus: Enemy Low Health",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "illusionist-glamour-weapon",
+            "name": "Glamour",
+            "description": "Increase Attack Power"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

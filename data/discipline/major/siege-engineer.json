@@ -4,8 +4,8 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-siege-engineer",
+            "name": "Siege Engineer"
         }
     ],
     "icon": "siege-engineer.png",
@@ -37,12 +37,8 @@
         }
     ],
     "grantsSlot": [],
-    "grantsTrait": [
-        {
-            "id": "trait-siege-engineer",
-            "name": "Siege Engineer"
-        }
-    ],
+    "grantsTrait": [],
     "description": "Recipes Granted:\\nBallista\\nCatapult\\nTrebuchet",
     "lore": "When you absolutely, positively, have to destroy every wall on the Keep; accept no substitutes."
+} "When you absolutely, positively, have to destroy every wall on the Keep; accept no substitutes."
 }

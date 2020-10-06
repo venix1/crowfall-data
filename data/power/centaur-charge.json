@@ -1,7 +1,7 @@
 {
     "id": "centaur-charge",
     "name": "Wild Charge",
-    "description": "charges you forward 15m dealing 123 + 123% Weapon Damage to enemies in your path. Wild Charge applies an Armor Break to all hit, which reduces all Final Physical Mitigation by 20% for 15 seconds.\\n\\nEnemies may be pushed back depending on how close you are to them when you initiate the charge.",
+    "description": "charges you forward 15m dealing 123 + 123% Weapon Damage to enemies in your path. Wild Charge applies an Armor Tear to all hit, which reduces all Final Physical Mitigation by 20% for 15 seconds.\\n\\nEnemies may be pushed back depending on how close you are to them when you initiate the charge.",
     "shortDescription": "Attack: Charge Forward Breaking Armor",
     "icon": "centaur-charge.png",
     "stats": {

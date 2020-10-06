@@ -15,17 +15,18 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-vendetta",
+            "skill": "confessor-repent",
             "point": 1
         },
         {
-            "skill": "confessor-heart-of-flame",
+            "skill": "confessor-poise",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-meteor-purge",
-        "confessor-condemnation"
+        "confessor-revelation",
+        "confessor-minor-iii",
+        "confessor-zeal"
     ],
     "locksSkill": []
 }

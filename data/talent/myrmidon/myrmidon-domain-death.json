@@ -1,0 +1,87 @@
+{
+    "id": "myrmidon-domain-death",
+    "name": "Domain: Death",
+    "class": "myrmidon",
+    "description": "Traits Granted:\\nDomain: Death\\n\\nPerhaps it is only the wicked who wish for death to be eternally peaceful—for they seek what they could never obtain in life.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Death domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-death.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-frost-or-death",
+            "name": "Frost or Death"
+        },
+        {
+            "id": "trait-plague-or-death",
+            "name": "Plague or Death"
+        },
+        {
+            "id": "trait-shadow-or-death",
+            "name": "Shadow or Death"
+        },
+        {
+            "id": "trait-war-or-death",
+            "name": "War or Death"
+        },
+        {
+            "id": "trait-death",
+            "name": "Death"
+        },
+        {
+            "id": "trait-duelist-plague-or-death",
+            "name": "Duelist, Plague or Death"
+        },
+        {
+            "id": "trait-death",
+            "name": "Death"
+        },
+        {
+            "id": "trait-frost-or-death",
+            "name": "Frost or Death"
+        },
+        {
+            "id": "trait-death",
+            "name": "Death"
+        },
+        {
+            "id": "trait-nethari-war-or-death",
+            "name": "Nethari, War or Death"
+        },
+        {
+            "id": "trait-wood-elf-wind-fire-storm-or-death",
+            "name": "Wood Elf, Wind, Fire, Storm, or Death"
+        },
+        {
+            "id": "trait-light-storm-or-death",
+            "name": "Light, Storm or Death"
+        },
+        {
+            "id": "trait-plague-battle-or-death",
+            "name": "Plague, Battle or Death"
+        },
+        {
+            "id": "trait-assassin-duelist-half-giant-human-war-battle-or-death",
+            "name": "Assassin, Duelist, Half Giant, Human, War, Battle or Death"
+        },
+        {
+            "id": "trait-myrmidon-stoneborn-plague-wind-fire-frost-or-death",
+            "name": "Myrmidon, Stoneborn, Plague, Wind, Fire, Frost or Death"
+        },
+        {
+            "id": "trait-myrmidon-human-war-or-death",
+            "name": "Myrmidon, Human, War or Death"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-blood-thirst",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "myrmidon-domain-fire",
+        "myrmidon-domain-war"
+    ]
+}

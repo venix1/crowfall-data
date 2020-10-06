@@ -1,7 +1,7 @@
 {
     "id": "plaguelord-decay",
     "name": "Decay",
-    "description": "infects an enemy with a Disease and reduce Healing Received. \\n\\nIf Decay hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
+    "description": "inflicts an enemy with Frostbite. \\n\\nIf Decay hits an Exposed enemy while they attack or use an ability, they are knocked down and take additional damage.",
     "shortDescription": "Attack: Reduce Healing taken; Disease; Expose Punish",
     "icon": "plaguelord-decay.png",
     "stats": {

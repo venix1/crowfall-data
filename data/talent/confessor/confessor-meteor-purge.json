@@ -15,12 +15,20 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-fervor",
+            "skill": "confessor-revelation",
+            "point": 1
+        },
+        {
+            "skill": "confessor-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "confessor-zeal",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-exploration-i"
+        "confessor-flames-of-truth"
     ],
     "locksSkill": []
 }

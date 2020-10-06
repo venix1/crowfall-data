@@ -1,0 +1,29 @@
+{
+    "id": "destroyer-frighten",
+    "name": "Frighten",
+    "description": "shouts at an enemy inflicting 133 + 133% Weapon Damage and reducing their damage bonus.",
+    "shortDescription": "Attack: Reduce enemy damage",
+    "icon": "destroyer-frighten.png",
+    "stats": {
+        "weapon_damage_value": "133",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "cost_type": "Resource",
+        "cost": "12",
+        "range": "6",
+        "max_targets": "1",
+        "cooldown": "23",
+        "target": "Cone",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "champion"
+    ]
+}

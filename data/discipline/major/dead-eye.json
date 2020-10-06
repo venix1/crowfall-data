@@ -1,0 +1,38 @@
+{
+    "id": "dead-eye",
+    "name": "Dead Eye",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-ranger-half-elf-or-dark",
+            "name": "Ranger, Half Elf or Dark"
+        }
+    ],
+    "icon": "dead-eye.png",
+    "stats": [
+        {
+            "name": "Ranged Distance Bonus",
+            "value": "5(m)"
+        },
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "bowmaster-multishot",
+            "name": "Multi-Shot",
+            "description": "Attack: Cone damage five enemies"
+        },
+        {
+            "id": "careless-whisper",
+            "name": "Careless Whisper",
+            "description": "Passive: Basic Attacks Buff Crit Stats"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

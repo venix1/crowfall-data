@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-leap",
+            "skill": "champion-guts",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-exploration-i"
+        "champion-outrage",
+        "champion-brutality"
     ],
     "locksSkill": []
 }

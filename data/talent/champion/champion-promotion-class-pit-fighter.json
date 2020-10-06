@@ -1,13 +1,21 @@
 {
     "id": "champion-promotion-class-pit-fighter",
-    "name": "Promotion Class - Pit Fighter",
+    "name": "Promotion Class: Pit Fighter",
     "class": "champion",
-    "description": "Role: Melee Defense\\n\\nThis well rounded pugilist excels at both dealing and mitigating damage.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Pit Fighter promotion class and prevents access to the Alpha Warrior  and Barbarian promotion classes.",
+    "description": "Role: Melee Defense\\n\\nThis well rounded pugilist excels at both dealing and mitigating damage.\\n\\nStat Adjustments:\\nMovement Control Intensity +21%\\nAttack Control Intensity +21%\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nGreat Axe Mastery\\nGreat Mace Mastery\\n\\nEnhancements:\\nLeap: Now adds a heal when used.\\nWhirling Pain: Now adds a Barrier when used.\\nNeckbreaker: Now increases your Max Health by XXX and heals you for 35% of Health, and applies a Root to targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Pit Fighter promotion class and prevents access to the Alpha Warrior  and Barbarian promotion classes.",
     "icon": "promotion-class-pit-fighter.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
+        {
+            "id": "trait-great-axe-mastery",
+            "name": "Great Axe Mastery"
+        },
+        {
+            "id": "trait-great-mace-mastery",
+            "name": "Great Mace Mastery"
+        },
         {
             "id": "trait-plate-armor-proficiency",
             "name": "Plate Armor Proficiency"
@@ -15,12 +23,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-second-wind",
+            "skill": "champion-animosity",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-obstinance"
+        "champion-pit-fighter",
+        "champion-ultimate-warrior"
     ],
     "locksSkill": [
         "champion-promotion-class-alpha-warrior",

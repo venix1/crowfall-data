@@ -1,0 +1,21 @@
+{
+    "id": "cleric-blessed-protection",
+    "name": "Blessed Protection",
+    "class": "cleric",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "blessed-protection.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-promotion-class-crusader",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-celestial-authority"
+    ],
+    "locksSkill": []
+}

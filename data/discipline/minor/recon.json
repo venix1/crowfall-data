@@ -1,0 +1,29 @@
+{
+    "id": "recon",
+    "name": "Recon",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-assassin-duelist-stealth-or-dark",
+            "name": "Assassin, Duelist, Stealth or Dark"
+        }
+    ],
+    "icon": "recon.png",
+    "stats": [
+        {
+            "name": "Movement Speed: Stealth",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "assassin-stealth-recon",
+            "name": "Recon",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

@@ -1,0 +1,38 @@
+{
+    "id": "destroyer",
+    "name": "Destroyer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-champion",
+            "name": "Champion"
+        }
+    ],
+    "icon": "destroyer.png",
+    "stats": [
+        {
+            "name": "Barrier Bonus",
+            "value": "100"
+        },
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "destroyer-combo-1",
+            "name": "Aegis Of Salvation",
+            "description": "Attack: Adds Barrier and Heal"
+        },
+        {
+            "id": "destroyer-rage-health-buff",
+            "name": "Insanity",
+            "description": "Gain Health based on Rage"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "The beauty of chaos and destruction can only be seen by the few who allow themselves to succumb to the their rage. Through the channeling of rage and devastation the ability to maintain a relentless and frightening vitality occurs. Destroyers embrace their destructive ways and are often granted exceptional and frightening abilities in combat.",
+    "lore": "In the midst of Chaos, there is also opportunity."
+}

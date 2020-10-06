@@ -1,7 +1,7 @@
 {
     "id": "banshee-haunt",
     "name": "Haunt",
-    "description": "haunts 5 enemies, reflecting 35% their attack damage as Nature damage and healing you for 35% of damage taken.",
+    "description": "haunts 5 enemies, reflecting 35% their attack damage as Nature damage and healing you for 35% of damage taken, the Haunt debuff lasts 15 seconds or 5 hits.",
     "shortDescription": "Attack: Reflect Enemy Damage; Healing",
     "icon": "banshee-haunt.png",
     "stats": {

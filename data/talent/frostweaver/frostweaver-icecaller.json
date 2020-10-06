@@ -2,27 +2,25 @@
     "id": "frostweaver-icecaller",
     "name": "Icecaller",
     "class": "frostweaver",
-    "description": "This talent grants the Icecaller passive power.\\n\\nIncreases by 1:\\nIce Storage Capacity\\n\\nIncreases by 10%:\\nIce Damage Bonus\\nIce Damage Cap\\n\\nTraits Granted:\\nFrostcaster Mastery",
+    "description": "This talent grants the Icecaller passive power.",
     "icon": "icecaller.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 25,
+    "levelRequirement": 0,
     "grants": [
         {
             "id": "icecaller",
             "name": "Icecaller"
-        },
-        {
-            "id": "trait-frostcaster-mastery",
-            "name": "Frostcaster Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-tranquility",
-            "point": 2
+            "skill": "frostweaver-promotion-class-icecaller",
+            "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "frostweaver-tranquility"
+    ],
     "locksSkill": []
 }

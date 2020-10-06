@@ -2,25 +2,20 @@
     "id": "champion-exploration-i",
     "name": "Exploration Discipline Slot",
     "class": "champion",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "champion-exploration-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 5,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-throw-hurlbat",
-            "point": 1
-        },
-        {
-            "skill": "champion-vicious-stomp",
+            "skill": "champion-minor-i",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-minor-i",
-        "champion-massive-cleave"
+        "champion-major-i"
     ],
     "locksSkill": []
 }

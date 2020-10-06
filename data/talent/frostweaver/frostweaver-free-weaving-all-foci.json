@@ -1,0 +1,52 @@
+{
+    "id": "frostweaver-free-weaving-all-foci",
+    "name": "Free Weaving/All Foci",
+    "class": "frostweaver",
+    "description": "This talent grants the Free Weaving, Stable Focus, Frigid Focus, Volatile Focus, Refreshing Focus and Cooling Focus powers.",
+    "icon": "free-weaving-all-foci.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "free-weaving",
+            "name": "Free Weaving"
+        },
+        {
+            "id": "trait-stable-focus-gem",
+            "name": "Stable Focus Gem"
+        },
+        {
+            "id": "trait-volatile-focus-gem",
+            "name": "Volatile Focus Gem"
+        },
+        {
+            "id": "trait-cooling-focus-gem",
+            "name": "Cooling Focus Gem"
+        },
+        {
+            "id": "trait-refreshing-focus-gem",
+            "name": "Refreshing Focus Gem"
+        },
+        {
+            "id": "trait-frigid-focus-gem",
+            "name": "Frigid Focus Gem"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-biting-cold",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-hardening",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-crisp-casting",
+        "frostweaver-additional-minor-slot",
+        "frostweaver-elegant-form"
+    ],
+    "locksSkill": []
+}

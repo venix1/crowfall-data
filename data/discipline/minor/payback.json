@@ -1,0 +1,29 @@
+{
+    "id": "payback",
+    "name": "Payback",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-shadow-wind-frost-justice-or-battle",
+            "name": "Shadow, Wind, Frost, Justice or Battle"
+        }
+    ],
+    "icon": "payback.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "underdog-retaliate-crit-streak",
+            "name": "Payback",
+            "description": "Passive: Gain Crit Streak Following Retaliation"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

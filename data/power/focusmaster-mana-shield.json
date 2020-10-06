@@ -1,0 +1,27 @@
+{
+    "id": "focusmaster-mana-shield",
+    "name": "Mana Shield",
+    "description": "surrounds you with a protective barrier draining your mana as it prevents damage as well as increasing your Damage Bonus by 5% for 15 seconds.",
+    "shortDescription": "Mana Reinforced Barrier",
+    "icon": "focusmaster-mana-shield.png",
+    "stats": {
+        "buff_amount_1": "5",
+        "buff_type_1": "Damage Bonus",
+        "duration": "15 seconds",
+        "cost_type": "Resource",
+        "cost": "16",
+        "cooldown": "23",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+        "focus_users"
+    ]
+}

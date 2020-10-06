@@ -1,0 +1,30 @@
+{
+    "id": "flow-controller",
+    "name": "Flow Controller",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-storm-or-protection",
+            "name": "Storm or Protection"
+        }
+    ],
+    "icon": "flow-controller.png",
+    "stats": [
+        {
+            "name": "Elemental Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_flowcontroller_mass_dispel",
+        "power_discipline_flowcontroller_cauterize"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

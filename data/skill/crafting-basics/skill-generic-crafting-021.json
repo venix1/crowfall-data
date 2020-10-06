@@ -1,0 +1,26 @@
+{
+    "id": "skill-generic-crafting-021",
+    "name": "Basic Crafting Experimentation Point",
+    "tree": "Crafting Basics",
+    "maxPoints": 5,
+    "pointRequirement": 0,
+    "pipAmount": 18000,
+    "description": "Increases the amount of Experimentation Points available when experimenting on Basic Crafting items.\\n\\nGrants Passive Power at 5 Pips:\\nRisk Management",
+    "icon": "skill-generic-crafting-021.png",
+    "stats": [
+        {
+            "name": "General Crafting Experimentation Points",
+            "amount": "0.2"
+        }
+    ],
+    "grants": [
+        "power_discipline_risk_management"
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "skill-generic-crafting-020",
+            "point": 5
+        }
+    ],
+    "unlocksSkill": []
+}

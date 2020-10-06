@@ -2,31 +2,25 @@
     "id": "champion-pit-fighter",
     "name": "Pit Fighter",
     "class": "champion",
-    "description": "This talent grants the Pit Fighter passive power.\\n\\nIncreases by 10%:\\nCrushing Damage Bonus\\nCrushing Damage Cap\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nGreat Axe Mastery\\nGreat Mace Mastery",
+    "description": "This talent grants the Pit Fighter passive power.",
     "icon": "pit-fighter.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 25,
+    "levelRequirement": 0,
     "grants": [
         {
             "id": "pit-fighter",
             "name": "Pit Fighter"
-        },
-        {
-            "id": "trait-great-axe-mastery",
-            "name": "Great Axe Mastery"
-        },
-        {
-            "id": "trait-great-mace-mastery",
-            "name": "Great Mace Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-almighty-hugeness",
-            "point": 2
+            "skill": "champion-promotion-class-pit-fighter",
+            "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "champion-malice"
+    ],
     "locksSkill": []
 }

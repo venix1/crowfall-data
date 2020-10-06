@@ -2,22 +2,26 @@
     "id": "knight-chivalry",
     "name": "Chivalry",
     "class": "knight",
-    "description": "Chivalry improves Movement Speed while mounted by 3% per point spent.",
+    "description": "Stat Adjustments:\\nPower Efficiency +24%\\nMounted Movement +15%\\n\\n\"A knight upon their mount commands the respect of the battlefield.\"\\n-Sir Hornbearer",
     "icon": "chivalry.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-hoplitodromos",
+            "skill": "knight-retribution-slash",
+            "point": 1
+        },
+        {
+            "skill": "knight-shield-slam",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-tactical-mastery",
-        "knight-minor-iii",
-        "knight-echoing-assault"
+        "knight-additional-minor-slot",
+        "knight-pursuit",
+        "knight-endurance"
     ],
     "locksSkill": []
 }

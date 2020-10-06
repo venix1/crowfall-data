@@ -2,20 +2,26 @@
     "id": "duelist-flick-of-the-blade",
     "name": "Flick of the Blade",
     "class": "duelist",
-    "description": "Flick of the Blade improves Critical Strike by 1% per point spent.",
+    "description": "Stat Adjustments:\\nAttack Power +150\\nHard Control Intensity +21\\nPiercing Damage +15%\\nPiercing Damage Cap +15%\\nCrushing Damage +5%\\nCrushing Damage Cap +5%\\n\\nAlthough more heavily armored than many of their kin, the Dirge still has a frightening amount of agility.",
     "icon": "flick-of-the-blade.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-flintlock-shot",
+            "skill": "duelist-dirge",
+            "point": 1
+        },
+        {
+            "skill": "duelist-lunge",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-go-for-broke"
+        "duelist-domain-music",
+        "duelist-domain-shadow",
+        "duelist-domain-war"
     ],
     "locksSkill": []
 }

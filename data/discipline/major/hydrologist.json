@@ -1,0 +1,34 @@
+{
+    "id": "hydrologist",
+    "name": "Hydrologist",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-storm",
+            "name": "Storm"
+        }
+    ],
+    "icon": "hydrologist.png",
+    "stats": [
+        {
+            "name": "Healing Bonus",
+            "value": "3%"
+        },
+        {
+            "name": "Critical Healing Chance",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "naiad-water-spirits",
+            "name": "Water Spirits",
+            "description": "Attack: Heal Allies; Reduce Enemy Fire Damage"
+        },
+        "power_discipline_flowcontroller_cauterize"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

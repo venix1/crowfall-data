@@ -1,0 +1,22 @@
+{
+    "id": "realitywarp-dmg-on-low-resource",
+    "name": "Crazy Pills",
+    "description": "applies Attack Power with the buff amount increasing as your Resource pool decreases.",
+    "shortDescription": "Passive: Increase Damage on Low Resource",
+    "icon": "realitywarp-dmg-on-low-resource.png",
+    "stats": {
+        "buff_type_1": "Attack Power",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

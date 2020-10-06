@@ -1,0 +1,38 @@
+{
+    "id": "hellraiser",
+    "name": "Hellraiser",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-war-or-battle",
+            "name": "War or Battle"
+        }
+    ],
+    "icon": "hellraiser.png",
+    "stats": [
+        {
+            "name": "Barrier Bonus",
+            "value": "100"
+        },
+        {
+            "name": "Piercing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "scarecrow-pin-cushion",
+            "name": "Pin Cushion",
+            "description": "Barrier Negates Piercing Damage"
+        },
+        {
+            "id": "scarecrow-needling-haystack",
+            "name": "Needlin' Haystack",
+            "description": "Reflect Piercing Damage; Bleed"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

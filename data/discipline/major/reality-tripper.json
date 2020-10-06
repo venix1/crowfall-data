@@ -1,0 +1,38 @@
+{
+    "id": "reality-tripper",
+    "name": "Reality Tripper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-shadow-or-storm",
+            "name": "Shadow or Storm"
+        }
+    ],
+    "icon": "reality-tripper.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        },
+        {
+            "name": "Damage Bonus: Enemy Low Health",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "realitywarper-alter-reality",
+            "name": "Alter Reality",
+            "description": "Attack: Absorb Enemy Healing"
+        },
+        {
+            "id": "low-health-crit-buff",
+            "name": "Last Resort",
+            "description": "Passive: Gain Crit Chance on Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

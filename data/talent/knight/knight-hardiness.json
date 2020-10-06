@@ -2,20 +2,20 @@
     "id": "knight-hardiness",
     "name": "Hardiness",
     "class": "knight",
-    "description": "Hardiness improves In and Out of Combat Health Regeneration by 5 per point spent.",
+    "description": "Stat Adjustments:\\nHealth Regeneration +15\\nPhysical Resist +100\\n\\n\"Take care that your deeds bring glory to the All Father, not only your sovereign.\"\\n-Knight Prayer",
     "icon": "hardiness.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-endurance",
-            "point": 3
+            "skill": "knight-noble-blood",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-bulwark"
+        "knight-resolve"
     ],
     "locksSkill": []
 }

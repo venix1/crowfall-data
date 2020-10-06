@@ -1,0 +1,30 @@
+{
+    "id": "unholy-beast",
+    "name": "Unholy Beast",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-death",
+            "name": "Death"
+        }
+    ],
+    "icon": "unholy-beast.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Organic Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_unholybeast_undead_fortitude",
+        "power_discipline_unholybeast_everlooming"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

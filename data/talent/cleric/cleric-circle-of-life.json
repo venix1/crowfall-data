@@ -5,7 +5,7 @@
     "description": "This talent grants the Circle Of Life power.",
     "icon": "circle-of-life.png",
     "maxPoints": 1,
-    "pointRequirement": 24,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
@@ -15,16 +15,20 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-exploration-ii",
+            "skill": "cleric-thwart-the-wicked",
+            "point": 1
+        },
+        {
+            "skill": "cleric-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "cleric-sanctity",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-major-i",
-        "cleric-major-ii",
-        "cleric-promotion-class-radical",
-        "cleric-promotion-class-crusader",
-        "cleric-promotion-class-arbiter"
+        "cleric-divine-presense"
     ],
     "locksSkill": []
 }

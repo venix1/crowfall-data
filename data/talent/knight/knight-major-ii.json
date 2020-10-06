@@ -6,11 +6,11 @@
     "icon": "knight-major-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 20,
+    "levelRequirement": 25,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-onslaught",
+            "skill": "knight-exploration-ii",
             "point": 1
         }
     ],

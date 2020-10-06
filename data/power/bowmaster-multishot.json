@@ -1,7 +1,7 @@
 {
     "id": "bowmaster-multishot",
     "name": "Multi-Shot",
-    "description": "launches five arrows at once striking enemies in a cone for 91 + 91% Weapon Damage.\\n\\nThis power's Maximum Range cannot be modified.",
+    "description": "launches five arrows at once striking enemies in a cone for 91 + 91% Weapon Damage and Shredding the enemies.\\n\\nThis power's Maximum Range cannot be modified.",
     "shortDescription": "Attack: Cone damage five enemies",
     "icon": "bowmaster-multishot.png",
     "stats": {

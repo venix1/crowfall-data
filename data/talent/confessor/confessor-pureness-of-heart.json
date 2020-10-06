@@ -1,0 +1,21 @@
+{
+    "id": "confessor-pureness-of-heart",
+    "name": "Pureness of Heart",
+    "class": "confessor",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "pureness-of-heart.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-promotion-class-inquisitor",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-salvation"
+    ],
+    "locksSkill": []
+}

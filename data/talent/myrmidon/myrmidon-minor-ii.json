@@ -6,16 +6,16 @@
     "icon": "myrmidon-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-ruthless-force",
-            "point": 3
+            "skill": "myrmidon-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-violent-might"
+        "myrmidon-exploration-ii"
     ],
     "locksSkill": []
 }

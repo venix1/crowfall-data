@@ -6,14 +6,16 @@
     "icon": "duelist-major-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 10,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-rapid-fire",
+            "skill": "duelist-exploration-i",
             "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "duelist-minor-ii"
+    ],
     "locksSkill": []
 }

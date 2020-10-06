@@ -1,0 +1,38 @@
+{
+    "id": "defender",
+    "name": "Defender",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-duelist-justice-or-dark",
+            "name": "Duelist, Justice or Dark"
+        }
+    ],
+    "icon": "defender.png",
+    "stats": [
+        {
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
+        },
+        {
+            "name": "Attack Power",
+            "value": "75"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "bowmaster-hunkerdown",
+            "name": "Hunker Down",
+            "description": "Field increases Damage; Resist All"
+        },
+        {
+            "id": "dig-in",
+            "name": "Dig In",
+            "description": "Passive: Crit Defense on Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

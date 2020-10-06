@@ -1,0 +1,29 @@
+{
+    "id": "banshee-wail",
+    "name": "Banshee Wail",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-nature-wind-or-storm",
+            "name": "Nature, Wind or Storm"
+        }
+    ],
+    "icon": "banshee-wail.png",
+    "stats": [
+        {
+            "name": "Electricity Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "banshee-banshee-wail",
+            "name": "Banshee Wail",
+            "description": "Attack: Reduce Movement Speed"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

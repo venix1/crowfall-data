@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-go-for-broke",
+            "skill": "duelist-inconceivable",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-exploration-i"
+        "duelist-keen-guard"
     ],
     "locksSkill": []
 }

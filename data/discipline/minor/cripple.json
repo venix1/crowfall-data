@@ -1,0 +1,29 @@
+{
+    "id": "cripple",
+    "name": "Cripple",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        }
+    ],
+    "icon": "cripple.png",
+    "stats": [
+        {
+            "name": "Piercing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "daggermaster-combo-1",
+            "name": "Cripple",
+            "description": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds."
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

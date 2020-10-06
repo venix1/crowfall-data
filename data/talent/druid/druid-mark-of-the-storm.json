@@ -2,27 +2,20 @@
     "id": "druid-mark-of-the-storm",
     "name": "Mark of the Storm",
     "class": "druid",
-    "description": "This talent grants the Electrogenesis passive power.",
+    "description": "Stat Adjustments:\\nCritical Strike +6%\\nCritical Damage +15%\\n\\nLife is the essence of druidic culture.\"\\n-Vyne of Sunset",
     "icon": "mark-of-the-storm.png",
     "maxPoints": 1,
-    "pointRequirement": 7,
+    "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [
-        {
-            "id": "electrogenesis",
-            "name": "Electrogenesis"
-        }
-    ],
+    "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-exploration-i",
+            "skill": "druid-call-storm",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-potential-energy",
-        "druid-yielding-roots",
-        "druid-magic-dance"
+        "druid-electrogenesis"
     ],
     "locksSkill": []
 }

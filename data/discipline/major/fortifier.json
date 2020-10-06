@@ -1,0 +1,38 @@
+{
+    "id": "fortifier",
+    "name": "Fortifier",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-stoneborn-protection-or-battle",
+            "name": "Stoneborn, Protection or Battle"
+        }
+    ],
+    "icon": "fortifier.png",
+    "stats": [
+        {
+            "name": "Barrier Bonus",
+            "value": "100"
+        },
+        {
+            "name": "Crushing Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "runecaster-sanctuary",
+            "name": "Sanctuary",
+            "description": "Field Increase Allies Resistances"
+        },
+        {
+            "id": "enemies-near-mitigation",
+            "name": "Overwhelming Odds",
+            "description": "Passive: Gain Resistance when Enemies Near"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

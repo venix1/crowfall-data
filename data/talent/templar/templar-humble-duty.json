@@ -2,20 +2,20 @@
     "id": "templar-humble-duty",
     "name": "Humble Duty",
     "class": "templar",
-    "description": "Humble Duty improves Maximum Health by 250 per point spent.",
+    "description": "Stat Adjustments:\\nCritical Heal Chance +6%\\nSelf Healing +4.5%\\n\\nMany in the templarum find the shackles of damnation too limiting, and do what they can to rehabilitate sinners.\"\\n-Confessions of Confessors",
     "icon": "humble-duty.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-righteous-stand",
+            "skill": "templar-devotion",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-reproach"
+        "templar-divine-power"
     ],
     "locksSkill": []
 }

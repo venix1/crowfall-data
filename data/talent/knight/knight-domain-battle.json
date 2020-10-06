@@ -1,0 +1,88 @@
+{
+    "id": "knight-domain-battle",
+    "name": "Domain: Battle",
+    "class": "knight",
+    "description": "Traits Granted:\\nDomain: Battle\\n\\nIn combat, there can be no half-measures. Survive, learn, and prevail no matter the cost.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Battle domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-battle.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-war-or-battle",
+            "name": "War or Battle"
+        },
+        {
+            "id": "trait-myrmidon-or-battle",
+            "name": "Myrmidon or Battle"
+        },
+        {
+            "id": "trait-battle",
+            "name": "Battle"
+        },
+        {
+            "id": "trait-stoneborn-protection-or-battle",
+            "name": "Stoneborn, Protection or Battle"
+        },
+        {
+            "id": "trait-half-giant-battle-or-music",
+            "name": "Half Giant, Battle or Music"
+        },
+        {
+            "id": "trait-war-or-battle",
+            "name": "War or Battle"
+        },
+        {
+            "id": "trait-frostweaver-templar-guinecean-or-battle",
+            "name": "Frostweaver, Templar, Guinecean or Battle"
+        },
+        {
+            "id": "trait-half-giant-shadow-justice-or-battle",
+            "name": "Half Giant, Shadow, Justice or Battle"
+        },
+        {
+            "id": "trait-fae",
+            "name": "Fae"
+        },
+        {
+            "id": "trait-wind-fire-frost-storm-justice-or-battle",
+            "name": "Wind, Fire, Frost, Storm, Justice or Battle"
+        },
+        {
+            "id": "trait-minotaur-fire-storm-or-battle",
+            "name": "Minotaur, Fire, Storm, or Battle"
+        },
+        {
+            "id": "trait-nethari-shadow-war-or-battle",
+            "name": "Nethari, Shadow, War or Battle"
+        },
+        {
+            "id": "trait-shadow-wind-frost-justice-or-battle",
+            "name": "Shadow, Wind, Frost, Justice or Battle"
+        },
+        {
+            "id": "trait-plague-battle-or-death",
+            "name": "Plague, Battle or Death"
+        },
+        {
+            "id": "trait-assassin-duelist-half-giant-human-war-battle-or-death",
+            "name": "Assassin, Duelist, Half Giant, Human, War, Battle or Death"
+        },
+        {
+            "id": "trait-assassin-half-giant-frost-war-or-battle",
+            "name": "Assassin, Half Giant, Frost, War or Battle"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-commanding-vow",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "knight-domain-justice",
+        "knight-domain-music"
+    ]
+}]
+}

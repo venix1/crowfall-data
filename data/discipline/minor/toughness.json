@@ -1,0 +1,29 @@
+{
+    "id": "toughness",
+    "name": "Toughness",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-templar-centaur-fire-or-music",
+            "name": "Templar, Centaur, Fire or Music"
+        }
+    ],
+    "icon": "toughness.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "juggernaut-toughness",
+            "name": "Toughness",
+            "description": "Group Increase Maximum Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

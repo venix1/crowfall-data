@@ -1,0 +1,25 @@
+{
+    "id": "blood-rose",
+    "name": "Blood Rose",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-human-nature-justice-or-dark",
+            "name": "Human, Nature, Justice or Dark"
+        }
+    ],
+    "icon": "blood-rose.png",
+    "stats": [
+        {
+            "name": "Piercing Resistance",
+            "value": "300"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_blood_rose"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

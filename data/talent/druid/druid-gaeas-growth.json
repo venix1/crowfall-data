@@ -1,0 +1,21 @@
+{
+    "id": "druid-gaeas-growth",
+    "name": "Gaea's Growth",
+    "class": "druid",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "gaeas-growth.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-promotion-class-archdruid",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-heart-of-the-wild"
+    ],
+    "locksSkill": []
+}

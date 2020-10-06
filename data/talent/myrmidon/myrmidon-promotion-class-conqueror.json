@@ -1,24 +1,34 @@
 {
     "id": "myrmidon-promotion-class-conqueror",
-    "name": "Promotion Class - Conqueror",
+    "name": "Promotion Class: Conqueror",
     "class": "myrmidon",
-    "description": "Role: Melee Control\\n\\nUsually known for recklessness, this thoughtful warrior knows the key to winning a fight is to hamper and control your opponents.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Conqueror promotion class and prevents access to the Battle Rager and Titan promotion classes.",
+    "description": "Role: Melee Control\\n\\nUsually known for recklessness, this thoughtful warrior knows the key to winning a fight is to hamper and control your opponents.\\n\\nStat Adjustments:\\nAttack Power +150\\nMovement Control Intensity +21%\\n\\nTraits Granted:\\nAxe Mastery\\nMace Mastery\\n\\nEnhancements:\\nWhirlwind: Now immune to crowd control while channeling.\\nNeck Slash: Now applies Suppression.\\nBerserk: Now escapes active crowd control and grants crowd control immunity.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Conqueror promotion class and prevents access to the Battle Rager and Titan promotion classes.",
     "icon": "promotion-class-conqueror.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-neck-slash",
+            "skill": "myrmidon-relentless",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-horrific-trauma"
+        "myrmidon-conqueror",
+        "myrmidon-go-for-the-eyes"
     ],
     "locksSkill": [
         "myrmidon-promotion-class-titan",
-        "myrmidon-promotion-class-battle-rager"
+        "myrmidon-promotion-class-battlerager"
     ]
 }

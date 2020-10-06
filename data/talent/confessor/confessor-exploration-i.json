@@ -2,25 +2,20 @@
     "id": "confessor-exploration-i",
     "name": "Exploration Discipline Slot",
     "class": "confessor",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "confessor-exploration-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 5,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-meteor-purge",
-            "point": 1
-        },
-        {
-            "skill": "confessor-condemnation",
+            "skill": "confessor-minor-i",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-minor-i",
-        "confessor-righteousness"
+        "confessor-major-i"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,30 @@
+{
+    "id": "nightstalker",
+    "name": "Nightstalker",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-death",
+            "name": "Death"
+        }
+    ],
+    "icon": "nightstalker.png",
+    "stats": [
+        {
+            "name": "Damage Bonus: Enemy Low Health",
+            "value": "5%"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_nightstalker_vampire_sight",
+        "power_discipline_nightstalker_feeding_time"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

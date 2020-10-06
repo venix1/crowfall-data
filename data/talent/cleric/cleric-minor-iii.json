@@ -1,8 +1,8 @@
 {
     "id": "cleric-minor-iii",
-    "name": "Minor Discipline Slot",
+    "name": "Additional Minor Discipline Slot",
     "class": "cleric",
-    "description": "Unlock a Minor Discipline slot.",
+    "description": "Unlock an additional Minor Discipline slot.",
     "icon": "cleric-minor-iii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,21 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-anointed",
-            "point": 3
+            "skill": "cleric-holy-aura",
+            "point": 1
+        },
+        {
+            "skill": "cleric-thwart-the-wicked",
+            "point": 1
+        },
+        {
+            "skill": "cleric-sanctity",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-reproval"
+        "cleric-sanctity",
+        "cleric-circle-of-life"
     ],
     "locksSkill": []
 }

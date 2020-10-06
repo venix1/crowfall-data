@@ -1,0 +1,87 @@
+{
+    "id": "cleric-domain-fire",
+    "name": "Domain: Fire",
+    "class": "cleric",
+    "description": "Traits Granted:\\nDomain: Fire\\n\\nAccording to the oldest stories, there is an eternal flame that burns within the world. It is said this fire is the source of power for Pyromancers.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fire domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-fire.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-confessor-or-fire",
+            "name": "Confessor or Fire"
+        },
+        {
+            "id": "trait-fire-frost-or-music",
+            "name": "Fire, Frost or Music"
+        },
+        {
+            "id": "trait-frostweaver-light-fire-or-justice",
+            "name": "Frostweaver, Light, Fire or Justice"
+        },
+        {
+            "id": "trait-nethari-fire-or-protection",
+            "name": "Nethari, Fire or Protection"
+        },
+        {
+            "id": "trait-cleric-or-fire",
+            "name": "Cleric or Fire"
+        },
+        {
+            "id": "trait-fire-or-frost",
+            "name": "Fire or Frost"
+        },
+        {
+            "id": "trait-light-fire-or-justice",
+            "name": "Light, Fire or Justice"
+        },
+        {
+            "id": "trait-centaur-light-or-fire",
+            "name": "Centaur, Light or Fire"
+        },
+        {
+            "id": "trait-wood-elf-wind-fire-storm-or-death",
+            "name": "Wood Elf, Wind, Fire, Storm, or Death"
+        },
+        {
+            "id": "trait-wind-fire-frost-storm-justice-or-battle",
+            "name": "Wind, Fire, Frost, Storm, Justice or Battle"
+        },
+        {
+            "id": "trait-minotaur-fire-storm-or-battle",
+            "name": "Minotaur, Fire, Storm, or Battle"
+        },
+        {
+            "id": "trait-guineceaan-shadow-fire-or-storm",
+            "name": "Guineceaan, Shadow, Fire or Storm"
+        },
+        {
+            "id": "trait-light-or-fire",
+            "name": "Light or Fire"
+        },
+        {
+            "id": "trait-minotaur-f-ire-war-or-music",
+            "name": "Minotaur, FIre, War or Music"
+        },
+        {
+            "id": "trait-myrmidon-stoneborn-plague-wind-fire-frost-or-death",
+            "name": "Myrmidon, Stoneborn, Plague, Wind, Fire, Frost or Death"
+        },
+        {
+            "id": "trait-templar-centaur-fire-or-music",
+            "name": "Templar, Centaur, Fire or Music"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-divine-purpose",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "cleric-domain-light",
+        "cleric-domain-storm"
+    ]
+}

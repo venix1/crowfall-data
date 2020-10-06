@@ -1,0 +1,21 @@
+{
+    "id": "assassin-dirty-tricks",
+    "name": "Dirty Tricks",
+    "class": "assassin",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "dirty-tricks.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-disengage",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-cloaked-in-shadow"
+    ],
+    "locksSkill": []
+}

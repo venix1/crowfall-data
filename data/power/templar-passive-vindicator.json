@@ -1,7 +1,7 @@
 {
     "id": "templar-passive-vindicator",
-    "name": "Vindicator",
-    "description": "modifies your Slashing Damage Bonus by the value of your Fire Damage Bonus.",
+    "name": "Inner Fire",
+    "description": "modifies your Slashing Damage Bonus by the value of your Fire Damage Bonus. Fire damage radiates to enemies around you when you gain Righteousness.",
     "shortDescription": "",
     "icon": "templar-passive-vindicator.png",
     "stats": {

@@ -1,0 +1,21 @@
+{
+    "id": "frost-armory-i",
+    "name": "Exploration Discipline Slot",
+    "class": "frostweaver",
+    "description": "Unlock an Exploration Discipline slot.",
+    "icon": "frost-armory-i.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 5,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-minor-i",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-major-i"
+    ],
+    "locksSkill": []
+}

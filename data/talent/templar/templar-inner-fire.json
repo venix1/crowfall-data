@@ -1,0 +1,26 @@
+{
+    "id": "templar-inner-fire",
+    "name": "Inner Fire",
+    "class": "templar",
+    "description": "This talent grants the Inner Fire passive power.",
+    "icon": "inner-fire.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "inner-fire",
+            "name": "Inner Fire"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-promotion-class-vindicator",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-warrior-of-vengeance"
+    ],
+    "locksSkill": []
+}

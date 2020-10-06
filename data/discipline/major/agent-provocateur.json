@@ -4,19 +4,19 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-stealther",
-            "name": "Stealther"
+            "id": "trait-guinecean-or-shadow",
+            "name": "Guinecean or Shadow"
         }
     ],
     "icon": "agent-provocateur.png",
     "stats": [
         {
-            "name": "Stealth",
-            "value": "5"
+            "name": "Movement Speed: Stealth",
+            "value": "5%"
         },
         {
-            "name": "Piercing Damage Bonus",
-            "value": "3%"
+            "name": "Movement Speed Damage Bonus",
+            "value": "5%"
         }
     ],
     "grantsPowers": [
@@ -26,23 +26,15 @@
             "description": "Stealth: Target Area Snare; Pierce Debuff"
         },
         {
-            "id": "agentprovocateur-stinkbomb",
-            "name": "Stink Bomb",
-            "description": "Stealth: Target Area Stun; Moderate Corruption"
-        },
-        {
             "id": "agentprovocateur-lay-low",
             "name": "Lay Low",
             "description": "Stealth: Heal Over Time"
-        },
-        {
-            "id": "agentprovocateur-preparation",
-            "name": "Preparation",
-            "description": "Passive: Generate Pips while Stealthed"
         }
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
+    "lore": "A slimy, double-crossing, no-good swindler!"
+}   "description": "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
     "lore": "A slimy, double-crossing, no-good swindler!"
 }

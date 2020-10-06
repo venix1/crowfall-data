@@ -1,0 +1,21 @@
+{
+    "id": "frostweaver-ice-block",
+    "name": "Ice Block",
+    "class": "frostweaver",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "ice-block.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-promotion-class-frostguard",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-frozen-solid"
+    ],
+    "locksSkill": []
+}

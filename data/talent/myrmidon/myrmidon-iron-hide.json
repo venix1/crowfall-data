@@ -1,0 +1,21 @@
+{
+    "id": "myrmidon-iron-hide",
+    "name": "Iron Hide",
+    "class": "myrmidon",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "iron-hide.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-promotion-class-battlerager",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-audacity"
+    ],
+    "locksSkill": []
+}

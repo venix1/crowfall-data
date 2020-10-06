@@ -1,0 +1,21 @@
+{
+    "id": "assassin-blackjack-toss",
+    "name": "Blackjack Toss",
+    "class": "assassin",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "blackjack-toss.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-promotion-class-vandal",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "assassin-ruthlessness"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,33 @@
+{
+    "id": "confessor-redemption",
+    "name": "Redemption",
+    "description": "throws up to ten fireballs in a row for 40 + 40% Fire Weapon Damage scaling up to 53 + 53 Weapon Damage based on the enemy's Sin. Zealotry cost is based on amount of fireballs thrown.",
+    "shortDescription": "Attack: Shoot Multiple Fireballs",
+    "icon": "confessor-redemption.png",
+    "stats": {
+        "weapon_damage_2_value": "53",
+        "max_damage_2": "53",
+        "min_damage_2": "53",
+        "weapon_damage_type": "Fire",
+        "weapon_damage_value": "40",
+        "max_damage_1": "40",
+        "min_damage_1": "40",
+        "cost_type": "Zealotry",
+        "cost": "100",
+        "range": "25",
+        "max_targets": "1",
+        "cooldown": "9",
+        "target": "Reticle",
+        "cast_time": "Channeled"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "confessor"
+    ]
+}

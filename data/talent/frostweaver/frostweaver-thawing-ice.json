@@ -1,0 +1,26 @@
+{
+    "id": "frostweaver-thawing-ice",
+    "name": "Thawing Ice",
+    "class": "frostweaver",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "thawing-ice.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-elegant-form",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-solidify",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "frostweaver-cold-to-the-touch",
+        "frostweaver-freezing-reign"
+    ],
+    "locksSkill": []
+}

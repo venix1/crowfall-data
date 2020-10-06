@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "druid-storm-avatar",
+            "skill": "druid-promotion-class-stormcaller",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-fury-of-the-storm"
+        "druid-weather-sense"
     ],
     "locksSkill": []
 }

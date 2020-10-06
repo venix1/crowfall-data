@@ -2,21 +2,26 @@
     "id": "myrmidon-pitiless",
     "name": "Pitiless",
     "class": "myrmidon",
-    "description": "Pitiless improves Attack Power by 50 per point spent.",
+    "description": "Stat Adjustments:\\nCrushing Damage +10%\\nCrushing Damage Cap +10%\\nSlashing Damage +10%\\nSlashing Damage Cap +10%\\nHard Control Intensity +21%\\n\\nThe Conqueror has made an artform out of decimating armies and razing villages to the ground.",
     "icon": "pitiless.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-horrific-trauma",
-            "point": 2
+            "skill": "myrmidon-conqueror",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-go-for-the-eyes",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-impenetrable-storm",
-        "myrmidon-torturous-wounding"
+        "myrmidon-domain-wind",
+        "myrmidon-domain-war",
+        "myrmidon-domain-music"
     ],
     "locksSkill": []
 }

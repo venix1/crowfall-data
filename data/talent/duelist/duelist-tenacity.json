@@ -2,21 +2,21 @@
     "id": "duelist-tenacity",
     "name": "Tenacity",
     "class": "duelist",
-    "description": "Tenacity improves Maximum Health by 350 per point spent.",
+    "description": "Stat Adjustments:\\nAttack Power +225\\nBasic Attack Damage +7.5%\\n\\n\"Rapiers are a special breed of bladed weapon and in turn require special training.\"\\n-Run Them Through! vol I",
     "icon": "tenacity.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-lurk-more",
-            "point": 2
+            "skill": "duelist-swashbuckler",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-spy-master",
-        "duelist-cheap-shots"
+        "duelist-rapid-fire",
+        "duelist-flintlock-shot"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,38 @@
+{
+    "id": "master-of-focus",
+    "name": "Master of Focus",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-fire-or-frost",
+            "name": "Fire or Frost"
+        }
+    ],
+    "icon": "master-of-focus.png",
+    "stats": [
+        {
+            "name": "Fire Damage Bonus",
+            "value": "2%"
+        },
+        {
+            "name": "Ice Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "focusmaster-piercing-orb",
+            "name": "Chaos Orb",
+            "description": "Attack: Slow Pulsing Damage Projectile"
+        },
+        {
+            "id": "focusmaster-mana-shield",
+            "name": "Mana Shield",
+            "description": "Mana Reinforced Barrier"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

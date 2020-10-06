@@ -5,7 +5,7 @@
     "description": "This talent grants the Second Wind passive power.",
     "icon": "second-wind.png",
     "maxPoints": 1,
-    "pointRequirement": 24,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
@@ -15,16 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-exploration-ii",
+            "skill": "champion-anger-management",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-major-i",
-        "champion-major-ii",
-        "champion-promotion-class-alpha-warrior",
-        "champion-promotion-class-pit-fighter",
-        "champion-promotion-class-barbarian"
+        "champion-animosity"
     ],
     "locksSkill": []
 }

@@ -2,7 +2,7 @@
     "id": "templar-indictment",
     "name": "Indictment",
     "class": "templar",
-    "description": "Indictment enhances Censure to award one Pip when you hit an enemy.",
+    "description": "Stat Adjustments:\\nCritical Damage +5%\\nAttack Power +65\\n\\n\"Lord Arkon, show me the righteous path and forge my course in flame.\"\\n-Templar Prayer",
     "icon": "indictment.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,13 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-ecstasy",
-            "point": 3
+            "skill": "templar-holy-warrior-righteous-stand",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-intercession"
+        "templar-judgement",
+        "templar-divine-light"
     ],
     "locksSkill": []
 }

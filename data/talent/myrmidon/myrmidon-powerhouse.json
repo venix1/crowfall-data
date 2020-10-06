@@ -2,20 +2,30 @@
     "id": "myrmidon-powerhouse",
     "name": "Powerhouse",
     "class": "myrmidon",
-    "description": "Powerhouse improves Armor Penetration: Physical by 1% per point spent.",
+    "description": "Stat Adjustments:\\nStamina +15\\nPower Efficiency +25\\n\\n\"Empress of the Sea, Daughter of Carnage, lend me your strength.\"\\n-Myrmidon Prayer",
     "icon": "powerhouse.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-ruthless-force",
-            "point": 3
+            "skill": "myrmidon-berserk-neck-slash",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-battle-scream",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-additional-minor-slot",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-violent-might"
+        "myrmidon-additional-minor-slot",
+        "myrmidon-arcing-slash",
+        "myrmidon-unstoppable"
     ],
     "locksSkill": []
 }

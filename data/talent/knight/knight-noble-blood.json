@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "knight-endurance",
-            "point": 3
+            "skill": "knight-vitality",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-bulwark"
+        "knight-pell-training",
+        "knight-hardiness"
     ],
     "locksSkill": []
 }

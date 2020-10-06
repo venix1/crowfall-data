@@ -1,7 +1,7 @@
 {
     "id": "druid-z-blight",
     "name": "Blight",
-    "description": "deploys a field causing each Coalesce Life orb to explode catastrophically for 108 + 108% Weapon Damage as Nature Damage while COALESCE NATURE orbs explode for 113 to 113 + 113% Weapon Damage as Nature Damage.\\n\\nEnemies caught in the field have their Nature and Electricity defenses reduced by 20%.",
+    "description": "deploys a field causing 108 + 108% Weapon Damage to enemies in the area.\\n\\nEnemies caught in the field have their Nature and Electricity defenses reduced by 20%.",
     "shortDescription": "",
     "icon": "druid-z-blight.png",
     "stats": {

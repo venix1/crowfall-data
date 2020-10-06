@@ -2,28 +2,20 @@
     "id": "ranger-below-the-belt",
     "name": "Below the Belt",
     "class": "ranger",
-    "description": "Below the Belt increases Power Damage Bonus: Behind by 5% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +5%\\nCritical Damage +15%\\n\\n\"Don't listen to anyone who critiques your work but has never stepped foot in the wilderness.\"\\n-Halfhorn",
     "icon": "below-the-belt.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-a-toll-is-a-toll",
-            "point": 1
-        },
-        {
-            "skill": "ranger-quick-arming",
-            "point": 1
-        },
-        {
-            "skill": "ranger-twin-surge",
+            "skill": "ranger-barrage",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-brigand"
+        "ranger-faerie-fire"
     ],
     "locksSkill": []
 }

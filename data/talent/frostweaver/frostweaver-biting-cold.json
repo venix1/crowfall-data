@@ -2,20 +2,21 @@
     "id": "frostweaver-biting-cold",
     "name": "Biting Cold",
     "class": "frostweaver",
-    "description": "Biting Cold improves Armor Penetration: Elemental by 1% per point spent.",
+    "description": "Stat Adjustments:\\nAttack Power +225\\nBasic Attack Damage +6%\\n\\n\"Through harnessing a fraction the power of the Hunger, perhaps we can learn how to destroy it...\"\\n-Edraele Al-Yllawenys",
     "icon": "biting-cold.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-stinging-strikes",
-            "point": 3
+            "skill": "frostweaver-freezing-blast",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-freezing-reign"
+        "frostweaver-crystal-lance",
+        "frostweaver-free-weaving-all-foci"
     ],
     "locksSkill": []
 }

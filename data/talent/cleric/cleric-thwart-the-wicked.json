@@ -2,7 +2,7 @@
     "id": "cleric-thwart-the-wicked",
     "name": "Thwart the Wicked",
     "class": "cleric",
-    "description": "Thwart the Wicked enhances Retaliate powers to recover 35 Stamina over 7 seconds.",
+    "description": "Stat Adjustments:\\nResist All +300\\nAnti Critical Strike +6%\\n\\n\"By Maeve, my hammer strike true. By Kane, my armor protect me. By Gaea, I remain steadfast and true.\"\\n-Cleric's Prayer",
     "icon": "thwart-the-wicked.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-anointed",
-            "point": 3
+            "skill": "cleric-hand-of-the-gods",
+            "point": 1
+        },
+        {
+            "skill": "cleric-holy-aura",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-reproval"
+        "cleric-minor-iii",
+        "cleric-circle-of-life",
+        "cleric-sun-burn"
     ],
     "locksSkill": []
 }

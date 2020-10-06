@@ -1,0 +1,25 @@
+{
+    "id": "serrated-trap",
+    "name": "Serrated Trap",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "icon": "serrated-trap.png",
+    "stats": [
+        {
+            "name": "Power Damage Bonus: Trap",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_serrated_trap"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

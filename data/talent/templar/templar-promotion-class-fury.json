@@ -1,13 +1,17 @@
 {
     "id": "templar-promotion-class-fury",
-    "name": "Promotion Class - Fury",
+    "name": "Promotion Class: Fury",
     "class": "templar",
-    "description": "Role: Melee Control\\n\\nHeavily armored and control focused, do not get near this defender of the fire.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fury promotion class and prevents access to the Paladin and Vindicator promotion classes.",
+    "description": "Role: Melee Control\\n\\nHeavily armored and control focused, do not get near this defender of the fire.\\n\\nStat Adjustments:\\nMovement Control Intensity +21%\\nHard Control Intensity +21%\\nFinal Mitigation Cap +15%\\n\\nTraits Granted:\\nGreat Sword Mastery\\nPlate Armor Proficiency\\n\\nEnhancements:\\nHoly Warrior: Now adds a Slow to melee attacks.\\nDevotion: Now cleanses crowd control effects on the Group when cast.\\nDivine Light: Now also inflicts Knockdown when deployed.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Fury promotion class and prevents access to the Paladin and Vindicator promotion classes.",
     "icon": "promotion-class-fury.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
+        {
+            "id": "trait-great-sword-mastery",
+            "name": "Great Sword Mastery"
+        },
         {
             "id": "trait-plate-armor-proficiency",
             "name": "Plate Armor Proficiency"
@@ -15,12 +19,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-resurrection",
+            "skill": "templar-magnificent-purpose",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-scourge"
+        "templar-fury",
+        "templar-penitence"
     ],
     "locksSkill": [
         "templar-promotion-class-vindicator",

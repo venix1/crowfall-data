@@ -5,7 +5,7 @@
     "description": "This talent grants the Massive Cleave power.",
     "icon": "massive-cleave.png",
     "maxPoints": 1,
-    "pointRequirement": 7,
+    "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [
         {
@@ -13,16 +13,10 @@
             "name": "Massive Cleave"
         }
     ],
-    "unlockedFromSkill": [
-        {
-            "skill": "champion-exploration-i",
-            "point": 1
-        }
-    ],
+    "unlockedFromSkill": [],
     "unlocksSkill": [
-        "champion-domination",
-        "champion-toughness",
-        "champion-ire"
+        "champion-guts",
+        "champion-enmity"
     ],
     "locksSkill": []
 }

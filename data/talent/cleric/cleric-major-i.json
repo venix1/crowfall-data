@@ -6,14 +6,16 @@
     "icon": "cleric-major-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 10,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-circle-of-life",
+            "skill": "cleric-exploration-i",
             "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "cleric-minor-ii"
+    ],
     "locksSkill": []
 }

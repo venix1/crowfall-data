@@ -1,0 +1,38 @@
+{
+    "id": "pack-leader",
+    "name": "Pack Leader",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-light-or-nature",
+            "name": "Light or Nature"
+        }
+    ],
+    "icon": "pack-leader.png",
+    "stats": [
+        {
+            "name": "Healing Bonus",
+            "value": "3%"
+        },
+        {
+            "name": "Critical Healing Chance",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "dryad-healing-orb-1",
+            "name": "Form Life",
+            "description": "Heal: Place Healing Orbs"
+        },
+        {
+            "id": "druid-avatar-pack",
+            "name": "Pack Avatar",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

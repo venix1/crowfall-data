@@ -1,15 +1,20 @@
 {
     "id": "finish-him",
-    "name": "Finish Him!",
+    "name": "Finish Him",
     "type": "minor",
     "trait": [
         {
-            "id": "trait-executioner",
-            "name": "Executioner"
+            "id": "trait-knight-frostweaver-frost-or-protection",
+            "name": "Knight, Frostweaver, Frost or Protection"
         }
     ],
     "icon": "finish-him.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "execute-bonus-damage",

@@ -1,0 +1,25 @@
+{
+    "id": "concussive-trap",
+    "name": "Concussive Trap",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "icon": "concussive-trap.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_faerietrapper_stun_trap"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

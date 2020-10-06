@@ -2,7 +2,7 @@
     "id": "templar-virtuous-light",
     "name": "Virtuous Light",
     "class": "templar",
-    "description": "Virtuous Light enhances Divine Light to heal without draining additional Righteousness pips from you each tick.",
+    "description": "Stat Adjustments:\\nFire Damage +10%\\nFire Damage Cap +10%\\nFinal Mitigation Cap +10%\\nCritical Healing Amount +12%\\nControl Defense +30%\\n\\nThe faith of the Paladin allows them to protect the ones they love—both through cure and pain.",
     "icon": "virtuous-light.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,16 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-divine-protection",
-            "point": 2
+            "skill": "templar-paladin",
+            "point": 1
         },
         {
-            "skill": "templar-moral-prerogative",
+            "skill": "templar-healing-burst",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-saintly-protection"
+        "templar-domain-light",
+        "templar-domain-protection",
+        "templar-domain-justice"
     ],
     "locksSkill": []
 }

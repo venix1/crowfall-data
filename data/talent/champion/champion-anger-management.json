@@ -1,0 +1,26 @@
+{
+    "id": "champion-anger-management",
+    "name": "Anger Management",
+    "class": "champion",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "anger-management.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-potency",
+            "point": 1
+        },
+        {
+            "skill": "champion-fortification",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-second-wind",
+        "champion-animosity"
+    ],
+    "locksSkill": []
+}

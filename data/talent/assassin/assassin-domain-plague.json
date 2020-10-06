@@ -1,0 +1,83 @@
+{
+    "id": "assassin-domain-plague",
+    "name": "Domain: Plague",
+    "class": "assassin",
+    "description": "Traits Granted:\\nDomain: Plague\\n\\nNowadays the sweet scent of death trails my steps like a fine perfume. I wonder, do my victims sense it as well?\\n\\n\\nWARNING: Purchasing this talent promotes you to the Plague domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-plague.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-plague-or-death",
+            "name": "Plague or Death"
+        },
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        },
+        {
+            "id": "trait-duelist-plague-or-death",
+            "name": "Duelist, Plague or Death"
+        },
+        {
+            "id": "trait-knight-stoneborn-plague-or-nature",
+            "name": "Knight, Stoneborn, Plague or Nature"
+        },
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        },
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        },
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        },
+        {
+            "id": "trait-plague-or-dark",
+            "name": "Plague or Dark"
+        },
+        {
+            "id": "trait-elken-or-plague",
+            "name": "Elken or Plague"
+        },
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        },
+        {
+            "id": "trait-plague-battle-or-death",
+            "name": "Plague, Battle or Death"
+        },
+        {
+            "id": "trait-plague-frost-or-protection",
+            "name": "Plague, Frost or Protection"
+        },
+        {
+            "id": "trait-myrmidon-stoneborn-plague-wind-fire-frost-or-death",
+            "name": "Myrmidon, Stoneborn, Plague, Wind, Fire, Frost or Death"
+        },
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        },
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "assassin-alligator-blood",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "assassin-domain-war",
+        "assassin-domain-death"
+    ]
+}

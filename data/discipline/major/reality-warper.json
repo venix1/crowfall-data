@@ -1,0 +1,38 @@
+{
+    "id": "reality-warper",
+    "name": "Reality Warper",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-frost-or-death",
+            "name": "Frost or Death"
+        }
+    ],
+    "icon": "reality-warper.png",
+    "stats": [
+        {
+            "name": "Movement Speed Damage Bonus",
+            "value": "5%"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "realitywarper-tear-reality",
+            "name": "Spiritual Decay",
+            "description": "Attack: Increase Enemy Cooldowns"
+        },
+        {
+            "id": "plaguelord-shrivel",
+            "name": "Shrivel",
+            "description": "Attack: Blackmantle; Disease; Expose Punish"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "Exploiting and bending reality is an aspect only a select few can possess. Manipulating time, altering the ability to heal and influencing incoming and outgoing damage are all features onle a warper of reality can master. For them, reality is just a suggestion.",
+    "lore": "There's no limit to how much you'll know, depending how far beyond reality you go."
+}

@@ -2,20 +2,43 @@
     "id": "champion-animosity",
     "name": "Animosity",
     "class": "champion",
-    "description": "Animosity improves Control Defense by 5% per point spent.",
+    "description": "This talent grants the Leap power.\\n\\nStat Adjustments:\\nHealth Regeneration +15\\nMaximum Rage +15",
     "icon": "animosity.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "leap",
+            "name": "Leap"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-ire",
-            "point": 3
+            "skill": "champion-dominant-smashing",
+            "point": 1
+        },
+        {
+            "skill": "champion-fast-counter-attack",
+            "point": 1
+        },
+        {
+            "skill": "champion-spinning-backfist",
+            "point": 1
+        },
+        {
+            "skill": "champion-anger-management",
+            "point": 1
+        },
+        {
+            "skill": "champion-second-wind",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-outrage"
+        "champion-promotion-class-alpha-warrior",
+        "champion-promotion-class-barbarian",
+        "champion-promotion-class-pit-fighter"
     ],
     "locksSkill": []
 }

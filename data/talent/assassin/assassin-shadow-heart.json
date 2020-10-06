@@ -2,20 +2,21 @@
     "id": "assassin-shadow-heart",
     "name": "Shadow Heart",
     "class": "assassin",
-    "description": "Shadow Heart improves Maximum Health by 150 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +450\\nAttack Power +150\\n\\n\"Lesson one: strike from a place of trust.\"\\n-Anonymous",
     "icon": "shadow-heart.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-kidney-shot",
+            "skill": "assassin-tools-of-the-trade",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-backstab"
+        "assassin-kidney-shot",
+        "assassin-garrote"
     ],
     "locksSkill": []
 }

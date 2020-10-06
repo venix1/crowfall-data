@@ -2,20 +2,26 @@
     "id": "ranger-tree-sparring",
     "name": "Tree Sparring",
     "class": "ranger",
-    "description": "Tree Sparring improves Maximum Health by 150 per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +3%\\nArmor Penetration: Physical +3%\\n\\n\"Rangers find a certain peace in the quiet moments when there’s no other person to be found for a hundred miles.\"\\n-So You Want to Range",
     "icon": "tree-sparring.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-rapid-fire",
+            "skill": "ranger-barrage",
+            "point": 1
+        },
+        {
+            "skill": "ranger-sweep",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-archers-stake"
+        "ranger-additional-minor-slot",
+        "ranger-alertness-flare-arrow",
+        "ranger-faerie-fire"
     ],
     "locksSkill": []
 }

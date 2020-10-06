@@ -1,0 +1,25 @@
+{
+    "id": "marked-for-death",
+    "name": "Marked for Death",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-nethari-shadow-war-or-battle",
+            "name": "Nethari, Shadow, War or Battle"
+        }
+    ],
+    "icon": "marked-for-death.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_speeddemon_marked_for_death"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

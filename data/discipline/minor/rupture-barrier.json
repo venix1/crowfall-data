@@ -1,0 +1,29 @@
+{
+    "id": "rupture-barrier",
+    "name": "Rupture Barrier",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-plague-frost-or-protection",
+            "name": "Plague, Frost or Protection"
+        }
+    ],
+    "icon": "rupture-barrier.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "shieldbreaker-barrier-hit-resource",
+            "name": "Rupture Barrier",
+            "description": "Passive: Increase Damage vs Barriers; Gain Resource"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

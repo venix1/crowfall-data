@@ -2,22 +2,20 @@
     "id": "assassin-deceptive-strength",
     "name": "Deceptive Strength",
     "class": "assassin",
-    "description": "Deceptive Strength improves High Health Damage Bonus by 2% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +3%\\nHigh Health Damage Bonus +10%\\n\\n\"In the name of the Lord of the Shadows, may my blade strike true and my poison burn deep.\"\\n-Assassin's Prayer",
     "icon": "deceptive-strength.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-tools-of-the-trade",
+            "skill": "assassin-shiv",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-dagger-storm",
-        "assassin-minor-iii",
-        "assassin-schadenfreude"
+        "assassin-efficient-poisons"
     ],
     "locksSkill": []
 }

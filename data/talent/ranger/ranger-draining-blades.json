@@ -1,0 +1,26 @@
+{
+    "id": "ranger-draining-blades",
+    "name": "Draining Blades",
+    "class": "ranger",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "draining-blades.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-quick-arming",
+            "point": 1
+        },
+        {
+            "skill": "ranger-tree-sap-blood",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-from-the-shadows",
+        "ranger-hunting-party"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "duelist-swashbuckler",
+    "name": "Swashbuckler",
+    "class": "duelist",
+    "description": "This talent grants the Pepperbox Shot and Impale power.",
+    "icon": "swashbuckler.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "pepperbox-shot",
+            "name": "Pepperbox Shot"
+        },
+        {
+            "id": "impale",
+            "name": "Impale"
+        }
+    ],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "duelist-tenacity",
+        "duelist-guile"
+    ],
+    "locksSkill": []
+}

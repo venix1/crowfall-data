@@ -1,0 +1,29 @@
+{
+    "id": "faerie-trap",
+    "name": "Faerie Trap",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "icon": "faerie-trap.png",
+    "stats": [
+        {
+            "name": "Power Damage Bonus: Trap",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "ranger-trap-faerie-melee",
+            "name": "Faerie Trap",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

@@ -2,28 +2,43 @@
     "id": "frostweaver-freezing-reign",
     "name": "Freezing Reign",
     "class": "frostweaver",
-    "description": "Freezing Reign improves Critical Strike by 2% per point spent.",
+    "description": "This talent grants the Shatter Storm power.\\n\\nStat Adjustments:\\nCombat Mana Regeneration +9\\nOut of Combat Mana Regeneration +30",
     "icon": "freezing-reign.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "shatter-storm",
+            "name": "Shatter Storm"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-biting-cold",
-            "point": 2
-        },
-        {
-            "skill": "frostweaver-minor-ii",
+            "skill": "frostweaver-blizzard",
             "point": 1
         },
         {
-            "skill": "frostweaver-shatter-storm",
+            "skill": "frostweaver-bitter-cold",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-refreshing-breeze",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-thawing-ice",
+            "point": 1
+        },
+        {
+            "skill": "frostweaver-cold-to-the-touch",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-exploration-ii"
+        "frostweaver-promotion-class-archmage",
+        "frostweaver-promotion-class-icecaller",
+        "frostweaver-promotion-class-frostguard"
     ],
     "locksSkill": []
 }

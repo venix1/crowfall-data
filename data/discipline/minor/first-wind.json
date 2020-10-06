@@ -1,0 +1,25 @@
+{
+    "id": "first-wind",
+    "name": "First Wind",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-light-storm-or-death",
+            "name": "Light, Storm or Death"
+        }
+    ],
+    "icon": "first-wind.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_runescarredgladiator_first_wind"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

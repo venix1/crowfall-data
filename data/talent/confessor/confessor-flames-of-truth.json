@@ -13,10 +13,14 @@
             "name": "Flames Of Truth"
         }
     ],
-    "unlockedFromSkill": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-meteor-purge",
+            "point": 1
+        }
+    ],
     "unlocksSkill": [
-        "confessor-vendetta",
-        "confessor-heart-of-flame"
+        "confessor-tools-of-justice"
     ],
     "locksSkill": []
 }

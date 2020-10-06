@@ -4,19 +4,19 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-dagger-proficiency",
-            "name": "Dagger Proficiency"
+            "id": "trait-plague-or-dark",
+            "name": "Plague or Dark"
         }
     ],
     "icon": "poisoner.png",
     "stats": [
         {
-            "name": "Armor Penetration: Poison",
-            "value": "3%"
+            "name": "Poison Damage Bonus",
+            "value": "2%"
         },
         {
-            "name": "Organic Resistance",
-            "value": "300"
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
         }
     ],
     "grantsPowers": [
@@ -26,16 +26,6 @@
             "description": "Attack: Adds the poison debuff to an enemy."
         },
         {
-            "id": "daggermaster-slow-demise-1",
-            "name": "Slow Demise",
-            "description": "Attack: Reduces the amount an enemy can be healed and inflicts a large amount of damage."
-        },
-        {
-            "id": "poisoner-cleanse",
-            "name": "Mithridatism",
-            "description": "Buff: Remove poison debuff from yourself."
-        },
-        {
             "id": "poisoner-poison-basic",
             "name": "Poisoned Weapons",
             "description": "Passive: Adds the poison debuff to an enemy on every third Basic attack."
@@ -43,6 +33,6 @@
     ],
     "grantsSlot": [],
     "grantsTrait": [],
-    "description": "Poison is one of the most inconspicuous and often underappreciated forms of punishment. From the depths of the shadows to the dining halls of kings and queens, poison takes many forms with the intention to finish off a target swiftly and with minimal retaliation.",
-    "lore": "You have no idea how close I am to ending your life with the flick of a poisoned blade or just a dash of liquid from a small vial."
+    "description": ".",
+    "lore": "."
 }

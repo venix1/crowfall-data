@@ -1,0 +1,38 @@
+{
+    "id": "paragon",
+    "name": "Paragon",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-frostweaver-templar-guinecean-or-battle",
+            "name": "Frostweaver, Templar, Guinecean or Battle"
+        }
+    ],
+    "icon": "paragon.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Anti-Critical Strike",
+            "value": "3%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "fieldsurgeon-rehabilitation",
+            "name": "Rehabilitation",
+            "description": "Target Heal Ally Over Time Scaling with Stamina"
+        },
+        {
+            "id": "dig-in",
+            "name": "Dig In",
+            "description": "Passive: Crit Defense on Low Health"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,20 +2,21 @@
     "id": "assassin-brutal-fury",
     "name": "Brutal Fury",
     "class": "assassin",
-    "description": "Brutal Fury improves Critical Strike by 1% per point spent.",
+    "description": "Stat Adjustments:\\nBasic Attack Damage +6%\\nCritical Damage +15%\\n\\n\"From shadows you came, to shadows you shall return.\"\\n-Fae Proverb",
     "icon": "brutal-fury.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-kidney-shot",
+            "skill": "assassin-tools-of-the-trade",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-backstab"
+        "assassin-shiv",
+        "assassin-kidney-shot"
     ],
     "locksSkill": []
 }

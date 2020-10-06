@@ -4,27 +4,22 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-blunt-weapon-training",
-            "name": "Blunt Weapon Training"
+            "id": "trait-nethari-fire-or-protection",
+            "name": "Nethari, Fire or Protection"
         }
     ],
     "icon": "holy-avenger.png",
     "stats": [
         {
-            "name": "Armor Penetration: Crushing",
+            "name": "Armor Penetration: Fire",
             "value": "3%"
         },
         {
-            "name": "Crushing Damage Bonus",
-            "value": "3%"
+            "name": "Holy Damage Bonus",
+            "value": "2%"
         }
     ],
     "grantsPowers": [
-        {
-            "id": "holyavenger-hammer-1",
-            "name": "Grabthar's Hammer",
-            "description": "Attack: Stun an enemy"
-        },
         {
             "id": "holyavenger-battle-chant",
             "name": "Battle Chant",
@@ -34,15 +29,12 @@
             "id": "holyavenger-suns-of-worvan",
             "name": "Suns Of Worvan",
             "description": "Barrier negates Fire damage"
-        },
-        {
-            "id": "holyavenger-dmg-buff-on-death",
-            "name": "You Shall Be Avenged",
-            "description": "Passive: Increase Damage on Group death"
         }
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "Tapping into your motivation and channeling it into your current situation is key; no one else is as in tune with their surroundings as that of the Holy Avenger. The opposition may consider you a scene-stealing hack but you know your methods are superior to others. Always remember the battle chant of your brethren: never give up, never surrender!",
+    "lore": "Crows often discover new cultures and combat techniques as they travel the galaxies."
+}their surroundings as that of the Holy Avenger. The opposition may consider you a scene-stealing hack but you know your methods are superior to others. Always remember the battle chant of your brethren: never give up, never surrender!",
     "lore": "Crows often discover new cultures and combat techniques as they travel the galaxies."
 }

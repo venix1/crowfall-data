@@ -1,7 +1,7 @@
 {
     "id": "confessor-talent-cleansing-fire",
     "name": "Cleansing Fire",
-    "description": "reacts whenever DoT effects are applied to you, there is a chance to trigger Cleansing Fire which will cleanse all DoT effects currently applied to you, as well as heal you once for each type of DoT removed.\\n\\nAdditionally all your Basic Attacks apply Elemental Break to enemies.",
+    "description": "reacts whenever DoT effects are applied to you, there is a chance to trigger Cleansing Fire which will cleanse all DoT effects currently applied to you, as well as heal you once for each type of DoT removed.",
     "shortDescription": "",
     "icon": "confessor-talent-cleansing-fire.png",
     "stats": {

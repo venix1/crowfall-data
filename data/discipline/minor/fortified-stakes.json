@@ -1,0 +1,25 @@
+{
+    "id": "fortified-stakes",
+    "name": "Fortified Stakes",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-nature-or-dark",
+            "name": "Nature or Dark"
+        }
+    ],
+    "icon": "fortified-stakes.png",
+    "stats": [
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_fortified_stakes"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

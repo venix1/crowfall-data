@@ -2,20 +2,30 @@
     "id": "champion-potency",
     "name": "Potency",
     "class": "champion",
-    "description": "Potency improves Maximum Stamina by 5 per point spent and Power Efficiency by 8 per point spent.",
+    "description": "Stat Adjustments:\\nPower Efficiency +24\\nStamina +15\\n\\n\"Beginning as berserkers of the battlefield, the rank of champion soon came into its own as a legitimate profession.\"\\n-A History of Gladiators",
     "icon": "potency.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-toughness",
-            "point": 3
+            "skill": "champion-throw-hurlbat",
+            "point": 1
+        },
+        {
+            "skill": "champion-demoralizing-shout",
+            "point": 1
+        },
+        {
+            "skill": "champion-minor-iii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-fortification"
+        "champion-minor-iii",
+        "champion-blood-rage",
+        "champion-anger-management"
     ],
     "locksSkill": []
 }

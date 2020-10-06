@@ -1,0 +1,29 @@
+{
+    "id": "song-of-speed",
+    "name": "Song of Speed",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-music",
+            "name": "Music"
+        }
+    ],
+    "icon": "song-of-speed.png",
+    "stats": [
+        {
+            "name": "Song Duration",
+            "value": "6"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "bard-accelerando",
+            "name": "Song Of Speed",
+            "description": "Song: Increase Group Movement Speed"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

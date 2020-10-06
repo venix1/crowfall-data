@@ -2,28 +2,30 @@
     "id": "templar-shining-armor",
     "name": "Shining Armor",
     "class": "templar",
-    "description": "Shining Armor improves Resist All by 100 per point spent.",
+    "description": "Stat Adjustments:\\nStamina +15\\nPlate Decay Rate +15%\\n\\n\"Your redemption need not be through flame alone.\"\\n-Acolyte Kárvouno",
     "icon": "shining-armor.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-magnificent-purpose",
-            "point": 2
-        },
-        {
-            "skill": "templar-holy-warrior",
+            "skill": "templar-divine-light",
             "point": 1
         },
         {
-            "skill": "templar-grace",
+            "skill": "templar-devotion",
+            "point": 1
+        },
+        {
+            "skill": "templar-additional-minor-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-exploration-ii"
+        "templar-additional-minor-slot",
+        "templar-reproach",
+        "templar-divine-power"
     ],
     "locksSkill": []
 }

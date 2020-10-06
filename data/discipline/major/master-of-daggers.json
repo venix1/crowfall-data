@@ -1,0 +1,38 @@
+{
+    "id": "master-of-daggers",
+    "name": "Master of Daggers",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-assassin",
+            "name": "Assassin"
+        }
+    ],
+    "icon": "master-of-daggers.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Piercing",
+            "value": "3%"
+        },
+        {
+            "name": "Piercing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "daggermaster-combo-1",
+            "name": "Cripple",
+            "description": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds."
+        },
+        {
+            "id": "blackmask-shadows-linger",
+            "name": "Shadows Linger",
+            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

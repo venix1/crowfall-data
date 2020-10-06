@@ -1,8 +1,8 @@
 {
     "id": "confessor-minor-iii",
-    "name": "Minor Discipline Slot",
+    "name": "Additional Minor Discipline Slot",
     "class": "confessor",
-    "description": "Unlock a Minor Discipline slot.",
+    "description": "Unlock an additional Minor Discipline slot.",
     "icon": "confessor-minor-iii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,21 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-rapture",
-            "point": 3
+            "skill": "confessor-fervor",
+            "point": 1
+        },
+        {
+            "skill": "confessor-revelation",
+            "point": 1
+        },
+        {
+            "skill": "confessor-zeal",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-persecution"
+        "confessor-zeal",
+        "confessor-meteor-purge"
     ],
     "locksSkill": []
 }

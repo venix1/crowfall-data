@@ -6,24 +6,16 @@
     "icon": "assassin-exploration-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 20,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-killers-instinct",
-            "point": 2
-        },
-        {
-            "skill": "assassin-born-in-darkness",
-            "point": 2
-        },
-        {
-            "skill": "assassin-aggression",
-            "point": 2
+            "skill": "assassin-minor-ii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-enter-the-shadows"
+        "assassin-major-ii"
     ],
     "locksSkill": []
 }

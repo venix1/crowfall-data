@@ -2,21 +2,26 @@
     "id": "knight-commanding-vow",
     "name": "Commanding Vow",
     "class": "knight",
-    "description": "Commanding Vow improves Attack Power by 75 per point spent.",
+    "description": "Stat Adjustments:\\nCrushing Damage +10%\\nCrushing Damage Cap +10%\\nPower Efficiency +15%\\nPower Efficiency Cap +15%\\nHard Crowd Control +18%\\n\\nThe mace might be a blunt weapon, but the tactical genius of the Sentinel is not.",
     "icon": "commanding-vow.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-promotion-class-swordsman",
+            "skill": "knight-macemanship",
+            "point": 1
+        },
+        {
+            "skill": "knight-paralyzing-shout",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-mercy",
-        "knight-fortified-shield-slam"
+        "knight-domain-battle",
+        "knight-domain-justice",
+        "knight-domain-music"
     ],
     "locksSkill": []
 }

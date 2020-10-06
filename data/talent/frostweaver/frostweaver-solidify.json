@@ -2,22 +2,20 @@
     "id": "frostweaver-solidify",
     "name": "Solidify",
     "class": "frostweaver",
-    "description": "Solidify improves Armor by 60 per point spent and Personal Damage Modifier by 1% per point spent.",
+    "description": "Stat Adjustments:\\nStamina +15\\nPersonal Damage Modifier +5%\\n\\n\"In the pursuit of knowledge, I am unwavering.\"\\n-Frosweaver Creed",
     "icon": "solidify.png",
-    "maxPoints": 5,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "frostweaver-free-weaving",
+            "skill": "frostweaver-frost-armor",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "frostweaver-permafrost",
-        "frostweaver-slush-fund",
-        "frostweaver-chill-out"
+        "frostweaver-thawing-ice"
     ],
     "locksSkill": []
 }

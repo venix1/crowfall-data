@@ -2,7 +2,7 @@
     "id": "templar-executioner",
     "name": "Executioner",
     "class": "templar",
-    "description": "Executioner enhances Execute to remove its Pip cost.",
+    "description": "Stat Adjustments:\\nCritical Strike +5%\\nCritical Damage +10%\\n\\n\"Heretics will find no mercy at the edge of my blade.\"\\n-Templar Creed",
     "icon": "executioner.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "templar-fiery-devotion",
+            "skill": "templar-judgement",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-holy-avenger"
+        "templar-righteous-reflect"
     ],
     "locksSkill": []
 }

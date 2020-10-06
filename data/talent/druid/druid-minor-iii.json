@@ -1,8 +1,8 @@
 {
     "id": "druid-minor-iii",
-    "name": "Minor Discipline Slot",
+    "name": "Additional Minor Discipline Slot",
     "class": "druid",
-    "description": "Unlock a Minor Discipline slot.",
+    "description": "Unlock an additional Minor Discipline slot.",
     "icon": "druid-minor-iii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,21 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-magic-dance",
-            "point": 3
+            "skill": "druid-barkskin",
+            "point": 1
+        },
+        {
+            "skill": "druid-flow-of-nature",
+            "point": 1
+        },
+        {
+            "skill": "druid-foresight",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-loved-by-the-sun"
+        "druid-foresight",
+        "druid-shroud-of-darkness"
     ],
     "locksSkill": []
 }

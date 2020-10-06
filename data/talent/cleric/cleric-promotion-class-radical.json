@@ -1,24 +1,42 @@
 {
     "id": "cleric-promotion-class-radical",
-    "name": "Promotion Class - Radical",
+    "name": "Promotion Class: Radical",
     "class": "cleric",
-    "description": "Role: Ranged Damage\\n\\nUnpopular with members of their order for sacrificing healing for more potent throwing hammers.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Radical promotion class and prevents access to the Crusader and Arbiter promotion classes.",
+    "description": "Role: Ranged Damage\\n\\nUnpopular with members of their order for sacrificing healing for more potent throwing hammers.\\n\\nStat Adjustments:\\nAttack Power +225\\nReduce Basic Attack Cost -XXX%\\n\\nTraits Granted:\\nThrowing Hammer Mastery\\nHammer Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nHoly Symbol: Now no longer heals, but damages enemies.\\nIlluminate: Now increases Critical Chance with each hit until you score three Critical hits.\\nFlash Of Light: Transforms into Searing Light.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Radical promotion class and prevents access to the Crusader and Arbiter promotion classes.",
     "icon": "promotion-class-radical.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
+        },
+        {
+            "id": "trait-medium-shield-mastery",
+            "name": "Medium Shield Mastery"
+        },
+        {
+            "id": "trait-hammer-mastery",
+            "name": "Hammer Mastery"
+        },
+        {
+            "id": "searing-light",
+            "name": "Searing Light"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-circle-of-life",
+            "skill": "cleric-transcendence",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-malediction"
+        "cleric-radical",
+        "cleric-word-of-wrath"
     ],
     "locksSkill": [
-        "cleric-promotion-class-crusader",
-        "cleric-promotion-class-arbiter"
+        "cleric-promotion-class-arbiter",
+        "cleric-promotion-class-crusader"
     ]
 }

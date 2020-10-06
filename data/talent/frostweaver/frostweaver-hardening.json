@@ -2,9 +2,9 @@
     "id": "frostweaver-hardening",
     "name": "Hardening",
     "class": "frostweaver",
-    "description": "Humble Duty improves Maximum Health by 150 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +450\\nArmor +300\\n\\n\"Crystals in the frostcaster—resistant to heat and magically influenced—overtake the metal frame and allow the Frostweaver to cast icy magic at will.\"\\n-Treatise on Frostcasters",
     "icon": "hardening.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
@@ -15,7 +15,8 @@
         }
     ],
     "unlocksSkill": [
-        "frostweaver-ice-weave"
+        "frostweaver-free-weaving-all-foci",
+        "frostweaver-frost-armor"
     ],
     "locksSkill": []
 }

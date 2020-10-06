@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-minotaur-f-ire-war-or-music",
+            "name": "Minotaur, FIre, War or Music"
         }
     ],
     "icon": "last-resort.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "low-health-crit-buff",

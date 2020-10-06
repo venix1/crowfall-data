@@ -1,0 +1,29 @@
+{
+    "id": "scarecrow-aura-of-terror",
+    "name": "Aura Of Terror",
+    "description": "surrounds you with a chilling aura of palpable fear that automatically reveals Stealthed enemies. \\n\\nEnemies who remain nearby for too long are Suppressed and then afflicted with Frostbite.",
+    "shortDescription": "Lingering Enemies Suffer Frostbite; Suppression",
+    "icon": "scarecrow-aura-of-terror.png",
+    "stats": {
+        "weapon_damage_type": "Piercing",
+        "weapon_damage_value": "133",
+        "max_damage_1": "133",
+        "min_damage_1": "133",
+        "cost_type": "Resource",
+        "cost": "16",
+        "range": "5",
+        "cooldown": "30",
+        "target": "Self",
+        "cast_time": "Instant"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "anyone"
+    ]
+}

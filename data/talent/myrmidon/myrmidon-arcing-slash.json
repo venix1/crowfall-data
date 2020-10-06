@@ -15,12 +15,20 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-cast-net",
+            "skill": "myrmidon-shredded",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-additional-minor-slot",
+            "point": 1
+        },
+        {
+            "skill": "myrmidon-powerhouse",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-exploration-i"
+        "myrmidon-cast-net"
     ],
     "locksSkill": []
 }

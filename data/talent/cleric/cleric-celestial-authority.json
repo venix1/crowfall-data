@@ -2,28 +2,26 @@
     "id": "cleric-celestial-authority",
     "name": "Celestial Authority",
     "class": "cleric",
-    "description": "Celestial Authority improves Hard Control Intensity by 5% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Heal Chance +6%\\nCritical Heal Amount +9%\\nFinal Mitigation Cap +15%\\nHoly Damage +10%\\nHoly Damage Cap +10%\\n\\nThrough the light of their devotion on their side, Crusaders see to their allies' wounds.",
     "icon": "celestial-authority.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-big-hands",
+            "skill": "cleric-crusader",
             "point": 1
         },
         {
-            "skill": "cleric-wrathful-illumination",
-            "point": 1
-        },
-        {
-            "skill": "cleric-divine-alacrity",
+            "skill": "cleric-blessed-protection",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-arbiter"
+        "cleric-domain-justice",
+        "cleric-domain-light",
+        "cleric-domain-protection"
     ],
     "locksSkill": []
 }

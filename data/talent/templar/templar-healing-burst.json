@@ -1,0 +1,21 @@
+{
+    "id": "templar-healing-burst",
+    "name": "Healing Burst",
+    "class": "templar",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "healing-burst.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-promotion-class-paladin",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-virtuous-light"
+    ],
+    "locksSkill": []
+}

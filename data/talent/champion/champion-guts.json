@@ -2,20 +2,21 @@
     "id": "champion-guts",
     "name": "Guts",
     "class": "champion",
-    "description": "Guts improves Critical Strike by 1% per point spent.",
+    "description": "Stat Adjustments:\\nCritical Strike +3%\\nCritical Damage +15%\\n\\n\"By Maeve's War Cry, I cleave my enemies in two.\"\\n-Champion's Prayer",
     "icon": "guts.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "champion-spinning-backfist",
+            "skill": "champion-massive-cleave",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-leap"
+        "champion-vicious-stomp",
+        "champion-throw-hurlbat"
     ],
     "locksSkill": []
 }

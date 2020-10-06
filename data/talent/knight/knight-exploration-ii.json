@@ -2,28 +2,20 @@
     "id": "knight-exploration-ii",
     "name": "Exploration Discipline Slot",
     "class": "knight",
-    "description": "Unlock a Exploration Discipline slot.",
+    "description": "Unlock an Exploration Discipline slot.",
     "icon": "knight-exploration-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 20,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-into-the-fray",
-            "point": 2
-        },
-        {
-            "skill": "knight-bulwark",
-            "point": 2
-        },
-        {
-            "skill": "knight-pell-training",
-            "point": 2
+            "skill": "knight-minor-ii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-onslaught"
+        "knight-major-ii"
     ],
     "locksSkill": []
 }

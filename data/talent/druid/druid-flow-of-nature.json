@@ -2,7 +2,7 @@
     "id": "druid-flow-of-nature",
     "name": "Flow of Nature",
     "class": "druid",
-    "description": "Flow of Nature improves all Coalesce Life Orbs by 25%.",
+    "description": "Stat Adjustments:\\nSelf Healing +5%\\nOrb Healing +25%\\n\\n\"Through individual worship, many Druids hope to embody some fraction of the love Gaea gave to the universe.\"\\n-Gaea: Life, Death, and Memory",
     "icon": "flow-of-nature.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,12 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-yielding-roots",
-            "point": 3
+            "skill": "druid-call-storm",
+            "point": 1
+        },
+        {
+            "skill": "druid-barkskin",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-ironwood-skin"
+        "druid-minor-iii",
+        "druid-shroud-of-darkness",
+        "druid-electrogenesis"
     ],
     "locksSkill": []
 }

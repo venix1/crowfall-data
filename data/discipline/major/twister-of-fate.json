@@ -1,0 +1,38 @@
+{
+    "id": "twister-of-fate",
+    "name": "Twister of Fate",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-fae",
+            "name": "Fae"
+        }
+    ],
+    "icon": "twister-of-fate.png",
+    "stats": [
+        {
+            "name": "Physical Resistance",
+            "value": "300"
+        },
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "militantmage-blade-turning",
+            "name": "Blade Turning",
+            "description": "Barrier Negates Slashing Damage"
+        },
+        {
+            "id": "runecaster-fortification",
+            "name": "Fortification",
+            "description": "Group Increase Health Max"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

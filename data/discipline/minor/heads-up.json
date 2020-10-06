@@ -1,0 +1,29 @@
+{
+    "id": "heads-up",
+    "name": "Heads Up",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-light-music-or-dark",
+            "name": "Light, Music or Dark"
+        }
+    ],
+    "icon": "heads-up.png",
+    "stats": [
+        {
+            "name": "Perception",
+            "value": "15"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "molehunter-heads-up",
+            "name": "Heads Up",
+            "description": "Group increase Perception; Remove Expose"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

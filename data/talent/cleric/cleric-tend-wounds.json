@@ -15,12 +15,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "cleric-illuminate",
+            "skill": "cleric-prudence",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-exploration-i"
+        "cleric-sanctity",
+        "cleric-empathy"
     ],
     "locksSkill": []
 }

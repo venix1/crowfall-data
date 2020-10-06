@@ -1,8 +1,8 @@
 {
     "id": "knight-promotion-class-secutor",
-    "name": "Promotion Class - Secutor",
+    "name": "Promotion Class: Secutor",
     "class": "knight",
-    "description": "Role: Melee Defense\\n\\nA stalwart defender who is a master of fighting with all forms of shields.\\n\\nIncreases by 15%:\\nFinal Mitigations Cap\\n\\nTraits Granted:\\nPlate Armor Proficiency\\n\\n\\nWARNING: Purchasing this talent promotes you to the Secutor promotion class and prevents access to the Swordsman and Sentinel promotion classes.",
+    "description": "Role: Melee Defense\\n\\nA stalwart defender who is a master of fighting with all forms of shields.\\n\\nStat Adjustments:\\nHealth +1500\\nControl Defense +30%\\nFinal Mitigations Cap +15%\\n\\nTraits Granted:\\nAxe Mastery\\nLongsword Mastery\\nMace Mastery\\nShort Sword Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\nTower Shield Mastery\\nPlate Armor Proficiency\\n\\nEnhancements:\\nShield Slam and Shield Swipe: Now have increased damage.\\nPursuit: Now adds a Barrier.\\nChain Attack: Now resets the cooldown on [NOPOWER] after a successful hit.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Secutor promotion class and prevents access to the Swordsman and Sentinel promotion classes.",
     "icon": "promotion-class-secutor.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -11,16 +11,49 @@
         {
             "id": "trait-plate-armor-proficiency",
             "name": "Plate Armor Proficiency"
+        },
+        {
+            "id": "trait-longsword-mastery",
+            "name": "Longsword Mastery"
+        },
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
+        },
+        {
+            "id": "trait-short-sword-mastery",
+            "name": "Short Sword Mastery"
+        },
+        {
+            "id": "trait-medium-shield-mastery",
+            "name": "Medium Shield Mastery"
+        },
+        {
+            "id": "trait-buckler-mastery",
+            "name": "Buckler Mastery"
+        },
+        {
+            "id": "trait-tower-shield-proficiency",
+            "name": "Tower Shield Proficiency"
+        },
+        {
+            "id": "trait-tower-shield-mastery",
+            "name": "Tower Shield Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "knight-onslaught",
+            "skill": "knight-into-the-fray",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "knight-unstoppable"
+        "knight-revenge",
+        "knight-redirected-strikes"
     ],
     "locksSkill": [
         "knight-promotion-class-swordsman",

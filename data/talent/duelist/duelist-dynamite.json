@@ -15,12 +15,12 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "duelist-quick-draw",
+            "skill": "duelist-promotion-class-slayer",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-bewildering-offense"
+        "duelist-dead-eye"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,21 @@
+{
+    "id": "cleric-divine-presense",
+    "name": "Divine Presense",
+    "class": "cleric",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "divine-presense.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-circle-of-life",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-transcendence"
+    ],
+    "locksSkill": []
+}

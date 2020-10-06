@@ -1,0 +1,38 @@
+{
+    "id": "fencer",
+    "name": "Fencer",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-assassin-or-ranger",
+            "name": "Assassin or Ranger"
+        }
+    ],
+    "icon": "fencer.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Piercing",
+            "value": "3%"
+        },
+        {
+            "name": "Piercing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "rapiermaster-cut-thrust-1",
+            "name": "Cut And Thrust",
+            "description": "Attack: Stun vs Block or Parry"
+        },
+        {
+            "id": "pistolmaster-critical-dodge",
+            "name": "Critical Dodge",
+            "description": "Passive: Critical Strikes Restore Dodge"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

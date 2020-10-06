@@ -1,0 +1,27 @@
+{
+    "id": "templar-moral-perogative",
+    "name": "Moral Perogative",
+    "class": "templar",
+    "description": "Stat Adjustments:\\nFire Damage +10%\\nFire Damage Cap +10%\\nSlashing Damage +10%\\nSlashing Damage Cap +10%\\nMovement Control Intensity +21%\\nHard Control Intensity +21%\\n\\nEnough fire can cook someone alive in their metal armor.",
+    "icon": "moral-perogative.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "templar-fury",
+            "point": 1
+        },
+        {
+            "skill": "templar-penitence",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "templar-domain-fire",
+        "templar-domain-protection",
+        "templar-domain-music"
+    ],
+    "locksSkill": []
+}

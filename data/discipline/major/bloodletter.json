@@ -1,0 +1,34 @@
+{
+    "id": "bloodletter",
+    "name": "Bloodletter",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-war",
+            "name": "War"
+        }
+    ],
+    "icon": "bloodletter.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        },
+        {
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "fieldsurgeon-purgative",
+            "name": "Purgative",
+            "description": "Group Cleanse Damage Over Time with Healing"
+        },
+        "power_discipline_bloodletter_exanguinate"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

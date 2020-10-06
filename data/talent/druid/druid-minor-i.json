@@ -6,14 +6,11 @@
     "icon": "druid-minor-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 1,
     "grants": [],
-    "unlockedFromSkill": [
-        {
-            "skill": "druid-exploration-i",
-            "point": 1
-        }
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "druid-exploration-i"
     ],
-    "unlocksSkill": [],
     "locksSkill": []
 }

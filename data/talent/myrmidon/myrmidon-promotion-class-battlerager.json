@@ -1,0 +1,38 @@
+{
+    "id": "myrmidon-promotion-class-battlerager",
+    "name": "Promotion Class: Battlerager",
+    "class": "myrmidon",
+    "description": "Role: Melee Defense\\n\\nTempering reckless abandon with caution, this fighter has the defenses to survive the worst battlefields.\\n\\nStat Adjustments:\\nHealth +525\\nFinal Mitigations +15%\\n\\nTraits Granted:\\nAxe Mastery\\nMace Mastery\\nPlate Armor Proficiency\\n\\nEnhancements:\\nWhirlwind: Now applies a Barrier.\\nNeck Slash: Now mitigates 50% of crash damage for 3 seconds after use.\\nBerserk: Now heals per second damage taken, deals all damage when crash happens.  Striking a Bleeding target grants a 50% mitigation for 3 seconds for the crash.  Gains Damage bonus based on damage taken while Berserking.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Battle Rager promotion class and prevents access to the Titan and Conqueror promotion classes.",
+    "icon": "promotion-class-battlerager.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
+        },
+        {
+            "id": "trait-plate-armor-proficiency",
+            "name": "Plate Armor Proficiency"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "myrmidon-relentless",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "myrmidon-indomitable",
+        "myrmidon-iron-hide"
+    ],
+    "locksSkill": [
+        "myrmidon-promotion-class-titan",
+        "myrmidon-promotion-class-conqueror"
+    ]
+}

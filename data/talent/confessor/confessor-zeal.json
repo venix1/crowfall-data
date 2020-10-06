@@ -2,7 +2,7 @@
     "id": "confessor-zeal",
     "name": "Zeal",
     "class": "confessor",
-    "description": "Basic Attacks deal 20% more damage for 12 seconds after completely casting Fervor.",
+    "description": "Stat Adjustments:\\nHealth +150\\nStamina +15\\n\\n\"Pay no mind to those outside the Church who call themselves Confessor. Their judgement is soon at hand.\"\\n-Legate Brann",
     "icon": "zeal.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,13 +10,22 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-lawful",
-            "point": 2
+            "skill": "confessor-fervor",
+            "point": 1
+        },
+        {
+            "skill": "confessor-condemnation",
+            "point": 1
+        },
+        {
+            "skill": "confessor-minor-iii",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-frenzied-righteousness",
-        "confessor-flames-of-arkon"
+        "confessor-minor-iii",
+        "confessor-meteor-purge",
+        "confessor-cleansing-fire"
     ],
     "locksSkill": []
 }

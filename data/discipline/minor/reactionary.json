@@ -1,0 +1,29 @@
+{
+    "id": "reactionary",
+    "name": "Reactionary",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-shadow-nature-or-justice",
+            "name": "Shadow, Nature or Justice"
+        }
+    ],
+    "icon": "reactionary.png",
+    "stats": [
+        {
+            "name": "Critical Damage",
+            "value": "5%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "underdog-retaliate",
+            "name": "Deadly Retaliation",
+            "description": "Retaliate with High Crit Chance"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

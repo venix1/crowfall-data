@@ -1,0 +1,29 @@
+{
+    "id": "underdog",
+    "name": "Underdog",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-myrmidon-human-war-or-death",
+            "name": "Myrmidon, Human, War or Death"
+        }
+    ],
+    "icon": "underdog.png",
+    "stats": [
+        {
+            "name": "Slashing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "underdog-attackpower-on-kd",
+            "name": "Underdog",
+            "description": "Passive: Gain Attack Power when Stunned; Knocked Down"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

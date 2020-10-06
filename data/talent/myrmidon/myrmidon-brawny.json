@@ -2,20 +2,21 @@
     "id": "myrmidon-brawny",
     "name": "Brawny",
     "class": "myrmidon",
-    "description": "Brawny improves Maximum Health by 150 per point spent.",
+    "description": "Stat Adjustments:\\nHealth +450\\nResist All +375\\n\\n\"The myrmidon's wild, sweeping rampage is best suited for when they're surrounded by enemies.\"\\n-Wild Wartides Vol. III",
     "icon": "brawny.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-bloody-swipe",
+            "skill": "myrmidon-bloodied-swipe",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-cast-net"
+        "myrmidon-berserk-neck-slash",
+        "myrmidon-battle-scream"
     ],
     "locksSkill": []
 }

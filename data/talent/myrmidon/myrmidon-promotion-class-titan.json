@@ -1,24 +1,34 @@
 {
     "id": "myrmidon-promotion-class-titan",
-    "name": "Promotion Class - Titan",
+    "name": "Promotion Class: Titan",
     "class": "myrmidon",
-    "description": "Role: Melee Damage\\n\\nA furious berserker who becomes deadlier when focusing their attention on bleeding opponents.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Titan promotion class and prevents access to the Battle Rager and Conqueror promotion classes.",
+    "description": "Role: Melee Damage\\n\\nA furious berserker who becomes deadlier when focusing their attention on bleeding opponents.\\n\\nStat Adjustments:\\nAttack Power +150\\nCritical Strike +6%\\n\\nTraits Granted:\\nAxe Mastery\\nMace Mastery\\n\\nEnhancements:\\nWhirlwind: Now grants a stacking buff per hit that increases Fury regeneration and Whirlwind damage.\\nNeck Slash: Now enabled on Gore, Colossus Smash, Net Pull, and Cross Gashes.\\nBerserk: Now heals per second damage taken, deals all damage when crash happens, you cannot drop below 1 Health.  Gain damage bonus every second for damage dealth.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Titan promotion class and prevents access to the Battle Rager and Conqueror promotion classes.",
     "icon": "promotion-class-titan.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
+        },
+        {
+            "id": "trait-axe-mastery",
+            "name": "Axe Mastery"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "myrmidon-neck-slash",
+            "skill": "myrmidon-relentless",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "myrmidon-vicious-cruelty"
+        "myrmidon-titan",
+        "myrmidon-pulverize"
     ],
     "locksSkill": [
-        "myrmidon-promotion-class-battle-rager",
-        "myrmidon-promotion-class-conqueror"
+        "myrmidon-promotion-class-conqueror",
+        "myrmidon-promotion-class-battlerager"
     ]
 }

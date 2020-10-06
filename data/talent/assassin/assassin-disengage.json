@@ -15,12 +15,20 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-backstab",
+            "skill": "assassin-opportunist",
+            "point": 1
+        },
+        {
+            "skill": "assassin-minor-iii",
+            "point": 1
+        },
+        {
+            "skill": "assassin-vigor",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-exploration-i"
+        "assassin-dirty-tricks"
     ],
     "locksSkill": []
 }

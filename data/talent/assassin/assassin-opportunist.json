@@ -2,7 +2,7 @@
     "id": "assassin-opportunist",
     "name": "Opportunist",
     "class": "assassin",
-    "description": "Opportunist enhances Backstab to deal 10% more damage when used from behind an enemy.",
+    "description": "Stat Adjustments:\\nBackstab Damage +10%\\nBackstab Critical Strike +9%\\n\\n\"Above all things, an assassin must have patience.\"\\n-Maera, Master Assassin",
     "icon": "opportunist.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -10,16 +10,18 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "assassin-cruel-blades",
-            "point": 2
+            "skill": "assassin-shiv",
+            "point": 1
         },
         {
-            "skill": "assassin-kiss-of-death",
+            "skill": "assassin-kidney-shot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-killers-gift"
+        "assassin-minor-iii",
+        "assassin-disengage",
+        "assassin-efficient-poisons"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,95 @@
+{
+    "id": "frostweaver-domain-dark",
+    "name": "Domain: Dark",
+    "class": "frostweaver",
+    "description": "Traits Granted:\\nDomain: Dark\\n\\nTake care where you step in the dark woods, traveler. If you hear a voice calling your name, do not answer, no matter how sweetly it cries.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Dark domain group and prevents access to the other two domain groups for your class.",
+    "icon": "domain-dark.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        },
+        {
+            "id": "trait-ranger-half-elf-or-dark",
+            "name": "Ranger, Half Elf or Dark"
+        },
+        {
+            "id": "trait-duelist-justice-or-dark",
+            "name": "Duelist, Justice or Dark"
+        },
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        },
+        {
+            "id": "trait-wood-elf-or-light",
+            "name": "Wood Elf or Light"
+        },
+        {
+            "id": "trait-plague-or-dark",
+            "name": "Plague or Dark"
+        },
+        {
+            "id": "trait-wind-or-dark",
+            "name": "Wind or Dark"
+        },
+        {
+            "id": "trait-elken-or-plague",
+            "name": "Elken or Plague"
+        },
+        {
+            "id": "trait-human-nature-justice-or-dark",
+            "name": "Human, Nature, Justice or Dark"
+        },
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        },
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        },
+        {
+            "id": "trait-nature-or-dark",
+            "name": "Nature or Dark"
+        },
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        },
+        {
+            "id": "trait-nature-or-dark",
+            "name": "Nature or Dark"
+        },
+        {
+            "id": "trait-light-music-or-dark",
+            "name": "Light, Music or Dark"
+        },
+        {
+            "id": "trait-assassin-duelist-stealth-or-dark",
+            "name": "Assassin, Duelist, Stealth or Dark"
+        },
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        },
+        {
+            "id": "trait-dark",
+            "name": "Dark"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "frostweaver-frozen-solid",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "frostweaver-domain-frost",
+        "frostweaver-domain-death"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "holy-warrior",
+    "name": "Holy Warrior",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-templar",
+            "name": "Templar"
+        }
+    ],
+    "icon": "holy-warrior.png",
+    "stats": [
+        {
+            "name": "Armor Penetration: Slashing",
+            "value": "2%"
+        },
+        {
+            "name": "Critical Strike",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "swordmaster-res-combo-1",
+            "name": "Restoration Strike",
+            "description": "Attack: Restore Resource"
+        },
+        "power_discipline_transcendentwarrior_guiding_light"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

@@ -2,20 +2,43 @@
     "id": "templar-magnificent-purpose",
     "name": "Magnificent Purpose",
     "class": "templar",
-    "description": "Magnificent Purpose improves Critical Healing Chance by 2% per point spent.",
+    "description": "This talent grants the Censure power.\\n\\nStat Adjustments:\\nHealth +350\\nHealth Regeneration +15",
     "icon": "magnificent-purpose.png",
-    "maxPoints": 3,
+    "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "censure",
+            "name": "Censure"
+        }
+    ],
     "unlockedFromSkill": [
         {
-            "skill": "templar-divine-favor",
-            "point": 3
+            "skill": "templar-retribution",
+            "point": 1
+        },
+        {
+            "skill": "templar-righteous-reflect",
+            "point": 1
+        },
+        {
+            "skill": "templar-blinding-light",
+            "point": 1
+        },
+        {
+            "skill": "templar-divine-power",
+            "point": 1
+        },
+        {
+            "skill": "templar-righteous-defense",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "templar-shining-armor"
+        "templar-promotion-class-vindicator",
+        "templar-promotion-class-fury",
+        "templar-promotion-class-paladin"
     ],
     "locksSkill": []
 }

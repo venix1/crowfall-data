@@ -1,0 +1,31 @@
+{
+    "id": "cleric-sanctity",
+    "name": "Sanctity",
+    "class": "cleric",
+    "description": "Stat Adjustments:\\nMax Stamina +15%\\nPower Efficiency +24%\\n\\n\"The horrors of war send most fleeing. Many of those who feel the pull to run towards the mayhem become clerics.\"\\n-Big Book of Holiness",
+    "icon": "sanctity.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-holy-aura",
+            "point": 1
+        },
+        {
+            "skill": "cleric-tend-wounds",
+            "point": 1
+        },
+        {
+            "skill": "cleric-minor-iii",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-minor-iii",
+        "cleric-circle-of-life",
+        "cleric-noble-purpose"
+    ],
+    "locksSkill": []
+}

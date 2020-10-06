@@ -4,12 +4,17 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-eternal-crow",
-            "name": "Eternal Crow"
+            "id": "trait-assassin-champion-cleric-confessor-druid-duelist-frostweaver-knight-myrmidon-ranger-or-templar",
+            "name": "Assassin, Champion, Cleric, Confessor, Druid, Duelist, Frostweaver, Knight, Myrmidon, Ranger or Templar"
         }
     ],
     "icon": "thornshield.png",
-    "stats": [],
+    "stats": [
+        {
+            "name": "Organic Resistance",
+            "value": "300"
+        }
+    ],
     "grantsPowers": [
         {
             "id": "thornshield",

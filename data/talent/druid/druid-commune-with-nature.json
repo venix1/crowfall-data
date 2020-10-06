@@ -1,0 +1,26 @@
+{
+    "id": "druid-commune-with-nature",
+    "name": "Commune With Nature",
+    "class": "druid",
+    "description": "This talent grants the Commune With Nature passive power.",
+    "icon": "commune-with-nature.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "commune-with-nature",
+            "name": "Commune With Nature"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-ironwood-body",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-lines-of-force"
+    ],
+    "locksSkill": []
+}

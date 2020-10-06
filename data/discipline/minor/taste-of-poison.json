@@ -1,0 +1,25 @@
+{
+    "id": "taste-of-poison",
+    "name": "Taste of Poison",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-plague",
+            "name": "Plague"
+        }
+    ],
+    "icon": "taste-of-poison.png",
+    "stats": [
+        {
+            "name": "Poison Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        "power_discipline_taste_of_poison"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

@@ -1,7 +1,7 @@
 {
     "id": "fieldsurgeon-rehabilitation",
     "name": "Rehabilitation",
-    "description": "tends an ally's wounds healing 53 + 8.4% Support Power plus an additional 0.61 Health for every point of Stamina. \\n\\nRehabilitation heals two times over six seconds.",
+    "description": "tends your wounds healing 53 + 8.4% Support Power plus an additional 0.61 Health for every point of Stamina. \\n\\nRehabilitation heals two times over six seconds.",
     "shortDescription": "Target Heal Ally Over Time Scaling with Stamina",
     "icon": "fieldsurgeon-rehabilitation.png",
     "stats": {

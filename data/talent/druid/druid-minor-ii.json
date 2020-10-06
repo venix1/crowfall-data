@@ -6,16 +6,16 @@
     "icon": "druid-minor-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 15,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-potential-energy",
-            "point": 3
+            "skill": "druid-major-i",
+            "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-lines-of-force"
+        "druid-exploration-ii"
     ],
     "locksSkill": []
 }

@@ -4,45 +4,27 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-archery-practice",
-            "name": "Archery Practice"
+            "id": "trait-assassin-myrmidon-ranger-or-high-elf",
+            "name": "Assassin, Myrmidon, Ranger or High Elf"
         }
     ],
     "icon": "arcane-archer.png",
     "stats": [
         {
             "name": "Ice Damage Bonus",
-            "value": "3%"
+            "value": "2%"
         },
         {
             "name": "Fire Damage Bonus",
-            "value": "3%"
-        },
-        {
-            "name": "Ranged Distance Bonus",
-            "value": "5(m)"
+            "value": "2%"
         }
     ],
     "grantsPowers": [
-        {
-            "id": "arcanearcher-aoe-root",
-            "name": "Binding Arrows",
-            "description": "Attack: Ground Target Area Root"
-        },
-        {
-            "id": "bowmaster-multishot",
-            "name": "Multi-Shot",
-            "description": "Attack: Cone damage five enemies"
-        },
+        "power_discipline_arcanearcher_arcane_arrow",
         {
             "id": "arcanearcher-barrier",
             "name": "Arcane Barrier",
             "description": "Gain a Barrier, and Elemental Barrier Resistance"
-        },
-        {
-            "id": "arcanearcher-ooc-movement",
-            "name": "Way Of The Trails",
-            "description": "Passive: Increase Out of Combat Movement"
         }
     ],
     "grantsSlot": [
@@ -68,6 +50,12 @@
         },
         {
             "id": "trait-spellbound-bow-proficiency",
+            "name": "Spellbound Bow Proficiency"
+        }
+    ],
+    "description": "The Arcane Archer is one of the most deadly of mystical manipulators. Harnessing the power of the elements allows the archer to root their enemies while also creating protective barriers and enhancing their quickness with an unrivaled adroitness.",
+    "lore": "With my bow and arrows I rain down the elements upon my enemy, slowing them and prolonging their agony as I swiftly maneuver to my next target."
+}y",
             "name": "Spellbound Bow Proficiency"
         }
     ],

@@ -1,0 +1,38 @@
+{
+    "id": "heavy-hitter",
+    "name": "Heavy Hitter",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-half-giant-battle-or-music",
+            "name": "Half Giant, Battle or Music"
+        }
+    ],
+    "icon": "heavy-hitter.png",
+    "stats": [
+        {
+            "name": "Damage Bonus: Enemy High Health",
+            "value": "5%"
+        },
+        {
+            "name": "Crushing Damage Bonus",
+            "value": "2%"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "macemaster-stun-reverberating-blow",
+            "name": "Reverberating Blow",
+            "description": "Attack: Target enemy pulses damaging aura"
+        },
+        {
+            "id": "enemies-near-mitigation",
+            "name": "Overwhelming Odds",
+            "description": "Passive: Gain Resistance when Enemies Near"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

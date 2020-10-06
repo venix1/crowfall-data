@@ -1,0 +1,21 @@
+{
+    "id": "ranger-pass-without-trace",
+    "name": "Pass Without Trace",
+    "class": "ranger",
+    "description": "This talent grants the [NOPOWER] passive power.",
+    "icon": "pass-without-trace.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-promotion-class-brigand",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-cloaked-in-moss"
+    ],
+    "locksSkill": []
+}

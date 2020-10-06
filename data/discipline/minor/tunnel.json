@@ -1,0 +1,29 @@
+{
+    "id": "tunnel",
+    "name": "Tunnel",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-guinecean",
+            "name": "Guinecean"
+        }
+    ],
+    "icon": "tunnel.png",
+    "stats": [
+        {
+            "name": "Stealth",
+            "value": "10"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "duelist-stealth-tunnel",
+            "name": "Tunnel",
+            "description": ""
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

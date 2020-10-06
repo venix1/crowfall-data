@@ -1,0 +1,27 @@
+{
+    "id": "ranger-barrage",
+    "name": "Barrage",
+    "class": "ranger",
+    "description": "This talent grants the Barrage power.",
+    "icon": "barrage.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "barrage",
+            "name": "Barrage"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "ranger-military-training",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "ranger-tree-sparring",
+        "ranger-below-the-belt"
+    ],
+    "locksSkill": []
+}

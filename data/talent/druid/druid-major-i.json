@@ -6,14 +6,16 @@
     "icon": "druid-major-i.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 0,
+    "levelRequirement": 10,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "druid-natures-cornerstone",
+            "skill": "druid-exploration-i",
             "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "druid-minor-ii"
+    ],
     "locksSkill": []
 }

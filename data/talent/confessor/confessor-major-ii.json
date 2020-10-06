@@ -6,11 +6,11 @@
     "icon": "confessor-major-ii.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 20,
+    "levelRequirement": 25,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "confessor-hellfire",
+            "skill": "confessor-exploration-ii",
             "point": 1
         }
     ],

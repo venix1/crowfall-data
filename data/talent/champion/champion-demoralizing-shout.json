@@ -1,0 +1,22 @@
+{
+    "id": "champion-demoralizing-shout",
+    "name": "Demoralizing Shout",
+    "class": "champion",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "demoralizing-shout.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-enmity",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-potency",
+        "champion-fortification"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,17 @@
+{
+    "id": "confessor-fire-bolt",
+    "name": "Fire Bolt",
+    "class": "confessor",
+    "description": "This talent grants the [NOPOWER] power.",
+    "icon": "fire-bolt.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [],
+    "unlocksSkill": [
+        "confessor-repent",
+        "confessor-poise"
+    ],
+    "locksSkill": []
+}

@@ -1,0 +1,29 @@
+{
+    "id": "revenge",
+    "name": "Revenge",
+    "type": "minor",
+    "trait": [
+        {
+            "id": "trait-light-or-frost",
+            "name": "Light or Frost"
+        }
+    ],
+    "icon": "revenge.png",
+    "stats": [
+        {
+            "name": "Health",
+            "value": "500"
+        }
+    ],
+    "grantsPowers": [
+        {
+            "id": "molehunter-revenge-vs-stealth",
+            "name": "Revenge",
+            "description": "Passive: Increase Critical % after Stealth Attacked"
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": "",
+    "lore": "."
+}

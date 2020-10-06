@@ -2,31 +2,25 @@
     "id": "champion-alpha-warrior",
     "name": "Alpha Warrior",
     "class": "champion",
-    "description": "This talent grants the Alpha Warrior passive power.\\n\\nIncreases by 10%:\\nSlashing Damage Bonus\\nCrushing Damage Bonus\\nSlashing Damage Cap\\nCrushing Damage Cap\\n\\nTraits Granted:\\nGreat Axe Mastery\\nGreat Mace Mastery",
+    "description": "This talent grants the Alpha Warrior passive power.",
     "icon": "alpha-warrior.png",
     "maxPoints": 1,
     "pointRequirement": 0,
-    "levelRequirement": 25,
+    "levelRequirement": 0,
     "grants": [
         {
             "id": "alpha-warrior",
             "name": "Alpha Warrior"
-        },
-        {
-            "id": "trait-great-axe-mastery",
-            "name": "Great Axe Mastery"
-        },
-        {
-            "id": "trait-great-mace-mastery",
-            "name": "Great Mace Mastery"
         }
     ],
     "unlockedFromSkill": [
         {
-            "skill": "champion-barbarity",
-            "point": 2
+            "skill": "champion-promotion-class-alpha-warrior",
+            "point": 1
         }
     ],
-    "unlocksSkill": [],
+    "unlocksSkill": [
+        "champion-ferociousness"
+    ],
     "locksSkill": []
 }

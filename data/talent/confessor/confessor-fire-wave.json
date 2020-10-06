@@ -1,0 +1,21 @@
+{
+    "id": "confessor-fire-wave",
+    "name": "Fire Wave",
+    "class": "confessor",
+    "description": "This talent grants the Confessor_Hellfire_2_name power.",
+    "icon": "fire-wave.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "confessor-promotion-class-fanatic",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "confessor-persecution"
+    ],
+    "locksSkill": []
+}
