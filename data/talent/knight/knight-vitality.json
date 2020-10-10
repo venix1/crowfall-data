@@ -15,8 +15,8 @@
         }
     ],
     "unlocksSkill": [
-        "knight-shield-slam",
-        "knight-noble-blood"
+        "knight-noble-blood",
+        "knight-shield-bash"
     ],
     "locksSkill": []
 }

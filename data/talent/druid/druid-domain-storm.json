@@ -71,13 +71,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "druid-loved-by-the-sun",
+            "skill": "druid-heart-of-the-wild",
             "point": 1
         }
     ],
     "unlocksSkill": [],
     "locksSkill": [
-        "druid-domain-nature",
-        "druid-domain-light"
+        "druid-domain-dark",
+        "druid-domain-nature"
     ]
 }}

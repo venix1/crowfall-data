@@ -2,7 +2,7 @@
     "id": "ranger-military-training",
     "name": "Military Training",
     "class": "ranger",
-    "description": "Stat Adjustments:\\nAttack Power +150%\\nBasic Attack Damage +6%\\n\\n\"Dawn in the forest is worth almost as much as those keep fortification plans I just sold.\"\\n-Ace of Summertide",
+    "description": "Stat Adjustments:\\nAttack Power +150\\nBasic Attack Damage +6%\\n\\n\"Dawn in the forest is worth almost as much as those keep fortification plans I just sold.\"\\n-Ace of Summertide",
     "icon": "military-training.png",
     "maxPoints": 1,
     "pointRequirement": 0,

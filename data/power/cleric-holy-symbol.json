@@ -1,7 +1,7 @@
 {
     "id": "cleric-holy-symbol",
     "name": "Holy Symbol",
-    "description": "summons a celestial force at the targeted position chain healing the closest ally and up to two others for 32 + 12.8% Support Power every three seconds for 15 seconds or until it has healed 30 times.",
+    "description": "summons a celestial force at the targeted position healing up to five allies in the area for 32 + 12.8% Support Power every three seconds for 15 seconds.",
     "shortDescription": "",
     "icon": "cleric-holy-symbol.png",
     "stats": {

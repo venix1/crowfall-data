@@ -28,11 +28,27 @@
         {
             "id": "poisoner-poison-basic",
             "name": "Poisoned Weapons",
-            "description": "Passive: Adds the poison debuff to an enemy on every third Basic attack."
+            "description": "Passive: Basic attacks now deal Poison damage."
+        }
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [
+        {
+            "id": "trait-poison-toxin-training",
+            "name": "Poison Toxin Training"
+        }
+    ],
+    "description": ".",
+    "lore": "."
+}       },
+        {
+            "id": "poisoner-poison-basic",
+            "name": "Poisoned Weapons",
+            "description": "Passive: Basic attacks now deal Poison damage."
         }
     ],
     "grantsSlot": [],
     "grantsTrait": [],
-    "description": ".",
-    "lore": "."
+    "description": "Poison is one of the most inconspicuous and often underappreciated forms of punishment. From the depths of the shadows to the dining halls of kings and queens, poison takes many forms with the intention to finish off a target swiftly and with minimal retaliation.",
+    "lore": "You have no idea how close I am to ending your life with the flick of a poisoned blade or just a dash of liquid from a small vial."
 }

@@ -2,7 +2,7 @@
     "id": "friar-indulgence",
     "name": "Indulgence",
     "description": "cleanses you and become immune to Sin and buffs your $buff_type_1$ by $buff_amount_1$ for 30 seconds.",
-    "shortDescription": "Gain Sin immunity",
+    "shortDescription": "Gain Sin immunity, Fire Resistance",
     "icon": "friar-indulgence.png",
     "stats": {
         "weapon_damage_value": "100",

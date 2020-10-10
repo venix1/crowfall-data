@@ -18,8 +18,8 @@
     "grantsPowers": [
         {
             "id": "standardbearer-ooc-regen",
-            "name": "Bearers Insignia",
-            "description": "Passive: Increase Out of Combat Regeneration"
+            "name": "Bearer's Insignia",
+            "description": "Passive: Increase Out of Combat Regeneration; Gain Resources when healing"
         }
     ],
     "grantsSlot": [],

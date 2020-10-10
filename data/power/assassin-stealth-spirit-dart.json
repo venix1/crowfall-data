@@ -1,7 +1,7 @@
 {
     "id": "assassin-stealth-spirit-dart",
     "name": "Spirit Dart",
-    "description": "launches a Spirit Dart at an enemy, dealing damage and activating Crippling Poisons on your attacks. If you attack an Exposed target with Spirit Dart, the cooldown of your next Spirit Dart is reduced. Spirit dart does not use a charge of poison when used.\\n\\nThis power will return you to Stealth if you take no damage while executing.",
+    "description": "launches a Spirit Dart at an enemy, dealing damage and applying a Crippling Poison to them. If you attack an Exposed target with Spirit Dart, the cooldown of your next Spirit Dart is reduced. Spirit dart does not use a charge of poison when used.\\n\\nThis power will return you to Stealth if you take no damage while executing.",
     "shortDescription": "",
     "icon": "assassin-stealth-spirit-dart.png",
     "stats": {

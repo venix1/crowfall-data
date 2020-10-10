@@ -24,7 +24,7 @@
         {
             "id": "underdog-retalite-low-hp-knockdown",
             "name": "Death Throws",
-            "description": "Passive: Area Knockdown on Retaliation at Low Health"
+            "description": "Passive: Area Knockdown on Retaliation"
         }
     ],
     "grantsSlot": [],

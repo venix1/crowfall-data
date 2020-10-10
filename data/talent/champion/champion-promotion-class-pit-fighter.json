@@ -2,7 +2,7 @@
     "id": "champion-promotion-class-pit-fighter",
     "name": "Promotion Class: Pit Fighter",
     "class": "champion",
-    "description": "Role: Melee Defense\\n\\nThis well rounded pugilist excels at both dealing and mitigating damage.\\n\\nStat Adjustments:\\nMovement Control Intensity +21%\\nAttack Control Intensity +21%\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nGreat Axe Mastery\\nGreat Mace Mastery\\n\\nEnhancements:\\nLeap: Now adds a heal when used.\\nWhirling Pain: Now adds a Barrier when used.\\nNeckbreaker: Now increases your Max Health by XXX and heals you for 35% of Health, and applies a Root to targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Pit Fighter promotion class and prevents access to the Alpha Warrior  and Barbarian promotion classes.",
+    "description": "Role: Melee Defense\\n\\nThis well rounded pugilist excels at both dealing and mitigating damage.\\n\\nStat Adjustments:\\nMovement Control Intensity +21%\\nAttack Control Intensity +21%\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nGreat Axe Mastery\\nGreat Mace Mastery\\n\\nEnhancements:\\nLeap: Now heals you when used below 50% health, once every 90 seconds.\\nWhirling Pain: Now adds a Barrier when used.\\nNeckbreaker: Now increases your Max Health by 25% and heals you for 35% of Health, and applies a Root to targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Pit Fighter promotion class and prevents access to the Alpha Warrior  and Barbarian promotion classes.",
     "icon": "promotion-class-pit-fighter.png",
     "maxPoints": 1,
     "pointRequirement": 0,

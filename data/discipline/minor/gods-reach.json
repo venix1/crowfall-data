@@ -16,7 +16,9 @@
         }
     ],
     "grantsPowers": [],
-    "grantsSlot": [],
+    "grantsSlot": [
+        "Horseshoes"
+    ],
     "grantsTrait": [
         {
             "id": "trait-hammer-proficiency",

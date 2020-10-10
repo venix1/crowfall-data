@@ -11,6 +11,10 @@
         {
             "id": "berserk",
             "name": "Berserk"
+        },
+        {
+            "id": "neck-slash",
+            "name": "Neck Slash"
         }
     ],
     "unlockedFromSkill": [

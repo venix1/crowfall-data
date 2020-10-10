@@ -2,7 +2,7 @@
     "id": "shieldfighter-shield-throw",
     "name": "Throw Illusion Shield",
     "description": "throws an illusion shield at your target for 100 + 100% Weapon Damage, snares the target and causes it to richochet off to an additional target. \\n\\nAdditional ricochets beyond the first richochet can be increased via the Shield Throw Bonus Ricochets statistic. \\n\\nDamage is reduced by 30% per each ricochet up to a maximum of a 60% reduction.",
-    "shortDescription": "Attack Multiple Enemies",
+    "shortDescription": "Attack: Snares Multiple Enemies",
     "icon": "shieldfighter-shield-throw.png",
     "stats": {
         "weapon_damage_value": "100",

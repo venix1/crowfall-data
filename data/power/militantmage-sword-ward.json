@@ -2,7 +2,7 @@
     "id": "militantmage-sword-ward",
     "name": "Sword Ward",
     "description": "enchants your armor with a ward against Slashing attacks increasing your Slashing Resistance by 25 each time you are hit.",
-    "shortDescription": "Passive: Gain Slashing Resistance Over Time",
+    "shortDescription": "Passive: Gain Slashing Resistance When Hit",
     "icon": "militantmage-sword-ward.png",
     "stats": {
         "weapon_damage_type": "Slashing",

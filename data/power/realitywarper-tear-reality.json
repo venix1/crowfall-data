@@ -2,7 +2,7 @@
     "id": "realitywarper-tear-reality",
     "name": "Spiritual Decay",
     "description": "decays the area within 8 meters around you every 3 seconds for 9 seconds, all targets hit have their All Cooldowns decreased by 3.",
-    "shortDescription": "Attack: Increase Enemy Cooldowns",
+    "shortDescription": "Decrease Healing Bonus of enemies around you",
     "icon": "realitywarper-tear-reality.png",
     "stats": {
         "buff_amount_1": "3",

@@ -1,7 +1,7 @@
 {
     "id": "knight-noble-blood-2",
     "name": "Oath Of Will",
-    "description": "recovers 350 Energy over 3 seconds.",
+    "description": "recovers 350 Energy every 0.5 seconds for over 3 seconds.",
     "shortDescription": "",
     "icon": "knight-noble-blood-2.png",
     "stats": {

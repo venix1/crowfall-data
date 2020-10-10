@@ -2,7 +2,7 @@
     "id": "standardbearer-electric-buff",
     "name": "Banner Of Storms",
     "description": "deploys a banner increasing their Electricity Resistance by 2500, Ice Resistance by 2500, Damage Bonus: Electric by 10% and Damage Bonus: Ice by 10%.",
-    "shortDescription": "Group Electricity Damage Override; Electricity Resistance",
+    "shortDescription": "Group Electricity, Ice Resistance and Damage Bonus.",
     "icon": "standardbearer-electric-buff.png",
     "stats": {
         "weapon_damage_value": "133",

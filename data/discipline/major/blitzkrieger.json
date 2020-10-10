@@ -23,7 +23,7 @@
         {
             "id": "standardbearer-electric-buff",
             "name": "Banner Of Storms",
-            "description": "Group Electricity Damage Override; Electricity Resistance"
+            "description": "Group Electricity, Ice Resistance and Damage Bonus."
         },
         {
             "id": "banshee-haunt",

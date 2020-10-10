@@ -2,7 +2,7 @@
     "id": "templar-humble-duty",
     "name": "Humble Duty",
     "class": "templar",
-    "description": "Stat Adjustments:\\nCritical Heal Chance +6%\\nSelf Healing +4.5%\\n\\nMany in the templarum find the shackles of damnation too limiting, and do what they can to rehabilitate sinners.\"\\n-Confessions of Confessors",
+    "description": "Stat Adjustments:\\nCritical Healing Chance +6%\\nCritical Healing Amount +6%\\n\\nMany in the templarum find the shackles of damnation too limiting, and do what they can to rehabilitate sinners.\"\\n-Confessions of Confessors",
     "icon": "humble-duty.png",
     "maxPoints": 1,
     "pointRequirement": 0,

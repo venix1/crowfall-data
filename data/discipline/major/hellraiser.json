@@ -28,7 +28,7 @@
         {
             "id": "scarecrow-needling-haystack",
             "name": "Needlin' Haystack",
-            "description": "Reflect Piercing Damage; Bleed"
+            "description": "Reflect Piercing Damage; Attackers bleed"
         }
     ],
     "grantsSlot": [],

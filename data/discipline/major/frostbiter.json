@@ -23,7 +23,7 @@
         {
             "id": "plaguelord-decay",
             "name": "Decay",
-            "description": "Attack: Reduce Healing taken; Disease; Expose Punish"
+            "description": "Attack: Frostbite; Expose Punish"
         },
         "power_discipline_frostbiter_rotting_frost"
     ],

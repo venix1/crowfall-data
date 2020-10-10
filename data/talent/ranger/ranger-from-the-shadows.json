@@ -10,12 +10,12 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-draining-blades",
+            "skill": "ranger-promotion-class-brigand",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-hunting-party"
+        "ranger-cloaked-in-moss"
     ],
     "locksSkill": []
 }

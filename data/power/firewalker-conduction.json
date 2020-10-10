@@ -2,7 +2,7 @@
     "id": "firewalker-conduction",
     "name": "Conduction",
     "description": "increases your Attack Power and Support Power by 100 for 30 seconds when damaged by Fire.",
-    "shortDescription": "Passive: Increase Attack Power after taking Elemental Damage",
+    "shortDescription": "Passive: Increase Attack Power after taking Fire Damage",
     "icon": "firewalker-conduction.png",
     "stats": {
         "target": "Self",

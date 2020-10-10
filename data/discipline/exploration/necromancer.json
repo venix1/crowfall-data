@@ -21,6 +21,10 @@
         {
             "name": "Necromancy Experimentation Points",
             "value": "7"
+        },
+        {
+            "name": "",
+            "value": "5%"
         }
     ],
     "grantsPowers": [],

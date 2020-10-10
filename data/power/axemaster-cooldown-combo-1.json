@@ -2,7 +2,7 @@
     "id": "axemaster-cooldown-combo-1",
     "name": "Furious Slash",
     "description": "hacks at an enemy for 129 + 129% Weapon Damage.",
-    "shortDescription": "Attack: Reduce Long Cooldowns",
+    "shortDescription": "Attack: Combo Reduces Cooldowns",
     "icon": "axemaster-cooldown-combo-1.png",
     "stats": {
         "weapon_damage_value": "129",

@@ -2,7 +2,7 @@
     "id": "cleric-promotion-class-crusader",
     "name": "Promotion Class: Crusader",
     "class": "cleric",
-    "description": "Role: Healing\\n\\nPossessing the pinnacle of healing and defense capabilities, this holy warrior is a key member of any team.\\n\\nStat Adjustments:\\nSupport Power +525\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nHammer Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nHoly Symbol: Now increases Critical Heal Chance and Critical Heal Amount for you and allies.\\nIlluminate: Transforms the heal into a Heal Over Time and increases the amount of healing done.\\nFlash Of Light: Now heals allies adjacent to the enemy target.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Crusader promotion class and prevents access to the Radical and Arbiter promotion classes.",
+    "description": "Role: Healing\\n\\nPossessing the pinnacle of healing and defense capabilities, this holy warrior is a key member of any team.\\n\\nStat Adjustments:\\nSupport Power +525\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nMace Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nHoly Symbol: Now increases Critical Heal Chance and Critical Heal Amount for you and allies.\\nIlluminate: Transforms the heal into a Heal Over Time and increases the amount of healing done.\\nFlash Of Light: Now heals allies adjacent to the enemy target.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Crusader promotion class and prevents access to the Radical and Arbiter promotion classes.",
     "icon": "promotion-class-crusader.png",
     "maxPoints": 1,
     "pointRequirement": 0,
@@ -21,8 +21,8 @@
             "name": "Medium Shield Mastery"
         },
         {
-            "id": "trait-hammer-mastery",
-            "name": "Hammer Mastery"
+            "id": "trait-mace-mastery",
+            "name": "Mace Mastery"
         }
     ],
     "unlockedFromSkill": [

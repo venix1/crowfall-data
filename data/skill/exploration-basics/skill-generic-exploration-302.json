@@ -20,7 +20,8 @@
     "grants": [
         "equip_harvest_tool_pick",
         "equip_harvest_tool_hammer",
-        "recipe_intermediate_harvest_tool_hammer_pick"
+        "recipe_intermediate_harvest_tool_hammer",
+        "recipe_intermediate_harvest_tool_pick"
     ],
     "unlockedFromSkill": [
         {

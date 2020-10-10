@@ -2,7 +2,7 @@
     "id": "daggermaster-combo-1",
     "name": "Cripple",
     "description": "attacks an enemy for 83 + 83% Weapon Damage.",
-    "shortDescription": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds.",
+    "shortDescription": "Attack: Combo reduces enemy Attack Power.",
     "icon": "daggermaster-combo-1.png",
     "stats": {
         "weapon_damage_value": "83",

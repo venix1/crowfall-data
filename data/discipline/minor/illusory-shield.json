@@ -19,7 +19,7 @@
         {
             "id": "shieldfighter-shield-throw",
             "name": "Throw Illusion Shield",
-            "description": "Attack Multiple Enemies"
+            "description": "Attack: Snares Multiple Enemies"
         }
     ],
     "grantsSlot": [],

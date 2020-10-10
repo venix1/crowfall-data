@@ -2,7 +2,7 @@
     "id": "assassin-promotion-class-cutthroat",
     "name": "Promotion Class: Cutthroat",
     "class": "assassin",
-    "description": "Role: Melee Damage\\n\\nA dealer of death that focuses on ambushing and attacking enemies from behind.\\n\\nStat Adjustments:\\nArmor Penetration +10%\\nAttack Power +225\\n\\nTraits Granted:\\nAxe Mastery\\nDagger Mastery\\nMace Maserty\\n\\nEnhancements:\\nKidney Shot: Now adds a Barrier when used.\\nIn The Zone: Now grants a Movement Speed increase.\\nBackstab: Now counts as attacking from behind when used from any direction and has it's cooldown reduced.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vandal promotion class and prevents access to the Blackguard and Vandal promotion classes.",
+    "description": "Role: Melee Damage\\n\\nA dealer of death that focuses on ambushing and attacking enemies from behind.\\n\\nStat Adjustments:\\nArmor Penetration +10%\\nAttack Power +225\\n\\nTraits Granted:\\nAxe Mastery\\nDagger Mastery\\nMace Maserty\\n\\nEnhancements:\\nKidney Shot: Now adds a Barrier when used.\\nIn The Zone: Now grants a Movement Speed increase.\\nBackstab: Now counts as attacking from behind when used from any direction and has it's cooldown reduced.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Cutthroat promotion class and prevents access to the Blackguard and Vandal promotion classes.",
     "icon": "promotion-class-cutthroat.png",
     "maxPoints": 1,
     "pointRequirement": 0,

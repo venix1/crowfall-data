@@ -31,8 +31,7 @@
     "grantsTrait": [],
     "description": "The art of bleeding a target is one that only a few can accomplish proficiently. Followers of Maeve have known for years how important the blade is in combat. With proper training and practice knife grinding can be the determining factor in a victory or a loss.",
     "lore": "\"Is it not obvious to you, my dear, that I am here to make you bleed and bleed again?\"\\n-Fae Assassin"
-}me": "Long Live The Fighter",
-            "description": "Passive: Adds the bleeding debuff to an enemy on every third Basic attack."
+}escription": "Passive: Adds the bleeding debuff to an enemy on every third Basic attack."
         }
     ],
     "grantsSlot": [],

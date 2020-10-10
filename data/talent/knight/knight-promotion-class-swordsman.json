@@ -2,7 +2,7 @@
     "id": "knight-promotion-class-swordsman",
     "name": "Promotion Class: Swordsman",
     "class": "knight",
-    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this master of blades has perfected the art of swordplay.\\n\\nStat Adjustments:\\nAttack Power +225\\nDamage +3%\\n\\nTraits Granted:\\nAxe Mastery\\nLongsword Mastery\\nMace Mastery\\nShort Sword Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nShield Slam: Now you are considered Blocking when charging.\\nPursuit: Now has a reduced cooldown.\\nChain Attack: Now also applies a Bleed.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Swordsman promotion class and prevents access to the Secutor and Sentinel promotion classes.",
+    "description": "Role: Melee Damage\\n\\nForgoing heavier armor for superior damage, this master of blades has perfected the art of swordplay.\\n\\nStat Adjustments:\\nAttack Power +225\\nDamage +3%\\n\\nTraits Granted:\\nAxe Mastery\\nLongsword Mastery\\nMace Mastery\\nShort Sword Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nOath Of Will: Now grants a 25% Critical Strike increase for 15s or until you crit 3 times.\\nPursuit: Now has a reduced cooldown.\\nChain Attack: Now also applies a Bleed.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Swordsman promotion class and prevents access to the Secutor and Sentinel promotion classes.",
     "icon": "promotion-class-swordsman.png",
     "maxPoints": 1,
     "pointRequirement": 0,

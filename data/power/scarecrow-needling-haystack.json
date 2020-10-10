@@ -2,7 +2,7 @@
     "id": "scarecrow-needling-haystack",
     "name": "Needlin' Haystack",
     "description": "covers your body with sharp needle-like straws increasing your Piercing Resistance by 25. \\n\\n Attacks against you cause Severe Bleeding to the attacker.",
-    "shortDescription": "Reflect Piercing Damage; Bleed",
+    "shortDescription": "Reflect Piercing Damage; Attackers bleed",
     "icon": "scarecrow-needling-haystack.png",
     "stats": {
         "weapon_damage_type": "Piercing",

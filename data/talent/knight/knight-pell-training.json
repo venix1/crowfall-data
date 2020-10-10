@@ -10,11 +10,11 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "knight-shield-slam",
+            "skill": "knight-noble-blood",
             "point": 1
         },
         {
-            "skill": "knight-noble-blood",
+            "skill": "knight-shield-bash",
             "point": 1
         },
         {

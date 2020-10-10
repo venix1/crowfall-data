@@ -23,7 +23,7 @@
         {
             "id": "daggermaster-combo-1",
             "name": "Cripple",
-            "description": "Attack: Adds a debuff to the enemy's melee damage, reducing it by 20% for 15 seconds."
+            "description": "Attack: Combo reduces enemy Attack Power."
         },
         {
             "id": "blackmask-shadows-linger",

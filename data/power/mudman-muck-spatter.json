@@ -2,7 +2,7 @@
     "id": "mudman-muck-spatter",
     "name": "Muck Spatter",
     "description": "causes Crushing attacks made against you to afflict nearby enemies with Blindness and Severe Corruption. This can only occur once every three seconds.",
-    "shortDescription": "Crushing Attacks Trigger Area Blindness; Disease",
+    "shortDescription": "Crushing Attacks Trigger Area Blindness; Corruption",
     "icon": "mudman-muck-spatter.png",
     "stats": {
         "weapon_damage_type": "Crushing",

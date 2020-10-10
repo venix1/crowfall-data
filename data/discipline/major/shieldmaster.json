@@ -21,9 +21,9 @@
     ],
     "grantsPowers": [
         {
-            "id": "knight-shield-bash-01",
-            "name": "Shield Bash",
-            "description": ""
+            "id": "shieldfigher-mighty-shield-slam",
+            "name": "Mighty Shield Slam",
+            "description": "Charged Attack: Push Back enemies"
         },
         {
             "id": "talent-knight-shieldmanship",

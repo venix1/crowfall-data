@@ -23,12 +23,12 @@
         {
             "id": "axemaster-cooldown-combo-1",
             "name": "Furious Slash",
-            "description": "Attack: Reduce Long Cooldowns"
+            "description": "Attack: Combo Reduces Cooldowns"
         },
         {
             "id": "axemaster-armorbreak-1",
             "name": "Demolish Armor",
-            "description": "Attack: Inflict stacking Armor Break"
+            "description": "Attack: Inflict Armor Break"
         }
     ],
     "grantsSlot": [],

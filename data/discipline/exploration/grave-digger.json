@@ -26,8 +26,15 @@
             "description": "Passive: Adds Grave Digging specific Buffs to all Energetic Harvesting Buffs"
         }
     ],
-    "grantsSlot": [],
-    "grantsTrait": [],
+    "grantsSlot": [
+        "Horseshoes"
+    ],
+    "grantsTrait": [
+        {
+            "id": "trait-advanced-runestone-shovels",
+            "name": "Advanced Runestone Shovels"
+        }
+    ],
     "description": "Often associated with the macabre due to the nature of the work, grave digging is a trade not for those with delicate sensibilities. Surrounded by death and shrouded in darkness, the grave digger plucks from the remains the necessary components to create new life.",
     "lore": "We are creatures made from borrowed parts, but have our own unique souls."
 }

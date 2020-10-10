@@ -1,8 +1,8 @@
 {
     "id": "shieldfigher-mighty-shield-slam",
     "name": "Mighty Shield Slam",
-    "description": "charges you forward 7m and slams up to five enemies in front of you for 97 + 97% Crushing Weapon Damage.\\n\\nIf charged more than 66%, this attack has a 100% Critical Strike modifier and pushes your targets back.",
-    "shortDescription": "Charged Attack: Empty Stamina for Damage",
+    "description": "charges you forward 7m and slams up to five enemies in front of you for 97 + 97% Crushing Weapon Damage, applies an Armor Break and pushes your targets back.",
+    "shortDescription": "Charged Attack: Push Back enemies",
     "icon": "shieldfigher-mighty-shield-slam.png",
     "stats": {
         "weapon_damage_type": "Crushing",

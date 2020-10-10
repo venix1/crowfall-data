@@ -1,7 +1,7 @@
 {
     "id": "ranger-stealth-ambush",
     "name": "Ambush",
-    "description": "delivers a lethal surprise attack from the shadows causing 227 + 227% Weapon Damage.",
+    "description": "delivers a lethal surprise attack from the shadows causing 227 + 227% Weapon Damage and applies a Severe Bleed.",
     "shortDescription": "",
     "icon": "ranger-stealth-ambush.png",
     "stats": {

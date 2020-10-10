@@ -2,7 +2,7 @@
     "id": "templar-shining-armor",
     "name": "Shining Armor",
     "class": "templar",
-    "description": "Stat Adjustments:\\nStamina +15\\nPlate Decay Rate +15%\\n\\n\"Your redemption need not be through flame alone.\"\\n-Acolyte Kárvouno",
+    "description": "Stat Adjustments:\\nStamina +15\\nPlate Decay Rate +15%\\nSelf Healing +4.5%\\n\\n\"Your redemption need not be through flame alone.\"\\n-Acolyte Kárvouno",
     "icon": "shining-armor.png",
     "maxPoints": 1,
     "pointRequirement": 0,

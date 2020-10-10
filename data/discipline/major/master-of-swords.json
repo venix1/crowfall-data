@@ -28,7 +28,7 @@
         {
             "id": "swordmaster-iron-skin",
             "name": "Iron Skin",
-            "description": "Increase Slashing Resistance; Reduce Ability Cost"
+            "description": "Increase Slashing Resistance; Reduce Weapon Resource Cost"
         }
     ],
     "grantsSlot": [],

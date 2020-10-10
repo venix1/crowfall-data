@@ -1,7 +1,7 @@
 {
     "id": "poisoner-combo-2",
     "name": "Poisoned Blade",
-    "description": "attacks for 140 + 140% Weapon Damage and applies a Deadly Poison to your weapons. Poisoned Blade does not use a charge of poison when used.",
+    "description": "attacks for 140 + 140% Weapon Damage and applies a Deadly Poison to your weapons if you have a Poison Toxin equipped.",
     "shortDescription": "",
     "icon": "poisoner-combo-2.png",
     "stats": {

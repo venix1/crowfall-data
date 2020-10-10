@@ -10,16 +10,11 @@
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-quick-arming",
-            "point": 1
-        },
-        {
-            "skill": "ranger-tree-sap-blood",
+            "skill": "ranger-survivalist",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-from-the-shadows",
         "ranger-hunting-party"
     ],
     "locksSkill": []

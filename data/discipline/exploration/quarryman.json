@@ -27,7 +27,16 @@
         }
     ],
     "grantsSlot": [],
-    "grantsTrait": [],
+    "grantsTrait": [
+        {
+            "id": "trait-intermediate-runestone-hammers",
+            "name": "Intermediate Runestone Hammers"
+        },
+        {
+            "id": "trait-advanced-runestone-hammers",
+            "name": "Advanced Runestone Hammers"
+        }
+    ],
     "description": "Boring into the earth and uncovering the minerals deep below the surface requires a steady hammer and basic understanding of geology. Knowing which minerals to keep and which to discard may seem tedious but can make the biggest difference in using stone and minerals to create rare commodities.",
     "lore": "The foundation can be broken, and from it comes a plethora of minerals."
 }

@@ -24,7 +24,8 @@
     "grants": [
         "equip_harvest_tool_axe",
         "equip_harvest_tool_knife",
-        "recipe_intermediate_harvest_tool_axe_knife"
+        "recipe_intermediate_harvest_tool_axe",
+        "recipe_intermediate_harvest_tool_knife"
     ],
     "unlockedFromSkill": [
         {

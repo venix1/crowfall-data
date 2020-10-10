@@ -21,6 +21,10 @@
         {
             "name": "Leatherworking Experimentation Points",
             "value": "7"
+        },
+        {
+            "name": "",
+            "value": "2%"
         }
     ],
     "grantsPowers": [],

@@ -27,7 +27,16 @@
         }
     ],
     "grantsSlot": [],
-    "grantsTrait": [],
+    "grantsTrait": [
+        {
+            "id": "trait-intermediate-runestone-knives",
+            "name": "Intermediate Runestone Knives"
+        },
+        {
+            "id": "trait-advanced-runestone-knives",
+            "name": "Advanced Runestone Knives"
+        }
+    ],
     "description": "A responsibility not to be taken lightly, the job of a skinner is one of the most important roles in the Dying Worlds. Taking down a wild creature and acquiring the necessary hides and meats from the carrion requires absolute finesse and a distinguished spirit.",
     "lore": "Not for the squeamish!"
 }

@@ -2,7 +2,7 @@
     "id": "holyavenger-hammer-1",
     "name": "Grabthar's Hammer",
     "description": "smites an enemy for 108 + 108 Fire Damage.",
-    "shortDescription": "Attack: Stun an enemy",
+    "shortDescription": "Attack: Combo stuns an enemy",
     "icon": "holyavenger-hammer-1.png",
     "stats": {
         "weapon_damage_type": "Holy",

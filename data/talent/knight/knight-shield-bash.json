@@ -1,0 +1,27 @@
+{
+    "id": "knight-shield-bash",
+    "name": "Shield Bash",
+    "class": "knight",
+    "description": "This talent grants the Shield Bash power.",
+    "icon": "shield-bash.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "shield-bash",
+            "name": "Shield Bash"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-vitality",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "knight-pell-training",
+        "knight-hardiness"
+    ],
+    "locksSkill": []
+}

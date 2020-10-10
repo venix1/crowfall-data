@@ -2,7 +2,7 @@
     "id": "assassin-promotion-class-vandal",
     "name": "Promotion Class: Vandal",
     "class": "assassin",
-    "description": "Role: Melee Control\\n\\nA master of shadows who believes the key to winning is controlling targets so they never have a chance.\\n\\nStat Adjustments:\\nPoison Damage +30%\\nHard Crowd Control +18%\\n\\nTraits Granted:\\nAxe Mastery\\nDagger Mastery\\nMace Mastery\\n\\nEnhancements:\\nKidney Shot: Now does additional damage to Stunned targets.\\nIn The Zone: Now has a chance to refund pips on attacks.\\nBackstab: Now adds Suppress.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Cutthroat promotion class and prevents access to the Blackguard and Cutthroat promotion classes.",
+    "description": "Role: Melee Control\\n\\nA master of shadows who believes the key to winning is controlling targets so they never have a chance.\\n\\nStat Adjustments:\\nPoison Damage +30%\\nHard Crowd Control +18%\\n\\nTraits Granted:\\nAxe Mastery\\nDagger Mastery\\nMace Mastery\\n\\nEnhancements:\\nKidney Shot: Now does additional damage to Stunned targets.\\nIn The Zone: Now has a chance to refund pips on attacks.\\nBackstab: Now adds Suppress.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Vandal promotion class and prevents access to the Blackguard and Cutthroat promotion classes.",
     "icon": "promotion-class-vandal.png",
     "maxPoints": 1,
     "pointRequirement": 0,

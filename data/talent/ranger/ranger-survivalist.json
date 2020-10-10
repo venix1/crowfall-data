@@ -1,21 +1,26 @@
 {
-    "id": "ranger-pass-without-trace",
-    "name": "Pass Without Trace",
+    "id": "ranger-survivalist",
+    "name": "Survivalist",
     "class": "ranger",
     "description": "This talent grants the [NOPOWER] passive power.",
-    "icon": "pass-without-trace.png",
+    "icon": "survivalist.png",
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
     "grants": [],
     "unlockedFromSkill": [
         {
-            "skill": "ranger-promotion-class-brigand",
+            "skill": "ranger-quick-arming",
+            "point": 1
+        },
+        {
+            "skill": "ranger-tree-sap-blood",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "ranger-cloaked-in-moss"
+        "ranger-draining-blades",
+        "ranger-hunting-party"
     ],
     "locksSkill": []
 }

@@ -23,12 +23,12 @@
         {
             "id": "militantmage-warp-metal",
             "name": "Warp Weapons",
-            "description": "Attack: Inflate Weapon Weight on Enemy Slash Hits"
+            "description": "Attack: Decrease target's Attack Power when they hit you"
         },
         {
             "id": "militantmage-sword-ward",
             "name": "Sword Ward",
-            "description": "Passive: Gain Slashing Resistance Over Time"
+            "description": "Passive: Gain Slashing Resistance When Hit"
         }
     ],
     "grantsSlot": [],
