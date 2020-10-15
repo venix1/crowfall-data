@@ -1,0 +1,108 @@
+{
+    "id": "ranger",
+    "name": "Ranger",
+    "icon": "ranger.png",
+    "races": [
+        {
+            "id": "elken",
+            "name": "Elken"
+        },
+        {
+            "id": "half-elf",
+            "name": "Half-Elf"
+        },
+        {
+            "id": "human",
+            "name": "Human"
+        },
+        {
+            "id": "minotaur",
+            "name": "Minotaur"
+        },
+        {
+            "id": "wood-elf",
+            "name": "Wood-Elf"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-short-sword-proficiency",
+            "name": "Short Sword Proficiency"
+        },
+        {
+            "id": "trait-mace-proficiency",
+            "name": "Mace Proficiency"
+        },
+        {
+            "id": "trait-axe-proficiency",
+            "name": "Axe Proficiency"
+        },
+        {
+            "id": "trait-basic-bow-proficiency",
+            "name": "Basic Bow Proficiency"
+        },
+        {
+            "id": "trait-recurve-bow-proficiency",
+            "name": "Recurve Bow Proficiency"
+        },
+        {
+            "id": "trait-arrows",
+            "name": "Arrows"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-archery-practice",
+            "name": "Archery Practice"
+        },
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        },
+        {
+            "id": "trait-martial-weapons-principles",
+            "name": "Martial Weapons Principles"
+        },
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        },
+        {
+            "id": "trait-blunt-weapon-training",
+            "name": "Blunt Weapon Training"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "basic-bow-b-attack-charged-1",
+            "name": "Basic Shot"
+        },
+        {
+            "id": "ranger-mb-attack-1",
+            "name": "Sinister Slash"
+        },
+        {
+            "id": "ranger-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "ranger-sustain",
+            "name": "Sustain"
+        }
+    ],
+    "promo": [
+        "ranger-promotion-class-archer",
+        "ranger-promotion-class-warden",
+        "ranger-promotion-class-brigand"
+    ]
+}

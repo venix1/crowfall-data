@@ -1,0 +1,64 @@
+{
+    "id": "druid",
+    "name": "Druid",
+    "icon": "druid.png",
+    "races": [
+        {
+            "id": "fae",
+            "name": "Fae"
+        },
+        {
+            "id": "half-elf",
+            "name": "Half-Elf"
+        },
+        {
+            "id": "wood-elf",
+            "name": "Wood-Elf"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-mystical-sickle-proficiency",
+            "name": "Mystical Sickle Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-shield-familiarity",
+            "name": "Shield Familiarity"
+        },
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "druid-basic-attack-1",
+            "name": "Static Bolt"
+        },
+        {
+            "id": "druid-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "druid-death-surge",
+            "name": "Death Surge"
+        }
+    ],
+    "promo": [
+        "druid-promotion-class-stormcaller",
+        "druid-promotion-class-archdruid",
+        "druid-promotion-class-earthkeeper"
+    ]
+}

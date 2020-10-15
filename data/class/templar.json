@@ -1,0 +1,76 @@
+{
+    "id": "templar",
+    "name": "Templar",
+    "icon": "templar.png",
+    "races": [
+        {
+            "id": "elken",
+            "name": "Elken"
+        },
+        {
+            "id": "human",
+            "name": "Human"
+        },
+        {
+            "id": "nethari",
+            "name": "Nethari"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-great-sword-proficiency",
+            "name": "Great Sword Proficiency"
+        },
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-disciple-of-flame",
+            "name": "Disciple of Flame"
+        },
+        {
+            "id": "trait-martial-weapons-principles",
+            "name": "Martial Weapons Principles"
+        },
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        },
+        {
+            "id": "trait-executioner",
+            "name": "Executioner"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "templar-basic-1",
+            "name": "Great Swing"
+        },
+        {
+            "id": "templar-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "templar-brilliance",
+            "name": "Brilliance"
+        }
+    ],
+    "promo": [
+        "templar-promotion-class-vindicator",
+        "templar-promotion-class-paladin",
+        "templar-promotion-class-fury"
+    ]
+}

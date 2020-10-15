@@ -1,0 +1,124 @@
+{
+    "id": "knight",
+    "name": "Knight",
+    "icon": "knight.png",
+    "races": [
+        {
+            "id": "centaur",
+            "name": "Centaur"
+        },
+        {
+            "id": "elken",
+            "name": "Elken"
+        },
+        {
+            "id": "fae",
+            "name": "Fae"
+        },
+        {
+            "id": "guinecean",
+            "name": "Guinecean"
+        },
+        {
+            "id": "high-elf",
+            "name": "High-Elf"
+        },
+        {
+            "id": "human",
+            "name": "Human"
+        },
+        {
+            "id": "stoneborn",
+            "name": "Stoneborn"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-longsword-proficiency",
+            "name": "Longsword Proficiency"
+        },
+        {
+            "id": "trait-short-sword-proficiency",
+            "name": "Short Sword Proficiency"
+        },
+        {
+            "id": "trait-mace-proficiency",
+            "name": "Mace Proficiency"
+        },
+        {
+            "id": "trait-axe-proficiency",
+            "name": "Axe Proficiency"
+        },
+        {
+            "id": "trait-buckler-proficiency",
+            "name": "Buckler Proficiency"
+        },
+        {
+            "id": "trait-medium-shield-proficiency",
+            "name": "Medium Shield Proficiency"
+        },
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-archery-practice",
+            "name": "Archery Practice"
+        },
+        {
+            "id": "trait-shield-familiarity",
+            "name": "Shield Familiarity"
+        },
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        },
+        {
+            "id": "trait-martial-weapons-principles",
+            "name": "Martial Weapons Principles"
+        },
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        },
+        {
+            "id": "trait-blunt-weapon-training",
+            "name": "Blunt Weapon Training"
+        },
+        {
+            "id": "trait-gaeas-inspiration",
+            "name": "Gaea's Inspiration"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "knight-b-attack-1",
+            "name": "Merciless Swipe"
+        },
+        {
+            "id": "knight-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "knight-leap-smash",
+            "name": "Whirling Leap"
+        }
+    ],
+    "promo": [
+        "knight-promotion-class-swordsman",
+        "knight-promotion-class-secutor",
+        "knight-promotion-class-sentinel"
+    ]
+}

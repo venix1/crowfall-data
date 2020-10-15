@@ -1,0 +1,68 @@
+{
+    "id": "confessor",
+    "name": "Confessor",
+    "icon": "confessor.png",
+    "races": [
+        {
+            "id": "elken",
+            "name": "Elken"
+        },
+        {
+            "id": "high-elf",
+            "name": "High-Elf"
+        },
+        {
+            "id": "nethari",
+            "name": "Nethari"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-book-proficiency",
+            "name": "Book Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        },
+        {
+            "id": "trait-disciple-of-flame",
+            "name": "Disciple of Flame"
+        },
+        {
+            "id": "trait-gaeas-inspiration",
+            "name": "Gaea's Inspiration"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "confessor-b-attack-1",
+            "name": "Holy Fire"
+        },
+        {
+            "id": "confessor-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "confessor-immolation",
+            "name": "Immolation"
+        }
+    ],
+    "promo": [
+        "confessor-promotion-class-fanatic",
+        "confessor-promotion-class-sanctifier",
+        "confessor-promotion-class-inquisitor"
+    ]
+}

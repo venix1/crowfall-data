@@ -1,0 +1,68 @@
+{
+    "id": "duelist",
+    "name": "Duelist",
+    "icon": "duelist.png",
+    "races": [
+        {
+            "id": "guinecean",
+            "name": "Guinecean"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-rapier-proficiency",
+            "name": "Rapier Proficiency"
+        },
+        {
+            "id": "trait-off-hand-pistol-proficiency",
+            "name": "Off Hand Pistol Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-stealther",
+            "name": "Stealther"
+        },
+        {
+            "id": "trait-shadow-walker",
+            "name": "Shadow Walker"
+        },
+        {
+            "id": "trait-martial-weapons-principles",
+            "name": "Martial Weapons Principles"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "duelist-b-attack-1",
+            "name": "Skillful Stab"
+        },
+        {
+            "id": "duelist-pistol-combo-1",
+            "name": "Clean Shot"
+        },
+        {
+            "id": "duelist-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "duelist-vanish",
+            "name": "Vanish"
+        }
+    ],
+    "promo": [
+        "duelist-promotion-class-slayer",
+        "duelist-promotion-class-vanguard-scout",
+        "duelist-promotion-class-dirge"
+    ]
+}

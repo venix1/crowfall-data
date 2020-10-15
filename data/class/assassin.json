@@ -1,0 +1,92 @@
+{
+    "id": "assassin",
+    "name": "Assassin",
+    "icon": "assassin.png",
+    "races": [
+        {
+            "id": "fae",
+            "name": "Fae"
+        },
+        {
+            "id": "half-elf",
+            "name": "Half-Elf"
+        },
+        {
+            "id": "high-elf",
+            "name": "High-Elf"
+        },
+        {
+            "id": "nethari",
+            "name": "Nethari"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-mace-proficiency",
+            "name": "Mace Proficiency"
+        },
+        {
+            "id": "trait-axe-proficiency",
+            "name": "Axe Proficiency"
+        },
+        {
+            "id": "trait-dagger-proficiency",
+            "name": "Dagger Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-archery-practice",
+            "name": "Archery Practice"
+        },
+        {
+            "id": "trait-stealther",
+            "name": "Stealther"
+        },
+        {
+            "id": "trait-shadow-walker",
+            "name": "Shadow Walker"
+        },
+        {
+            "id": "trait-martial-weapons-principles",
+            "name": "Martial Weapons Principles"
+        },
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        },
+        {
+            "id": "trait-blunt-weapon-training",
+            "name": "Blunt Weapon Training"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "assassin-basic-1",
+            "name": "Swift Cut"
+        },
+        {
+            "id": "assassin-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "assassin-shadowstep",
+            "name": "Shadowstep"
+        }
+    ],
+    "promo": [
+        "assassin-promotion-class-cutthroat",
+        "assassin-promotion-class-blackguard",
+        "assassin-promotion-class-vandal"
+    ]
+}

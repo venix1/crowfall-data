@@ -1,0 +1,96 @@
+{
+    "id": "cleric",
+    "name": "Cleric",
+    "icon": "cleric.png",
+    "races": [
+        {
+            "id": "centaur",
+            "name": "Centaur"
+        },
+        {
+            "id": "elken",
+            "name": "Elken"
+        },
+        {
+            "id": "guinecean",
+            "name": "Guinecean"
+        },
+        {
+            "id": "half-giant",
+            "name": "Half-Giant"
+        },
+        {
+            "id": "human",
+            "name": "Human"
+        },
+        {
+            "id": "stoneborn",
+            "name": "Stoneborn"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-buckler-proficiency",
+            "name": "Buckler Proficiency"
+        },
+        {
+            "id": "trait-medium-shield-proficiency",
+            "name": "Medium Shield Proficiency"
+        },
+        {
+            "id": "trait-hammer-proficiency",
+            "name": "Hammer Proficiency"
+        },
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-shield-familiarity",
+            "name": "Shield Familiarity"
+        },
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        },
+        {
+            "id": "trait-gaeas-inspiration",
+            "name": "Gaea's Inspiration"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "cleric-basic-attack-1",
+            "name": "Blessed Hammer"
+        },
+        {
+            "id": "cleric-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "cleric-miracle",
+            "name": "Miracle"
+        },
+        {
+            "id": "cleric-divine-order",
+            "name": "Divine Order"
+        }
+    ],
+    "promo": [
+        "cleric-promotion-class-radical",
+        "cleric-promotion-class-crusader",
+        "cleric-promotion-class-arbiter"
+    ]
+}

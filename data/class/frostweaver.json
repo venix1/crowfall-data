@@ -1,0 +1,72 @@
+{
+    "id": "frostweaver",
+    "name": "Frostweaver",
+    "icon": "frostweaver.png",
+    "races": [
+        {
+            "id": "fae",
+            "name": "Fae"
+        },
+        {
+            "id": "high-elf",
+            "name": "High-Elf"
+        },
+        {
+            "id": "wood-elf",
+            "name": "Wood-Elf"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-frostcaster-proficiency",
+            "name": "Frostcaster Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-shadow-walker",
+            "name": "Shadow Walker"
+        },
+        {
+            "id": "trait-executioner",
+            "name": "Executioner"
+        },
+        {
+            "id": "trait-gaeas-inspiration",
+            "name": "Gaea's Inspiration"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "frst-basic-1",
+            "name": "Quick Cast"
+        },
+        {
+            "id": "frst-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "frst-ult-re-fridgerate",
+            "name": "Re-Fridgerate"
+        },
+        {
+            "id": "frst-ult-cold-comfort",
+            "name": "Cold Comfort"
+        }
+    ],
+    "promo": [
+        "frostweaver-promotion-class-archmage",
+        "frostweaver-promotion-class-frostguard",
+        "frostweaver-promotion-class-icecaller"
+    ]
+}

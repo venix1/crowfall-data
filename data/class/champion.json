@@ -1,0 +1,92 @@
+{
+    "id": "champion",
+    "name": "Champion",
+    "icon": "champion.png",
+    "races": [
+        {
+            "id": "centaur",
+            "name": "Centaur"
+        },
+        {
+            "id": "half-giant",
+            "name": "Half-Giant"
+        },
+        {
+            "id": "minotaur",
+            "name": "Minotaur"
+        },
+        {
+            "id": "stoneborn",
+            "name": "Stoneborn"
+        }
+    ],
+    "traits": [
+        {
+            "id": "trait-great-axe-proficiency",
+            "name": "Great Axe Proficiency"
+        },
+        {
+            "id": "trait-great-mace-proficiency",
+            "name": "Great Mace Proficiency"
+        },
+        {
+            "id": "trait-mail-armor-proficiency",
+            "name": "Mail Armor Proficiency"
+        },
+        {
+            "id": "trait-leather-armor-proficiency",
+            "name": "Leather Armor Proficiency"
+        },
+        {
+            "id": "trait-eternal-crow",
+            "name": "Eternal Crow"
+        },
+        {
+            "id": "trait-archery-practice",
+            "name": "Archery Practice"
+        },
+        {
+            "id": "trait-daywalker",
+            "name": "Daywalker"
+        },
+        {
+            "id": "trait-martial-weapons-principles",
+            "name": "Martial Weapons Principles"
+        },
+        {
+            "id": "trait-bladed-weapon-training",
+            "name": "Bladed Weapon Training"
+        },
+        {
+            "id": "trait-blunt-weapon-training",
+            "name": "Blunt Weapon Training"
+        },
+        {
+            "id": "trait-gaeas-inspiration",
+            "name": "Gaea's Inspiration"
+        },
+        {
+            "id": "trait-standard-saddles",
+            "name": "Standard Saddles"
+        }
+    ],
+    "powers": [
+        {
+            "id": "champion-b-attack-1",
+            "name": "Strong Swing"
+        },
+        {
+            "id": "champion-retaliate",
+            "name": "Retaliate"
+        },
+        {
+            "id": "champion-flying-neckbreaker",
+            "name": "Neckbreaker"
+        }
+    ],
+    "promo": [
+        "champion-promotion-class-alpha-warrior",
+        "champion-promotion-class-pit-fighter",
+        "champion-promotion-class-barbarian"
+    ]
+}
