@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "duelist-domain-dark",
-        "duelist-domain-shadow",
-        "duelist-domain-battle"
+        "duelist-vanguard-scout-domain-dark",
+        "duelist-vanguard-scout-domain-shadow",
+        "duelist-vanguard-scout-domain-battle"
     ],
     "locksSkill": []
 }

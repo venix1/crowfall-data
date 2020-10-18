@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "cleric-domain-fire",
-        "cleric-domain-light",
-        "cleric-domain-storm"
+        "cleric-radical-domain-fire",
+        "cleric-radical-domain-light",
+        "cleric-radical-domain-storm"
     ],
     "locksSkill": []
 }

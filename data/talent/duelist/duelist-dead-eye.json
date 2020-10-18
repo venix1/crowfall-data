@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "duelist-domain-death",
-        "duelist-domain-shadow",
-        "duelist-domain-music"
+        "duelist-slayer-domain-death",
+        "duelist-slayer-domain-shadow",
+        "duelist-slayer-domain-music"
     ],
     "locksSkill": []
 }

@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "ranger-domain-frost",
-        "ranger-domain-dark",
-        "ranger-domain-nature"
+        "ranger-warden-domain-frost",
+        "ranger-warden-domain-dark",
+        "ranger-warden-domain-nature"
     ],
     "locksSkill": []
 }

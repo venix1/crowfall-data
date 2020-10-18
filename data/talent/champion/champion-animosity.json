@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "leap",
+            "id": "champion-reverse-chain",
             "name": "Leap"
         }
     ],

@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "swordsmanship",
+            "id": "talent-knight-swordsmanship",
             "name": "Swordsmanship"
         }
     ],

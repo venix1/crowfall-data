@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "druid-domain-nature",
-        "druid-domain-storm",
-        "druid-domain-light"
+        "druid-earthkeeper-domain-nature",
+        "druid-earthkeeper-domain-storm",
+        "druid-earthkeeper-domain-light"
     ],
     "locksSkill": []
 }

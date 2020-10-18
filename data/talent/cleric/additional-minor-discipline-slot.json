@@ -1,0 +1,30 @@
+{
+    "id": "additional-minor-discipline-slot",
+    "name": "Additional Minor Discipline Slot",
+    "class": "cleric",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-discipline-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "cleric-holy-aura",
+            "point": 1
+        },
+        {
+            "skill": "cleric-thwart-the-wicked",
+            "point": 1
+        },
+        {
+            "skill": "cleric-sanctity",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "cleric-sanctity",
+        "cleric-circle-of-life"
+    ],
+    "locksSkill": []
+}

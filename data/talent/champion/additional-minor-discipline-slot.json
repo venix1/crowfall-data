@@ -1,0 +1,30 @@
+{
+    "id": "additional-minor-discipline-slot",
+    "name": "Additional Minor Discipline Slot",
+    "class": "champion",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-discipline-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-throw-hurlbat",
+            "point": 1
+        },
+        {
+            "skill": "champion-outrage",
+            "point": 1
+        },
+        {
+            "skill": "champion-potency",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "champion-potency",
+        "champion-blood-rage"
+    ],
+    "locksSkill": []
+}

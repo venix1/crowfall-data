@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "force-of-nature",
+            "id": "druid-talent-force-nature",
             "name": "Force Of Nature"
         }
     ],

@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "spitting-distance",
+            "id": "confessor-talent-spitting-distance",
             "name": "Spitting Distance"
         }
     ],

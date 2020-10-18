@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "confessor-domain-light",
-        "confessor-domain-fire",
-        "confessor-domain-storm"
+        "confessor-inquisitor-domain-light",
+        "confessor-inquisitor-domain-fire",
+        "confessor-inquisitor-domain-storm"
     ],
     "locksSkill": []
 }

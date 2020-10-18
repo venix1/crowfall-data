@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "disengage",
+            "id": "assassin-disengage",
             "name": "Disengage"
         }
     ],
@@ -19,7 +19,7 @@
             "point": 1
         },
         {
-            "skill": "assassin-minor-iii",
+            "skill": "assassin-additional-minor-discipline-slot",
             "point": 1
         },
         {

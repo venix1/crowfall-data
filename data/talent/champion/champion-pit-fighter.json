@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "pit-fighter",
+            "id": "champion-passive-pit-fighter",
             "name": "Pit Fighter"
         }
     ],

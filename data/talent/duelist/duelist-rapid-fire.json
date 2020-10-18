@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "rapid-fire",
+            "id": "duelist-rapidfire",
             "name": "Rapid Fire"
         }
     ],

@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "assassin-domain-death",
-        "assassin-domain-plague",
-        "assassin-domain-shadow"
+        "assassin-cutthroat-domain-death",
+        "assassin-cutthroat-domain-plague",
+        "assassin-cutthroat-domain-shadow"
     ],
     "locksSkill": []
 }

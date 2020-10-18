@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "ritual-sacrifice",
+            "id": "druid-z-sacrifice",
             "name": "Ritual Sacrifice"
         },
         {
-            "id": "blight",
+            "id": "druid-z-blight",
             "name": "Blight"
         }
     ],

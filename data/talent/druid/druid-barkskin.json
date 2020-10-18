@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "bark-skin",
+            "id": "druid-bark-skin",
             "name": "Bark Skin"
         }
     ],
@@ -25,7 +25,7 @@
     ],
     "unlocksSkill": [
         "druid-flow-of-nature",
-        "druid-minor-iii",
+        "druid-additional-minor-discipline-slot",
         "druid-foresight"
     ],
     "locksSkill": []

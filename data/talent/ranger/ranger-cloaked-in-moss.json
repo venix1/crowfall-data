@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "ranger-domain-shadow",
-        "ranger-domain-dark",
-        "ranger-domain-plague"
+        "ranger-brigand-domain-shadow",
+        "ranger-brigand-domain-dark",
+        "ranger-brigand-domain-plague"
     ],
     "locksSkill": []
 }

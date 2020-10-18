@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "lightning-burst",
+            "id": "druid-z-lightning-burst",
             "name": "Lightning Burst"
         }
     ],

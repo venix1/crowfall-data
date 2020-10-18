@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "rapid-fire",
+            "id": "ranger-rapid-shot",
             "name": "Rapid Fire"
         },
         {
-            "id": "twin-surge",
+            "id": "ranger-twin-surge",
             "name": "Twin Surge"
         }
     ],

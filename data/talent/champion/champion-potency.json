@@ -18,12 +18,12 @@
             "point": 1
         },
         {
-            "skill": "champion-minor-iii",
+            "skill": "champion-additional-minor-discipline-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "champion-minor-iii",
+        "champion-additional-minor-discipline-slot",
         "champion-blood-rage",
         "champion-anger-management"
     ],

@@ -1,0 +1,87 @@
+{
+    "id": "champion-barbarian-domain-war",
+    "name": "Domain: War",
+    "class": "champion",
+    "description": "Traits Granted:\\nDomain: War\\n\\nWar is hell, and it's where many demons are most at home.\\n\\n\\nWARNING: Purchasing this talent promotes you to the War domain group and prevents access to the other two domain groups for your class.",
+    "icon": "barbarian-domain-war.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-war",
+            "name": "War"
+        },
+        {
+            "id": "trait-war-or-death",
+            "name": "War or Death"
+        },
+        {
+            "id": "trait-war",
+            "name": "War"
+        },
+        {
+            "id": "trait-war-or-battle",
+            "name": "War or Battle"
+        },
+        {
+            "id": "trait-war",
+            "name": "War"
+        },
+        {
+            "id": "trait-war-or-battle",
+            "name": "War or Battle"
+        },
+        {
+            "id": "trait-war",
+            "name": "War"
+        },
+        {
+            "id": "trait-minotaur-or-war",
+            "name": "Minotaur or War"
+        },
+        {
+            "id": "trait-duelist-wind-or-war",
+            "name": "Duelist, Wind or War"
+        },
+        {
+            "id": "trait-nethari-war-or-death",
+            "name": "Nethari, War or Death"
+        },
+        {
+            "id": "trait-shadow-wind-or-war",
+            "name": "Shadow, Wind or War"
+        },
+        {
+            "id": "trait-minotaur-f-ire-war-or-music",
+            "name": "Minotaur, FIre, War or Music"
+        },
+        {
+            "id": "trait-nethari-shadow-war-or-battle",
+            "name": "Nethari, Shadow, War or Battle"
+        },
+        {
+            "id": "trait-assassin-duelist-half-giant-human-war-battle-or-death",
+            "name": "Assassin, Duelist, Half Giant, Human, War, Battle or Death"
+        },
+        {
+            "id": "trait-assassin-half-giant-frost-war-or-battle",
+            "name": "Assassin, Half Giant, Frost, War or Battle"
+        },
+        {
+            "id": "trait-myrmidon-human-war-or-death",
+            "name": "Myrmidon, Human, War or Death"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "champion-barbarity",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "champion-barbarian-domain-wind",
+        "champion-barbarian-domain-battle"
+    ]
+}

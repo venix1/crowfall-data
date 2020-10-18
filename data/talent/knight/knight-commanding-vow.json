@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "knight-domain-battle",
-        "knight-domain-justice",
-        "knight-domain-music"
+        "knight-sentinel-domain-battle",
+        "knight-sentinel-domain-justice",
+        "knight-sentinel-domain-music"
     ],
     "locksSkill": []
 }

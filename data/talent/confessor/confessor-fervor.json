@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "fervor",
+            "id": "confessor-fervor",
             "name": "Fervor"
         }
     ],
@@ -25,7 +25,7 @@
     ],
     "unlocksSkill": [
         "confessor-revelation",
-        "confessor-minor-iii",
+        "confessor-additional-minor-discipline-slot",
         "confessor-zeal"
     ],
     "locksSkill": []

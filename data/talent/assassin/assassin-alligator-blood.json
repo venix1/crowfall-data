@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "assassin-domain-war",
-        "assassin-domain-plague",
-        "assassin-domain-death"
+        "assassin-blackguard-domain-war",
+        "assassin-blackguard-domain-plague",
+        "assassin-blackguard-domain-death"
     ],
     "locksSkill": []
 }

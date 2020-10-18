@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "healing-rain",
+            "id": "druid-healing-rain",
             "name": "Healing Rain"
         }
     ],

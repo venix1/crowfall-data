@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "backstab",
+            "id": "assassin-backstab",
             "name": "Backstab"
         },
         {
-            "id": "in-the-zone",
+            "id": "assassin-in-zone",
             "name": "In The Zone"
         }
     ],

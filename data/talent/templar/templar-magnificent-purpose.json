@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "censure",
+            "id": "templar-censure",
             "name": "Censure"
         }
     ],

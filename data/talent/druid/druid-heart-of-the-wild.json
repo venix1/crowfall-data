@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "druid-domain-dark",
-        "druid-domain-storm",
-        "druid-domain-nature"
+        "druid-archdruid-domain-dark",
+        "druid-archdruid-domain-storm",
+        "druid-archdruid-domain-nature"
     ],
     "locksSkill": []
 }

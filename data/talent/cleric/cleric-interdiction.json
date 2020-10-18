@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "cleric-domain-frost",
-        "cleric-domain-light",
-        "cleric-domain-wind"
+        "cleric-arbiter-domain-frost",
+        "cleric-arbiter-domain-light",
+        "cleric-arbiter-domain-wind"
     ],
     "locksSkill": []
 }

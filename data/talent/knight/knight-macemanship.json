@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "macemanship",
+            "id": "talent-knight-macemanship",
             "name": "Macemanship"
         }
     ],

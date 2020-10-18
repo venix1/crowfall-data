@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "confessor-domain-music",
-        "confessor-domain-fire",
-        "confessor-domain-protection"
+        "confessor-sanctifier-domain-music",
+        "confessor-sanctifier-domain-fire",
+        "confessor-sanctifier-domain-protection"
     ],
     "locksSkill": []
 }

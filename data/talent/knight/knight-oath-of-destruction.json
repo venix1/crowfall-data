@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "knight-domain-war",
-        "knight-domain-justice",
-        "knight-domain-battle"
+        "knight-swordsman-domain-war",
+        "knight-swordsman-domain-justice",
+        "knight-swordsman-domain-battle"
     ],
     "locksSkill": []
 }

@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "cleric-domain-justice",
-        "cleric-domain-light",
-        "cleric-domain-protection"
+        "cleric-crusader-domain-justice",
+        "cleric-crusader-domain-light",
+        "cleric-crusader-domain-protection"
     ],
     "locksSkill": []
 }

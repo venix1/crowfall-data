@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "frostweaver-domain-dark",
-        "frostweaver-domain-frost",
-        "frostweaver-domain-death"
+        "frostweaver-frostguard-domain-dark",
+        "frostweaver-frostguard-domain-frost",
+        "frostweaver-frostguard-domain-death"
     ],
     "locksSkill": []
 }

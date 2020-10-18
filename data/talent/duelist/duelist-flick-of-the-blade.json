@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "duelist-domain-music",
-        "duelist-domain-shadow",
-        "duelist-domain-war"
+        "duelist-dirge-domain-music",
+        "duelist-dirge-domain-shadow",
+        "duelist-dirge-domain-war"
     ],
     "locksSkill": []
 }

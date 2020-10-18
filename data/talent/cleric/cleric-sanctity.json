@@ -18,12 +18,12 @@
             "point": 1
         },
         {
-            "skill": "cleric-minor-iii",
+            "skill": "cleric-additional-minor-discipline-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "cleric-minor-iii",
+        "cleric-additional-minor-discipline-slot",
         "cleric-circle-of-life",
         "cleric-noble-purpose"
     ],

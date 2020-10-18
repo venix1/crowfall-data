@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "barbarian",
+            "id": "champion-passive-barbarian",
             "name": "Barbarian"
         }
     ],

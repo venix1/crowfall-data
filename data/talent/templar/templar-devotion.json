@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "devotion",
+            "id": "templar-devotion",
             "name": "Devotion"
         }
     ],

@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "holy-warrior",
+            "id": "templar-holy-warrior",
             "name": "Holy Warrior"
         },
         {
-            "id": "righteous-stand",
+            "id": "templar-righteous-stand",
             "name": "Righteous Stand"
         }
     ],

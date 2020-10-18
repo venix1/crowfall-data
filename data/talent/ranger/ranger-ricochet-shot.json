@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "ricochet-shot",
+            "id": "sharpshooter-ricochet-shot",
             "name": "Ricochet Shot"
         }
     ],

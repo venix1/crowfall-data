@@ -18,12 +18,12 @@
             "point": 1
         },
         {
-            "skill": "assassin-minor-iii",
+            "skill": "assassin-additional-minor-discipline-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "assassin-minor-iii",
+        "assassin-additional-minor-discipline-slot",
         "assassin-disengage",
         "assassin-shadenfreude"
     ],

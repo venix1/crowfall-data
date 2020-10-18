@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "templar-domain-light",
-        "templar-domain-protection",
-        "templar-domain-justice"
+        "templar-paladin-domain-light",
+        "templar-paladin-domain-protection",
+        "templar-paladin-domain-justice"
     ],
     "locksSkill": []
 }

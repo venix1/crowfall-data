@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "confessor-domain-justice",
-        "confessor-domain-fire",
-        "confessor-domain-storm"
+        "confessor-fanatic-domain-justice",
+        "confessor-fanatic-domain-fire",
+        "confessor-fanatic-domain-storm"
     ],
     "locksSkill": []
 }

@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "shroud-of-darkness",
+            "id": "druid-z-shroud-darkness",
             "name": "Shroud Of Darkness"
         }
     ],
@@ -19,7 +19,7 @@
             "point": 1
         },
         {
-            "skill": "druid-minor-iii",
+            "skill": "druid-additional-minor-discipline-slot",
             "point": 1
         },
         {

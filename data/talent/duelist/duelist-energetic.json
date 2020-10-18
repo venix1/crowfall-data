@@ -18,12 +18,12 @@
             "point": 1
         },
         {
-            "skill": "duelist-minor-iii",
+            "skill": "duelist-additional-minor-discipline-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "duelist-minor-iii",
+        "duelist-additional-minor-discipline-slot",
         "duelist-inconceivable",
         "duelist-feral-instincts"
     ],

@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "sweep",
+            "id": "ranger-sweep",
             "name": "Sweep"
         }
     ],

@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "kidney-shot",
+            "id": "assassin-kidney-shot",
             "name": "Kidney Shot"
         }
     ],
@@ -25,7 +25,7 @@
     ],
     "unlocksSkill": [
         "assassin-opportunist",
-        "assassin-minor-iii",
+        "assassin-additional-minor-discipline-slot",
         "assassin-vigor"
     ],
     "locksSkill": []

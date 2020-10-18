@@ -1,0 +1,87 @@
+{
+    "id": "knight-swordsman-domain-justice",
+    "name": "Domain: Justice",
+    "class": "knight",
+    "description": "Traits Granted:\\nDomain: Justice\\n\\nTrue justice is the purest sense of godlessnes: it does not weigh your religion or creed or culture, but only what is just.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Justice domain group and prevents access to the other two domain groups for your class.",
+    "icon": "swordsman-domain-justice.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-duelist-justice-or-dark",
+            "name": "Duelist, Justice or Dark"
+        },
+        {
+            "id": "trait-frostweaver-light-fire-or-justice",
+            "name": "Frostweaver, Light, Fire or Justice"
+        },
+        {
+            "id": "trait-justice",
+            "name": "Justice"
+        },
+        {
+            "id": "trait-nethari-protection-or-justice",
+            "name": "Nethari, Protection or Justice"
+        },
+        {
+            "id": "trait-light-fire-or-justice",
+            "name": "Light, Fire or Justice"
+        },
+        {
+            "id": "trait-cleric-templar-or-justice",
+            "name": "Cleric, Templar or Justice"
+        },
+        {
+            "id": "trait-half-giant-shadow-justice-or-battle",
+            "name": "Half Giant, Shadow, Justice or Battle"
+        },
+        {
+            "id": "trait-justice",
+            "name": "Justice"
+        },
+        {
+            "id": "trait-half-elf-human-or-justice",
+            "name": "Half Elf, Human or Justice"
+        },
+        {
+            "id": "trait-champion-or-justice",
+            "name": "Champion or Justice"
+        },
+        {
+            "id": "trait-human-nature-justice-or-dark",
+            "name": "Human, Nature, Justice or Dark"
+        },
+        {
+            "id": "trait-assassin-justice-or-music",
+            "name": "Assassin, Justice or Music"
+        },
+        {
+            "id": "trait-wind-fire-frost-storm-justice-or-battle",
+            "name": "Wind, Fire, Frost, Storm, Justice or Battle"
+        },
+        {
+            "id": "trait-shadow-wind-frost-justice-or-battle",
+            "name": "Shadow, Wind, Frost, Justice or Battle"
+        },
+        {
+            "id": "trait-shadow-nature-or-justice",
+            "name": "Shadow, Nature or Justice"
+        },
+        {
+            "id": "trait-frostweaver-protection-or-justice",
+            "name": "Frostweaver, Protection or Justice"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "knight-oath-of-destruction",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "knight-swordsman-domain-war",
+        "knight-swordsman-domain-battle"
+    ]
+}

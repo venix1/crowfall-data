@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "concussive-trap",
+            "id": "ranger-trap-stun-melee",
             "name": "Concussive Trap"
         }
     ],

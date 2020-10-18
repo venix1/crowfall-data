@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "arcing-slash",
+            "id": "myrmidon-arcing-slash",
             "name": "Arcing Slash"
         }
     ],

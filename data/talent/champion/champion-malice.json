@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "champion-domain-music",
-        "champion-domain-battle",
-        "champion-domain-wind"
+        "champion-pit-fighter-domain-music",
+        "champion-pit-fighter-domain-battle",
+        "champion-pit-fighter-domain-wind"
     ],
     "locksSkill": []
 }

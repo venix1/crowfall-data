@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "dirge",
+            "id": "duelist-passive-dirge",
             "name": "Dirge"
         }
     ],

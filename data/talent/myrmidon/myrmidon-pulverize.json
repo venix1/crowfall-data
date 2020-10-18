@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "pulverize",
+            "id": "myrmidon-pulverize",
             "name": "Pulverize"
         }
     ],

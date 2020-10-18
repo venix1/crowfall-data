@@ -1,0 +1,83 @@
+{
+    "id": "druid-earthkeeper-domain-nature",
+    "name": "Domain: Nature",
+    "class": "druid",
+    "description": "Traits Granted:\\nDomain: Nature\\n\\nEvery living thing has a name, did you know? Each lumbering creature, swaying tree, tiny blade of grass—each has a true name.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Nature domain group and prevents access to the other two domain groups for your class.",
+    "icon": "earthkeeper-domain-nature.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-nature-or-music",
+            "name": "Nature or Music"
+        },
+        {
+            "id": "trait-elken-or-nature",
+            "name": "Elken or Nature"
+        },
+        {
+            "id": "trait-nature",
+            "name": "Nature"
+        },
+        {
+            "id": "trait-human-nature-or-wind",
+            "name": "Human, Nature or Wind"
+        },
+        {
+            "id": "trait-light-or-nature",
+            "name": "Light or Nature"
+        },
+        {
+            "id": "trait-nature",
+            "name": "Nature"
+        },
+        {
+            "id": "trait-knight-stoneborn-plague-or-nature",
+            "name": "Knight, Stoneborn, Plague or Nature"
+        },
+        {
+            "id": "trait-nature-wind-or-storm",
+            "name": "Nature, Wind or Storm"
+        },
+        {
+            "id": "trait-human-nature-justice-or-dark",
+            "name": "Human, Nature, Justice or Dark"
+        },
+        {
+            "id": "trait-nature-or-dark",
+            "name": "Nature or Dark"
+        },
+        {
+            "id": "trait-nature-or-dark",
+            "name": "Nature or Dark"
+        },
+        {
+            "id": "trait-shadow-nature-or-justice",
+            "name": "Shadow, Nature or Justice"
+        },
+        {
+            "id": "trait-druid-templar-light-nature-or-music",
+            "name": "Druid, Templar, Light, Nature or Music"
+        },
+        {
+            "id": "trait-light-nature-sotrm-or-protection",
+            "name": "Light, Nature, Sotrm or Protection"
+        },
+        {
+            "id": "trait-confessor-shadow-nature-storm-or-protection",
+            "name": "Confessor, Shadow, Nature, Storm or Protection"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-loved-by-the-sun",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "druid-earthkeeper-domain-storm",
+        "druid-earthkeeper-domain-light"
+    ]
+}

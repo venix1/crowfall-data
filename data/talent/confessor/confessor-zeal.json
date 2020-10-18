@@ -18,12 +18,12 @@
             "point": 1
         },
         {
-            "skill": "confessor-minor-iii",
+            "skill": "confessor-additional-minor-discipline-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "confessor-minor-iii",
+        "confessor-additional-minor-discipline-slot",
         "confessor-meteor-purge",
         "confessor-cleansing-fire"
     ],

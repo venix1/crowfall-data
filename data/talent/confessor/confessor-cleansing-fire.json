@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "cleansing-fire",
+            "id": "confessor-talent-cleansing-fire",
             "name": "Cleansing Fire"
         }
     ],

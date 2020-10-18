@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "ranger-domain-music",
-        "ranger-domain-dark",
-        "ranger-domain-nature"
+        "ranger-archer-domain-music",
+        "ranger-archer-domain-dark",
+        "ranger-archer-domain-nature"
     ],
     "locksSkill": []
 }

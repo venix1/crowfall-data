@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "druid-domain-frost",
-        "druid-domain-storm",
-        "druid-domain-protection"
+        "druid-stormcaller-domain-frost",
+        "druid-stormcaller-domain-storm",
+        "druid-stormcaller-domain-protection"
     ],
     "locksSkill": []
 }

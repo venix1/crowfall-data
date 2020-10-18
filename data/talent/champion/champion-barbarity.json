@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "champion-domain-wind",
-        "champion-domain-battle",
-        "champion-domain-war"
+        "champion-barbarian-domain-wind",
+        "champion-barbarian-domain-battle",
+        "champion-barbarian-domain-war"
     ],
     "locksSkill": []
 }

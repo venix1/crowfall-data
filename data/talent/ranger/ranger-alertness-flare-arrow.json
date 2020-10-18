@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "alertness",
+            "id": "ranger-alertness",
             "name": "Alertness"
         },
         {
-            "id": "flare-arrow",
+            "id": "ranger-flare-arrow",
             "name": "Flare Arrow"
         }
     ],

@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "cross-slash",
+            "id": "ranger-cross-slash",
             "name": "Cross Slash"
         }
     ],

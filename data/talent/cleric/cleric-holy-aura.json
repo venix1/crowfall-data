@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "holy-aura",
+            "id": "cleric-holy-aura",
             "name": "Holy Aura"
         }
     ],
@@ -25,7 +25,7 @@
     ],
     "unlocksSkill": [
         "cleric-thwart-the-wicked",
-        "cleric-minor-iii",
+        "cleric-additional-minor-discipline-slot",
         "cleric-sanctity"
     ],
     "locksSkill": []

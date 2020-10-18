@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "suppression-shot",
+            "id": "ranger-supression-shot",
             "name": "Suppression Shot"
         }
     ],

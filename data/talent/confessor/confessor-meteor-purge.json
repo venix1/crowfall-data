@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "meteor-purge",
+            "id": "confessor-meteor-purge",
             "name": "Meteor Purge"
         }
     ],
@@ -19,7 +19,7 @@
             "point": 1
         },
         {
-            "skill": "confessor-minor-iii",
+            "skill": "confessor-additional-minor-discipline-slot",
             "point": 1
         },
         {

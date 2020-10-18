@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "flash-of-light",
+            "id": "cleric-flash-of-light",
             "name": "Flash Of Light"
         },
         {
-            "id": "holy-symbol",
+            "id": "cleric-holy-symbol",
             "name": "Holy Symbol"
         }
     ],

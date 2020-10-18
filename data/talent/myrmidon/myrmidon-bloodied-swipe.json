@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "bloody-swipe",
+            "id": "myrmidon-bloodied-swipe",
             "name": "Bloody Swipe"
         }
     ],

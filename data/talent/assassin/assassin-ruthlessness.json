@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "assassin-domain-wind",
-        "assassin-domain-plague",
-        "assassin-domain-shadow"
+        "assassin-vandal-domain-wind",
+        "assassin-vandal-domain-plague",
+        "assassin-vandal-domain-shadow"
     ],
     "locksSkill": []
 }

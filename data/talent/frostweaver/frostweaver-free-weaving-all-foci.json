@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "free-weaving",
+            "id": "frst-weave-activate",
             "name": "Free Weaving"
         },
         {

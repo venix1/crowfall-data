@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "myrmidon-domain-justice",
-        "myrmidon-domain-war",
-        "myrmidon-domain-battle"
+        "myrmidon-battlerager-domain-justice",
+        "myrmidon-battlerager-domain-war",
+        "myrmidon-battlerager-domain-battle"
     ],
     "locksSkill": []
 }

@@ -1,0 +1,103 @@
+{
+    "id": "duelist-slayer-domain-music",
+    "name": "Domain: Music",
+    "class": "duelist",
+    "description": "Traits Granted:\\nDomain: Music\\n\\nThey say there is magic in music. A simple tune can bare the deepest emotions, surface the oldest memories, even heal wounds.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Music domain group and prevents access to the other two domain groups for your class.",
+    "icon": "slayer-domain-music.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-nature-or-music",
+            "name": "Nature or Music"
+        },
+        {
+            "id": "trait-templar-high-elf-protection-or-music",
+            "name": "Templar, High Elf, Protection or Music"
+        },
+        {
+            "id": "trait-fire-frost-or-music",
+            "name": "Fire, Frost or Music"
+        },
+        {
+            "id": "trait-music",
+            "name": "Music"
+        },
+        {
+            "id": "trait-half-giant-battle-or-music",
+            "name": "Half Giant, Battle or Music"
+        },
+        {
+            "id": "trait-shadow-or-music",
+            "name": "Shadow or Music"
+        },
+        {
+            "id": "trait-music",
+            "name": "Music"
+        },
+        {
+            "id": "trait-music",
+            "name": "Music"
+        },
+        {
+            "id": "trait-assassin-justice-or-music",
+            "name": "Assassin, Justice or Music"
+        },
+        {
+            "id": "trait-music",
+            "name": "Music"
+        },
+        {
+            "id": "trait-high-elf-protection-or-music",
+            "name": "High Elf, Protection or Music"
+        },
+        {
+            "id": "trait-human-or-music",
+            "name": "Human or Music"
+        },
+        {
+            "id": "trait-light-music-or-dark",
+            "name": "Light, Music or Dark"
+        },
+        {
+            "id": "trait-fae-or-music",
+            "name": "Fae or Music"
+        },
+        {
+            "id": "trait-minotaur-f-ire-war-or-music",
+            "name": "Minotaur, FIre, War or Music"
+        },
+        {
+            "id": "trait-music",
+            "name": "Music"
+        },
+        {
+            "id": "trait-light-protection-or-music",
+            "name": "Light, Protection or Music"
+        },
+        {
+            "id": "trait-druid-templar-light-nature-or-music",
+            "name": "Druid, Templar, Light, Nature or Music"
+        },
+        {
+            "id": "trait-music",
+            "name": "Music"
+        },
+        {
+            "id": "trait-templar-centaur-fire-or-music",
+            "name": "Templar, Centaur, Fire or Music"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "duelist-dead-eye",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "duelist-slayer-domain-death",
+        "duelist-slayer-domain-shadow"
+    ]
+}

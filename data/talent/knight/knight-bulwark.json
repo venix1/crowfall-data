@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "knight-domain-death",
-        "knight-domain-justice",
-        "knight-domain-nature"
+        "knight-secutor-domain-death",
+        "knight-secutor-domain-justice",
+        "knight-secutor-domain-nature"
     ],
     "locksSkill": []
 }

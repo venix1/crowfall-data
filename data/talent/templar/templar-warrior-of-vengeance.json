@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "templar-domain-battle",
-        "templar-domain-protection",
-        "templar-domain-wind"
+        "templar-vindicator-domain-battle",
+        "templar-vindicator-domain-protection",
+        "templar-vindicator-domain-wind"
     ],
     "locksSkill": []
 }

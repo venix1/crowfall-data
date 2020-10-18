@@ -18,12 +18,12 @@
             "point": 1
         },
         {
-            "skill": "druid-minor-iii",
+            "skill": "druid-additional-minor-discipline-slot",
             "point": 1
         }
     ],
     "unlocksSkill": [
-        "druid-minor-iii",
+        "druid-additional-minor-discipline-slot",
         "druid-shroud-of-darkness",
         "druid-ironwood-body"
     ],

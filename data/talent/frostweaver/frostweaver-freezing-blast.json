@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "freezing-blast",
+            "id": "frst-freezing-blast",
             "name": "Freezing Blast"
         }
     ],

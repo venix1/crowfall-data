@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "ambush",
+            "id": "ranger-stealth-ambush",
             "name": "Ambush"
         }
     ],

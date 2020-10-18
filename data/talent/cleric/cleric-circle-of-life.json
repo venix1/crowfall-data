@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "circle-of-life",
+            "id": "common-resurrection-group",
             "name": "Circle Of Life"
         }
     ],
@@ -19,7 +19,7 @@
             "point": 1
         },
         {
-            "skill": "cleric-minor-iii",
+            "skill": "cleric-additional-minor-discipline-slot",
             "point": 1
         },
         {

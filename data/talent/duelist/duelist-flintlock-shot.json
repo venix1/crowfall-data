@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "flintlock-shot",
+            "id": "duelist-flintlock-shot",
             "name": "Flintlock Shot"
         }
     ],
@@ -25,7 +25,7 @@
     ],
     "unlocksSkill": [
         "duelist-wily",
-        "duelist-minor-iii",
+        "duelist-additional-minor-discipline-slot",
         "duelist-energetic"
     ],
     "locksSkill": []

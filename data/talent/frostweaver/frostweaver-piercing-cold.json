@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "frostweaver-domain-storm",
-        "frostweaver-domain-frost",
-        "frostweaver-domain-protection"
+        "frostweaver-archmage-domain-storm",
+        "frostweaver-archmage-domain-frost",
+        "frostweaver-archmage-domain-protection"
     ],
     "locksSkill": []
 }

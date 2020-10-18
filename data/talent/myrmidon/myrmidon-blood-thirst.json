@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "myrmidon-domain-fire",
-        "myrmidon-domain-war",
-        "myrmidon-domain-death"
+        "myrmidon-titan-domain-fire",
+        "myrmidon-titan-domain-war",
+        "myrmidon-titan-domain-death"
     ],
     "locksSkill": []
 }

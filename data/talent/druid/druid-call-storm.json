@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "call-storm",
+            "id": "scimitarmaster-call-storm",
             "name": "Call Storm"
         }
     ],

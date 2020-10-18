@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "cheap-shots",
+            "id": "duelist-stealth-cheap-shots",
             "name": "Cheap Shots"
         }
     ],

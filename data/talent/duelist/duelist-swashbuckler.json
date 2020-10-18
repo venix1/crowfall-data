@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "pepperbox-shot",
+            "id": "duelist-pepperbox-shot",
             "name": "Pepperbox Shot"
         },
         {
-            "id": "impale",
+            "id": "duelist-impale",
             "name": "Impale"
         }
     ],

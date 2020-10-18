@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "shield-swipe",
+            "id": "knight-shield-spin-1",
             "name": "Shield Swipe"
         },
         {
-            "id": "shield-block",
+            "id": "knight-block",
             "name": "Shield Block"
         }
     ],

@@ -1,0 +1,30 @@
+{
+    "id": "additional-minor-discipline-slot",
+    "name": "Additional Minor Discipline Slot",
+    "class": "druid",
+    "description": "Unlock an additional Minor Discipline slot.",
+    "icon": "additional-minor-discipline-slot.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-barkskin",
+            "point": 1
+        },
+        {
+            "skill": "druid-flow-of-nature",
+            "point": 1
+        },
+        {
+            "skill": "druid-foresight",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [
+        "druid-foresight",
+        "druid-shroud-of-darkness"
+    ],
+    "locksSkill": []
+}

@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "champion-domain-war",
-        "champion-domain-battle",
-        "champion-domain-justice"
+        "champion-alpha-warrior-domain-war",
+        "champion-alpha-warrior-domain-battle",
+        "champion-alpha-warrior-domain-justice"
     ],
     "locksSkill": []
 }

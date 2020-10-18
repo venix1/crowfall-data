@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "templar-domain-fire",
-        "templar-domain-protection",
-        "templar-domain-music"
+        "templar-fury-domain-fire",
+        "templar-fury-domain-protection",
+        "templar-fury-domain-music"
     ],
     "locksSkill": []
 }

@@ -9,7 +9,7 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "ambush",
+            "id": "duelist-stealth-ambush",
             "name": "Ambush"
         }
     ],

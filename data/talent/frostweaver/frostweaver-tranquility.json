@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "frostweaver-domain-protection",
-        "frostweaver-domain-frost",
-        "frostweaver-domain-light"
+        "frostweaver-icecaller-domain-protection",
+        "frostweaver-icecaller-domain-frost",
+        "frostweaver-icecaller-domain-light"
     ],
     "locksSkill": []
 }

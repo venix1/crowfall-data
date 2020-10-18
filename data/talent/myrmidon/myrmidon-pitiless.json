@@ -19,9 +19,9 @@
         }
     ],
     "unlocksSkill": [
-        "myrmidon-domain-wind",
-        "myrmidon-domain-war",
-        "myrmidon-domain-music"
+        "myrmidon-conqueror-domain-wind",
+        "myrmidon-conqueror-domain-war",
+        "myrmidon-conqueror-domain-music"
     ],
     "locksSkill": []
 }

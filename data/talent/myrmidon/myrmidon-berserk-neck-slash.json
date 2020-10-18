@@ -9,11 +9,11 @@
     "levelRequirement": 0,
     "grants": [
         {
-            "id": "berserk",
+            "id": "myrmidon-berserk",
             "name": "Berserk"
         },
         {
-            "id": "neck-slash",
+            "id": "myrmidon-neck-slice",
             "name": "Neck Slash"
         }
     ],

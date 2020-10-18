@@ -1,0 +1,91 @@
+{
+    "id": "druid-earthkeeper-domain-light",
+    "name": "Domain: Light",
+    "class": "druid",
+    "description": "Traits Granted:\\nDomain: Light\\n\\nWhen the protections of armor and magic fail you, turn to the unwavering shield of faith.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Light domain group and prevents access to the other two domain groups for your class.",
+    "icon": "earthkeeper-domain-light.png",
+    "maxPoints": 1,
+    "pointRequirement": 0,
+    "levelRequirement": 0,
+    "grants": [
+        {
+            "id": "trait-confessor-templar-human-or-light",
+            "name": "Confessor, Templar, Human or Light"
+        },
+        {
+            "id": "trait-elken-or-light",
+            "name": "Elken or Light"
+        },
+        {
+            "id": "trait-light",
+            "name": "Light"
+        },
+        {
+            "id": "trait-frostweaver-light-fire-or-justice",
+            "name": "Frostweaver, Light, Fire or Justice"
+        },
+        {
+            "id": "trait-light-or-nature",
+            "name": "Light or Nature"
+        },
+        {
+            "id": "trait-wood-elf-or-light",
+            "name": "Wood Elf or Light"
+        },
+        {
+            "id": "trait-light-fire-or-justice",
+            "name": "Light, Fire or Justice"
+        },
+        {
+            "id": "trait-frostweaver-light-or-storm",
+            "name": "Frostweaver, Light or Storm"
+        },
+        {
+            "id": "trait-centaur-light-or-fire",
+            "name": "Centaur, Light or Fire"
+        },
+        {
+            "id": "trait-light-storm-or-death",
+            "name": "Light, Storm or Death"
+        },
+        {
+            "id": "trait-light-music-or-dark",
+            "name": "Light, Music or Dark"
+        },
+        {
+            "id": "trait-light-or-fire",
+            "name": "Light or Fire"
+        },
+        {
+            "id": "trait-fae-or-light",
+            "name": "Fae or Light"
+        },
+        {
+            "id": "trait-light-protection-or-music",
+            "name": "Light, Protection or Music"
+        },
+        {
+            "id": "trait-druid-templar-light-nature-or-music",
+            "name": "Druid, Templar, Light, Nature or Music"
+        },
+        {
+            "id": "trait-light-or-frost",
+            "name": "Light or Frost"
+        },
+        {
+            "id": "trait-light-nature-sotrm-or-protection",
+            "name": "Light, Nature, Sotrm or Protection"
+        }
+    ],
+    "unlockedFromSkill": [
+        {
+            "skill": "druid-loved-by-the-sun",
+            "point": 1
+        }
+    ],
+    "unlocksSkill": [],
+    "locksSkill": [
+        "druid-earthkeeper-domain-nature",
+        "druid-earthkeeper-domain-storm"
+    ]
+}
