@@ -1,7 +1,7 @@
 {
-    "id": "knight-vanguard-scout-domain-battle",
+    "id": "duelist-vanguard-scout-domain-battle",
     "name": "Domain: Battle",
-    "class": "knight",
+    "class": "duelist",
     "description": "Traits Granted:\\nDomain: Battle\\n\\nIn combat, there can be no half-measures. Survive, learn, and prevail no matter the cost.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Battle domain group and prevents access to the other two domain groups for your class.",
     "icon": "vanguard-scout-domain-battle.png",
     "maxPoints": 1,
@@ -41,8 +41,8 @@
             "name": "Half Giant, Shadow, Justice or Battle"
         },
         {
-            "id": "trait-fae",
-            "name": "Fae"
+            "id": "trait-fae-protection-or-battle",
+            "name": "Fae, Protection or Battle"
         },
         {
             "id": "trait-wind-fire-frost-storm-justice-or-battle",
@@ -75,13 +75,13 @@
     ],
     "unlockedFromSkill": [
         {
-            "skill": "knight-spy-master",
+            "skill": "duelist-spy-master",
             "point": 1
         }
     ],
     "unlocksSkill": [],
     "locksSkill": [
-        "knight-vanguard-scout-domain-dark",
-        "knight-vanguard-scout-domain-shadow"
+        "duelist-vanguard-scout-domain-dark",
+        "duelist-vanguard-scout-domain-shadow"
     ]
 }

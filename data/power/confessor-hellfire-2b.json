@@ -1,7 +1,7 @@
 {
     "id": "confessor-hellfire-2b",
     "name": "Hellfire Aura",
-    "description": "consumes your Hellfire Shield to surrounding you in a pulsing Hellfire Aura that damages enemies within 4m 25 Weapon Damage twice a second.",
+    "description": "consumes your Hellfire Shield to surrounding you in a pulsing Hellfire Aura that damages enemies within 4m 25 + $weapon_damage_value$% Weapon Damage twice a second.",
     "shortDescription": "",
     "icon": "confessor-hellfire-2b.png",
     "stats": {

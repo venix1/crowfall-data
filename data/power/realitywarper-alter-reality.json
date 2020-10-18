@@ -1,7 +1,7 @@
 {
     "id": "realitywarper-alter-reality",
     "name": "Alter Reality",
-    "description": "places a Heal Absorption shield on the target which absorbs incoming heals. In order to remove the shield the target must be healed for 500. \\n\\nIf the shield is not healed off before 15 seconds, it will explode dealing 107 damage to those nearby.",
+    "description": "places a Heal Absorption shield on the target which absorbs incoming heals. In order to remove the shield the target must be healed for 500. \\n\\nIf the shield is not healed off before 15 seconds, it will explode dealing 107 + 107% damage to those nearby.",
     "shortDescription": "Attack: Absorb Enemy Healing",
     "icon": "realitywarper-alter-reality.png",
     "stats": {

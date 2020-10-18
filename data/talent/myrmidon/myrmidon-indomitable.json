@@ -2,7 +2,7 @@
     "id": "myrmidon-indomitable",
     "name": "Indomitable",
     "class": "myrmidon",
-    "description": "This talent grants the Battle Rager passive power.",
+    "description": "This talent grants the [NOPOWER] passive power.",
     "icon": "indomitable.png",
     "maxPoints": 1,
     "pointRequirement": 0,

@@ -4,8 +4,8 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-fae",
-            "name": "Fae"
+            "id": "trait-fae-protection-or-battle",
+            "name": "Fae, Protection or Battle"
         }
     ],
     "icon": "twister-of-fate.png",

@@ -1,7 +1,7 @@
 {
     "id": "confessor-passive-2",
     "name": "Righteousness",
-    "description": "adds a chance to restore Mana when you deal damage.",
+    "description": "adds a chance to restore 5% Mana when you deal damage.",
     "shortDescription": "",
     "icon": "confessor-passive-2.png",
     "stats": {

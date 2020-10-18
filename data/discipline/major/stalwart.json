@@ -4,8 +4,8 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-cleric",
-            "name": "Cleric"
+            "id": "trait-cleric-or-knight",
+            "name": "Cleric or Knight"
         }
     ],
     "icon": "stalwart.png",
@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "knight-block",
-            "name": "Shield Block",
-            "description": ""
-        },
+        "power_discipline_stalwart_get_behind_me",
         {
             "id": "shieldfighter-molon-labe",
             "name": "Molon Labe",

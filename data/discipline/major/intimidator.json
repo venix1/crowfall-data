@@ -25,11 +25,7 @@
             "name": "Frighten",
             "description": "Attack: Reduce enemy damage"
         },
-        {
-            "id": "destroyer-rage-health-buff",
-            "name": "Insanity",
-            "description": "Gain Health based on Rage"
-        }
+        "power_discipline_destroyer_rage_health_buff_2"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

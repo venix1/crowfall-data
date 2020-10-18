@@ -1,7 +1,7 @@
 {
     "id": "swordmaster-iron-skin",
     "name": "Iron Skin",
-    "description": "hardens your skin increasing your Slashing Resistance and reducing Weapon Resource Cost.",
+    "description": "hardens your skin increasing your Slashing Resistance and reducing Weapon Resource Cost for $duration$.",
     "shortDescription": "Increase Slashing Resistance; Reduce Weapon Resource Cost",
     "icon": "swordmaster-iron-skin.png",
     "stats": {

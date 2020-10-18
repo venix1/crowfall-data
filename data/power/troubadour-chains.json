@@ -1,7 +1,7 @@
 {
     "id": "troubadour-chains",
     "name": "Consonant Chains",
-    "description": "damages and slows your target and as many as 5 additional enemies for 105 + 105% Weapon Damage but with damage reducing by 30% for each additional target.\\n\\nType 1 Song.\\n\\nDoes not toggle.",
+    "description": "damages and slows your target and as many as four additional enemies for 105 + 105% Weapon Damage but with damage reducing by 30% for each additional target.\\n\\nType 1 Song.\\n\\nDoes not toggle.",
     "shortDescription": "Song: Damage; Snare Enemies",
     "icon": "troubadour-chains.png",
     "stats": {

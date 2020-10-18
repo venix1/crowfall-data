@@ -1,7 +1,7 @@
 {
     "id": "bard-verses-of-victory",
     "name": "Verses Of Victory",
-    "description": "increases your group's Attack Power by 75 and Support Power by 75 for 12 seconds.\\n\\nType 4 Song.",
+    "description": "increases your group's Attack Power by 75 and Support Power by 75 for 12 seconds. Refreshes every 6 seconds while toggled on.\\n\\nType 4 Song.",
     "shortDescription": "Song: Increase Group Attack, Support Power",
     "icon": "bard-verses-of-victory.png",
     "stats": {

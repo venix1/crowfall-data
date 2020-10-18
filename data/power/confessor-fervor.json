@@ -1,7 +1,7 @@
 {
     "id": "confessor-fervor",
     "name": "Fervor",
-    "description": "restores 350 Mana over five seconds and reduce your physical mitigations by 15% while channeling.",
+    "description": "restores 350 Mana every second for over five seconds and reduce your physical mitigations by $buff_amount_1$% while channeling.",
     "shortDescription": "",
     "icon": "confessor-fervor.png",
     "stats": {

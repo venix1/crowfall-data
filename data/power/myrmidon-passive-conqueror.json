@@ -1,7 +1,7 @@
 {
     "id": "myrmidon-passive-conqueror",
     "name": "Conqueror",
-    "description": "stuns an enemy periodically while Berserk.",
+    "description": "periodically stuns enemies that hit you while Berserking.",
     "shortDescription": "",
     "icon": "myrmidon-passive-conqueror.png",
     "stats": {

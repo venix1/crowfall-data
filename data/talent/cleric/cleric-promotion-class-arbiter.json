@@ -2,7 +2,7 @@
     "id": "cleric-promotion-class-arbiter",
     "name": "Promotion Class: Arbiter",
     "class": "cleric",
-    "description": "Role: Ranged Control\\n\\nSacrificing damage and healing potential, this maven of battle excels at controlling enemies.\\n\\nStat Adjustments:\\nSupport Power +300\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nMace Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nHoly Symbol: Now applies a Knockdown to enemies.\\nIlluminate: Now basic attacks regenerate mana for XXX seconds.\\nFlash Of Light: Now also Blinds enemies within 5m of target, up to 4 additional targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Arbiter promotion class and prevents access to the Crusader and Radical promotion classes.",
+    "description": "Role: Melee Control\\n\\nSacrificing damage and healing potential, this maven of battle excels at controlling enemies.\\n\\nStat Adjustments:\\nSupport Power +300\\n\\nTraits Granted:\\nPlate Armor Proficiency\\nMace Mastery\\nBuckler Mastery\\nMedium Shield Mastery\\n\\nEnhancements:\\nHoly Symbol: Now applies a Knockdown to enemies.\\nIlluminate: Now basic attacks regenerate mana for XXX seconds.\\nFlash Of Light: Now also Blinds enemies within 5m of target, up to 4 additional targets.\\n\\n\\nWARNING: Purchasing this talent promotes you to the Arbiter promotion class and prevents access to the Crusader and Radical promotion classes.",
     "icon": "promotion-class-arbiter.png",
     "maxPoints": 1,
     "pointRequirement": 0,

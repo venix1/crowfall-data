@@ -4,8 +4,8 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-cleric-or-knight",
-            "name": "Cleric or Knight"
+            "id": "trait-cleric-or-templar",
+            "name": "Cleric or Templar"
         }
     ],
     "icon": "adjudicator.png",

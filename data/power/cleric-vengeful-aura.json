@@ -1,0 +1,24 @@
+{
+    "id": "cleric-vengeful-aura",
+    "name": "Vengeful Aura",
+    "description": "fortifies group members and you with otherworldly strength increasing their maximum Attack Power by 75 while you maintain the effect.",
+    "shortDescription": "",
+    "icon": "cleric-vengeful-aura.png",
+    "stats": {
+        "range": "50",
+        "max_targets": "5",
+        "target": "Group",
+        "cast_time": "Toggle"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": true,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "cleric",
+        "anyone"
+    ]
+}

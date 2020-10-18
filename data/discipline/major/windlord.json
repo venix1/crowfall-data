@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "knight-pursuit",
-            "name": "Pursuit",
-            "description": ""
-        },
+        "power_discipline_windlord_pursuit",
         "power_discipline_runescarredgladiator_first_wind"
     ],
     "grantsSlot": [],

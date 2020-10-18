@@ -4,8 +4,8 @@
     "type": "minor",
     "trait": [
         {
-            "id": "trait-light-nature-sotrm-or-protection",
-            "name": "Light, Nature, Sotrm or Protection"
+            "id": "trait-light-nature-storm-or-protection",
+            "name": "Light, Nature, Storm or Protection"
         }
     ],
     "icon": "take-root.png",

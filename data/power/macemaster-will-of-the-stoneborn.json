@@ -1,7 +1,7 @@
 {
     "id": "macemaster-will-of-the-stoneborn",
     "name": "Will Of The Stoneborn",
-    "description": "fortifies your defense increasing your Crushing Resistance and improving weapon efficiency.",
+    "description": "fortifies your defense increasing your Crushing Resistance by $buff_amount_1$% and improving weapon efficiency by $buff_amount_2$% for $duration$.",
     "shortDescription": "Increase Crushing Resistance; Weapon Efficiency",
     "icon": "macemaster-will-of-the-stoneborn.png",
     "stats": {

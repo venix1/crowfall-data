@@ -19,7 +19,7 @@
         {
             "id": "plaguelord-support-debuff-basic",
             "name": "Touch Of Rot",
-            "description": "Passive: Reduce Support Power on last Basic"
+            "description": "Passive: Reduce Support Power on last Basic Attack"
         }
     ],
     "grantsSlot": [],

@@ -7,7 +7,12 @@
     "maxPoints": 1,
     "pointRequirement": 0,
     "levelRequirement": 0,
-    "grants": [],
+    "grants": [
+        {
+            "id": "myrmidon-passive-conqueror",
+            "name": "Conqueror"
+        }
+    ],
     "unlockedFromSkill": [
         {
             "skill": "myrmidon-promotion-class-conqueror",

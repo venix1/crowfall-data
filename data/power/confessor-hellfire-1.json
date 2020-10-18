@@ -1,7 +1,7 @@
 {
     "id": "confessor-hellfire-1",
     "name": "Hellfire Shield",
-    "description": "surrounds you in a Hellfire Shield for 15 seconds. Anyone who hits you is damaged for 25 damage.",
+    "description": "surrounds you in a Hellfire Shield for 15 seconds. Anyone who hits you is damaged for 25 + $weapon_damage_value$% Weapon Damage.",
     "shortDescription": "",
     "icon": "confessor-hellfire-1.png",
     "stats": {

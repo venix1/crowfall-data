@@ -2,7 +2,7 @@
     "id": "assassin-efficient-poisons",
     "name": "Efficient Poisons",
     "class": "assassin",
-    "description": "Apply your poisons more efficiently, with a chance on not using a durability of your equipped poison when you apply one.",
+    "description": "Apply your poisons more efficiently, with a chance on not using a durability of your equipped poison when you apply one. Increases the duration of Instant and Deadly Poison application buffs.",
     "icon": "efficient-poisons.png",
     "maxPoints": 1,
     "pointRequirement": 0,

@@ -1,7 +1,7 @@
 {
     "id": "axemaster-cooldown-combo-2",
     "name": "Furious Slash",
-    "description": "slashes furiously at an enemy for 159 + 159% Weapon Damage while reducing your short and long cooldown times.",
+    "description": "slashes furiously at an enemy for 159 + 159% Weapon Damage while reducing your short and long cooldown times by $buff_amount_1$%.",
     "shortDescription": "",
     "icon": "axemaster-cooldown-combo-2.png",
     "stats": {

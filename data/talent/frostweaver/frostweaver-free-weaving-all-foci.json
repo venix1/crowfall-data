@@ -2,7 +2,7 @@
     "id": "frostweaver-free-weaving-all-foci",
     "name": "Free Weaving/All Foci",
     "class": "frostweaver",
-    "description": "This talent grants the Free Weaving, Stable Focus, Frigid Focus, Volatile Focus, Refreshing Focus and Cooling Focus powers.",
+    "description": "This talent grants the Free Weaving, Stable Focus, Frigid Focus, Volatile Focus, Refreshing Focus and Cooling Focus powers.\\n\\nIncrease Ice Storage Cap +1",
     "icon": "free-weaving-all-foci.png",
     "maxPoints": 1,
     "pointRequirement": 0,

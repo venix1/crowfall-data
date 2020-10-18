@@ -1,7 +1,7 @@
 {
     "id": "talent-knight-macemanship",
     "name": "Macemanship",
-    "description": "increases the amount of energy restored from the Echoing Assualt talent by 5%.\\n\\nStunning or Knocking Down an enemy while also wielding a mace casts Skullcrusher on you.\\n\\nSkullcrusher increases your Damage Bonus by 15% and In Combat Movement Speed by 25% for 6 seconds.",
+    "description": "makes it so Stunning or Knocking Down an enemy while also wielding a mace casts Skullcrusher on you.\\n\\nSkullcrusher increases your Damage Bonus by 15% and In Combat Movement Speed by 25% for 6 seconds.",
     "shortDescription": "",
     "icon": "talent-knight-macemanship.png",
     "stats": {

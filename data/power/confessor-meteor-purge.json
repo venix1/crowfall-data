@@ -1,7 +1,7 @@
 {
     "id": "confessor-meteor-purge",
     "name": "Meteor Purge",
-    "description": "launches an explosive Meteor, damaging enemies in 5m radius for 126 + 126% Weapon Damage.\\n\\nWhen charged more than 33%, Meteor Purge applies Burning to all targets hit.\\nWhen charged more than 66%, Meteor Purge also applies Blackmantle to all targets hit.\\nWhen charged more than 99%, Meteor Purge also applies a Knockdown to all targets.\\n\\nBlackmantle absorbs incoming Healing until 500 points of Health are healed or until it expires after 30 seconds.",
+    "description": "launches an explosive Meteor, damaging enemies in 5m radius for 126 + 126% Weapon Damage.\\n\\nWhen charged more than 33%, Meteor Purge applies Burning to all targets hit.\\nWhen charged more than 66%, Meteor Purge also applies Blackmantle to all targets hit.\\nWhen charged more than 99%, Meteor Purge also applies a Knockdown to all targets.\\n\\nBlackmantle absorbs incoming Healing until 5000 points of Health are healed or until it expires after 30 seconds.",
     "shortDescription": "",
     "icon": "confessor-meteor-purge.png",
     "stats": {

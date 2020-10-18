@@ -33,8 +33,8 @@
             "name": "Nethari, Protection or Justice"
         },
         {
-            "id": "trait-fae",
-            "name": "Fae"
+            "id": "trait-fae-protection-or-battle",
+            "name": "Fae, Protection or Battle"
         },
         {
             "id": "trait-storm-or-protection",
@@ -61,8 +61,8 @@
             "name": "Plague, Frost or Protection"
         },
         {
-            "id": "trait-light-nature-sotrm-or-protection",
-            "name": "Light, Nature, Sotrm or Protection"
+            "id": "trait-light-nature-storm-or-protection",
+            "name": "Light, Nature, Storm or Protection"
         },
         {
             "id": "trait-confessor-shadow-nature-storm-or-protection",

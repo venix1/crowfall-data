@@ -2,7 +2,7 @@
     "id": "druid-foresight",
     "name": "Foresight",
     "class": "druid",
-    "description": "Stat Adjustments:\\nSelf Healing +5%\\nOrb Healing +25%\\n\\n\"Druids tread the line between life and death with every fight.\"\\n-Druids of the Wilds Vol. II",
+    "description": "Stat Adjustments:\\nControl Defense +30%\\nPhysical Resistance +300\\n\\n\"Druids tread the line between life and death with every fight.\"\\n-Druids of the Wilds Vol. II",
     "icon": "foresight.png",
     "maxPoints": 1,
     "pointRequirement": 0,

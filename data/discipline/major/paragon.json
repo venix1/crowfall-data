@@ -26,9 +26,9 @@
             "description": "Target Heal Ally Over Time Scaling with Stamina"
         },
         {
-            "id": "dig-in",
-            "name": "Dig In",
-            "description": "Passive: Crit Defense on Low Health"
+            "id": "cleric-vengeful-aura",
+            "name": "Vengeful Aura",
+            "description": ""
         }
     ],
     "grantsSlot": [],

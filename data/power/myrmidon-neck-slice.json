@@ -1,7 +1,7 @@
 {
     "id": "myrmidon-neck-slice",
     "name": "Neck Slash",
-    "description": "executes a bonus attack for 180 + 180% Weapon Damage and becomes enabled after using Berserk, Frenzy or Vengeance. \\n\\nThis attack can be instantly Flash-Cast.",
+    "description": "executes a bonus attack for 180 + 180% Weapon Damage and becomes enabled after using Berserk. \\n\\nThis attack can be instantly Flash-Cast.",
     "shortDescription": "",
     "icon": "myrmidon-neck-slice.png",
     "stats": {

@@ -1,7 +1,7 @@
 {
     "id": "myrmidon-berserk",
     "name": "Berserk",
-    "description": "heals back Health equal to the damage you cause but without the ability to recover more Health than you had when Vengeance was activated.\\n\\nThis power's cooldown time cannot be modified.\\n\\nThis attack can be instantly Flash-Cast.",
+    "description": "heals back Health equal to the damage you cause but without the ability to recover more Health than you had when Berserk was activated.\\n\\nThis power's cooldown time cannot be modified.\\n\\nThis attack can be instantly Flash-Cast.",
     "shortDescription": "",
     "icon": "myrmidon-berserk.png",
     "stats": {

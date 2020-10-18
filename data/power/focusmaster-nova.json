@@ -1,7 +1,7 @@
 {
     "id": "focusmaster-nova",
     "name": "Force Wave",
-    "description": "pushes enemies away from you inflicting 133 + 133% Weapon Damage and leaves their movement slowed.",
+    "description": "pushes enemies away from you inflicting 133 + 133% $weapon_damage_type$ Weapon Damage and leaves their movement slowed.",
     "shortDescription": "Attack: Push Enemies Away",
     "icon": "focusmaster-nova.png",
     "stats": {

@@ -23,7 +23,7 @@
         {
             "id": "poisoner-combo-1",
             "name": "Poisoned Blade",
-            "description": "Attack: Adds the poison debuff to an enemy."
+            "description": "Attack: Adds the poison buff to your attacks."
         },
         {
             "id": "poisoner-poison-basic",
@@ -40,15 +40,4 @@
     ],
     "description": ".",
     "lore": "."
-}       },
-        {
-            "id": "poisoner-poison-basic",
-            "name": "Poisoned Weapons",
-            "description": "Passive: Basic attacks now deal Poison damage."
-        }
-    ],
-    "grantsSlot": [],
-    "grantsTrait": [],
-    "description": "Poison is one of the most inconspicuous and often underappreciated forms of punishment. From the depths of the shadows to the dining halls of kings and queens, poison takes many forms with the intention to finish off a target swiftly and with minimal retaliation.",
-    "lore": "You have no idea how close I am to ending your life with the flick of a poisoned blade or just a dash of liquid from a small vial."
 }
