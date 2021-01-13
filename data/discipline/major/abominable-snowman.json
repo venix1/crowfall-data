@@ -2,6 +2,10 @@
     "id": "abominable-snowman",
     "name": "Abominable Snowman",
     "type": "major",
+    "tags": [
+        "death",
+        "frost"
+    ],
     "trait": [
         {
             "id": "trait-frost-or-death",
