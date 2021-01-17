@@ -3,3 +3,4 @@ data/discipline/major/blank-major.json
 node_modules/
 data/power/deprecated/
 data/discipline/deprecated/
+*.sw?
