@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "escapeartist-speedy-retaliate",
-            "name": "Speedy Retaliate",
-            "description": "Retaliate with Movement Speed Bonus"
-        }
+        "escapeartist-speedy-retaliate"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

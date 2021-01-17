@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "druid-avatar-pack",
-            "name": "Pack Avatar",
-            "description": ""
-        }
+        "druid-avatar-pack"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

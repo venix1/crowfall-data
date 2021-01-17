@@ -11,11 +11,7 @@
     "icon": "shadows-caress.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "stealth-regeneration",
-            "name": "Shadow's Caress",
-            "description": "Passive: Increase Health Regen in Stealth"
-        }
+        "stealth-regeneration"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

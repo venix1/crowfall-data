@@ -11,11 +11,7 @@
     "icon": "apothecary.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "alchemy-techniques",
-            "name": "Potion Swirling",
-            "description": "Passive: Increase Alchemy Assembly and Experimentation Caps"
-        }
+        "alchemy-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

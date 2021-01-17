@@ -11,11 +11,7 @@
     "icon": "uniform-plate.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "matching-offense-plate",
-            "name": "Uniform Plate",
-            "description": "Passive: Gain Attack Power with a Full Set of Plate Equipped"
-        }
+        "matching-offense-plate"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

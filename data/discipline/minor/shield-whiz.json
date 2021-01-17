@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "infinite-angles",
-            "name": "Infinite Angles",
-            "description": "Passive: Shield Throw Applies Snare"
-        }
+        "infinite-angles"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "druid-z-faerie-fire",
-            "name": "Faerie Flames",
-            "description": ""
-        }
+        "druid-z-faerie-fire"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

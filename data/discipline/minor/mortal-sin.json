@@ -11,11 +11,7 @@
     "icon": "mortal-sin.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "mortal-sin",
-            "name": "Mortal Sin",
-            "description": "Passive: Targets Debuff Anti-Critical Strike"
-        }
+        "mortal-sin"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

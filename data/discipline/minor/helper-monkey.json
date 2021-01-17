@@ -11,11 +11,7 @@
     "icon": "helper-monkey.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "helper-monkey",
-            "name": "Helper Monkey",
-            "description": "Passive: Reduces Craft Assembly and Experiment Difficulty of Recipes"
-        }
+        "helper-monkey"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "troubadour-lament",
-            "name": "Lament Of Sadness",
-            "description": "Song: Reduce Enemy Attack, Support Power"
-        }
+        "troubadour-lament"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

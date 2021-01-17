@@ -11,11 +11,7 @@
     "icon": "armorsmith.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "blacksmithing-techniques",
-            "name": "Metal Maneuvers",
-            "description": "Passive: Increase Blacksmithing Assembly and Experimentation Caps"
-        }
+        "blacksmithing-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

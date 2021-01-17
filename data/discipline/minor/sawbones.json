@@ -11,11 +11,7 @@
     "icon": "sawbones.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "necromancy-techniques",
-            "name": "Reanimation Rites",
-            "description": "Passive: Increase Necromancy Assembly and Experimentation Caps"
-        }
+        "necromancy-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

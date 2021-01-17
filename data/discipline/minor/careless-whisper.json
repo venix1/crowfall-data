@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "careless-whisper",
-            "name": "Careless Whisper",
-            "description": "Passive: Basic Attacks Buff Crit Stats"
-        }
+        "careless-whisper"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "realitywarp-dmg-on-low-resource",
-            "name": "Crazy Pills",
-            "description": "Passive: Increase Damage on Low Resource"
-        }
+        "realitywarp-dmg-on-low-resource"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

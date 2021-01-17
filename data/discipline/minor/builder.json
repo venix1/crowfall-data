@@ -11,11 +11,7 @@
     "icon": "builder.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "stonemasonry-techniques",
-            "name": "Drawing and Drafting",
-            "description": "Passive: Increase Stonemasonry Assembly and Experimentation Caps"
-        }
+        "stonemasonry-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

@@ -11,11 +11,7 @@
     "icon": "dig-in.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "dig-in",
-            "name": "Dig In",
-            "description": "Passive: Crit Defense on Low Health"
-        }
+        "dig-in"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

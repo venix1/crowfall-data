@@ -11,11 +11,7 @@
     "icon": "overwhelming-odds.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "enemies-near-mitigation",
-            "name": "Overwhelming Odds",
-            "description": "Passive: Gain Resistance when Enemies Near"
-        }
+        "enemies-near-mitigation"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

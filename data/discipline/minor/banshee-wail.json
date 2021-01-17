@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "banshee-banshee-wail",
-            "name": "Banshee Wail",
-            "description": "Attack: Reduce Movement Speed"
-        }
+        "banshee-banshee-wail"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

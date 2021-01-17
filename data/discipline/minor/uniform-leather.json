@@ -11,11 +11,7 @@
     "icon": "uniform-leather.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "matching-offense-leather",
-            "name": "Uniform Leather",
-            "description": "Passive: Gain Attack Power with a Full Set of Leather Equipped"
-        }
+        "matching-offense-leather"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "assassin-stealth-recon",
-            "name": "Recon",
-            "description": ""
-        }
+        "assassin-stealth-recon"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

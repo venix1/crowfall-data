@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "ranger-archers-stake",
-            "name": "Archers Stake",
-            "description": ""
-        }
+        "ranger-archers-stake"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

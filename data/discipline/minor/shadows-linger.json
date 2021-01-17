@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "blackmask-shadows-linger",
-            "name": "Shadows Linger",
-            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
-        }
+        "blackmask-shadows-linger"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

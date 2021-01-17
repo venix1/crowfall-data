@@ -11,11 +11,7 @@
     "icon": "wood-carver.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "woodworking-techniques",
-            "name": "Measure Twice Cut Once",
-            "description": "Passive: Increase Woodworking Assembly and Experimentation Caps"
-        }
+        "woodworking-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

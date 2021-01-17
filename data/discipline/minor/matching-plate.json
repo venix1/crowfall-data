@@ -11,11 +11,7 @@
     "icon": "matching-plate.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "matching-support-plate",
-            "name": "Matching Plate",
-            "description": "Passive: Gain Support Power with a Full Set of Plate Equipped"
-        }
+        "matching-support-plate"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

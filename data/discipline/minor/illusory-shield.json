@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "shieldfighter-shield-throw",
-            "name": "Throw Illusion Shield",
-            "description": "Attack: Snares Multiple Enemies"
-        }
+        "shieldfighter-shield-throw"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

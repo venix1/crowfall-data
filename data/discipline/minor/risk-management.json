@@ -11,11 +11,7 @@
     "icon": "risk-management.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "risk-management",
-            "name": "Risk Management",
-            "description": "Passive: Reduces Experiment Additional Risk"
-        }
+        "risk-management"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

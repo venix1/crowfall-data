@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "molehunter-revenge-vs-stealth",
-            "name": "Revenge",
-            "description": "Passive: Increase Critical % after Stealth Attacked"
-        }
+        "molehunter-revenge-vs-stealth"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

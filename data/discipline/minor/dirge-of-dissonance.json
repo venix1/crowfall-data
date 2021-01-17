@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "troubadour-dirge",
-            "name": "Dirge Of Dissonance",
-            "description": "Song: Damage Enemies"
-        }
+        "troubadour-dirge"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

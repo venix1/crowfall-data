@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "blood-pact",
-            "name": "Blood Pact",
-            "description": "Change Power Cost to Health"
-        }
+        "blood-pact"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

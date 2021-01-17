@@ -11,11 +11,7 @@
     "icon": "uniform-mail.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "matching-offense-mail",
-            "name": "Uniform Mail",
-            "description": "Passive: Gain Attack Power with a Full Set of Mail Equipped"
-        }
+        "matching-offense-mail"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

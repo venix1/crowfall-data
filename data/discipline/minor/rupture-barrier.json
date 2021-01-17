@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "shieldbreaker-barrier-hit-resource",
-            "name": "Rupture Barrier",
-            "description": "Passive: Increase Damage vs Barriers; Gain Resource"
-        }
+        "shieldbreaker-barrier-hit-resource"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

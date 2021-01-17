@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "sharpshooter-passive-01",
-            "name": "All Clear",
-            "description": "Passive: Increase Damage when apart from enemies"
-        }
+        "sharpshooter-passive-01"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

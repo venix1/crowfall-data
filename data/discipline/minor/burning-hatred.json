@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "health-orbs-on-damage",
-            "name": "Burning Hatred",
-            "description": "Passive: Spawn Health Orbs on Damage"
-        }
+        "health-orbs-on-damage"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

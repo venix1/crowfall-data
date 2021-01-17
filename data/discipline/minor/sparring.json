@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "basic-attack-damage",
-            "name": "Sparring",
-            "description": "Passive: Increase Basic Attack Damage"
-        }
+        "basic-attack-damage"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

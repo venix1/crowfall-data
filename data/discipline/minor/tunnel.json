@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "duelist-stealth-tunnel",
-            "name": "Tunnel",
-            "description": ""
-        }
+        "duelist-stealth-tunnel"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

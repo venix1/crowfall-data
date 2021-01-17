@@ -11,11 +11,7 @@
     "icon": "runewright.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "runemaking-techniques",
-            "name": "Symbol Sculpting",
-            "description": "Passive: Increase Runemaking Assembly and Experimentation Caps"
-        }
+        "runemaking-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "underdog-retaliate-crit-streak",
-            "name": "Payback",
-            "description": "Passive: Gain Crit Streak Following Retaliation"
-        }
+        "underdog-retaliate-crit-streak"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

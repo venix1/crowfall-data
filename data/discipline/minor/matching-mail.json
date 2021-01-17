@@ -11,11 +11,7 @@
     "icon": "matching-mail.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "matching-support-mail",
-            "name": "Matching Mail",
-            "description": "Passive: Gain Support Power with a Full Set of Mail Equipped"
-        }
+        "matching-support-mail"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

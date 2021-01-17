@@ -11,11 +11,7 @@
     "icon": "armor-of-faith.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "illusionary-armor",
-            "name": "Illusionary Armor",
-            "description": "Reduce Health Loss"
-        }
+        "illusionary-armor"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

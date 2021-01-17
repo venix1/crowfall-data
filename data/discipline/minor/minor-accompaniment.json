@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "minor-accompaniment",
-            "name": "Minor Accompaniment",
-            "description": "Passive: Increase Song Damage"
-        }
+        "minor-accompaniment"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

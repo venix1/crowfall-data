@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "resource-on-enemy-hit",
-            "name": "Hit Me",
-            "description": "Passive: Gain Resource on Enemy Hit"
-        }
+        "resource-on-enemy-hit"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

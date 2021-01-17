@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "spirit-whip",
-            "name": "Spirit Whip",
-            "description": "Passive: Basic Attacks Hit Multiple Enemies"
-        }
+        "spirit-whip"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

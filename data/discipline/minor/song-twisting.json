@@ -11,11 +11,7 @@
     "icon": "song-twisting.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "bard-twisting",
-            "name": "Song Twisting",
-            "description": "Passive: Twisting Songs Increases Song Potency"
-        }
+        "bard-twisting"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

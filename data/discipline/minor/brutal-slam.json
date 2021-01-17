@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "shieldfighter-brutal-slam",
-            "name": "Brutal Slam",
-            "description": "Attack: Reduce enemy Physical Mitigation"
-        }
+        "shieldfighter-brutal-slam"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

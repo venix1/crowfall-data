@@ -11,11 +11,7 @@
     "icon": "protective-thorns.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "protective-thorns",
-            "name": "Protective Thorns",
-            "description": "Passive: Thorns Grant Resistance Class Buff"
-        }
+        "protective-thorns"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

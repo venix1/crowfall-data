@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "runecaster-shield",
-            "name": "Rune Shield",
-            "description": "Increase Elemental Resistances"
-        }
+        "runecaster-shield"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

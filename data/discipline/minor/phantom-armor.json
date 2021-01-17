@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "illusionist-phantom-armor",
-            "name": "Phantom Armor",
-            "description": "Passive: Chance to gain Armor Class when hit"
-        }
+        "illusionist-phantom-armor"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

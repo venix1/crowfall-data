@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "swordmaster-res-combo-1",
-            "name": "Restoration Strike",
-            "description": "Attack: Combo Restores Resource"
-        }
+        "swordmaster-res-combo-1"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

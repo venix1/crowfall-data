@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "underdog-retaliate",
-            "name": "Deadly Retaliation",
-            "description": "Retaliate with High Crit Chance"
-        }
+        "underdog-retaliate"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -11,11 +11,7 @@
     "icon": "project-management.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "project-management",
-            "name": "Project Management",
-            "description": "Passive: Reduce cost of Low Stat Re-Rolls"
-        }
+        "project-management"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

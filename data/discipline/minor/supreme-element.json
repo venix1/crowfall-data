@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "naiad-supreme-element",
-            "name": "Supreme Element",
-            "description": "Passive: Elemental Damage Grants Buffs"
-        }
+        "naiad-supreme-element"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

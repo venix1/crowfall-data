@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "weapon-finesse-2",
-            "name": "Weapon Finesse",
-            "description": "Passive: Greatly Reduces Power Resource Costs"
-        }
+        "weapon-finesse-2"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

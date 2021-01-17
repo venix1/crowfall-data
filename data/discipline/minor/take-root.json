@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "dryad-take-root",
-            "name": "Take Root",
-            "description": "Passive: Standing Still Buffs Healing Bonus"
-        }
+        "dryad-take-root"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

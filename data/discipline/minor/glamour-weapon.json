@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "illusionist-glamour-weapon",
-            "name": "Glamour",
-            "description": "Increase Attack Power"
-        }
+        "illusionist-glamour-weapon"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

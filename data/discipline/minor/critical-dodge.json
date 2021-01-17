@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "pistolmaster-critical-dodge",
-            "name": "Critical Dodge",
-            "description": "Passive: Critical Strikes Restore Dodge"
-        }
+        "pistolmaster-critical-dodge"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

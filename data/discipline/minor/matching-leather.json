@@ -11,11 +11,7 @@
     "icon": "matching-leather.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "matching-support-leather",
-            "name": "Matching Leather",
-            "description": "Passive: Gain Support Power with a Full Set of Leather Equipped"
-        }
+        "matching-support-leather"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

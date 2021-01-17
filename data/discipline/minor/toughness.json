@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "juggernaut-toughness",
-            "name": "Toughness",
-            "description": "Group Increase Maximum Health"
-        }
+        "juggernaut-toughness"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

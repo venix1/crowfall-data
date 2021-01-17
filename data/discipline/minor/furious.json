@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "furious-dmg-bonus-full-rage",
-            "name": "Furious",
-            "description": "Passive: Increase Damage Bonus if Rage hits max"
-        }
+        "furious-dmg-bonus-full-rage"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

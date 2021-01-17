@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "friar-indulgence",
-            "name": "Indulgence",
-            "description": "Gain Sin immunity, Fire Resistance"
-        }
+        "friar-indulgence"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

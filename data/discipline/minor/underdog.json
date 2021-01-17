@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "underdog-attackpower-on-kd",
-            "name": "Underdog",
-            "description": "Passive: Gain Attack Power when Stunned; Knocked Down"
-        }
+        "underdog-attackpower-on-kd"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

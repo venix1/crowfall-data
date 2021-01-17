@@ -11,11 +11,7 @@
     "icon": "leather-armourer.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "leatherworking-techniques",
-            "name": "Cuirboulli Competence",
-            "description": "Passive: Increase Leatherworking Assembly and Experimentation Caps"
-        }
+        "leatherworking-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

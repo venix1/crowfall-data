@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "bard-guardian-rhythms",
-            "name": "Guardian Rhythms",
-            "description": "Song: Increase Group Mitigation"
-        }
+        "bard-guardian-rhythms"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "daggermaster-combo-1",
-            "name": "Cripple",
-            "description": "Attack: Combo reduces enemy Attack Power."
-        }
+        "daggermaster-combo-1"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "high-health-damage-bonus",
-            "name": "Pound Of Flesh",
-            "description": "Passive: Damage Bonus versus High Health"
-        }
+        "high-health-damage-bonus"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

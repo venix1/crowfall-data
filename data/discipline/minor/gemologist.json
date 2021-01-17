@@ -11,11 +11,7 @@
     "icon": "gemologist.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "jewelcrafting-techniques",
-            "name": "Cold Dopping",
-            "description": "Passive: Increase Jewelcrafting Assembly and Experimentation Caps"
-        }
+        "jewelcrafting-techniques"
     ],
     "grantsSlot": [],
     "grantsTrait": [

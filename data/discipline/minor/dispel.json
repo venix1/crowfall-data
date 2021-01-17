@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "shieldbreaker-dispel",
-            "name": "Dispel",
-            "description": "Attack: Cancel and Punish Barrier Users"
-        }
+        "shieldbreaker-dispel"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "low-health-crit-buff",
-            "name": "Last Resort",
-            "description": "Passive: Gain Crit Chance on Low Health"
-        }
+        "low-health-crit-buff"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

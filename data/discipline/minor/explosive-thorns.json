@@ -11,11 +11,7 @@
     "icon": "explosive-thorns.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "explosive-thorns",
-            "name": "Explosive Thorns",
-            "description": "Passive: Thorns Cause Bonus Area Damage"
-        }
+        "explosive-thorns"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

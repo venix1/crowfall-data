@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "hitpoint-loss-high-health-buff",
-            "name": "Sturdy",
-            "description": "Passive: Reduce Health Loss at High Health"
-        }
+        "hitpoint-loss-high-health-buff"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "common-resurrection-single",
-            "name": "Resurrection",
-            "description": ""
-        }
+        "common-resurrection-single"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

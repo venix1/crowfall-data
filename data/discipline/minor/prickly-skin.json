@@ -11,11 +11,7 @@
     "icon": "prickly-skin.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "bonus-thorns",
-            "name": "Prickly Skin",
-            "description": "Passive: Increase Bonus Thorns"
-        }
+        "bonus-thorns"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

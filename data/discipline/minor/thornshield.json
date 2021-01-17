@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "thornshield",
-            "name": "Thornshield",
-            "description": "Activate Thorns"
-        }
+        "thornshield"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

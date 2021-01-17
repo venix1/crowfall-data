@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "execute-bonus-damage",
-            "name": "Executioner",
-            "description": "Passive: Increase Execute Power Damage"
-        }
+        "execute-bonus-damage"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

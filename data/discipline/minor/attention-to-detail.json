@@ -11,11 +11,7 @@
     "icon": "attention-to-detail.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "attention-to-detail",
-            "name": "Attention To Detail",
-            "description": "Passive: Increase Percent each Experimentation Point is worth."
-        }
+        "attention-to-detail"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

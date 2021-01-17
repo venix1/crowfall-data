@@ -11,11 +11,7 @@
     "icon": "resolution.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "enemies-near-damage",
-            "name": "Resolution",
-            "description": "Passive: Gain Damage when Enemies Near"
-        }
+        "enemies-near-damage"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

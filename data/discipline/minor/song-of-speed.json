@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "bard-accelerando",
-            "name": "Song Of Speed",
-            "description": "Song: Increase Group Movement Speed"
-        }
+        "bard-accelerando"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

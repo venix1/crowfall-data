@@ -16,11 +16,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "dmg-up-def-down",
-            "name": "Glass Cannon",
-            "description": "Passive: Increase Damage; Increase Damage Taken"
-        }
+        "dmg-up-def-down"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

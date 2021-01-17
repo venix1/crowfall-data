@@ -11,11 +11,7 @@
     "icon": "found-resources.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "stealth-resources",
-            "name": "Found Resources",
-            "description": "Passive: Return to Two Pips on Stealth"
-        }
+        "stealth-resources"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
