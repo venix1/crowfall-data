@@ -1,7 +1,7 @@
 {
     "id": "scarecrow-aura-of-terror",
     "name": "Aura Of Terror",
-    "description": "surrounds you with a chilling aura of palpable fear that automatically reveals Stealthed enemies. \\n\\nEnemies who remain nearby for too long are Suppressed and then afflicted with Frostbite.",
+    "description": "increases your Perception by 15 and surrounds you with a chilling aura of palpable fear that automatically reveals Stealthed enemies for 15 seconds.\nEnemies who remain nearby for too long are Suppressed and then afflicted with Frostbite.\nFrostbite causes 119 Ice damage seven times over 30 seconds.",
     "shortDescription": "Lingering Enemies Suffer Frostbite; Suppression",
     "icon": "scarecrow-aura-of-terror.png",
     "stats": {

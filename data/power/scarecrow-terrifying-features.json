@@ -1,7 +1,7 @@
 {
     "id": "scarecrow-terrifying-features",
     "name": "Terrifying Features",
-    "description": "protects you with a powerful enchantment periodically stunning attackers.",
+    "description":  "protects you with a powerful enchantment periodically stunning attackers.\nThis can only occur once every 24 seconds.",
     "shortDescription": "Passive: Attackers Periodically Stunned",
     "icon": "scarecrow-terrifying-features.png",
     "stats": {
