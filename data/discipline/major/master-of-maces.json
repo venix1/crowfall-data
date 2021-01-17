@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "macemaster-stun-combo-1",
-            "name": "Skullcracker",
-            "description": "Attack: Stun enemies"
-        },
-        {
-            "id": "macemaster-will-of-the-stoneborn",
-            "name": "Will Of The Stoneborn",
-            "description": "Increase Crushing Resistance; Weapon Efficiency"
-        }
+        "macemaster-stun-combo-1",
+        "macemaster-will-of-the-stoneborn"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

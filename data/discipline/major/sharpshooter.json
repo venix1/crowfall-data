@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "arcanearcher-aoe-root",
-            "name": "Binding Arrows",
-            "description": "Attack: Ground Target Area Root"
-        },
-        {
-            "id": "sharpshooter-passive-01",
-            "name": "All Clear",
-            "description": "Passive: Increase Damage when apart from enemies"
-        }
+        "arcanearcher-aoe-root",
+        "sharpshooter-passive-01"
     ],
     "grantsSlot": [
         "Ranged",
@@ -55,11 +47,6 @@
         {
             "id": "trait-recurve-bow-proficiency",
             "name": "Recurve Bow Proficiency"
-        }
-    ],
-    "description": "Many undervalue the beauty and simplicity of the arrow, but the truth is that a rapid firing archer is just as deadly as any other foe in combat. Long range shots allow for a quick and effective way to take an opponent down with minimal interaction.",
-    "lore": "She sees her opportunity, and with a quick pull of the string the arrow speeds toward her mark. It is within seconds that he is immobilized."
-}ecurve Bow Proficiency"
         }
     ],
     "description": "Many undervalue the beauty and simplicity of the arrow, but the truth is that a rapid firing archer is just as deadly as any other foe in combat. Long range shots allow for a quick and effective way to take an opponent down with minimal interaction.",

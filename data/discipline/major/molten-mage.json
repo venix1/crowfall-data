@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_moltenmage_magma_ball",
-        {
-            "id": "firewalker-conduction",
-            "name": "Conduction",
-            "description": "Passive: Increase Attack Power after taking Fire Damage"
-        }
+        "firewalker-conduction"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "blackmask-call-darkness",
-            "name": "Call Darkness",
-            "description": "All Attacks Count as From Behind"
-        },
-        {
-            "id": "scarecrow-terrifying-features",
-            "name": "Terrifying Features",
-            "description": "Passive: Attackers Periodically Stunned"
-        }
+        "blackmask-call-darkness",
+        "scarecrow-terrifying-features"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

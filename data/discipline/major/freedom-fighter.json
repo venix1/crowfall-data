@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "escapeartist-free-action",
-            "name": "Free Action",
-            "description": "Group Crowd Control Immunity; Cleanse"
-        },
+        "escapeartist-free-action",
         "power_discipline_bringeroflife_purify"
     ],
     "grantsSlot": [],

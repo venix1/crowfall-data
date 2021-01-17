@@ -20,18 +20,10 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "naiad-fountain",
-            "name": "Fountain Of Life",
-            "description": "Ground Target Area: Healing"
-        },
+        "naiad-fountain",
         "power_discipline_naiad_cleanse"
     ],
     "grantsSlot": [],
-    "grantsTrait": [],
-    "description": "Naiads, or Water Spirits, are in tune with the ebb and flow of fresh water and the possibility of its power. They often take comfort in the flowing of water and view it as a source of life. Water Spirits help alleviate pain and harm while also extinguishing even the most volatile of infernos. After all, water beats fire!",
-    "lore": "Naiads, guardians of fresh, flowing waters, are a true gift of nature."
-}[],
     "grantsTrait": [],
     "description": "Naiads, or Water Spirits, are in tune with the ebb and flow of fresh water and the possibility of its power. They often take comfort in the flowing of water and view it as a source of life. Water Spirits help alleviate pain and harm while also extinguishing even the most volatile of infernos. After all, water beats fire!",
     "lore": "Naiads, guardians of fresh, flowing waters, are a true gift of nature."

@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "swordmaster-res-combo-1",
-            "name": "Restoration Strike",
-            "description": "Attack: Combo Restores Resource"
-        },
+        "swordmaster-res-combo-1",
         "power_discipline_transcendentwarrior_guiding_light"
     ],
     "grantsSlot": [],

@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "illusionist-petrification-illusion",
-            "name": "Petrification Illusion",
-            "description": "Increase Basic Attack Damage and adds slow to 3rd Basic Attack"
-        },
-        {
-            "id": "runescarred-gladiator-nothing-to-lose",
-            "name": "Nothing To Lose",
-            "description": "Increase Crit Hit Chance, Amount"
-        }
+        "illusionist-petrification-illusion",
+        "runescarred-gladiator-nothing-to-lose"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

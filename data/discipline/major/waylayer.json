@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "assassin-stealth-cheap-shot",
-            "name": "Cheap Shot",
-            "description": ""
-        },
+        "assassin-stealth-cheap-shot",
         "power_discipline_blackmask_study_target"
     ],
     "grantsSlot": [],

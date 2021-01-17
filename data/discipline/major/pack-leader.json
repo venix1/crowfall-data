@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "dryad-healing-orb-1",
-            "name": "Form Life",
-            "description": "Heal: Place Healing Orbs"
-        },
-        {
-            "id": "druid-avatar-pack",
-            "name": "Pack Avatar",
-            "description": ""
-        }
+        "dryad-healing-orb-1",
+        "druid-avatar-pack"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

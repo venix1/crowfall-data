@@ -20,26 +20,10 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "shieldbreaker-dispel",
-            "name": "Dispel",
-            "description": "Attack: Cancel and Punish Barrier Users"
-        },
-        {
-            "id": "shieldbreaker-shield-breaker",
-            "name": "Shield Breaker",
-            "description": "Attack: Cancel and Punish Block and Parry"
-        },
-        {
-            "id": "shieldbreaker-reveal-weakness",
-            "name": "Reveal Weakness",
-            "description": "Increase Group Physical Armor Penetration"
-        },
-        {
-            "id": "shieldbreaker-barrier-hit-resource",
-            "name": "Rupture Barrier",
-            "description": "Passive: Increase Damage vs Barriers; Gain Resource"
-        }
+        "shieldbreaker-dispel",
+        "shieldbreaker-shield-breaker",
+        "shieldbreaker-reveal-weakness",
+        "shieldbreaker-barrier-hit-resource"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

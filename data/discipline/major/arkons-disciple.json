@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "confessor-arkons-fury",
-            "name": "Arkon's Fury",
-            "description": ""
-        },
+        "confessor-arkons-fury",
         "power_discipline_arkonsdisciple_fiery_brand"
     ],
     "grantsSlot": [],

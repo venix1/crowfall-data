@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "juggernaut-spite",
-            "name": "Spite",
-            "description": "Passive: Regenerate when Stunned; Knocked Down"
-        },
-        {
-            "id": "escapeartist-escapology",
-            "name": "Escapology",
-            "description": "Passive: Gain Increased Resolve from Control Effects"
-        }
+        "juggernaut-spite",
+        "escapeartist-escapology"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

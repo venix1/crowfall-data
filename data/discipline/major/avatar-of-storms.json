@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "druid-avatar-storm",
-            "name": "Storm Avatar",
-            "description": ""
-        },
+        "druid-avatar-storm",
         "power_discipline_avatarofstorms_call_lightning"
     ],
     "grantsSlot": [],

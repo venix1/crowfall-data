@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "standardbearer-electric-buff",
-            "name": "Banner Of Storms",
-            "description": "Group Electricity, Ice Resistance and Damage Bonus."
-        },
-        {
-            "id": "banshee-haunt",
-            "name": "Haunt",
-            "description": "Attack: Reflect Enemy Damage; Healing"
-        }
+        "standardbearer-electric-buff",
+        "banshee-haunt"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

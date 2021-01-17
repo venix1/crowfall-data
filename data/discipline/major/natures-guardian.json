@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "druid-will-wisps",
-            "name": "Will O' Wisps",
-            "description": ""
-        },
+        "druid-will-wisps",
         "power_discipline_forestcreature_slow_stake"
     ],
     "grantsSlot": [],

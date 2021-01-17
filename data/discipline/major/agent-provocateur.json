@@ -20,21 +20,11 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "agentprovocateur-caltrops-v2",
-            "name": "Caltrops",
-            "description": "Stealth: Target Area Snare; Pierce Debuff"
-        },
-        {
-            "id": "agentprovocateur-lay-low",
-            "name": "Lay Low",
-            "description": "Stealth: Heal Over Time"
-        }
+        "agentprovocateur-caltrops-v2",
+        "agentprovocateur-lay-low"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
-    "lore": "A slimy, double-crossing, no-good swindler!"
-}   "description": "Agent Provocateurs are sneaky, well-hidden, and difficult to track. Sometimes they drop caltrops, sometimes they prefer a stink bomb, but no matter the method of deceit the intent is always done with mischief and stealth in mind.",
     "lore": "A slimy, double-crossing, no-good swindler!"
 }

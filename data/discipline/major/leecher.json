@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "druid-leaching-seed",
-            "name": "Leeching Seed",
-            "description": ""
-        },
-        {
-            "id": "standardbearer-ooc-regen",
-            "name": "Bearer's Insignia",
-            "description": "Passive: Increase Out of Combat Regeneration; Gain Resources when healing"
-        }
+        "druid-leaching-seed",
+        "standardbearer-ooc-regen"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

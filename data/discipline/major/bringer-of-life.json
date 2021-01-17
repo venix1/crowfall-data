@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "naiad-fountain",
-            "name": "Fountain Of Life",
-            "description": "Ground Target Area: Healing"
-        },
+        "naiad-fountain",
         "power_discipline_bringeroflife_purify"
     ],
     "grantsSlot": [],

@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "assassin-stealth-spirit-dart",
-            "name": "Spirit Dart",
-            "description": ""
-        }
+        "assassin-stealth-spirit-dart"
     ],
     "grantsSlot": [],
     "grantsTrait": [

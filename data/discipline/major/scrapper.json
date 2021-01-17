@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_scrapper_in_the_fray",
-        {
-            "id": "underdog-retalite-low-hp-knockdown",
-            "name": "Death Throws",
-            "description": "Passive: Area Knockdown on Retaliation"
-        }
+        "underdog-retalite-low-hp-knockdown"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

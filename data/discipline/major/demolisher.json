@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_demolisher_cracked_armor",
-        {
-            "id": "shieldbreaker-shield-breaker",
-            "name": "Shield Breaker",
-            "description": "Attack: Cancel and Punish Block and Parry"
-        }
+        "shieldbreaker-shield-breaker"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

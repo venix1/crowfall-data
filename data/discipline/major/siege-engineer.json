@@ -20,25 +20,12 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "siegeengineer-siege-shield",
-            "name": "Shield Siege Engine",
-            "description": "Channel: Shield Nearby Siege Engines From Damage"
-        },
-        {
-            "id": "siegeengineer-siege-damage-buff",
-            "name": "Bolster Siege Engine",
-            "description": "Channel: Increase Target Siege Engine Damage"
-        },
-        {
-            "id": "siegeengineer-siege-repair",
-            "name": "Repair Siege Engine",
-            "description": "Channel: Repair Target Siege Engine"
-        }
+        "siegeengineer-siege-shield",
+        "siegeengineer-siege-damage-buff",
+        "siegeengineer-siege-repair"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "Recipes Granted:\\nBallista\\nCatapult\\nTrebuchet",
     "lore": "When you absolutely, positively, have to destroy every wall on the Keep; accept no substitutes."
-} "When you absolutely, positively, have to destroy every wall on the Keep; accept no substitutes."
 }

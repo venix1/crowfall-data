@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "mysticalmaster-stars-align",
-            "name": "Kinetic Boost",
-            "description": "Gain Damage Bonus; Reduce Ability Cost"
-        },
+        "mysticalmaster-stars-align",
         "power_discipline_thornywarrior_root_stake"
     ],
     "grantsSlot": [],

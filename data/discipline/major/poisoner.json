@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "poisoner-combo-1",
-            "name": "Poisoned Blade",
-            "description": "Attack: Adds the poison buff to your attacks."
-        },
-        {
-            "id": "poisoner-poison-basic",
-            "name": "Poisoned Weapons",
-            "description": "Passive: Basic attacks now deal Poison damage."
-        }
+        "poisoner-combo-1",
+        "poisoner-poison-basic"
     ],
     "grantsSlot": [],
     "grantsTrait": [

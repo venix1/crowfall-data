@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "swordmaster-crit-combo-1",
-            "name": "Critical Hack",
-            "description": "Attack: Increase Critical Strike"
-        },
-        {
-            "id": "swordmaster-iron-skin",
-            "name": "Iron Skin",
-            "description": "Increase Slashing Resistance; Reduce Weapon Resource Cost"
-        }
+        "swordmaster-crit-combo-1",
+        "swordmaster-iron-skin"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

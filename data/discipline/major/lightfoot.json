@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "ranger-forest-step",
-            "name": "Forest Step",
-            "description": ""
-        },
-        {
-            "id": "escapeartist-escapology",
-            "name": "Escapology",
-            "description": "Passive: Gain Increased Resolve from Control Effects"
-        }
+        "ranger-forest-step",
+        "escapeartist-escapology"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

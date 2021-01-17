@@ -20,26 +20,10 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "underdog-retaliate",
-            "name": "Deadly Retaliation",
-            "description": "Retaliate with High Crit Chance"
-        },
-        {
-            "id": "underdog-retalite-low-hp-knockdown",
-            "name": "Death Throws",
-            "description": "Passive: Area Knockdown on Retaliation"
-        },
-        {
-            "id": "underdog-retaliate-crit-streak",
-            "name": "Payback",
-            "description": "Passive: Gain Crit Streak Following Retaliation"
-        },
-        {
-            "id": "underdog-attackpower-on-kd",
-            "name": "Underdog",
-            "description": "Passive: Gain Attack Power when Stunned; Knocked Down"
-        }
+        "underdog-retaliate",
+        "underdog-retalite-low-hp-knockdown",
+        "underdog-retaliate-crit-streak",
+        "underdog-attackpower-on-kd"
     ],
     "grantsSlot": [],
     "grantsTrait": [

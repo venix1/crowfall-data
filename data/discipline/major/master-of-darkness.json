@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "agentprovocateur-stinkbomb",
-            "name": "Stink Bomb",
-            "description": "Stealth: Target Area Stun; Moderate Corruption"
-        },
-        {
-            "id": "agentprovocateur-preparation",
-            "name": "Preparation",
-            "description": "Passive: Generate Pips while Stealthed"
-        }
+        "agentprovocateur-stinkbomb",
+        "agentprovocateur-preparation"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

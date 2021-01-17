@@ -20,25 +20,12 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "troubadour-requiem",
-            "name": "Requiem",
-            "description": "Song: Increase Enemy Damage Taken"
-        },
-        {
-            "id": "troubadour-chains",
-            "name": "Consonant Chains",
-            "description": "Song: Damage; Snare Enemies"
-        },
-        {
-            "id": "bard-twisting",
-            "name": "Song Twisting",
-            "description": "Passive: Twisting Songs Increases Song Potency"
-        }
+        "troubadour-requiem",
+        "troubadour-chains",
+        "bard-twisting"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "A lyrical poet with a heavy output of vocal assault, the troubadour is one fierce vocalist. The importance of song and rhymes are what set the Troubadour apart from any other lyrical counterpart and can make a great addition to any party.",
     "lore": "The first Troubadour is said to have been a giant, boisterous fellow; o'er nine feet tall, clad in purple armor, lyre in hand, heart as black as midnight pitch."
-}   "lore": "The first Troubadour is said to have been a giant, boisterous fellow; o'er nine feet tall, clad in purple armor, lyre in hand, heart as black as midnight pitch."
 }

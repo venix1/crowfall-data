@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "shieldfigher-mighty-shield-slam",
-            "name": "Mighty Shield Slam",
-            "description": "Charged Attack: Push Back enemies"
-        },
-        {
-            "id": "talent-knight-shieldmanship",
-            "name": "Shieldmanship",
-            "description": ""
-        }
+        "shieldfigher-mighty-shield-slam",
+        "talent-knight-shieldmanship"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

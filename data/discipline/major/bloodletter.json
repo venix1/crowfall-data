@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "fieldsurgeon-purgative",
-            "name": "Purgative",
-            "description": "Group Cleanse Damage Over Time with Healing"
-        },
+        "fieldsurgeon-purgative",
         "power_discipline_bloodletter_exanguinate"
     ],
     "grantsSlot": [],

@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_bladedancer_slashing_grace",
-        {
-            "id": "blademaster-blood-price",
-            "name": "Blood Price",
-            "description": "Passive: Spawn Healing Orbs; Attack Power"
-        }
+        "blademaster-blood-price"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

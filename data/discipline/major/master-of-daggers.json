@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "daggermaster-combo-1",
-            "name": "Cripple",
-            "description": "Attack: Combo reduces enemy Attack Power."
-        },
-        {
-            "id": "blackmask-shadows-linger",
-            "name": "Shadows Linger",
-            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
-        }
+        "daggermaster-combo-1",
+        "blackmask-shadows-linger"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

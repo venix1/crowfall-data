@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "runecaster-sanctuary",
-            "name": "Sanctuary",
-            "description": "Field Increase Allies Resistances"
-        },
-        {
-            "id": "enemies-near-mitigation",
-            "name": "Overwhelming Odds",
-            "description": "Passive: Gain Resistance when Enemies Near"
-        }
+        "runecaster-sanctuary",
+        "enemies-near-mitigation"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

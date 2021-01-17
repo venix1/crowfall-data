@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "plaguelord-decay",
-            "name": "Decay",
-            "description": "Attack: Frostbite; Expose Punish"
-        },
+        "plaguelord-decay",
         "power_discipline_frostbiter_rotting_frost"
     ],
     "grantsSlot": [],

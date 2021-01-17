@@ -20,21 +20,11 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "standardbearer-misc-buff",
-            "name": "Rallying Banner",
-            "description": "Group Attack Power; Rescue Healing; Slow Cleanse"
-        },
-        {
-            "id": "enemies-near-damage",
-            "name": "Resolution",
-            "description": "Passive: Gain Damage when Enemies Near"
-        }
+        "standardbearer-misc-buff",
+        "enemies-near-damage"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "A Standard Bearer is a member of a combat group that is responsible for carrying a distinctive mark, often times a flag, as a rallying sign. The added motivation a standard can bring is substantial enough to excite and inspire even the most fatigued of allies while acting as a waypoint for those in their company.",
-    "lore": "A bearer of a standard can rally even the most weary of squad members."
-}is a member of a combat group that is responsible for carrying a distinctive mark, often times a flag, as a rallying sign. The added motivation a standard can bring is substantial enough to excite and inspire even the most fatigued of allies while acting as a waypoint for those in their company.",
     "lore": "A bearer of a standard can rally even the most weary of squad members."
 }

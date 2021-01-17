@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "pixie-pixie-dust",
-            "name": "Pixie Dust",
-            "description": "Ground Target Area Increase Incoming Heals"
-        },
+        "pixie-pixie-dust",
         "power_discipline_forestcreature_slow_stake"
     ],
     "grantsSlot": [],

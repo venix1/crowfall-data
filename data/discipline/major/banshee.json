@@ -20,21 +20,11 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "banshee-haunt",
-            "name": "Haunt",
-            "description": "Attack: Reflect Enemy Damage; Healing"
-        },
-        {
-            "id": "banshee-angel-of-death",
-            "name": "Angel Of Death",
-            "description": "Passive: Increase Enemy Damage at Low Health"
-        }
+        "banshee-haunt",
+        "banshee-angel-of-death"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "An ambassador of death, The Banshee is most known for a distinguished wail that can induce fear and paralysis. A haunting presence and the ability to conjure a ghostly army combine to make the Banshee a truy terrifying angel of death.",
-    "lore": "The keening cry of a Banshee cannot be ignored as it signals impending death."
-} death, The Banshee is most known for a distinguished wail that can induce fear and paralysis. A haunting presence and the ability to conjure a ghostly army combine to make the Banshee a truy terrifying angel of death.",
     "lore": "The keening cry of a Banshee cannot be ignored as it signals impending death."
 }

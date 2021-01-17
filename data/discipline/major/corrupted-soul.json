@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "plaguelord-shrivel",
-            "name": "Shrivel",
-            "description": "Attack: Blackmantle; Disease; Expose Punish"
-        },
+        "plaguelord-shrivel",
         "power_discipline_corruptedsoul_soul_steal"
     ],
     "grantsSlot": [],

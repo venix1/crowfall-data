@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "mudman-muck-spatter",
-            "name": "Muck Spatter",
-            "description": "Crushing Attacks Trigger Area Blindness; Corruption"
-        },
-        {
-            "id": "mudman-jelly-skin",
-            "name": "Jelly Skin",
-            "description": "Barrier Negates Crushing Damage"
-        }
+        "mudman-muck-spatter",
+        "mudman-jelly-skin"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

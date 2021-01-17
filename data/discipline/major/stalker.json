@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_stalker_hamstring",
-        {
-            "id": "banshee-angel-of-death",
-            "name": "Angel Of Death",
-            "description": "Passive: Increase Enemy Damage at Low Health"
-        }
+        "banshee-angel-of-death"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

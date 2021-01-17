@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "duelist-stealth-death-field",
-            "name": "Go For Broke",
-            "description": ""
-        },
-        {
-            "id": "duelist-stealth-sniper-shot",
-            "name": "Snipe",
-            "description": ""
-        }
+        "duelist-stealth-death-field",
+        "duelist-stealth-sniper-shot"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

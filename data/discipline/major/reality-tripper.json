@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "realitywarper-alter-reality",
-            "name": "Alter Reality",
-            "description": "Attack: Absorb Enemy Healing"
-        },
-        {
-            "id": "low-health-crit-buff",
-            "name": "Last Resort",
-            "description": "Passive: Gain Crit Chance on Low Health"
-        }
+        "realitywarper-alter-reality",
+        "low-health-crit-buff"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

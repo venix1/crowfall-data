@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "mysticalmaster-chain-ho-t",
-            "name": "Soothing Winds",
-            "description": "Target Heal Allies over Time"
-        },
+        "mysticalmaster-chain-ho-t",
         "power_discipline_naiad_cleanse"
     ],
     "grantsSlot": [],

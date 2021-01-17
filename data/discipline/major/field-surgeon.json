@@ -20,18 +20,11 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "fieldsurgeon-rescue",
-            "name": "Rescue",
-            "description": "Target Ally Avoids Death"
-        },
+        "fieldsurgeon-rescue",
         "power_discipline_fieldsurgeon_fly_you_fools"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
-    "description": "Field Surgeons are the first to act in the event of a combat disaster. Quick to rescue, triage, and rehabilitate, these selfless Field Surgeons are your one-stop shop for quick remedies to get you back into the action. Disclaimer, use as directed and be sure to follow up with a real physician. Satisfaction is not guaranteed and once payment has been processed there are no refunds.",
-    "lore": "Your onsite go-to for quick and easy clinical care!"
-} "grantsTrait": [],
     "description": "Field Surgeons are the first to act in the event of a combat disaster. Quick to rescue, triage, and rehabilitate, these selfless Field Surgeons are your one-stop shop for quick remedies to get you back into the action. Disclaimer, use as directed and be sure to follow up with a real physician. Satisfaction is not guaranteed and once payment has been processed there are no refunds.",
     "lore": "Your onsite go-to for quick and easy clinical care!"
 }

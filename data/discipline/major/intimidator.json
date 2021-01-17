@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "destroyer-frighten",
-            "name": "Frighten",
-            "description": "Attack: Reduce enemy damage"
-        },
+        "destroyer-frighten",
         "power_discipline_destroyer_rage_health_buff_2"
     ],
     "grantsSlot": [],

@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "runecaster-fortification",
-            "name": "Fortification",
-            "description": "Group Increase Health Max"
-        },
+        "runecaster-fortification",
         "power_discipline_demolisher_cracked_armor"
     ],
     "grantsSlot": [],

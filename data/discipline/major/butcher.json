@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "knifegrinder-bleed-debuff-1",
-            "name": "Tenderize",
-            "description": "Attack: Adds a debuff to an enemy that makes them take more bleeding damage for 15 seconds."
-        },
-        {
-            "id": "banshee-angel-of-death",
-            "name": "Angel Of Death",
-            "description": "Passive: Increase Enemy Damage at Low Health"
-        }
+        "knifegrinder-bleed-debuff-1",
+        "banshee-angel-of-death"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

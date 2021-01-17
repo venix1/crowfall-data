@@ -20,26 +20,10 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "illusionist-glamour-weapon",
-            "name": "Glamour",
-            "description": "Increase Attack Power"
-        },
-        {
-            "id": "illusionist-invisibility",
-            "name": "Invisibility",
-            "description": "Toggle: Invisible while motionless; Non-Stealth and Non-Camouflage Users Only"
-        },
-        {
-            "id": "illusionist-petrification-illusion",
-            "name": "Petrification Illusion",
-            "description": "Increase Basic Attack Damage and adds slow to 3rd Basic Attack"
-        },
-        {
-            "id": "illusionist-phantom-armor",
-            "name": "Phantom Armor",
-            "description": "Passive: Chance to gain Armor Class when hit"
-        }
+        "illusionist-glamour-weapon",
+        "illusionist-invisibility",
+        "illusionist-petrification-illusion",
+        "illusionist-phantom-armor"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

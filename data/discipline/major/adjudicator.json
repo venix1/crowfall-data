@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "adjudicator-adjudicate-1",
-            "name": "Adjudicate",
-            "description": "Attack: Inflict Holy damage"
-        },
-        {
-            "id": "shieldbreaker-barrier-hit-resource",
-            "name": "Rupture Barrier",
-            "description": "Passive: Increase Damage vs Barriers; Gain Resource"
-        }
+        "adjudicator-adjudicate-1",
+        "shieldbreaker-barrier-hit-resource"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

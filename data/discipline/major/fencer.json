@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "rapiermaster-cut-thrust-1",
-            "name": "Cut And Thrust",
-            "description": "Attack: Stun vs Block or Parry"
-        },
-        {
-            "id": "pistolmaster-critical-dodge",
-            "name": "Critical Dodge",
-            "description": "Passive: Critical Strikes Restore Dodge"
-        }
+        "rapiermaster-cut-thrust-1",
+        "pistolmaster-critical-dodge"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

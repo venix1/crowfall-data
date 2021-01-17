@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "standardbearer-electric-buff",
-            "name": "Banner Of Storms",
-            "description": "Group Electricity, Ice Resistance and Damage Bonus."
-        },
-        {
-            "id": "runescarred-gladiator-runecarve-flesh",
-            "name": "Reprisal",
-            "description": "Reduce Damage; Deal damage in an area based on Damage Taken"
-        }
+        "standardbearer-electric-buff",
+        "runescarred-gladiator-runecarve-flesh"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

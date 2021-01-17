@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "holyavenger-battle-chant",
-            "name": "Battle Chant",
-            "description": "Gain Pulsing damage aura"
-        },
-        {
-            "id": "holyavenger-suns-of-worvan",
-            "name": "Suns Of Worvan",
-            "description": "Barrier negates Fire damage"
-        }
+        "holyavenger-battle-chant",
+        "holyavenger-suns-of-worvan"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

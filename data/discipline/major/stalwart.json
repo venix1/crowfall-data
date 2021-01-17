@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_stalwart_get_behind_me",
-        {
-            "id": "shieldfighter-molon-labe",
-            "name": "Molon Labe",
-            "description": "Passive: Blocks Reflect Elemental Damage"
-        }
+        "shieldfighter-molon-labe"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

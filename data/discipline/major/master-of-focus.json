@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "focusmaster-piercing-orb",
-            "name": "Chaos Orb",
-            "description": "Attack: Slow Pulsing Damage Projectile"
-        },
-        {
-            "id": "focusmaster-mana-shield",
-            "name": "Mana Shield",
-            "description": "Mana Reinforced Barrier"
-        }
+        "focusmaster-piercing-orb",
+        "focusmaster-mana-shield"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

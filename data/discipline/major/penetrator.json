@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_penetrator_between_the_seams",
-        {
-            "id": "scarecrow-pin-cushion",
-            "name": "Pin Cushion",
-            "description": "Barrier Negates Piercing Damage"
-        }
+        "scarecrow-pin-cushion"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_elementalist_neutralize_elements",
-        {
-            "id": "pistolmaster-careful-aim",
-            "name": "Sentinel",
-            "description": "Increase Critical Chance when Standing Still"
-        }
+        "pistolmaster-careful-aim"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

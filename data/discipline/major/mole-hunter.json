@@ -20,26 +20,10 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "molehunter-getem",
-            "name": "Get 'Em",
-            "description": "Attack: Root; Expose Punish"
-        },
-        {
-            "id": "molehunter-flare",
-            "name": "Flare",
-            "description": "Ground Target Stealth Users Revealed; Punished"
-        },
-        {
-            "id": "molehunter-heads-up",
-            "name": "Heads Up",
-            "description": "Group increase Perception; Remove Expose"
-        },
-        {
-            "id": "molehunter-revenge-vs-stealth",
-            "name": "Revenge",
-            "description": "Passive: Increase Critical % after Stealth Attacked"
-        }
+        "molehunter-getem",
+        "molehunter-flare",
+        "molehunter-heads-up",
+        "molehunter-revenge-vs-stealth"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

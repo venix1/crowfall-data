@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "duelist-stealth-ambush",
-            "name": "Ambush",
-            "description": ""
-        },
-        {
-            "id": "careless-whisper",
-            "name": "Careless Whisper",
-            "description": "Passive: Basic Attacks Buff Crit Stats"
-        }
+        "duelist-stealth-ambush",
+        "careless-whisper"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

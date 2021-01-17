@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "friar-benediction",
-            "name": "Benediction",
-            "description": "Group increase Bleed Resistance"
-        },
-        {
-            "id": "juggernaut-spite",
-            "name": "Spite",
-            "description": "Passive: Regenerate when Stunned; Knocked Down"
-        }
+        "friar-benediction",
+        "juggernaut-spite"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

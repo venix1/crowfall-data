@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "destroyer-combo-1",
-            "name": "Aegis Of Salvation",
-            "description": "Attack: Adds Barrier and Heal"
-        },
-        {
-            "id": "destroyer-rage-health-buff",
-            "name": "Insanity",
-            "description": "Gain Health based on Rage"
-        }
+        "destroyer-combo-1",
+        "destroyer-rage-health-buff"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

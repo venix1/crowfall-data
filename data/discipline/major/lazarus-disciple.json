@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "holyavenger-hammer-1",
-            "name": "Grabthar's Hammer",
-            "description": "Attack: Combo stuns an enemy"
-        },
-        {
-            "id": "holyavenger-suns-of-worvan",
-            "name": "Suns Of Worvan",
-            "description": "Barrier negates Fire damage"
-        }
+        "holyavenger-hammer-1",
+        "holyavenger-suns-of-worvan"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

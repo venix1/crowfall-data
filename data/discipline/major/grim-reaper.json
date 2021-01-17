@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "plaguelord-shrivel",
-            "name": "Shrivel",
-            "description": "Attack: Blackmantle; Disease; Expose Punish"
-        },
-        {
-            "id": "banshee-ghost-army",
-            "name": "Ghost Army",
-            "description": "Attack: Damage Multiple Enemies; Healing"
-        }
+        "plaguelord-shrivel",
+        "banshee-ghost-army"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

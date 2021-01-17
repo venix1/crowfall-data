@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "confessor-redemption",
-            "name": "Redemption",
-            "description": "Attack: Shoot Multiple Fireballs"
-        },
-        {
-            "id": "tomemaster-concentration",
-            "name": "Concentration",
-            "description": "Passive: Restore Mana, Zealotry when Immobile"
-        }
+        "confessor-redemption",
+        "tomemaster-concentration"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

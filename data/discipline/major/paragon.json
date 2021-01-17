@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "fieldsurgeon-rehabilitation",
-            "name": "Rehabilitation",
-            "description": "Target Heal Ally Over Time Scaling with Stamina"
-        },
-        {
-            "id": "cleric-vengeful-aura",
-            "name": "Vengeful Aura",
-            "description": ""
-        }
+        "fieldsurgeon-rehabilitation",
+        "cleric-vengeful-aura"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "plaguelord-festering-wounds",
-            "name": "Festering Wounds",
-            "description": "Attack: Reduce Healing; Disease; Expose on Healing"
-        },
+        "plaguelord-festering-wounds",
         "power_discipline_plaguelord_contagion"
     ],
     "grantsSlot": [],

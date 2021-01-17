@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "pixie-wee-one",
-            "name": "Wee One",
-            "description": "Attack: Ground Target Area Reduce Enemy Damage"
-        },
+        "pixie-wee-one",
         "power_discipline_lordoftheforest_protection_stake"
     ],
     "grantsSlot": [],

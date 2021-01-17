@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "axemaster-cooldown-combo-1",
-            "name": "Furious Slash",
-            "description": "Attack: Combo Reduces Cooldowns"
-        },
-        {
-            "id": "axemaster-armorbreak-1",
-            "name": "Demolish Armor",
-            "description": "Attack: Inflict Armor Break"
-        }
+        "axemaster-cooldown-combo-1",
+        "axemaster-armorbreak-1"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

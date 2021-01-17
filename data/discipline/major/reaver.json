@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "champion-invincible-warrior",
-            "name": "Invincible Warrior",
-            "description": ""
-        },
+        "champion-invincible-warrior",
         "power_discipline_reaver_gash"
     ],
     "grantsSlot": [],

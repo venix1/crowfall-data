@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "scarecrow-pin-cushion",
-            "name": "Pin Cushion",
-            "description": "Barrier Negates Piercing Damage"
-        },
-        {
-            "id": "scarecrow-needling-haystack",
-            "name": "Needlin' Haystack",
-            "description": "Reflect Piercing Damage; Attackers bleed"
-        }
+        "scarecrow-pin-cushion",
+        "scarecrow-needling-haystack"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

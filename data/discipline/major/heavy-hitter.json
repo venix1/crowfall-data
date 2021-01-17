@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "macemaster-stun-reverberating-blow",
-            "name": "Reverberating Blow",
-            "description": "Attack: Target enemy pulses damaging aura"
-        },
-        {
-            "id": "enemies-near-mitigation",
-            "name": "Overwhelming Odds",
-            "description": "Passive: Gain Resistance when Enemies Near"
-        }
+        "macemaster-stun-reverberating-blow",
+        "enemies-near-mitigation"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

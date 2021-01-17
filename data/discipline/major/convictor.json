@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "adjudicator-prosecute",
-            "name": "Prosecute",
-            "description": "Attack: Damage scales with Sin"
-        },
-        {
-            "id": "mortal-sin",
-            "name": "Mortal Sin",
-            "description": "Passive: Targets Debuff Anti-Critical Strike"
-        }
+        "adjudicator-prosecute",
+        "mortal-sin"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

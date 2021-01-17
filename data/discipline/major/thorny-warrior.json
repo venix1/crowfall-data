@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "ranger-dagger-spin-1",
-            "name": "Dagger Spin",
-            "description": ""
-        },
+        "ranger-dagger-spin-1",
         "power_discipline_thornywarrior_root_stake"
     ],
     "grantsSlot": [],

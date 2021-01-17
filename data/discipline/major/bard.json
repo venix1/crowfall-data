@@ -20,26 +20,10 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "bard-accelerando",
-            "name": "Song Of Speed",
-            "description": "Song: Increase Group Movement Speed"
-        },
-        {
-            "id": "bard-guardian-rhythms",
-            "name": "Guardian Rhythms",
-            "description": "Song: Increase Group Mitigation"
-        },
-        {
-            "id": "bard-hymn-of-restoration",
-            "name": "Hymn Of Restoration",
-            "description": "Song: Increase Group Health Regen"
-        },
-        {
-            "id": "bard-verses-of-victory",
-            "name": "Verses Of Victory",
-            "description": "Song: Increase Group Attack, Support Power"
-        }
+        "bard-accelerando",
+        "bard-guardian-rhythms",
+        "bard-hymn-of-restoration",
+        "bard-verses-of-victory"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

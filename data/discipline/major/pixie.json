@@ -20,21 +20,11 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "mysticalmaster-chain-ho-t",
-            "name": "Soothing Winds",
-            "description": "Target Heal Allies over Time"
-        },
-        {
-            "id": "pixie-pix-fix",
-            "name": "Pix Fix",
-            "description": "Passive: Increase Chain Heal Jumps; Falloff Reduction"
-        }
+        "mysticalmaster-chain-ho-t",
+        "pixie-pix-fix"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
     "description": "Mischievious, energetic, and jovial in nature, Pixies are known to be an asset to their allies and a pesky nuisance to their enemies. A bit of the essence of Cybele emerges in each Pixie as they offer an ally a quick fix, use their magic dust to assist in healing, and use their conjury to alter the size of a foe with ease.",
-    "lore": "Ever see a monster the size of a house turned into something no bigger than a mouse?"
-}mies. A bit of the essence of Cybele emerges in each Pixie as they offer an ally a quick fix, use their magic dust to assist in healing, and use their conjury to alter the size of a foe with ease.",
     "lore": "Ever see a monster the size of a house turned into something no bigger than a mouse?"
 }

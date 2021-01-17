@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "realitywarper-tear-reality",
-            "name": "Spiritual Decay",
-            "description": "Decrease Healing Bonus of enemies around you"
-        },
-        {
-            "id": "plaguelord-shrivel",
-            "name": "Shrivel",
-            "description": "Attack: Blackmantle; Disease; Expose Punish"
-        }
+        "realitywarper-tear-reality",
+        "plaguelord-shrivel"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

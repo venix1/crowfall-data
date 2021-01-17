@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "bowmaster-hunkerdown",
-            "name": "Hunker Down",
-            "description": "Field increases Damage; Resist All"
-        },
-        {
-            "id": "dig-in",
-            "name": "Dig In",
-            "description": "Passive: Crit Defense on Low Health"
-        }
+        "bowmaster-hunkerdown",
+        "dig-in"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

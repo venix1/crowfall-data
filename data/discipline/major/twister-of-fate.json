@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "militantmage-blade-turning",
-            "name": "Blade Turning",
-            "description": "Barrier Negates Slashing Damage"
-        },
-        {
-            "id": "runecaster-fortification",
-            "name": "Fortification",
-            "description": "Group Increase Health Max"
-        }
+        "militantmage-blade-turning",
+        "runecaster-fortification"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

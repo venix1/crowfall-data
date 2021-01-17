@@ -24,16 +24,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "scarecrow-aura-of-terror",
-            "name": "Aura Of Terror",
-            "description": "Lingering Enemies Suffer Frostbite; Suppression"
-        },
-        {
-            "id": "scarecrow-terrifying-features",
-            "name": "Terrifying Features",
-            "description": "Passive: Attackers Periodically Stunned"
-        }
+        "scarecrow-aura-of-terror",
+        "scarecrow-terrifying-features"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

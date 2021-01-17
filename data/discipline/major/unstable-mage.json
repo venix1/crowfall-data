@@ -21,11 +21,7 @@
     ],
     "grantsPowers": [
         "power_discipline_unstablemage_wreckoning",
-        {
-            "id": "arcanearcher-barrier",
-            "name": "Arcane Barrier",
-            "description": "Gain a Barrier, and Elemental Barrier Resistance"
-        }
+        "arcanearcher-barrier"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

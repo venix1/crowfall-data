@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "assassin-stealth-ambush",
-            "name": "Ambush",
-            "description": ""
-        },
-        {
-            "id": "blackmask-shadows-linger",
-            "name": "Shadows Linger",
-            "description": "Passive: Increase Critical Damage Amount after losing Stealth"
-        }
+        "assassin-stealth-ambush",
+        "blackmask-shadows-linger"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -20,22 +20,10 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "dryad-blast-of-leaves",
-            "name": "Blast Of Leaves",
-            "description": "Heal: Channelled Cone AoE"
-        },
-        {
-            "id": "druid-natures-avatar",
-            "name": "Nature's Avatar",
-            "description": ""
-        }
+        "dryad-blast-of-leaves",
+        "druid-natures-avatar"
     ],
     "grantsSlot": [],
-    "grantsTrait": [],
-    "description": "Arboreal energy exists in ways that can only be harnessed by the most insightful of nature enthusiasts. Utilizing the power of the trees assists with quick healing efforts that cannot be surpassed. Dryads are quite in tune with nature and are quick to offer a helpful blast of leaves to the face.",
-    "lore": "The spirit of Gaea can be heard if you listen closely to the whispers of the trees."
-}": [],
     "grantsTrait": [],
     "description": "Arboreal energy exists in ways that can only be harnessed by the most insightful of nature enthusiasts. Utilizing the power of the trees assists with quick healing efforts that cannot be surpassed. Dryads are quite in tune with nature and are quick to offer a helpful blast of leaves to the face.",
     "lore": "The spirit of Gaea can be heard if you listen closely to the whispers of the trees."

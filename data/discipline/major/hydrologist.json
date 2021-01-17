@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "naiad-water-spirits",
-            "name": "Water Spirits",
-            "description": "Attack: Heal Allies; Reduce Enemy Fire Damage"
-        },
+        "naiad-water-spirits",
         "power_discipline_flowcontroller_cauterize"
     ],
     "grantsSlot": [],

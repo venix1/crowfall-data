@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "blademaster-dazzling-blades",
-            "name": "Dazzling Blades",
-            "description": "Attack: Reduce Enemy Crit Hit Chance"
-        },
-        {
-            "id": "enemies-near-damage",
-            "name": "Resolution",
-            "description": "Passive: Gain Damage when Enemies Near"
-        }
+        "blademaster-dazzling-blades",
+        "enemies-near-damage"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

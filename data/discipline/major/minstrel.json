@@ -20,21 +20,9 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "bard-verses-of-victory",
-            "name": "Verses Of Victory",
-            "description": "Song: Increase Group Attack, Support Power"
-        },
-        {
-            "id": "bard-hymn-of-restoration",
-            "name": "Hymn Of Restoration",
-            "description": "Song: Increase Group Health Regen"
-        },
-        {
-            "id": "bard-twisting",
-            "name": "Song Twisting",
-            "description": "Passive: Twisting Songs Increases Song Potency"
-        }
+        "bard-verses-of-victory",
+        "bard-hymn-of-restoration",
+        "bard-twisting"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

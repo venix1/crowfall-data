@@ -20,16 +20,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "plaguelord-festering-wounds",
-            "name": "Festering Wounds",
-            "description": "Attack: Reduce Healing; Disease; Expose on Healing"
-        },
-        {
-            "id": "realitywarp-dmg-on-low-resource",
-            "name": "Crazy Pills",
-            "description": "Passive: Increase Damage on Low Resource"
-        }
+        "plaguelord-festering-wounds",
+        "realitywarp-dmg-on-low-resource"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
