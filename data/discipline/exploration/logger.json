@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "logger-empowered-logging",
-            "name": "Empowered Logging",
-            "description": "Passive: Adds Logging specific Buffs to all Energetic Harvesting Buffs"
-        }
+        "logger-empowered-logging"
     ],
     "grantsSlot": [],
     "grantsTrait": [

@@ -35,41 +35,13 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-ranged-distance-cap",
-            "name": "Follow-Through",
-            "description": "Passive: Increase Ranged Distance Bonus Cap"
-        },
-        {
-            "id": "racial-passive-critical-healing-amount",
-            "name": "Gaea's Tears",
-            "description": "Passive: Increase Critical Healing Amount"
-        },
-        {
-            "id": "racial-passive-craft-leatherworking",
-            "name": "Tannin Techniques",
-            "description": "Passive: Increase Leatherworking Crafting Statistics"
-        },
-        {
-            "id": "racial-passive-trailmaster",
-            "name": "Trailmaster",
-            "description": "Passive: Greatly Increase Movement Speed while Out of Combat"
-        },
-        {
-            "id": "elken-headbutt",
-            "name": "Head Butt",
-            "description": "Charge Forward, Targets Suffer Knockdown"
-        },
-        {
-            "id": "elken-gestalt",
-            "name": "Gestalt",
-            "description": "Limited Duration See Stealthed Players"
-        },
-        {
-            "id": "elken-dodge",
-            "name": "Dive Roll",
-            "description": "Dive Roll in a WASD direction"
-        }
+        "racial-passive-ranged-distance-cap",
+        "racial-passive-critical-healing-amount",
+        "racial-passive-craft-leatherworking",
+        "racial-passive-trailmaster",
+        "elken-headbutt",
+        "elken-gestalt",
+        "elken-dodge"
     ],
     "grantsSlot": [],
     "grantsTrait": [

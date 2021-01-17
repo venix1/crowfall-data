@@ -11,21 +11,9 @@
     "icon": "connoisseur.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "connoisseur-finer-things",
-            "name": "Finer Things",
-            "description": "Increase Chance to Harvest Gems, Grave Goods, and Hunger Shard Additives"
-        },
-        {
-            "id": "connoisseur-glycolysis",
-            "name": "Glycolysis",
-            "description": "Passive: Apples Additionally Give Stamina"
-        },
-        {
-            "id": "activate-harvest-pips",
-            "name": "Harvesting Power",
-            "description": "Passive: Gain Harvest Power Pips while Harvesting"
-        }
+        "connoisseur-finer-things",
+        "connoisseur-glycolysis",
+        "activate-harvest-pips"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

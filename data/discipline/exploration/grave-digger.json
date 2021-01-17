@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "grave-digging-empowered-digging",
-            "name": "Empowered Grave Digging",
-            "description": "Passive: Adds Grave Digging specific Buffs to all Energetic Harvesting Buffs"
-        }
+        "grave-digging-empowered-digging"
     ],
     "grantsSlot": [
         "Horseshoes"

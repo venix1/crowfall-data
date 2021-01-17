@@ -31,36 +31,12 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-craft-jewelcrafting",
-            "name": "Gemcutter",
-            "description": "Passive: Increase Jewelcrafting Crafting Statistics"
-        },
-        {
-            "id": "racial-passive-extra-power-slot",
-            "name": "Hero's Blood",
-            "description": "Passive: Increase the Number of Slots on Power Tray"
-        },
-        {
-            "id": "racial-passive-hitpoints-loss",
-            "name": "Pain Tolerance",
-            "description": "Passive: Reduce All Damage You Take"
-        },
-        {
-            "id": "racial-passive-extra-minor-discipline",
-            "name": "Past Lives",
-            "description": "Passive: Unlock a Minor Discipline Slot"
-        },
-        {
-            "id": "human-candle",
-            "name": "Candle That Burns",
-            "description": "Increase Damage, Increase Resource Cost"
-        },
-        {
-            "id": "knight-dodge",
-            "name": "Sidestep",
-            "description": "Roll in a WASD direction."
-        }
+        "racial-passive-craft-jewelcrafting",
+        "racial-passive-extra-power-slot",
+        "racial-passive-hitpoints-loss",
+        "racial-passive-extra-minor-discipline",
+        "human-candle",
+        "knight-dodge"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -11,21 +11,9 @@
     "icon": "survivalist.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "survivalist-burst-strength",
-            "name": "Burst Of Strength",
-            "description": "Increases Harvest Damage for 2 Hits"
-        },
-        {
-            "id": "survivalist-bounty",
-            "name": "Bounty Of The Land",
-            "description": "Passive: Increase Chance to Harvest Foraged Food Ingredients"
-        },
-        {
-            "id": "activate-harvest-pips",
-            "name": "Harvesting Power",
-            "description": "Passive: Gain Harvest Power Pips while Harvesting"
-        }
+        "survivalist-burst-strength",
+        "survivalist-bounty",
+        "activate-harvest-pips"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

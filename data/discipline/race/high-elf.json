@@ -31,36 +31,12 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-dodge-restore",
-            "name": "Acrobatics",
-            "description": "Passive: Chance for Extra Dodge Power when Dodging"
-        },
-        {
-            "id": "racial-passive-critical-damage",
-            "name": "Hauteur",
-            "description": "Passive: Increase Critical Damage Amount"
-        },
-        {
-            "id": "racial-passive-elemental-mitigation",
-            "name": "Vanity",
-            "description": "Passive: Increase Elemental Resistance"
-        },
-        {
-            "id": "weapon-finesse",
-            "name": "Mental Fortitude",
-            "description": "Passive: Reduces Power Resource Costs"
-        },
-        {
-            "id": "highelf-humiliate",
-            "name": "Humiliate",
-            "description": "Increases Power Cost Multiplier"
-        },
-        {
-            "id": "highelf-dodge",
-            "name": "Dive Roll",
-            "description": "Dive Roll in a WASD direction"
-        }
+        "racial-passive-dodge-restore",
+        "racial-passive-critical-damage",
+        "racial-passive-elemental-mitigation",
+        "weapon-finesse",
+        "highelf-humiliate",
+        "highelf-dodge"
     ],
     "grantsSlot": [
         "Amulet"

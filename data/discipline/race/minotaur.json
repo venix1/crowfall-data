@@ -35,41 +35,13 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-gigantism",
-            "name": "Gigantism",
-            "description": "Passive: Large Body Size Causes Faster Food Pool Decay"
-        },
-        {
-            "id": "racial-passive-all-mitigations",
-            "name": "Thick Skin",
-            "description": "Passive: Increase Resist All"
-        },
-        {
-            "id": "racial-passive-frontal-stun-immunity",
-            "name": "Unbreakable",
-            "description": "Passive: Frontal Stun Immunity"
-        },
-        {
-            "id": "racial-passive-harvest-animal",
-            "name": "Waste Not, Want Not",
-            "description": "Passive: Increase Skinning"
-        },
-        {
-            "id": "minotaur-bloodthirst",
-            "name": "Bloodthirst",
-            "description": "Instantly Heals Damage, Damage Taken Becomes DoT"
-        },
-        {
-            "id": "myrmidon-bull-rush",
-            "name": "Bull Rush",
-            "description": "Attack: Charge Forward; Damage Enemies"
-        },
-        {
-            "id": "myrmidon-dodge",
-            "name": "Dive Roll",
-            "description": "Dive Roll in a WASD direction"
-        }
+        "racial-passive-gigantism",
+        "racial-passive-all-mitigations",
+        "racial-passive-frontal-stun-immunity",
+        "racial-passive-harvest-animal",
+        "minotaur-bloodthirst",
+        "myrmidon-bull-rush",
+        "myrmidon-dodge"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

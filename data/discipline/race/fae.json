@@ -35,41 +35,13 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-melee-power-damage",
-            "name": "Born Under The Knife",
-            "description": "Passive: Increase Melee Power Damage"
-        },
-        {
-            "id": "racial-jump-text-double-jump",
-            "name": "Double Jump",
-            "description": "Passive: Jump Again While Near the Apex of Your First Jump"
-        },
-        {
-            "id": "racial-jump-text-glide",
-            "name": "Glide",
-            "description": "Passive: Extend your Wings to Greatly Reduce Falling Speed"
-        },
-        {
-            "id": "racial-passive-toxin-dot-stripper",
-            "name": "Improbable Antidote",
-            "description": "Passive: Chance to Remove All Toxin Effects From You when Any Toxin is Applied"
-        },
-        {
-            "id": "racial-passive-organic-mitigation",
-            "name": "Toxic Tolerance",
-            "description": "Passive: Increase Organic Resistance"
-        },
-        {
-            "id": "fae-faerie-fire",
-            "name": "Faerie Fire",
-            "description": "Target Debuff Anti-Critical Strike"
-        },
-        {
-            "id": "assassin-dodge",
-            "name": "Dodge",
-            "description": "Dash in a WASD direction"
-        }
+        "racial-passive-melee-power-damage",
+        "racial-jump-text-double-jump",
+        "racial-jump-text-glide",
+        "racial-passive-toxin-dot-stripper",
+        "racial-passive-organic-mitigation",
+        "fae-faerie-fire",
+        "assassin-dodge"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

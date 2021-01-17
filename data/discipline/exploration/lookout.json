@@ -16,16 +16,8 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "lookout-keen-eye",
-            "name": "Keen Eye",
-            "description": "Increase Harvest Weak Spot Chance"
-        },
-        {
-            "id": "activate-harvest-pips",
-            "name": "Harvesting Power",
-            "description": "Passive: Gain Harvest Power Pips while Harvesting"
-        }
+        "lookout-keen-eye",
+        "activate-harvest-pips"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "miner-empowered-mining",
-            "name": "Empowered Mining",
-            "description": "Passive: Adds Mining specific Buffs to all Energetic Harvesting Buffs"
-        }
+        "miner-empowered-mining"
     ],
     "grantsSlot": [],
     "grantsTrait": [

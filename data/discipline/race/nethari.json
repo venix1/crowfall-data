@@ -31,36 +31,12 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-hitpoints-regen-ooc",
-            "name": "Desert Winds",
-            "description": "Passive: Increase Out of Combat Health Regen"
-        },
-        {
-            "id": "racial-passive-craft-necromancy",
-            "name": "Subcuticular Suturing",
-            "description": "Passive: Increase Necromancy Crafting Statistics"
-        },
-        {
-            "id": "racial-passive-anti-critical-strike",
-            "name": "Sun-Kissed Skin",
-            "description": "Passive: Increase Anti-Critical Strike"
-        },
-        {
-            "id": "racial-passive-stealth-speed",
-            "name": "Walk Without Rhythm",
-            "description": "Passive: Increase Movement Speed while Stealthed"
-        },
-        {
-            "id": "nethari-call-flames",
-            "name": "Call Flames",
-            "description": "Fire Buff, Sets Nearby Enemies on Fire"
-        },
-        {
-            "id": "confessor-blink",
-            "name": "Zealot Rush",
-            "description": "Dash in a WASD direction"
-        }
+        "racial-passive-hitpoints-regen-ooc",
+        "racial-passive-craft-necromancy",
+        "racial-passive-anti-critical-strike",
+        "racial-passive-stealth-speed",
+        "nethari-call-flames",
+        "confessor-blink"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

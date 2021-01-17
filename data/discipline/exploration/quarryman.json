@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "quarryman-empowered-quarrying",
-            "name": "Empowered Quarrying",
-            "description": "Passive: Adds Quarrying specific Buffs to all Energetic Harvesting Buffs"
-        }
+        "quarryman-empowered-quarrying"
     ],
     "grantsSlot": [],
     "grantsTrait": [

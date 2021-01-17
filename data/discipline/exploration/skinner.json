@@ -20,11 +20,7 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "skinner-empowered-skinning",
-            "name": "Empowered Skinning",
-            "description": "Passive: Adds Skinning specific Buffs to all Energetic Harvesting Buffs"
-        }
+        "skinner-empowered-skinning"
     ],
     "grantsSlot": [],
     "grantsTrait": [

@@ -11,26 +11,10 @@
     "icon": "foreman.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "foreman-take-it-down",
-            "name": "Take It Down!",
-            "description": "Reduced Armor on Mother Load Resource Nodes"
-        },
-        {
-            "id": "foreman-back-to-work",
-            "name": "Back To Work!",
-            "description": "Restore Harvest Pips and Stamina to Group"
-        },
-        {
-            "id": "activate-harvest-pips",
-            "name": "Harvesting Power",
-            "description": "Passive: Gain Harvest Power Pips while Harvesting"
-        },
-        {
-            "id": "foreman-lead-from-front",
-            "name": "Lead From The Front",
-            "description": "Passive: Harvests Increase Group's Weak Spot Statistics"
-        }
+        "foreman-take-it-down",
+        "foreman-back-to-work",
+        "activate-harvest-pips",
+        "foreman-lead-from-front"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

@@ -11,16 +11,8 @@
     "icon": "hoarder.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "hoarder-usurious-bargain",
-            "name": "Usurious Bargain",
-            "description": "Swap Health into Stamina"
-        },
-        {
-            "id": "hoarder-need-this",
-            "name": "I Need This!",
-            "description": "Passive: Weak Points Grant Stamina"
-        }
+        "hoarder-usurious-bargain",
+        "hoarder-need-this"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

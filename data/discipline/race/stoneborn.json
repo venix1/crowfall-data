@@ -39,36 +39,12 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-incoming-heals",
-            "name": "Blood of the Mountain",
-            "description": "Passive: Increase Incoming Heals"
-        },
-        {
-            "id": "racial-passive-bleed-dot-stripper",
-            "name": "Coagulation",
-            "description": "Passive: Chance to Remove All Bleed Effects From You when Any Bleed is Applied"
-        },
-        {
-            "id": "racial-passive-craft-blacksmithing",
-            "name": "High Forge Apprentice",
-            "description": "Passive: Increase Blacksmithing Crafting Statistics"
-        },
-        {
-            "id": "racial-passive-anti-knockdown",
-            "name": "I Get Knocked Down",
-            "description": "Passive: Knockdown Reduction; Increase Damage and Healing after being Knocked Down"
-        },
-        {
-            "id": "stone-skin",
-            "name": "Stone Skin",
-            "description": "Reduce Damage, Poison Immunity, Reduce Health Gain"
-        },
-        {
-            "id": "stoneborn-dodge",
-            "name": "Barrel Roll",
-            "description": "Barrel Roll in a WASD direction"
-        }
+        "racial-passive-incoming-heals",
+        "racial-passive-bleed-dot-stripper",
+        "racial-passive-craft-blacksmithing",
+        "racial-passive-anti-knockdown",
+        "stone-skin",
+        "stoneborn-dodge"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

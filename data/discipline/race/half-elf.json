@@ -39,36 +39,12 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-harvest-mining",
-            "name": "Lay of The Land",
-            "description": "Passive: Increase Mining"
-        },
-        {
-            "id": "racial-passive-extra-minor-discipline",
-            "name": "Past Lives",
-            "description": "Passive: Unlock a Minor Discipline Slot"
-        },
-        {
-            "id": "racial-passive-trailblazer",
-            "name": "Trailblazer",
-            "description": "Passive: Increase Movement Speed while Out of Combat"
-        },
-        {
-            "id": "racial-passive-was-just-c-cd",
-            "name": "Wildkin's Retort",
-            "description": "Passive: Heal Over Time when any Knockdown, Stun, Root, or Snare is Applied"
-        },
-        {
-            "id": "halfelf-barrier",
-            "name": "Bandit's Armor",
-            "description": "Gain a Barrier, and Piercing Barrier Resistance"
-        },
-        {
-            "id": "ranger-spin-step",
-            "name": "Spin Step",
-            "description": "Roll in a WASD direction"
-        }
+        "racial-passive-harvest-mining",
+        "racial-passive-extra-minor-discipline",
+        "racial-passive-trailblazer",
+        "racial-passive-was-just-c-cd",
+        "halfelf-barrier",
+        "ranger-spin-step"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

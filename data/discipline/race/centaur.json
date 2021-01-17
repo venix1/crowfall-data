@@ -31,41 +31,13 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-hungry-horse",
-            "name": "Hungry as a Horse",
-            "description": "Passive: Large Body Size Causes Faster Food Pool Decay"
-        },
-        {
-            "id": "racial-passive-centaur-aura",
-            "name": "Legion's Strength",
-            "description": "Passive: Increase Groups Attack Power and Support Power"
-        },
-        {
-            "id": "racial-passive-no-dismount",
-            "name": "Sure Footed",
-            "description": "Passive: Prevents the Player from Being Dismounted via Damage"
-        },
-        {
-            "id": "racial-passive-trailmaster",
-            "name": "Trailmaster",
-            "description": "Passive: Greatly Increase Movement Speed while Out of Combat"
-        },
-        {
-            "id": "centaur-charge",
-            "name": "Wild Charge",
-            "description": "Attack: Charge Forward Breaking Armor"
-        },
-        {
-            "id": "legionnaire-rear-react",
-            "name": "Rear Kick",
-            "description": "Attack: Knockdown Enemies Behind You"
-        },
-        {
-            "id": "legionnaire-dodge",
-            "name": "Dash",
-            "description": "Dash in a WASD direction"
-        }
+        "racial-passive-hungry-horse",
+        "racial-passive-centaur-aura",
+        "racial-passive-no-dismount",
+        "racial-passive-trailmaster",
+        "centaur-charge",
+        "legionnaire-rear-react",
+        "legionnaire-dodge"
     ],
     "grantsSlot": [
         "Horseshoes"

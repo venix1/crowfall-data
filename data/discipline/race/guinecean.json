@@ -35,41 +35,13 @@
         }
     ],
     "grantsPowers": [
-        {
-            "id": "racial-passive-plentiful-haul",
-            "name": "Caravan Master",
-            "description": "Passive: Increased Chance For More and Higher Quality Materials From Caravans"
-        },
-        {
-            "id": "racial-jump-text-double-jump",
-            "name": "Double Jump",
-            "description": "Passive: Jump Again While Near the Apex of Your First Jump"
-        },
-        {
-            "id": "racial-passive-food-consumption",
-            "name": "Epicurean",
-            "description": "Passive: Gain Bonus Food Pool When You Eat"
-        },
-        {
-            "id": "racial-passive-weapon-damage",
-            "name": "Superior Weapons",
-            "description": "Passive: Increase Weapon Damage"
-        },
-        {
-            "id": "guinecean-burrow-tooltip-passive",
-            "name": "Burrow",
-            "description": "Tray Swap: Limited Stealth, only for Non-Stealth Classes"
-        },
-        {
-            "id": "guinecean-saltpeter-rounds",
-            "name": "Saltpeter Rounds",
-            "description": "Pistol Shots Snare Targets, Increases Pistol Range, only for Duelist"
-        },
-        {
-            "id": "duelist-dodge",
-            "name": "Leap Roll",
-            "description": "Leap Roll in a WASD direction"
-        }
+        "racial-passive-plentiful-haul",
+        "racial-jump-text-double-jump",
+        "racial-passive-food-consumption",
+        "racial-passive-weapon-damage",
+        "guinecean-burrow-tooltip-passive",
+        "guinecean-saltpeter-rounds",
+        "duelist-dodge"
     ],
     "grantsSlot": [
         "Ring"

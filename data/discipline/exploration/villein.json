@@ -11,17 +11,9 @@
     "icon": "villein.png",
     "stats": [],
     "grantsPowers": [
-        {
-            "id": "villein-back-into-it",
-            "name": "Put Your Back Into It!",
-            "description": "Use Health to Gain Harvest Pips"
-        },
+        "villein-back-into-it",
         "power_discipline_villein_unexpected_value",
-        {
-            "id": "villein-seasoned-hand",
-            "name": "Seasoned Hand",
-            "description": "Passive: Greatly Decreases Harvesting Tool Decay"
-        }
+        "villein-seasoned-hand"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
