@@ -16,7 +16,7 @@
         }
     ],
     "grantsPowers": [
-        "power_discipline_stay_in_the_fight"
+        "power-discipline-stay-in-the-fight"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
