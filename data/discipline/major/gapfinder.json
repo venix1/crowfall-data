@@ -1,0 +1,20 @@
+{
+    "id": "gapfinder",
+    "name": "Gapfinder",
+    "type": "major",
+    "trait": [
+        {
+            "id": "trait-music-or-shadow",
+            "name": "Shadow or Music"
+        }
+    ],
+    "icon": "gapfinder.png",
+    "grantsPowers": [
+        "scarecrow-pin-cushion",
+        "between-the-seam"
+    ],
+    "grantsSlot": [],
+    "grantsTrait": [],
+    "description": ".",
+    "lore": "."
+}

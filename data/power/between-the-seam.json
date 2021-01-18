@@ -1,0 +1,24 @@
+{
+    "id": "between-the-seam",
+    "name": "Between the seam",
+    "description": "Buff: Increase group piercing penetration.",
+    "shortDescription": "Buff: Increase group piercing penetration.",
+    "icon": "between-the-seam.png",
+    "stats": {
+        "buff_amount_2": "0%",
+        "buff_amount_1": "0%",
+        "max_targets": "1",
+        "target": "Self",
+        "cast_time": "Passive"
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": [
+        "melee"
+    ]
+}
