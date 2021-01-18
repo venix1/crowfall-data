@@ -4,3 +4,4 @@ node_modules/
 data/power/deprecated/
 data/discipline/deprecated/
 *.sw?
+*.tmp

@@ -1,6 +1,6 @@
 {
-    "id": "crazy-pills",
-    "name": "Crazy Pills",
+    "id": "subvert-expectations",
+    "name": "Subvert expectations",
     "type": "minor",
     "trait": [
         {
@@ -8,7 +8,7 @@
             "name": "Wind, Fire, Frost, Storm, Justice or Battle"
         }
     ],
-    "icon": "crazy-pills.png",
+    "icon": "subvert-expectations.png",
     "stats": [
         {
             "name": "Critical Damage",

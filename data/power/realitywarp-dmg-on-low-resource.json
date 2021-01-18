@@ -1,7 +1,7 @@
 {
     "id": "realitywarp-dmg-on-low-resource",
-    "name": "Crazy Pills",
-    "description": "applies Attack Power with the buff amount increasing as your Resource pool decreases.",
+    "name": "Subvert Expectations",
+    "description": "applies Attack Power with the buff amount increasing as your Resource pool decreases.\n\nScales between 0 and 50 attack power.",
     "shortDescription": "Passive: Increase Damage on Low Resource",
     "icon": "realitywarp-dmg-on-low-resource.png",
     "stats": {

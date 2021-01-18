@@ -1,6 +1,6 @@
 {
-    "id": "blitzkrieger",
-    "name": "Blitzkrieger",
+    "id": "blitzer",
+    "name": "Blitzer",
     "type": "major",
     "trait": [
         {
@@ -8,7 +8,7 @@
             "name": "Druid or Storm"
         }
     ],
-    "icon": "blitzkrieger.png",
+    "icon": "blitzer.png",
     "stats": [
         {
             "name": "Armor Penetration: Electricity",
