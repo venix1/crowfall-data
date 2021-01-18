@@ -1,0 +1,18 @@
+{
+    "id": "power-discipline-soul-steal",
+    "name": "Soul Steal",
+    "description": "deploys a field for 10 seconds that causes 88 damage to enemies in the area and applies a Soul Steal counter ot them each second while in the field. When the counter reaches 5 you are healed for 40% of the damage dealt to them by the field.",
+    "shortDescription": "Attack: Deals damage to enemies in a field, returning health",
+    "icon": "discipline-soul-steal.png",
+    "stats": {
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+    ]
+}

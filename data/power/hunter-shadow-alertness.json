@@ -1,0 +1,17 @@
+{
+    "id": "hunter-shadow-alertness",
+    "name": "Shadow Alertness",
+    "description": "increases your perception by 25 and detects enemies in stealth, while increasing your groups attack power by 50 and removing the exposed state for those within 50m.  Can be used from stealth",
+    "shortDescription": "FIX ME",
+    "icon": "hunter-shadow-alertness.png",
+    "stats": {
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

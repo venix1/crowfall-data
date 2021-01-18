@@ -16,8 +16,7 @@
         }
     ],
     "grantsPowers": [
-        "power_discipline_shadow_alertness",
-        "power_discipline_hyper_alert"
+        "hunter-shadow-alertness",
     ],
     "grantsSlot": [],
     "grantsTrait": [],

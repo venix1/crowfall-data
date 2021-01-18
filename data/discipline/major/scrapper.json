@@ -20,7 +20,7 @@
         }
     ],
     "grantsPowers": [
-        "power_discipline_scrapper_in_the_fray",
+        "scrapper-in-the-fray",
         "underdog-retalite-low-hp-knockdown"
     ],
     "grantsSlot": [],

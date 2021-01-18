@@ -20,8 +20,8 @@
         }
     ],
     "grantsPowers": [
-        "power_discipline_corruptedsoul_soul_steal",
-        "power_cleric_blessed_symbol"
+        "power-discipline-soul-steal",
+        "power-discipline-blessed-symbol"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

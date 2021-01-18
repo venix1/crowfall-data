@@ -16,7 +16,7 @@
         }
     ],
     "grantsPowers": [
-        "power_discipline_barbedstake_barbed_stake"
+        "barbedstake-barbed-stake"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

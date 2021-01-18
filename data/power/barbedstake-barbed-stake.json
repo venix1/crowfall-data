@@ -1,0 +1,18 @@
+{
+    "id": "barbedstake-barbed-stake",
+    "name": "Barbed Stake",
+    "description": "creates a field, dealing 70 + 70% Weapon Damage as Bleed damage to up to 5 enemies in the field for 30 seconds as long as enemies remain in the field.",
+    "shortDescription": "Attack: Deals damage to enemies that remain within its field.",
+    "icon": "barbedstake-barbed-stake.png",
+    "stats": {
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": true,
+    "isHeal": false,
+    "isBuff": true,
+    "tags": [
+    ]
+}

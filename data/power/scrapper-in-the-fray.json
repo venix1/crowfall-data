@@ -1,0 +1,17 @@
+{
+    "id": "scrapper-in-the-fray",
+    "name": "In the Fray",
+    "description": "buffs your attack power by 15 and lifesteal by 2% for each enemy within 20m, max of 5, for 15 seconds.", 
+    "shortDescription": "FIX ME",
+    "icon": "scrapper-in-the-fray.png",
+    "stats": {
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}

@@ -4,8 +4,8 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-death",
-            "name": "Death"
+            "id": "trait-shadow",
+            "name": "Shadow"
         }
     ],
     "icon": "nightstalker.png",
@@ -20,8 +20,8 @@
         }
     ],
     "grantsPowers": [
-        "power_discipline_nightstalker_vampire_sight",
-        "power_discipline_nightstalker_feeding_time"
+        "power-nightstalker-vampire-sight",
+        "power-nightstalker-feeding-time"
     ],
     "grantsSlot": [],
     "grantsTrait": [],

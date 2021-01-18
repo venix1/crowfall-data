@@ -1,0 +1,17 @@
+{
+    "id": "power-nightstalker-feeding-time",
+    "name": "Feeding Time",
+    "description": "grants a chance for attacks to send you into a feeding frenzy for 15 seconds, increasing lifesteal by 25% and attack power by 50.",
+    "shortDescription": "FIX-ME",
+    "icon": "weapon-finesse.png",
+    "stats": {
+    },
+    "nextChain": [],
+    "lastChain": [],
+    "inSpellbook": true,
+    "isGroupPower": false,
+    "isBeneficial": false,
+    "isHeal": false,
+    "isBuff": false,
+    "tags": []
+}
