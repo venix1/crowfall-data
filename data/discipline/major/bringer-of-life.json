@@ -21,7 +21,7 @@
     ],
     "grantsPowers": [
         "naiad-fountain",
-        "power_discipline_bringeroflife_purify"
+        "discipline-power-purify"
     ],
     "grantsSlot": [],
     "grantsTrait": [],
