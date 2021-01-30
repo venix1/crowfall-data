@@ -4,15 +4,15 @@
     "type": "major",
     "trait": [
         {
-            "id": "trait-elken-or-light",
-            "name": "Elken or Light"
+            "id": "trait-light",
+            "name": "Light"
         }
     ],
     "icon": "exorcist.png",
     "stats": [
         {
             "name": "Support Power",
-            "value": "150"
+            "value": "100"
         },
         {
             "name": "Holy Damage Bonus",
