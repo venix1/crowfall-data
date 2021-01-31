@@ -10,7 +10,7 @@
     "ingredients": [
         {
             "name": "Weapon Hilt: Great",
-            "id": "weapon-hilt-great",
+            "itemClass": "weapon-hilt-great",
             "icon": "Weapon Hilt: Great.png",
             "quantity": 1,
             "slotIndex": 0,
