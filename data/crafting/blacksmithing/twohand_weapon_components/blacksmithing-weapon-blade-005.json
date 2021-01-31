@@ -10,75 +10,75 @@
     "ingredients": [
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Weapon Form",
-            "id": "weapon-form",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-form"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 8,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Runestone: Esoteric",
-            "id": "runestone-esoteric",
             "icon": "Runestone: Esoteric.png",
             "quantity": 1,
             "slotIndex": 6,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "runestone-esoteric"
         },
         {
             "name": "Runestone: Esoteric",
-            "id": "runestone-esoteric",
             "icon": "Runestone: Esoteric.png",
             "quantity": 1,
             "slotIndex": 7,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "runestone-esoteric"
         }
     ]
 }

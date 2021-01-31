@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Polished Gemstone",
-            "id": "polished-gemstone",
             "icon": "Polished Gemstone.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "polished-gemstone"
         },
         {
             "name": "Ring Band",
-            "id": "ring-band",
             "icon": "Ring Band.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ring-band"
         }
     ]
 }

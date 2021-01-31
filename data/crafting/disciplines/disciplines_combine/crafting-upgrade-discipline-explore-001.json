@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Exploration Discipline",
-            "id": "exploration-discipline",
             "icon": "Exploration Discipline.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "exploration-discipline"
         },
         {
             "name": "Exploration Discipline",
-            "id": "exploration-discipline",
             "icon": "Exploration Discipline.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "exploration-discipline"
         },
         {
             "name": "Exploration Discipline",
-            "id": "exploration-discipline",
             "icon": "Exploration Discipline.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "exploration-discipline"
         },
         {
             "name": "Soul Essence",
-            "id": "soul-essence",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "soul-essence"
         },
         {
             "name": "Soul Essence",
-            "id": "soul-essence",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "soul-essence"
         },
         {
             "name": "Soul Essence",
-            "id": "soul-essence",
             "icon": "",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "soul-essence"
         }
     ]
 }

@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Foundation Segment",
-            "id": "foundation-segment",
             "icon": "Foundation Segment.png",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "foundation-segment"
         },
         {
             "name": "Wood Stake",
-            "id": "wood-stake",
             "icon": "Wood Stake.png",
             "quantity": 2,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wood-stake"
         },
         {
             "name": "Quality Assurance Control Kit",
-            "id": "quality-assurance-control-kit",
             "icon": "Quality Assurance Control Kit.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "quality-assurance-control-kit"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 5,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

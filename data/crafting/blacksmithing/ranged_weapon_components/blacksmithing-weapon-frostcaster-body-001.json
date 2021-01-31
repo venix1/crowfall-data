@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Weapon Grip",
-            "id": "weapon-grip",
             "icon": "Weapon Grip.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-grip"
         },
         {
             "name": "Mana Impeller",
-            "id": "mana-impeller",
             "icon": "Mana Impeller.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "mana-impeller"
         },
         {
             "name": "Arcane Actuator",
-            "id": "arcane-actuator",
             "icon": "Arcane Actuator.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "arcane-actuator"
         },
         {
             "name": "Polished Spherical Gemstone",
-            "id": "polished-spherical-gemstone",
             "icon": "Polished Spherical Gemstone.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "polished-spherical-gemstone"
         }
     ]
 }

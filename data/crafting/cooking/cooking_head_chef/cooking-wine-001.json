@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         },
         {
             "name": "Empty Flask",
-            "id": "empty-flask",
             "icon": "Empty Flask.png",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "empty-flask"
         },
         {
             "name": "Yeast",
-            "id": "yeast",
             "icon": "",
             "quantity": 4,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "yeast"
         },
         {
             "name": "Sugarcane",
-            "id": "sugarcane",
             "icon": "",
             "quantity": 2,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "sugarcane"
         },
         {
             "name": "Apple",
-            "id": "apple",
             "icon": "Apple.png",
             "quantity": 5,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "apple"
         }
     ]
 }

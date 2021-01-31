@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Rough Gem",
-            "id": "rough-gem",
             "icon": "Rough Gem.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "rough-gem"
         },
         {
             "name": "Diamond Cutting Blade",
-            "id": "diamond-cutting-blade",
             "icon": "Diamond Cutting Blade.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "diamond-cutting-blade"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         }
     ]
 }

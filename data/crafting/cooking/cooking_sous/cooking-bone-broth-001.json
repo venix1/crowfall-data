@@ -10,75 +10,75 @@
     "ingredients": [
         {
             "name": "Large Cooking Pot",
-            "id": "large-cooking-pot",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "large-cooking-pot"
         },
         {
             "name": "Animal Bone",
-            "id": "animal-bone",
             "icon": "",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-bone"
         },
         {
             "name": "Animal Blood",
-            "id": "animal-blood",
             "icon": "Animal Blood.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-blood"
         },
         {
             "name": "Animal Bone",
-            "id": "animal-bone",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-bone"
         },
         {
             "name": "Animal Blood",
-            "id": "animal-blood",
             "icon": "Animal Blood.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-blood"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 5,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         },
         {
             "name": "Animal Meat",
-            "id": "animal-meat",
             "icon": "Animal Meat.png",
             "quantity": 4,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-meat"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 7,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

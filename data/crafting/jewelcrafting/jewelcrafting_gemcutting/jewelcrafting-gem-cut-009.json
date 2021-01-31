@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Rough Gem",
-            "id": "rough-gem",
             "icon": "Rough Gem.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "rough-gem"
         },
         {
             "name": "Chaos Ember Cutting Blade",
-            "id": "chaos-ember-cutting-blade",
             "icon": "",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "chaos-ember-cutting-blade"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         }
     ]
 }

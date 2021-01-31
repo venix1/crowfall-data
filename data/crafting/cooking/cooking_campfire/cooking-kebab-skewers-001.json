@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Meats or Mushrooms",
-            "id": "meats-or-mushrooms",
             "icon": "Meats or Mushrooms.png",
             "quantity": 4,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "meats-or-mushrooms"
         },
         {
             "name": "Roasting Stick",
-            "id": "roasting-stick",
             "icon": "",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "roasting-stick"
         },
         {
             "name": "Produce",
-            "id": "produce",
             "icon": "Produce.png",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "produce"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

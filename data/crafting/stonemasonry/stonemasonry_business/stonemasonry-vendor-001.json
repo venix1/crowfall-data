@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 75,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Vessel: Human",
-            "id": "vessel-human",
             "icon": "Vessel: Human.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "vessel-human"
         }
     ]
 }

@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Jeweled Weapon Hilt",
-            "id": "jeweled-weapon-hilt",
             "icon": "Jeweled Weapon Hilt.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "jeweled-weapon-hilt"
         },
         {
             "name": "Runed Weapon Blade: Short",
-            "id": "runed-weapon-blade-short",
             "icon": "Runed Weapon Blade: Short.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "runed-weapon-blade-short"
         },
         {
             "name": "Blade Rivets",
-            "id": "blade-rivets",
             "icon": "Blade Rivets.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "blade-rivets"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Hunger Shard",
-            "id": "hunger-shard",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "hunger-shard"
         }
     ]
 }

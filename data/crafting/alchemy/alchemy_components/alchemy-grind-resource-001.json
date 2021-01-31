@@ -10,12 +10,12 @@
     "ingredients": [
         {
             "name": "Stone or Mineral",
-            "id": "stone-or-mineral",
             "icon": "Stone or Mineral.png",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "stone-or-mineral"
         }
     ]
 }

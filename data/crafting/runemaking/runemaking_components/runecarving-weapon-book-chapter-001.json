@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Stitched Leather",
-            "id": "stitched-leather",
             "icon": "Stitched Leather.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "stitched-leather"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Stone",
-            "id": "stone",
             "icon": "Stone.png",
             "quantity": 3,
             "slotIndex": 2,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "stone"
         }
     ]
 }

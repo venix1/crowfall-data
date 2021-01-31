@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Cut Gem",
-            "id": "cut-gem",
             "icon": "Cut Gem.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "cut-gem"
         },
         {
             "name": "Grinding Wheel",
-            "id": "grinding-wheel",
             "icon": "Grinding Wheel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "grinding-wheel"
         },
         {
             "name": "Blood or Water",
-            "id": "blood-or-water",
             "icon": "Blood or Water.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "blood-or-water"
         }
     ]
 }

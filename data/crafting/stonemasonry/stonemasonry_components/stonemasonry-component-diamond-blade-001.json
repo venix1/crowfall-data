@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 9,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Cutting Grit",
-            "id": "cutting-grit",
             "icon": "Cutting Grit.png",
             "quantity": 3,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "cutting-grit"
         }
     ]
 }

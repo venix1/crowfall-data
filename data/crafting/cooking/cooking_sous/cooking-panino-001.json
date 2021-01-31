@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Cooking Foil",
-            "id": "cooking-foil",
             "icon": "",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "cooking-foil"
         },
         {
             "name": "Bread",
-            "id": "bread",
             "icon": "",
             "quantity": 8,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bread"
         },
         {
             "name": "Butter",
-            "id": "butter",
             "icon": "",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "butter"
         },
         {
             "name": "Artisan Cheese",
-            "id": "artisan-cheese",
             "icon": "",
             "quantity": 4,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "artisan-cheese"
         },
         {
             "name": "Meats or Mushrooms",
-            "id": "meats-or-mushrooms",
             "icon": "Meats or Mushrooms.png",
             "quantity": 8,
             "slotIndex": 4,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "meats-or-mushrooms"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

@@ -10,12 +10,12 @@
     "ingredients": [
         {
             "name": "Scavenged Ingredient",
-            "id": "scavenged-ingredient",
             "icon": "Scavenged Ingredient.png",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "scavenged-ingredient"
         }
     ]
 }

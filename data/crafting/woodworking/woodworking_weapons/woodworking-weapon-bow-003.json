@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Bow Limbs: Spellbound",
-            "id": "bow-limbs-spellbound",
             "icon": "Bow Limbs: Spellbound.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bow-limbs-spellbound"
         },
         {
             "name": "Bow Riser",
-            "id": "bow-riser",
             "icon": "Bow Riser.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bow-riser"
         },
         {
             "name": "Bow String",
-            "id": "bow-string",
             "icon": "Bow String.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bow-string"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Hunger Shard",
-            "id": "hunger-shard",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "hunger-shard"
         }
     ]
 }

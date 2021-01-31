@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Weapon Hilt",
-            "id": "weapon-hilt",
             "icon": "Weapon Hilt.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-hilt"
         },
         {
             "name": "Weapon Head: Mace",
-            "id": "weapon-head-mace",
             "icon": "Weapon Head: Mace.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-head-mace"
         },
         {
             "name": "Weapon Shaft: Short",
-            "id": "weapon-shaft-short",
             "icon": "Weapon Shaft: Short.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-shaft-short"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Hunger Shard",
-            "id": "hunger-shard",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "hunger-shard"
         },
         {
             "name": "Weapon Weights",
-            "id": "weapon-weights",
             "icon": "",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "weapon-weights"
         }
     ]
 }

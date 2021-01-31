@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Slag",
-            "id": "slag",
             "icon": "Slag.png",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "slag"
         },
         {
             "name": "Cobblestone",
-            "id": "cobblestone",
             "icon": "Cobblestone.png",
             "quantity": 2,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "cobblestone"
         },
         {
             "name": "Knotwood",
-            "id": "knotwood",
             "icon": "Knotwood.png",
             "quantity": 2,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "knotwood"
         }
     ]
 }

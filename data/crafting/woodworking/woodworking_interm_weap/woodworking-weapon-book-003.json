@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Wooden Board",
-            "id": "wooden-board",
             "icon": "Wooden Board.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wooden-board"
         },
         {
             "name": "Basic Book",
-            "id": "basic-book",
             "icon": "Basic Book.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "basic-book"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

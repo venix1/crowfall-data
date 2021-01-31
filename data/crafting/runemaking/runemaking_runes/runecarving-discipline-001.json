@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Soul Essence",
-            "id": "soul-essence",
             "icon": "",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "soul-essence"
         },
         {
             "name": "Unmarked Stone Runestone",
-            "id": "unmarked-stone-runestone",
             "icon": "Unmarked Stone Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "unmarked-stone-runestone"
         },
         {
             "name": "Animal Blood",
-            "id": "animal-blood",
             "icon": "Animal Blood.png",
             "quantity": 2,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-blood"
         },
         {
             "name": "Soul Gem: Exploration",
-            "id": "soul-gem-exploration",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "soul-gem-exploration"
         },
         {
             "name": "Domination Dust",
-            "id": "domination-dust",
             "icon": "Domination Dust.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "domination-dust"
         }
     ]
 }

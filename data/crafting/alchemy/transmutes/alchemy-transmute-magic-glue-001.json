@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Adhesive",
-            "id": "adhesive",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "adhesive"
         },
         {
             "name": "Ground Mineral",
-            "id": "ground-mineral",
             "icon": "Ground Mineral.png",
             "quantity": 3,
             "slotIndex": 1,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "ground-mineral"
         },
         {
             "name": "Ground Nitre",
-            "id": "ground-nitre",
             "icon": "Ground Nitre.png",
             "quantity": 3,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ground-nitre"
         },
         {
             "name": "Chaos Ember",
-            "id": "chaos-ember",
             "icon": "Chaos Ember.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "chaos-ember"
         }
     ]
 }

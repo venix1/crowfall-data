@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 5,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Aurelium",
-            "id": "aurelium",
             "icon": "Aurelium.png",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "aurelium"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Jeweler's Bur",
-            "id": "jewelers-bur",
             "icon": "Jeweler's Bur.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "jewelers-bur"
         }
     ]
 }

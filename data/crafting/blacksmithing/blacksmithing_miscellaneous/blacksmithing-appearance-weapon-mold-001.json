@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Blade Mold",
-            "id": "blade-mold",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "blade-mold"
         },
         {
             "name": "Appearance Compendium",
-            "id": "appearance-compendium",
             "icon": "",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "appearance-compendium"
         }
     ]
 }

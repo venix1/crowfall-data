@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Empty Flask",
-            "id": "empty-flask",
             "icon": "Empty Flask.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "empty-flask"
         },
         {
             "name": "Animal Blood",
-            "id": "animal-blood",
             "icon": "Animal Blood.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-blood"
         },
         {
             "name": "Powdered Animal Bone",
-            "id": "powdered-animal-bone",
             "icon": "Powdered Animal Bone.png",
             "quantity": 3,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "powdered-animal-bone"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 2,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

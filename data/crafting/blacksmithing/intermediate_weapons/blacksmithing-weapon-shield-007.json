@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Non-Basic Ore",
-            "id": "non-basic-ore",
             "icon": "Non-Basic Ore.png",
             "quantity": 9,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "non-basic-ore"
         },
         {
             "name": "Basic Buckler",
-            "id": "basic-buckler",
             "icon": "Basic Buckler.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "basic-buckler"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

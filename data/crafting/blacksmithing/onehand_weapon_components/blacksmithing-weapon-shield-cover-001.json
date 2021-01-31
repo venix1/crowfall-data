@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Metal Section",
-            "id": "metal-section",
             "icon": "Metal Section.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-section"
         },
         {
             "name": "Metal Section",
-            "id": "metal-section",
             "icon": "Metal Section.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-section"
         },
         {
             "name": "Polished Spherical Gemstone",
-            "id": "polished-spherical-gemstone",
             "icon": "Polished Spherical Gemstone.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "polished-spherical-gemstone"
         }
     ]
 }

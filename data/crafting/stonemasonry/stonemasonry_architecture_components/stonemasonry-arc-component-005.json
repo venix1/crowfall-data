@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Carpentry Nails",
-            "id": "carpentry-nails",
             "icon": "Carpentry Nails.png",
             "quantity": 4,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "carpentry-nails"
         },
         {
             "name": "Wood Shingles",
-            "id": "wood-shingles",
             "icon": "Wood Shingles.png",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wood-shingles"
         }
     ]
 }

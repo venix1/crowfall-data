@@ -10,66 +10,66 @@
     "ingredients": [
         {
             "name": "Restored Stoneborn Head",
-            "id": "restored-stoneborn-head",
             "icon": "Restored Stoneborn Head.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-stoneborn-head"
         },
         {
             "name": "Restored Stoneborn Leg",
-            "id": "restored-stoneborn-leg",
             "icon": "Restored Stoneborn Leg.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-stoneborn-leg"
         },
         {
             "name": "Restored Stoneborn Leg",
-            "id": "restored-stoneborn-leg",
             "icon": "Restored Stoneborn Leg.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-stoneborn-leg"
         },
         {
             "name": "Restored Stoneborn Torso",
-            "id": "restored-stoneborn-torso",
             "icon": "Restored Stoneborn Torso.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-stoneborn-torso"
         },
         {
             "name": "Restored Stoneborn Arm",
-            "id": "restored-stoneborn-arm",
             "icon": "Restored Stoneborn Arm.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-stoneborn-arm"
         },
         {
             "name": "Restored Stoneborn Arm",
-            "id": "restored-stoneborn-arm",
             "icon": "Restored Stoneborn Arm.png",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-stoneborn-arm"
         },
         {
             "name": "Philosopher's Stone",
-            "id": "philosophers-stone",
             "icon": "Philosopher's Stone.png",
             "quantity": 1,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "philosophers-stone"
         }
     ]
 }

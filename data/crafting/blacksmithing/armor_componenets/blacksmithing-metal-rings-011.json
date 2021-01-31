@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Iron",
-            "id": "iron",
             "icon": "Iron.png",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "iron"
         },
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 10,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 10,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Coal",
-            "id": "coal",
             "icon": "Coal.png",
             "quantity": 3,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "coal"
         }
     ]
 }

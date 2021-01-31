@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Backer Village Parcel",
-            "id": "backer-village-parcel",
             "icon": "Backer Village Parcel.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "backer-village-parcel"
         },
         {
             "name": "Backer Hamlet Parcel",
-            "id": "backer-hamlet-parcel",
             "icon": "Backer Hamlet Parcel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "backer-hamlet-parcel"
         }
     ]
 }

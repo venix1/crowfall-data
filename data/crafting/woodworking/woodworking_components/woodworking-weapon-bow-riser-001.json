@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Weapon Grip",
-            "id": "weapon-grip",
             "icon": "Weapon Grip.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-grip"
         },
         {
             "name": "Weapon Grip",
-            "id": "weapon-grip",
             "icon": "Weapon Grip.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-grip"
         },
         {
             "name": "Bow Sight",
-            "id": "bow-sight",
             "icon": "Bow Sight.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bow-sight"
         },
         {
             "name": "Bow Rest",
-            "id": "bow-rest",
             "icon": "Bow Rest.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bow-rest"
         },
         {
             "name": "Polished Spherical Gemstone",
-            "id": "polished-spherical-gemstone",
             "icon": "Polished Spherical Gemstone.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "polished-spherical-gemstone"
         },
         {
             "name": "Polished Spherical Gemstone",
-            "id": "polished-spherical-gemstone",
             "icon": "Polished Spherical Gemstone.png",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "polished-spherical-gemstone"
         }
     ]
 }

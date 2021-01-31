@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Heel Mold",
-            "id": "heel-mold",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "heel-mold"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 8,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

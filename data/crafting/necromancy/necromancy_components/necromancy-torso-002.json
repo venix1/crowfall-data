@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Desiccated Torso",
-            "id": "desiccated-torso",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "desiccated-torso"
         },
         {
             "name": "Ambrosia Solution",
-            "id": "ambrosia-solution",
             "icon": "Ambrosia Solution.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ambrosia-solution"
         },
         {
             "name": "Enhanced Heart",
-            "id": "enhanced-heart",
             "icon": "",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "enhanced-heart"
         },
         {
             "name": "Enhanced Lungs",
-            "id": "enhanced-lungs",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "enhanced-lungs"
         }
     ]
 }

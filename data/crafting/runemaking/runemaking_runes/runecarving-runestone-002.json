@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Sigil: Death",
-            "id": "sigil-death",
             "icon": "Sigil: Death.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "sigil-death"
         },
         {
             "name": "Unmarked Stone Runestone",
-            "id": "unmarked-stone-runestone",
             "icon": "Unmarked Stone Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "unmarked-stone-runestone"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         },
         {
             "name": "Metal Bar",
-            "id": "metal-bar",
             "icon": "Metal Bar.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "metal-bar"
         }
     ]
 }

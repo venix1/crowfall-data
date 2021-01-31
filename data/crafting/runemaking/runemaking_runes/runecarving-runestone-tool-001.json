@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Sigil",
-            "id": "sigil",
             "icon": "Sigil.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "sigil"
         },
         {
             "name": "Unmarked Runestone",
-            "id": "unmarked-runestone",
             "icon": "Unmarked Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "unmarked-runestone"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 2,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Polished Soulgem",
-            "id": "polished-soulgem",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "polished-soulgem"
         }
     ]
 }

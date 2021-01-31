@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Sigil: Haste",
-            "id": "sigil-haste",
             "icon": "Sigil: Haste.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "sigil-haste"
         },
         {
             "name": "Unmarked Stone Runestone",
-            "id": "unmarked-stone-runestone",
             "icon": "Unmarked Stone Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "unmarked-stone-runestone"
         },
         {
             "name": "Chaos Ember",
-            "id": "chaos-ember",
             "icon": "Chaos Ember.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "chaos-ember"
         }
     ]
 }

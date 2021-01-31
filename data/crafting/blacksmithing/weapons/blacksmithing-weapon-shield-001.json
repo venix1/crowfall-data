@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Shield Covering",
-            "id": "shield-covering",
             "icon": "Shield Covering.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "shield-covering"
         },
         {
             "name": "Shield Base",
-            "id": "shield-base",
             "icon": "Shield Base.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "shield-base"
         },
         {
             "name": "Enarmes",
-            "id": "enarmes",
             "icon": "Enarmes.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "enarmes"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 7,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Architectural Arches",
-            "id": "architectural-arches",
             "icon": "Architectural Arches.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "architectural-arches"
         },
         {
             "name": "Foundation Segment",
-            "id": "foundation-segment",
             "icon": "Foundation Segment.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "foundation-segment"
         },
         {
             "name": "Quality Assurance Control Kit",
-            "id": "quality-assurance-control-kit",
             "icon": "Quality Assurance Control Kit.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "quality-assurance-control-kit"
         },
         {
             "name": "Floor Tiles",
-            "id": "floor-tiles",
             "icon": "Floor Tiles.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "floor-tiles"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 5,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

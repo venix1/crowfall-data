@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Bricks",
-            "id": "bricks",
             "icon": "Bricks.png",
             "quantity": 4,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bricks"
         },
         {
             "name": "Gravel",
-            "id": "gravel",
             "icon": "Gravel.png",
             "quantity": 2,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "gravel"
         }
     ]
 }

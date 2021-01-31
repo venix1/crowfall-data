@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Pistol Body",
-            "id": "pistol-body",
             "icon": "Pistol Body.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "pistol-body"
         },
         {
             "name": "Pistol Barrel",
-            "id": "pistol-barrel",
             "icon": "Pistol Barrel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "pistol-barrel"
         },
         {
             "name": "Pistol Pins",
-            "id": "pistol-pins",
             "icon": "Pistol Pins.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "pistol-pins"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Hunger Shard",
-            "id": "hunger-shard",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "hunger-shard"
         },
         {
             "name": "Weapon Weights",
-            "id": "weapon-weights",
             "icon": "",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "weapon-weights"
         }
     ]
 }

@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Sigil: Esoteric",
-            "id": "sigil-esoteric",
             "icon": "Sigil: Esoteric.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "sigil-esoteric"
         },
         {
             "name": "Unmarked Stone Runestone",
-            "id": "unmarked-stone-runestone",
             "icon": "Unmarked Stone Runestone.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "unmarked-stone-runestone"
         }
     ]
 }

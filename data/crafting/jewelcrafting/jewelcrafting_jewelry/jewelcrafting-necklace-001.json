@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Polished Exacting Gemstone",
-            "id": "polished-exacting-gemstone",
             "icon": "Polished Exacting Gemstone.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "polished-exacting-gemstone"
         },
         {
             "name": "Necklace Chain",
-            "id": "necklace-chain",
             "icon": "Necklace Chain.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "necklace-chain"
         }
     ]
 }

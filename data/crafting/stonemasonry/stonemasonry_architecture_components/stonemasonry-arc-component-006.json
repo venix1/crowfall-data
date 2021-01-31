@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Hide",
-            "id": "hide",
             "icon": "Hide.png",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "hide"
         },
         {
             "name": "Mulch",
-            "id": "mulch",
             "icon": "Mulch.png",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "mulch"
         }
     ]
 }

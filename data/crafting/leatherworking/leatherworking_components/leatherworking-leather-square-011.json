@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Hide",
-            "id": "hide",
             "icon": "Hide.png",
             "quantity": 8,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "hide"
         },
         {
             "name": "Hide",
-            "id": "hide",
             "icon": "Hide.png",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "hide"
         },
         {
             "name": "Hide",
-            "id": "hide",
             "icon": "Hide.png",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "hide"
         },
         {
             "name": "Lacing Sinew",
-            "id": "lacing-sinew",
             "icon": "Lacing Sinew.png",
             "quantity": 3,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "lacing-sinew"
         }
     ]
 }

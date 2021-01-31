@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Pasteurized Milk",
-            "id": "pasteurized-milk",
             "icon": "",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "pasteurized-milk"
         },
         {
             "name": "Yeast",
-            "id": "yeast",
             "icon": "",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "yeast"
         },
         {
             "name": "Beeswax",
-            "id": "beeswax",
             "icon": "Beeswax.png",
             "quantity": 2,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "beeswax"
         },
         {
             "name": "Cooking Foil",
-            "id": "cooking-foil",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "cooking-foil"
         }
     ]
 }

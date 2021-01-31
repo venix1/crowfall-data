@@ -10,75 +10,75 @@
     "ingredients": [
         {
             "name": "Large Cooking Pot",
-            "id": "large-cooking-pot",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "large-cooking-pot"
         },
         {
             "name": "Gnocchi",
-            "id": "gnocchi",
             "icon": "",
             "quantity": 10,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "gnocchi"
         },
         {
             "name": "Crushed Herbs",
-            "id": "crushed-herbs",
             "icon": "",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "crushed-herbs"
         },
         {
             "name": "Crushed Herbs",
-            "id": "crushed-herbs",
             "icon": "",
             "quantity": 5,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "crushed-herbs"
         },
         {
             "name": "Mushrooms",
-            "id": "mushrooms",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "mushrooms"
         },
         {
             "name": "Butter",
-            "id": "butter",
             "icon": "",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "butter"
         },
         {
             "name": "Pine Nuts",
-            "id": "pine-nuts",
             "icon": "Pine Nuts.png",
             "quantity": 5,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "pine-nuts"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 7,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

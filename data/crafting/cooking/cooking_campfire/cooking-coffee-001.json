@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Coffee Beans",
-            "id": "coffee-beans",
             "icon": "",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "coffee-beans"
         },
         {
             "name": "Empty Flask",
-            "id": "empty-flask",
             "icon": "Empty Flask.png",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "empty-flask"
         },
         {
             "name": "Sugarcane",
-            "id": "sugarcane",
             "icon": "",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "sugarcane"
         },
         {
             "name": "Pasteurized Milk",
-            "id": "pasteurized-milk",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "pasteurized-milk"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 5,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         }
     ]
 }

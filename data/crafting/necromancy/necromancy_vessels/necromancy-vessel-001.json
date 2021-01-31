@@ -10,66 +10,66 @@
     "ingredients": [
         {
             "name": "Restored Human Head",
-            "id": "restored-human-head",
             "icon": "Restored Human Head.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-human-head"
         },
         {
             "name": "Restored Human Leg",
-            "id": "restored-human-leg",
             "icon": "Restored Human Leg.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-human-leg"
         },
         {
             "name": "Restored Human Leg",
-            "id": "restored-human-leg",
             "icon": "Restored Human Leg.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-human-leg"
         },
         {
             "name": "Restored Human Torso",
-            "id": "restored-human-torso",
             "icon": "Restored Human Torso.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-human-torso"
         },
         {
             "name": "Restored Human Arm",
-            "id": "restored-human-arm",
             "icon": "Restored Human Arm.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-human-arm"
         },
         {
             "name": "Restored Human Arm",
-            "id": "restored-human-arm",
             "icon": "Restored Human Arm.png",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "restored-human-arm"
         },
         {
             "name": "Philosopher's Stone",
-            "id": "philosophers-stone",
             "icon": "Philosopher's Stone.png",
             "quantity": 1,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "philosophers-stone"
         }
     ]
 }

@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Weapon Grip",
-            "id": "weapon-grip",
             "icon": "Weapon Grip.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-grip"
         },
         {
             "name": "Pistol Hammer and Frizzen",
-            "id": "pistol-hammer-and-frizzen",
             "icon": "Pistol Hammer and Frizzen.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "pistol-hammer-and-frizzen"
         },
         {
             "name": "Pistol Trigger",
-            "id": "pistol-trigger",
             "icon": "Pistol Trigger.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "pistol-trigger"
         },
         {
             "name": "Polished Spherical Gemstone",
-            "id": "polished-spherical-gemstone",
             "icon": "Polished Spherical Gemstone.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "polished-spherical-gemstone"
         }
     ]
 }

@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Weapon Grip",
-            "id": "weapon-grip",
             "icon": "Weapon Grip.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-grip"
         },
         {
             "name": "Weapon Pommel",
-            "id": "weapon-pommel",
             "icon": "Weapon Pommel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-pommel"
         },
         {
             "name": "Weapon Crossguard",
-            "id": "weapon-crossguard",
             "icon": "Weapon Crossguard.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-crossguard"
         },
         {
             "name": "Polished Spherical Gemstone",
-            "id": "polished-spherical-gemstone",
             "icon": "Polished Spherical Gemstone.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "polished-spherical-gemstone"
         }
     ]
 }

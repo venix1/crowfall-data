@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Rough Soulgem",
-            "id": "rough-soulgem",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "rough-soulgem"
         },
         {
             "name": "Polishing Paste",
-            "id": "polishing-paste",
             "icon": "Polishing Paste.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "polishing-paste"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         }
     ]
 }

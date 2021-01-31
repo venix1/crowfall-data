@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Non-Basic Stone",
-            "id": "non-basic-stone",
             "icon": "Non-Basic Stone.png",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "non-basic-stone"
         },
         {
             "name": "Non-Basic Ore",
-            "id": "non-basic-ore",
             "icon": "Non-Basic Ore.png",
             "quantity": 10,
             "slotIndex": 1,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "non-basic-ore"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

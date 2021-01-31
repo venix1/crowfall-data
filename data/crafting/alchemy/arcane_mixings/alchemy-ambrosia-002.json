@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Empty Flask",
-            "id": "empty-flask",
             "icon": "Empty Flask.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "empty-flask"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         },
         {
             "name": "Apple",
-            "id": "apple",
             "icon": "Apple.png",
             "quantity": 4,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "apple"
         },
         {
             "name": "Ground Halite",
-            "id": "ground-halite",
             "icon": "Ground Halite.png",
             "quantity": 4,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ground-halite"
         },
         {
             "name": "Ground Cinnabar",
-            "id": "ground-cinnabar",
             "icon": "Ground Cinnabar.png",
             "quantity": 4,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ground-cinnabar"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 2,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

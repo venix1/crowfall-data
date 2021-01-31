@@ -10,57 +10,57 @@
     "ingredients": [
         {
             "name": "Runestone: Life",
-            "id": "runestone-life",
             "icon": "Runestone: Life.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "runestone-life"
         },
         {
             "name": "Runestone: Death",
-            "id": "runestone-death",
             "icon": "Runestone: Death.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "runestone-death"
         },
         {
             "name": "Weapon Grip",
-            "id": "weapon-grip",
             "icon": "Weapon Grip.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-grip"
         },
         {
             "name": "Weapon Grip",
-            "id": "weapon-grip",
             "icon": "Weapon Grip.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "weapon-grip"
         },
         {
             "name": "Runestone: Esoteric",
-            "id": "runestone-esoteric",
             "icon": "Runestone: Esoteric.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "runestone-esoteric"
         },
         {
             "name": "Runestone: Esoteric",
-            "id": "runestone-esoteric",
             "icon": "Runestone: Esoteric.png",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "runestone-esoteric"
         }
     ]
 }

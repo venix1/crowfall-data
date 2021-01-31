@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Raw Milk",
-            "id": "raw-milk",
             "icon": "",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "raw-milk"
         },
         {
             "name": "Empty Flask",
-            "id": "empty-flask",
             "icon": "Empty Flask.png",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "empty-flask"
         },
         {
             "name": "Cocoa Beans",
-            "id": "cocoa-beans",
             "icon": "",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "cocoa-beans"
         },
         {
             "name": "Sugarcane",
-            "id": "sugarcane",
             "icon": "",
             "quantity": 2,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "sugarcane"
         }
     ]
 }

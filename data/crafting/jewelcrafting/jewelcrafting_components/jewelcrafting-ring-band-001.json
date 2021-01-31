@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 4,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 8,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 8,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Ring Setting",
-            "id": "ring-setting",
             "icon": "Ring Setting.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ring-setting"
         }
     ]
 }

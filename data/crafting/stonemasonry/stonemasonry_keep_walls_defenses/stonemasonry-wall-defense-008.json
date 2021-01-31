@@ -10,75 +10,75 @@
     "ingredients": [
         {
             "name": "Stone Wall Section",
-            "id": "stone-wall-section",
             "icon": "Stone Wall Section.png",
             "quantity": 6,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "stone-wall-section"
         },
         {
             "name": "Carpentry Nails",
-            "id": "carpentry-nails",
             "icon": "Carpentry Nails.png",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "carpentry-nails"
         },
         {
             "name": "Roof Segment",
-            "id": "roof-segment",
             "icon": "Roof Segment.png",
             "quantity": 6,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "roof-segment"
         },
         {
             "name": "Architectural Arches",
-            "id": "architectural-arches",
             "icon": "Architectural Arches.png",
             "quantity": 4,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "architectural-arches"
         },
         {
             "name": "Foundation Segment",
-            "id": "foundation-segment",
             "icon": "Foundation Segment.png",
             "quantity": 4,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "foundation-segment"
         },
         {
             "name": "Floor Tiles",
-            "id": "floor-tiles",
             "icon": "Floor Tiles.png",
             "quantity": 4,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "floor-tiles"
         },
         {
             "name": "Quality Assurance Control Kit",
-            "id": "quality-assurance-control-kit",
             "icon": "Quality Assurance Control Kit.png",
             "quantity": 1,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "quality-assurance-control-kit"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 5,
             "slotIndex": 7,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

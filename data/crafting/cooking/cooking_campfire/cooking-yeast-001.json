@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Mushrooms",
-            "id": "mushrooms",
             "icon": "",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "mushrooms"
         },
         {
             "name": "Cooking Foil",
-            "id": "cooking-foil",
             "icon": "",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "cooking-foil"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         }
     ]
 }

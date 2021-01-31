@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Powdered Stone",
-            "id": "powdered-stone",
             "icon": "Powdered Stone.png",
             "quantity": 8,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "powdered-stone"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 3,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         }
     ]
 }

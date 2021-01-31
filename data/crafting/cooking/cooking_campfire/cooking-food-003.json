@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Produce",
-            "id": "produce",
             "icon": "Produce.png",
             "quantity": 10,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "produce"
         },
         {
             "name": "Roasting Stick",
-            "id": "roasting-stick",
             "icon": "",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "roasting-stick"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Shire Parcel",
-            "id": "shire-parcel",
             "icon": "Shire Parcel.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "shire-parcel"
         },
         {
             "name": "Hamlet Parcel",
-            "id": "hamlet-parcel",
             "icon": "Hamlet Parcel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "hamlet-parcel"
         },
         {
             "name": "Soil",
-            "id": "soil",
             "icon": "Soil.png",
             "quantity": 3,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "soil"
         },
         {
             "name": "Gold Tax",
-            "id": "gold-tax",
             "icon": "Gold Tax.png",
             "quantity": 35000,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "gold-tax"
         }
     ]
 }

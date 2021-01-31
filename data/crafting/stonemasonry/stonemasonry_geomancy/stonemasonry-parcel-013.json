@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "City Parcel",
-            "id": "city-parcel",
             "icon": "City Parcel.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "city-parcel"
         },
         {
             "name": "City Parcel",
-            "id": "city-parcel",
             "icon": "City Parcel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "city-parcel"
         },
         {
             "name": "Soil",
-            "id": "soil",
             "icon": "Soil.png",
             "quantity": 4,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "soil"
         },
         {
             "name": "Gold Tax",
-            "id": "gold-tax",
             "icon": "Gold Tax.png",
             "quantity": 55000,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "gold-tax"
         }
     ]
 }

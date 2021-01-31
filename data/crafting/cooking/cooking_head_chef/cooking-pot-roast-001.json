@@ -10,66 +10,66 @@
     "ingredients": [
         {
             "name": "Large Cooking Pot",
-            "id": "large-cooking-pot",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "large-cooking-pot"
         },
         {
             "name": "Animal Meat",
-            "id": "animal-meat",
             "icon": "Animal Meat.png",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-meat"
         },
         {
             "name": "Animal Meat",
-            "id": "animal-meat",
             "icon": "Animal Meat.png",
             "quantity": 4,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-meat"
         },
         {
             "name": "Wild Rice or Gnocchi",
-            "id": "wild-rice-or-gnocchi",
             "icon": "",
             "quantity": 2,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wild-rice-or-gnocchi"
         },
         {
             "name": "Bone Broth",
-            "id": "bone-broth",
             "icon": "",
             "quantity": 2,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bone-broth"
         },
         {
             "name": "Crushed Herbs",
-            "id": "crushed-herbs",
             "icon": "",
             "quantity": 2,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "crushed-herbs"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

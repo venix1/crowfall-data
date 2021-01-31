@@ -10,75 +10,75 @@
     "ingredients": [
         {
             "name": "Composite Wood Plank",
-            "id": "composite-wood-plank",
             "icon": "Composite Wood Plank.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "composite-wood-plank"
         },
         {
             "name": "Composite Wood Plank",
-            "id": "composite-wood-plank",
             "icon": "Composite Wood Plank.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "composite-wood-plank"
         },
         {
             "name": "Stitched Leather",
-            "id": "stitched-leather",
             "icon": "Stitched Leather.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "stitched-leather"
         },
         {
             "name": "Adhesive",
-            "id": "adhesive",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "adhesive"
         },
         {
             "name": "Stitched Leather",
-            "id": "stitched-leather",
             "icon": "Stitched Leather.png",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "stitched-leather"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 8,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Runestone: Esoteric",
-            "id": "runestone-esoteric",
             "icon": "Runestone: Esoteric.png",
             "quantity": 1,
             "slotIndex": 6,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "runestone-esoteric"
         },
         {
             "name": "Runestone: Esoteric",
-            "id": "runestone-esoteric",
             "icon": "Runestone: Esoteric.png",
             "quantity": 1,
             "slotIndex": 7,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "runestone-esoteric"
         }
     ]
 }

@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Large Cooking Pot",
-            "id": "large-cooking-pot",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "large-cooking-pot"
         },
         {
             "name": "Potato Flour",
-            "id": "potato-flour",
             "icon": "",
             "quantity": 10,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "potato-flour"
         },
         {
             "name": "Water Flask",
-            "id": "water-flask",
             "icon": "Water Flask.png",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "water-flask"
         }
     ]
 }

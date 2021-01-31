@@ -10,12 +10,12 @@
     "ingredients": [
         {
             "name": "Animal Meat",
-            "id": "animal-meat",
             "icon": "Animal Meat.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "animal-meat"
         }
     ]
 }

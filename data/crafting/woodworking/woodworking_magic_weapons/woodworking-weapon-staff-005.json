@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Limbs: Jeweled",
-            "id": "limbs-jeweled",
             "icon": "Limbs: Jeweled.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "limbs-jeweled"
         },
         {
             "name": "Runic Staff Head",
-            "id": "runic-staff-head",
             "icon": "Runic Staff Head.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "runic-staff-head"
         },
         {
             "name": "Staff Heel",
-            "id": "staff-heel",
             "icon": "Staff Heel.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "staff-heel"
         },
         {
             "name": "Hunger Shard",
-            "id": "hunger-shard",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "hunger-shard"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

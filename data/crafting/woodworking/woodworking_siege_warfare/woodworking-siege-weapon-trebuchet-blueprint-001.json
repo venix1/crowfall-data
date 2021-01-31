@@ -10,75 +10,75 @@
     "ingredients": [
         {
             "name": "Wood",
-            "id": "wood",
             "icon": "Wood.png",
             "quantity": 100,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wood"
         },
         {
             "name": "Wood",
-            "id": "wood",
             "icon": "Wood.png",
             "quantity": 100,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wood"
         },
         {
             "name": "Wood",
-            "id": "wood",
             "icon": "Wood.png",
             "quantity": 100,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wood"
         },
         {
             "name": "Hide",
-            "id": "hide",
             "icon": "Hide.png",
             "quantity": 50,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "hide"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 50,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Reinforcing Brackets",
-            "id": "reinforcing-brackets",
             "icon": "Reinforcing Brackets.png",
             "quantity": 2,
             "slotIndex": 5,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "reinforcing-brackets"
         },
         {
             "name": "Heartwood Firing Arms",
-            "id": "heartwood-firing-arms",
             "icon": "Heartwood Firing Arms.png",
             "quantity": 2,
             "slotIndex": 6,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "heartwood-firing-arms"
         },
         {
             "name": "Firing Techniques Scroll",
-            "id": "firing-techniques-scroll",
             "icon": "Firing Techniques Scroll.png",
             "quantity": 1,
             "slotIndex": 7,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "firing-techniques-scroll"
         }
     ]
 }

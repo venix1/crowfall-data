@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Philosopher's Solution",
-            "id": "philosophers-solution",
             "icon": "Philosopher's Solution.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "philosophers-solution"
         },
         {
             "name": "Philosopher's Solution",
-            "id": "philosophers-solution",
             "icon": "Philosopher's Solution.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "philosophers-solution"
         },
         {
             "name": "Philosopher's Solution",
-            "id": "philosophers-solution",
             "icon": "Philosopher's Solution.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "philosophers-solution"
         },
         {
             "name": "Philosopher's Solution",
-            "id": "philosophers-solution",
             "icon": "Philosopher's Solution.png",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "philosophers-solution"
         }
     ]
 }

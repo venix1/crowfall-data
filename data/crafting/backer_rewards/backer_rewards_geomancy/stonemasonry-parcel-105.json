@@ -10,21 +10,21 @@
     "ingredients": [
         {
             "name": "Backer Woodland Hills Parcel",
-            "id": "backer-woodland-hills-parcel",
             "icon": "Backer Woodland Hills Parcel.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "backer-woodland-hills-parcel"
         },
         {
             "name": "Backer Woodland Grove Parcel",
-            "id": "backer-woodland-grove-parcel",
             "icon": "Backer Woodland Grove Parcel.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "backer-woodland-grove-parcel"
         }
     ]
 }

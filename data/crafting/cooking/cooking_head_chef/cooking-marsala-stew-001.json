@@ -10,75 +10,75 @@
     "ingredients": [
         {
             "name": "Large Cooking Pot",
-            "id": "large-cooking-pot",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "large-cooking-pot"
         },
         {
             "name": "Red Wine",
-            "id": "red-wine",
             "icon": "",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "red-wine"
         },
         {
             "name": "Butter",
-            "id": "butter",
             "icon": "",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "butter"
         },
         {
             "name": "Meats or Mushrooms",
-            "id": "meats-or-mushrooms",
             "icon": "",
             "quantity": 5,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "meats-or-mushrooms"
         },
         {
             "name": "Meats or Mushrooms",
-            "id": "meats-or-mushrooms",
             "icon": "Meats or Mushrooms.png",
             "quantity": 5,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "meats-or-mushrooms"
         },
         {
             "name": "Crushed Herbs",
-            "id": "crushed-herbs",
             "icon": "",
             "quantity": 5,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "crushed-herbs"
         },
         {
             "name": "Wild Rice or Gnocchi",
-            "id": "wild-rice-or-gnocchi",
             "icon": "",
             "quantity": 2,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wild-rice-or-gnocchi"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 7,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

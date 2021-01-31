@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Bricks",
-            "id": "bricks",
             "icon": "Bricks.png",
             "quantity": 2,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bricks"
         },
         {
             "name": "Frame",
-            "id": "frame",
             "icon": "Frame.png",
             "quantity": 4,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "frame"
         },
         {
             "name": "Carpentry Nails",
-            "id": "carpentry-nails",
             "icon": "Carpentry Nails.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "carpentry-nails"
         },
         {
             "name": "Wall Insulation",
-            "id": "wall-insulation",
             "icon": "Wall Insulation.png",
             "quantity": 2,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "wall-insulation"
         }
     ]
 }

@@ -10,93 +10,93 @@
     "ingredients": [
         {
             "name": "Desiccated Centaur Body",
-            "id": "desiccated-centaur-body",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "desiccated-centaur-body"
         },
         {
             "name": "Desiccated Centaur Leg",
-            "id": "desiccated-centaur-leg",
             "icon": "",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "desiccated-centaur-leg"
         },
         {
             "name": "Desiccated Centaur Leg",
-            "id": "desiccated-centaur-leg",
             "icon": "",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "desiccated-centaur-leg"
         },
         {
             "name": "Enhanced Heart",
-            "id": "enhanced-heart",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "enhanced-heart"
         },
         {
             "name": "Desiccated Centaur Leg",
-            "id": "desiccated-centaur-leg",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "desiccated-centaur-leg"
         },
         {
             "name": "Desiccated Centaur Leg",
-            "id": "desiccated-centaur-leg",
             "icon": "",
             "quantity": 1,
             "slotIndex": 5,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "desiccated-centaur-leg"
         },
         {
             "name": "Ambrosia Solution",
-            "id": "ambrosia-solution",
             "icon": "Ambrosia Solution.png",
             "quantity": 2,
             "slotIndex": 6,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ambrosia-solution"
         },
         {
             "name": "Ambrosia Solution",
-            "id": "ambrosia-solution",
             "icon": "Ambrosia Solution.png",
             "quantity": 2,
             "slotIndex": 7,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ambrosia-solution"
         },
         {
             "name": "Enhanced Lungs",
-            "id": "enhanced-lungs",
             "icon": "",
             "quantity": 1,
             "slotIndex": 8,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "enhanced-lungs"
         },
         {
             "name": "Enhanced Stomach",
-            "id": "enhanced-stomach",
             "icon": "",
             "quantity": 1,
             "slotIndex": 9,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "enhanced-stomach"
         }
     ]
 }

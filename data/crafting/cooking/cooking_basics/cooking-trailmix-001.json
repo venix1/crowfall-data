@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Cooking Foil",
-            "id": "cooking-foil",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "cooking-foil"
         },
         {
             "name": "Apple",
-            "id": "apple",
             "icon": "Apple.png",
             "quantity": 5,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "apple"
         },
         {
             "name": "Pine Nuts",
-            "id": "pine-nuts",
             "icon": "",
             "quantity": 5,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "pine-nuts"
         },
         {
             "name": "Chocolate Bar",
-            "id": "chocolate-bar",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "chocolate-bar"
         },
         {
             "name": "Herb or Seasoning",
-            "id": "herb-or-seasoning",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "herb-or-seasoning"
         }
     ]
 }

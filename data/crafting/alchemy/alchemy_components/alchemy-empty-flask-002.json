@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Powdered Stone",
-            "id": "powdered-stone",
             "icon": "Powdered Stone.png",
             "quantity": 3,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "powdered-stone"
         },
         {
             "name": "Powdered Stone",
-            "id": "powdered-stone",
             "icon": "Powdered Stone.png",
             "quantity": 3,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "powdered-stone"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Arrowhead Bundle",
-            "id": "arrowhead-bundle",
             "icon": "Arrowhead Bundle.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "arrowhead-bundle"
         },
         {
             "name": "Arrow Shaft Bundle",
-            "id": "arrow-shaft-bundle",
             "icon": "Arrow Shaft Bundle.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "arrow-shaft-bundle"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         }
     ]
 }

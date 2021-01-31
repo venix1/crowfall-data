@@ -10,39 +10,39 @@
     "ingredients": [
         {
             "name": "Desiccated Head",
-            "id": "desiccated-head",
             "icon": "",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "desiccated-head"
         },
         {
             "name": "Ambrosia Solution",
-            "id": "ambrosia-solution",
             "icon": "Ambrosia Solution.png",
             "quantity": 2,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ambrosia-solution"
         },
         {
             "name": "Enhanced Eye",
-            "id": "enhanced-eye",
             "icon": "",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "enhanced-eye"
         },
         {
             "name": "Enhanced Eye",
-            "id": "enhanced-eye",
             "icon": "",
             "quantity": 1,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "enhanced-eye"
         }
     ]
 }

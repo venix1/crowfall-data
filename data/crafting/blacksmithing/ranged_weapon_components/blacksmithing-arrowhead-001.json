@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 3,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Ore",
-            "id": "ore",
             "icon": "Ore.png",
             "quantity": 3,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ore"
         },
         {
             "name": "Non-Basic Ore",
-            "id": "non-basic-ore",
             "icon": "Non-Basic Ore.png",
             "quantity": 3,
             "slotIndex": 2,
             "wildcard": true,
-            "optional": false
+            "optional": false,
+            "itemClass": "non-basic-ore"
         }
     ]
 }

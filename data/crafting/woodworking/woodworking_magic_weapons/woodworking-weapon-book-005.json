@@ -10,48 +10,48 @@
     "ingredients": [
         {
             "name": "Runic Book Casing",
-            "id": "runic-book-casing",
             "icon": "Runic Book Casing.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "runic-book-casing"
         },
         {
             "name": "Bound Chapters",
-            "id": "bound-chapters",
             "icon": "Bound Chapters.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "bound-chapters"
         },
         {
             "name": "Jeweled Book Clasp",
-            "id": "jeweled-book-clasp",
             "icon": "Jeweled Book Clasp.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "jeweled-book-clasp"
         },
         {
             "name": "Ethereal Dust",
-            "id": "ethereal-dust",
             "icon": "Ethereal Dust.png",
             "quantity": 10,
             "slotIndex": 3,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "ethereal-dust"
         },
         {
             "name": "Hunger Shard",
-            "id": "hunger-shard",
             "icon": "",
             "quantity": 1,
             "slotIndex": 4,
             "wildcard": false,
-            "optional": true
+            "optional": true,
+            "itemClass": "hunger-shard"
         }
     ]
 }

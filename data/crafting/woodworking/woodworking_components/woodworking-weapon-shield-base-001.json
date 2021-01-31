@@ -10,30 +10,30 @@
     "ingredients": [
         {
             "name": "Composite Wood Plank",
-            "id": "composite-wood-plank",
             "icon": "Composite Wood Plank.png",
             "quantity": 1,
             "slotIndex": 0,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "composite-wood-plank"
         },
         {
             "name": "Composite Wood Plank",
-            "id": "composite-wood-plank",
             "icon": "Composite Wood Plank.png",
             "quantity": 1,
             "slotIndex": 1,
             "wildcard": false,
-            "optional": false
+            "optional": false,
+            "itemClass": "composite-wood-plank"
         },
         {
             "name": "Runestone: Esoteric",
-            "id": "runestone-esoteric",
             "icon": "Runestone: Esoteric.png",
             "quantity": 1,
             "slotIndex": 2,
             "wildcard": true,
-            "optional": true
+            "optional": true,
+            "itemClass": "runestone-esoteric"
         }
     ]
 }
